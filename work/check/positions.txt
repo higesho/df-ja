@@ -1,0 +1,98 @@
+monarch
+monarchs
+queen
+queens
+king
+kings
+king consort
+kings consort
+queen consort
+queens consort
+general
+generals
+lieutenant
+lieutenants
+captain
+captains
+outpost liaison
+outpost liaisons
+diplomat
+diplomats
+duke
+dukes
+duchess
+duchesses
+duke consort
+dukes consort
+duchess consort
+duchesses consort
+count
+counts
+countess
+countesses
+count consort
+counts consort
+countess consort
+countesses consort
+baron
+barons
+baroness
+baronesses
+baron consort
+barons consort
+baroness consort
+baronesses consort
+militia commander
+militia commanders
+militia captain
+militia captains
+sheriff
+sheriffs
+captain of the guard
+captains of the guard
+expedition leader
+expedition leaders
+mayor
+mayors
+manager
+managers
+chief medical dwarf
+chief medical dwarves
+broker
+brokers
+bookkeeper
+bookkeepers
+champion
+champions
+hammerer
+hammerers
+dungeon master
+dungeon masters
+messenger
+messengers
+druid
+druids
+acolyte
+acolytes
+princess
+princesses
+ranger captain
+ranger captains
+lord
+lords
+lady
+ladies
+lord consort
+lords consort
+lady consort
+ladies consort
+master
+masters
+master of beasts
+masters of beasts
+chief advisor
+chief advisors
+royal executioner
+royal executioners
+chancellor
+chancellors

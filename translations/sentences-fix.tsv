@@ -1,0 +1,941 @@
+# 文テンプレートの手直し・追加（group<TAB>kind<TAB>英語<TAB>日本語）。sentences.tsv より優先
+manual	core	Explore the history of {1}.	{1}の歴史を探索する。
+manual	core	In {1}, {2} became a {3} in {4}.	{1}年、{2}は{4}で{3}になった。
+manual	core	In {1}, {2} became an {3} in {4}.	{1}年、{2}は{4}で{3}になった。
+manual	core	In {1}, {2} attacked {3}.	{1}年、{2}は{3}を襲った。
+manual	core	In {1}, {2} of {3} constructed {4} in {5}.	{1}年、{3}の{2}が{5}に{4}を建設した。
+manual	core	In {1}, {2} constructed {3} in {4}.	{1}年、{2}が{4}に{3}を建設した。
+manual	core	In {1}, {2} was stolen from {3} by {4} during {5} and brought to {6}.	{1}年、{5}の際に{4}が{3}から{2}を盗み、{6}へ持ち去った。
+manual	core	In {1}, {2} was stolen from {3} in {4} by {5} during {6} and brought to {7}.	{1}年、{6}の際に{5}が{4}の{3}から{2}を盗み、{7}へ持ち去った。
+manual	core	While defeated, the latter escaped unscathed.	敗れはしたものの、後者は無傷で逃れた。
+manual	core	It was the only one of its kind.	その種で唯一の存在だった。
+manual	core	{1} was a {2}.	{1}は{2}だった。
+manual	core	{1} was an {2}.	{1}は{2}だった。
+manual	core	{1} was associated with {2}.	{1}は{2}と関わりがあった。
+manual	core	The Theft at {1}	{1}での窃盗
+manual	core	The Second Theft at {1}	{1}での二度目の窃盗
+manual	core	The Third Theft at {1}	{1}での三度目の窃盗
+manual	core	He is {1} when {2}.	彼は{2}とき{1}を感じる。
+manual	core	She is {1} when {2}.	彼女は{2}とき{1}を感じる。
+manual	core	They are {1} when {2}.	彼らは{2}とき{1}を感じる。
+manual	core	Prepare for the Journey to {1}	{1}への旅の準備
+manual	core	He didn't feel anything {1}.	彼は{1}何も感じなかった。
+manual	core	He felt {1} {2}.	彼は{2}、{1}を感じた。
+manual	core	He felt nothing {1}.	彼は{1}何も感じなかった。
+manual	core	She didn't feel anything {1}.	彼女は{1}何も感じなかった。
+manual	core	She felt {1} {2}.	彼女は{2}、{1}を感じた。
+manual	core	She felt nothing {1}.	彼女は{1}何も感じなかった。
+manual	core	They didn't feel anything {1}.	彼らは{1}何も感じなかった。
+manual	core	They felt {1} {2}.	彼らは{2}、{1}を感じた。
+manual	core	They felt nothing {1}.	彼らは{1}何も感じなかった。
+manual	core	He feels {1} {2}.	彼は{2}、{1}を感じている。
+manual	core	He doesn't feel anything {1}.	彼は{1}何も感じない。
+manual	core	She feels {1} {2}.	彼女は{2}、{1}を感じている。
+manual	core	She doesn't feel anything {1}.	彼女は{1}何も感じない。
+manual	core	They feel {1} {2}.	彼らは{2}、{1}を感じている。
+manual	core	They don't feel anything {1}.	彼らは{1}何も感じない。
+manual	core	Histories of {1} and {2}	{1}と{2}の歴史
+manual	core	{1} trunk	{1}の幹
+manual	core	In {1}, {2} purchased {3} in {4}.	{1}年、{2}は{4}の{3}を購入した。
+manual	core	In {1}, {2} purchased {3} in {4} formerly owned by {5}.	{1}年、{2}は{5}がかつて所有していた{4}の{3}を購入した。
+manual	core	In {1}, {2} inherited {3} in {4}.	{1}年、{2}は{4}の{3}を相続した。
+manual	core	In {1}, {2} inherited {3} in {4} formerly owned by {5}.	{1}年、{2}は{5}がかつて所有していた{4}の{3}を相続した。
+manual	core	In {1}, {2} rebuilt {3} in {4}.	{1}年、{2}は{4}の{3}を再建した。
+manual	core	In {1}, {2} rebuilt {3} in {4} formerly owned by {5}.	{1}年、{2}は{5}がかつて所有していた{4}の{3}を再建した。
+manual	core	{1}, early spring, {2}	{2}年{1}（初春）
+manual	core	{1}, midspring, {2}	{2}年{1}（仲春）
+manual	core	{1}, mid-spring, {2}	{2}年{1}（仲春）
+manual	core	{1}, late spring, {2}	{2}年{1}（晩春）
+manual	core	{1}, early summer, {2}	{2}年{1}（初夏）
+manual	core	{1}, midsummer, {2}	{2}年{1}（仲夏）
+manual	core	{1}, mid-summer, {2}	{2}年{1}（仲夏）
+manual	core	{1}, late summer, {2}	{2}年{1}（晩夏）
+manual	core	{1}, early autumn, {2}	{2}年{1}（初秋）
+manual	core	{1}, midautumn, {2}	{2}年{1}（仲秋）
+manual	core	{1}, mid-autumn, {2}	{2}年{1}（仲秋）
+manual	core	{1}, late autumn, {2}	{2}年{1}（晩秋）
+manual	core	{1}, early winter, {2}	{2}年{1}（初冬）
+manual	core	{1}, midwinter, {2}	{2}年{1}（仲冬）
+manual	core	{1}, mid-winter, {2}	{2}年{1}（仲冬）
+manual	core	{1}, late winter, {2}	{2}年{1}（晩冬）
+manual	core	male {1}	{1}（雄）
+manual	core	female {1}	{1}（雌）
+manual	core	He was the only one of his kind.	彼はその種で唯一の存在だった。
+manual	core	She was the only one of her kind.	彼女はその種で唯一の存在だった。
+manual	core	They were the only ones of their kind.	彼らはその種で唯一の存在だった。
+manual	core	male {1} follower of {2}	{2}の信奉者、{1}（雄）
+manual	core	female {1} follower of {2}	{2}の信奉者、{1}（雌）
+manual	core	In {1}, {2} of {3} founded {4}.	{1}年、{3}の{2}が{4}を創設した。
+manual	core	In {1}, {2} held {3} in {4} as part of {5}.	{1}年、{2}は{5}の一環として{4}で{3}を催した。
+manual	core	a performance of {1}	{1}の上演
+manual	core	a telling of the story of {1}	{1}の物語の語り
+manual	core	the story of {1}	{1}の物語
+manual	core	the ascension of {1} to the position of {2} of {3} in {4}	{4}年の{1}の{3}の{2}への就任
+manual	core	a {1} throwing competition	{1}投げ競技
+manual	core	Competing were {1}.	競技者は{1}だった。
+manual	core	The event featured {1}.	催しには{1}があった。
+manual	core	{1} swore to support {2} in war if the latter did likewise.	{1}は、{2}も同様にするなら戦争で{2}を支援すると誓った。
+manual	core	{1} led the attack, and the defenders were led by {2}.	{1}が攻撃を率い、守備側は{2}が率いた。
+manual	core	{1} led the attack.	{1}が攻撃を率いた。
+manual	core	In {1}, {2} defeated {3} and pillaged {4}.	{1}年、{2}は{3}を破り、{4}を略奪した。
+manual	core	{1} was a dwarven civilization of {2}.	{1}は{2}のドワーフの文明だった。
+manual	core	{1} was a human civilization of {2}.	{1}は{2}の人間の文明だった。
+manual	core	{1} was an elven civilization of {2}.	{1}は{2}のエルフの文明だった。
+manual	core	{1} was a goblin civilization of {2}.	{1}は{2}のゴブリンの文明だった。
+manual	core	{1} was a kobold civilization of {2}.	{1}は{2}のコボルドの文明だった。
+manual	core	In {1}, {2} swore to support {3} in war if the latter did likewise.	{1}年、{2}は、{3}も同様にするなら戦争で{3}を支援すると誓った。
+manual	core	In {1}, {2} held the story of {3} in {4} in {5} as part of {6}.	{1}年、{2}は{6}の一環として{5}で、{4}年の{3}の物語を語り聞かせた。
+manual	core	the ascension of {1} to the position of {2} of {3}	{1}の{3}の{2}への就任
+manual	core	In {1}, {2} attacked {3} of {4} at {5}.	{1}年、{2}は{5}で{4}の{3}を襲った。
+manual	core	{1} was a {2} in {3}.	{1}は{3}にある{2}だった。
+manual	core	{1} was an {2} in {3}.	{1}は{3}にある{2}だった。
+manual	core	In {1}, {2} thrust a spire of slade up from the underworld, naming it {3}, and established a gateway between worlds in {4}.	{1}年、{2}は冥界からスレイドの尖塔を突き上げて{3}と名付け、{4}に世界をつなぐ門を開いた。
+manual	core	In {1}, {2} occurred.	{1}年、{2}が起きた。
+manual	core	In {1}, {2} began.	{1}年、{2}が始まった。
+manual	core	In {1}, {2} ended.	{1}年、{2}が終わった。
+manual	core	In {1}, {2} created {3}.	{1}年、{2}が{3}を作った。
+manual	core	In {1}, {2} was created by {3}.	{1}年、{2}は{3}によって作られた。
+manual	core	In {1}, {2} of {3} created the position of {4} as a matter of course.	{1}年、{3}の{2}は当然のように{4}の地位を設けた。
+manual	core	In {1}, {2} created the position of {3} as a matter of course.	{1}年、{2}は当然のように{3}の地位を設けた。
+manual	core	In {1}, {2} accepted an offer of peace from {3}.	{1}年、{2}は{3}からの和平の申し出を受け入れた。
+manual	core	In {1}, {2} was stored in {3} by {4}.	{1}年、{4}は{2}を{3}に保管した。
+manual	core	{1} was a time when {2} were the only great powers in the world.	{1}は、{2}だけが世界の大勢力だった時代である。
+manual	core	{1} was a time when {2} was the only great power in the world.	{1}は、{2}だけが世界の大勢力だった時代である。
+manual	core	{1} was a legendary {2}.	{1}は伝説的な{2}だった。
+manual	core	This is a {1}.	これは{1}だ。
+manual	core	This is an {1}.	これは{1}だ。
+manual	core	All craftsmanship is of the highest quality.	細工はすべて最高品質だ。
+manual	core	The Age of {1} was a time when {2} were the only great powers in the world.	{1}の時代は、{2}だけが世界の大勢力だった時代である。
+manual	core	The Age of {1} was a time when {2} was the only great power in the world.	{1}の時代は、{2}だけが世界の大勢力だった時代である。
+manual	core	In {1}, {2} attacked {3} in {4}.	{1}年、{2}は{4}で{3}を襲った。
+manual	core	Otherwise your citizens will continue to gather by the [C:6:0:0]Wagon[C:7:0:0] outside.	そうしなければ、市民は外の[C:6:0:0]荷馬車[C:7:0:0]のそばに集まり続けます。
+manual	core	Later you can create a room with a [C:6:0:0]Door[C:7:0:0] and use the [C:5:0:1]Zones[C:7:0:0] menu to assign an official [C:3:0:0]Bedroom[C:7:0:0] for each resident.	あとで[C:6:0:0]扉[C:7:0:0]のある部屋を作り、[C:5:0:1]ゾーン[C:7:0:0]メニューで住民ごとに正式な[C:3:0:0]寝室[C:7:0:0]を割り当てられます。
+manual	core	[C:6:0:1]Gems[C:7:0:0] can be [C:3:0:1]Cut[C:7:0:0] at the [C:6:0:0]Jeweler's Workshop[C:7:0:0].	[C:6:0:1]宝石[C:7:0:0]は[C:3:0:1]カット[C:7:0:0]できます（[C:6:0:0]宝石工房[C:7:0:0]で）。
+manual	core	[C:3:0:1]Encrust[C:7:0:0] them on [C:6:0:1]Crafts[C:7:0:0] and other items to add even more value.	[C:3:0:1]象嵌[C:7:0:0]して[C:6:0:1]工芸品[C:7:0:0]などに付ければ、さらに価値が上がります。
+manual	core	You may find water underground.	地下で水が見つかることもあります。
+manual	core	A [C:3:0:0]Water Source[C:7:0:0] zone and a [C:6:0:1]Bucket[C:7:0:0] are also required.	[C:3:0:0]水源[C:7:0:0]ゾーンと[C:6:0:1]バケツ[C:7:0:0]も必要です。
+manual	core	To keep them alive use the [C:3:0:0]Pen/Pasture[C:7:0:0] zone from the [C:5:0:1]Zones[C:7:0:0] menu to select a section of grass and click the add button to assign the [C:2:0:0]Animals[C:7:0:0].	生かしておくには、[C:3:0:0]囲い/牧草地[C:7:0:0]ゾーンを[C:5:0:1]ゾーン[C:7:0:0]メニューから選んで草地を指定し、追加ボタンで[C:2:0:0]動物[C:7:0:0]を割り当てます。
+manual	core	Once you assign citizens to the task, you can then set [C:5:0:1]"Only selected do this"[C:7:0:0] if you want to restrict it.	市民をその作業に割り当てたら、限定したい場合は[C:5:0:1]「選択した者のみ行う」[C:7:0:0]に設定できます。
+manual	core	If you find that your stockpiles are filling up too fast, you can create room by building [C:6:0:1]Bins[C:7:0:0], [C:6:0:1]Barrels[C:7:0:0], and [C:6:0:1]Bags[C:7:0:0].	備蓄庫がすぐにいっぱいになるなら、[C:6:0:1]収納箱[C:7:0:0]、[C:6:0:1]樽[C:7:0:0]、[C:6:0:1]袋[C:7:0:0]を作って空きを作れます。
+manual	core	[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].	[C:6:0:1]樽[C:7:0:0]は[C:6:0:1]食料[C:7:0:0]の保管に使います。
+manual	core	[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] (and some other things like [C:6:0:1]Sand[C:7:0:0]).	[C:6:0:1]袋[C:7:0:0]は[C:6:0:1]種[C:7:0:0]の保管に使います（[C:6:0:1]砂[C:7:0:0]など一部のほかの物にも）。
+manual	core	[C:6:0:1]Bins[C:7:0:0] hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], [C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0].	[C:6:0:1]収納箱[C:7:0:0]には、[C:6:0:1]家具[C:7:0:0]、[C:6:0:1]木材[C:7:0:0]、[C:6:0:1]岩[C:7:0:0]以外のほとんどすべてが入ります。
+manual	core	[C:6:0:1]Bags[C:7:0:0] are created at the [C:6:0:0]Clothier's Shop[C:7:0:0] or the [C:6:0:0]Leatherworks[C:7:0:0].	[C:6:0:1]袋[C:7:0:0]は[C:6:0:0]仕立て屋[C:7:0:0]か[C:6:0:0]革工房[C:7:0:0]で作ります。
+manual	core	Use the [C:5:0:1]Nobles and administrators[C:7:0:0] menu to check their wants and needs.	要望や欲求は[C:5:0:1]貴族と管理者[C:7:0:0]メニューで確かめられます。
+manual	core	You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as [C:6:0:1]Coal[C:7:0:0], but you will usually need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to start the process.	あとで[C:6:0:1]燃料[C:7:0:0]を[C:6:0:1]石炭[C:7:0:0]などに切り替えられますが、始めるには普通、[C:6:0:1]木炭[C:7:0:0]（[C:6:0:0]木炭炉[C:7:0:0]で作る）が必要です。
+manual	core	It is possible to find water underground, or divert it from the surface.	地下で水を見つけるか、地上から水を引くこともできます。
+manual	core	Clicking on the column itself will assign the routine to the selected squad.	列そのものをクリックすると、選択した小隊にその日課を割り当てます。
+manual	core	This can be done either from the [C:5:0:1]Item's Info Sheet[C:7:0:0] or by dragging a rectangle over everything you want to dump using the [C:5:0:1]Dump Designation[C:7:0:0] tool.	これは[C:5:0:1]品物の情報シート[C:7:0:0]からか、[C:5:0:1]投棄の指定[C:7:0:0]ツールで捨てたい物を四角く囲んで行えます。
+manual	core	Valuable gems and precious metals can be found, along with richer soil, desperately needed water, fungal lumber, and other tantalizing mysteries.	貴重な宝石や貴金属のほか、肥えた土、ぜひとも欲しい水、キノコの木材、そのほか心をそそる謎が見つかります。
+manual	core	Unhappy citizens can act out and cause trouble, and fewer people will risk travel to a miserable fortress.	不幸な市民は暴れて騒ぎを起こすことがあり、みじめな要塞へ危険を冒してまで旅をする者も減ります。
+manual	core	The total follower amount is based on the [C:3:0:1]Leadership[C:7:0:0] skill and the [C:2:0:1]Social Awareness[C:7:0:0] attribute.	従者の総数は[C:3:0:1]統率[C:7:0:0]の技能と[C:2:0:1]社会的認識[C:7:0:0]の能力で決まります。
+manual	core	You can change your money between currency types in this fashion.	このやり方で、お金を別の通貨に両替できます。
+manual	core	Most villages will be happy that you've slain a dragon, for instance, whether you've received the quest from them or not, and it might be worth a drink in the tavern to let the people you meet know who you are.	たとえばドラゴンを倒せば、その村から依頼を受けていてもいなくても、たいていの村は喜びます。酒場で一杯やりながら、会う人々に自分が何者かを知らせるのもよいでしょう。
+manual	core	Some injuries will require [C:6:0:0]Traction Benches[C:7:0:0] which can be built at the [C:6:0:0]Mechanic's Shop[C:7:0:0].	けがによっては[C:6:0:0]牽引台[C:7:0:0]が必要です。これは[C:6:0:0]機械工房[C:7:0:0]で作れます。
+manual	core	You will also need [C:6:0:0]Tables[C:7:0:0] for your [C:5:0:0]Scribes[C:7:0:0] to work on.	[C:6:0:0]テーブル[C:7:0:0]も必要です（[C:5:0:0]書記[C:7:0:0]の作業台になります）。
+manual	core	[C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] are needed to store the [C:6:0:1]Writing Material[C:7:0:0] for the [C:5:0:0]Scribes[C:7:0:0] to write on.	[C:6:0:0]チェスト[C:7:0:0]か[C:6:0:0]金庫[C:7:0:0]が必要です。[C:6:0:1]筆記用具[C:7:0:0]を入れ、[C:5:0:0]書記[C:7:0:0]が書くのに使います。
+manual	core	This can be increased by decorating the hall and building [C:6:0:0]Furniture[C:7:0:0] like [C:6:0:0]Statues[C:7:0:0].	広間を飾り、[C:6:0:0]家具[C:7:0:0]や[C:6:0:0]彫像[C:7:0:0]を置けば高められます。
+manual	core	If a strike is barely dodged, the defender may have no choice but to jump or scramble to another tile (or else be hit.	攻撃をかろうじてかわした場合、守る側は別のマスへ跳ぶか這って逃げるしかないことがあります（さもなければ当たります。
+manual	core	) Parrying is by weapon skill and only works on other weapons.	）受け流しは武器の技能によるもので、ほかの武器に対してだけ効きます。
+manual	core	Select {1}	{1}を選ぶ
+manual	core	From {1}	出身: {1}
+manual	core	You are a {1} in {2}, a {3}, and you have never strayed far from home.	あなたは{2}（{3}）の{1}で、故郷から遠く離れたことはない。
+manual	core	You are an {1} in {2}, a {3}, and you have never strayed far from home.	あなたは{2}（{3}）の{1}で、故郷から遠く離れたことはない。
+manual	core	You are a {1} in {2}, a {3}.	あなたは{2}（{3}）の{1}だ。
+manual	core	You are an {1} in {2}, a {3}.	あなたは{2}（{3}）の{1}だ。
+manual	core	Destiny is calling!	運命が呼んでいる！
+manual	core	You are a casual worshipper of {1}, the {2} of {3}, and you belong to {4}.	あなたは{3}の{2}、{1}の気まぐれな信者で、{4}に属している。
+manual	core	You are a casual worshipper of {1}, the {2} of {3}.	あなたは{3}の{2}、{1}の気まぐれな信者だ。
+manual	core	You are a casual worshipper of {1}, and you belong to {2}.	あなたは{1}の気まぐれな信者で、{2}に属している。
+manual	core	You are a casual worshipper of {1}.	あなたは{1}の気まぐれな信者だ。
+manual	core	You are a faithful worshipper of {1}, the {2} of {3}, and you belong to {4}.	あなたは{3}の{2}、{1}の忠実な信者で、{4}に属している。
+manual	core	You are a faithful worshipper of {1}, the {2} of {3}.	あなたは{3}の{2}、{1}の忠実な信者だ。
+manual	core	You are a faithful worshipper of {1}, and you belong to {2}.	あなたは{1}の忠実な信者で、{2}に属している。
+manual	core	You are a faithful worshipper of {1}.	あなたは{1}の忠実な信者だ。
+manual	core	You are an ardent worshipper of {1}, the {2} of {3}, and you belong to {4}.	あなたは{3}の{2}、{1}の熱心な信者で、{4}に属している。
+manual	core	You are an ardent worshipper of {1}, the {2} of {3}.	あなたは{3}の{2}、{1}の熱心な信者だ。
+manual	core	You are an ardent worshipper of {1}, and you belong to {2}.	あなたは{1}の熱心な信者で、{2}に属している。
+manual	core	You are an ardent worshipper of {1}.	あなたは{1}の熱心な信者だ。
+manual	core	You are a dubious worshipper of {1}, the {2} of {3}, and you belong to {4}.	あなたは{3}の{2}、{1}の疑い深い信者で、{4}に属している。
+manual	core	You are a dubious worshipper of {1}, the {2} of {3}.	あなたは{3}の{2}、{1}の疑い深い信者だ。
+manual	core	You are a dubious worshipper of {1}, and you belong to {2}.	あなたは{1}の疑い深い信者で、{2}に属している。
+manual	core	You are a dubious worshipper of {1}.	あなたは{1}の疑い深い信者だ。
+manual	core	You are a devout worshipper of {1}, the {2} of {3}, and you belong to {4}.	あなたは{3}の{2}、{1}の敬虔な信者で、{4}に属している。
+manual	core	You are a devout worshipper of {1}, the {2} of {3}.	あなたは{3}の{2}、{1}の敬虔な信者だ。
+manual	core	You are a devout worshipper of {1}, and you belong to {2}.	あなたは{1}の敬虔な信者で、{2}に属している。
+manual	core	You are a devout worshipper of {1}.	あなたは{1}の敬虔な信者だ。
+e3eb80	prefix	He 	彼は
+e3eb80	prefix	She 	彼女は
+e3eb80	prefix	They 	彼らは
+e3eb80	prefix	It 	それは
+e3eb80	prefix	You 	あなたは
+e3eb80	core	desires little for {1} in the way of possessions	自分の持ち物にはほとんど欲がない
+e3eb80	core	often neglects {1} own wellbeing, having no interest in material goods	物質的な物には関心がなく、しばしば自分の健康をないがしろにする
+e3eb80	core	is unbelievably stubborn and will stick with even the most futile action once {1} mind is made up	信じがたいほど頑固で、一度心を決めると、どれほど無益な行動にも固執する
+e3eb80	core	revels in chaos and discord, and {1} encourages it whenever possible	混乱や不和を楽しみ、機会があればいつでもそれを助長する
+e3eb80	core	disdains even the best advice of associates and family, relying strictly on {1} own counsel	仲間や家族の最良の助言さえ軽んじ、もっぱら自分の判断だけを頼りにする
+e3eb80	core	dislikes receiving advice, preferring to keep {1} own counsel	助言を受けるのを嫌い、自分の考えを通すことを好む
+e3eb80	core	presupposes success in any venture requiring {1} skills with what could be called blind overconfidence	自分の技能を要する事業であれば、いわば盲目的な過信から成功を前提としている
+e3eb80	core	is extremely confident of {1} in situations requiring {2} skills	技能が求められる場面では、自分自身をきわめて信頼している
+e3eb80	core	is generally quite confident of {1} abilities when undertaking specific ventures	特定の事業に取り組むとき、たいてい自分の能力にかなり自信を持っている
+e3eb80	core	lacks confidence in {1} abilities	自分の能力に自信が持てない
+e3eb80	core	has no confidence at all in {1} talent and abilities	自分の才能や能力をまったく信用していない
+e3eb80	core	is completely wrapped up in {1} own appearance, abilities and other personal matters	自分の容姿や能力、その他の個人的なことにすっかり没頭している
+e3eb80	core	is greatly pleased by {1} own looks and accomplishments	自分の容姿や業績を大いに喜ぶ
+e3eb80	core	is pleased by {1} own appearance and talents	自分の容姿や才能に満足している
+e3eb80	core	is not inherently proud of {1} talents and accomplishments	自分の才能や業績を生まれつき誇りに思うことはない
+e3eb80	core	takes no pleasure in {1} talents and appearance	自分の才能や容姿を喜ばない
+e3eb80	core	could not care less about {1} appearance, talents or other personal vanities	自分の容姿や才能、その他の個人的な虚栄心などまったく気にかけない
+e3eb80	core	is very ambitious, always looking for a way to better {1} situation	非常に野心的で、常に自分の境遇を良くする方法を探している
+e3eb80	core	feels a strong need to reciprocate any favor done for {1}	自分にしてもらった恩は必ず返さなければと強く感じる
+e3eb80	core	is grateful when others help {1} out and tries to return favors	人に助けてもらうと感謝し、恩返しをしようとする
+e3eb80	core	does not feel the slightest need to reciprocate favors that others do for {1}, no matter how major the help or how much {2} needed it	人が自分にしてくれた好意には、どれほど大きな助けであっても、またどれほど切実に必要としていたとしても、恩返しの必要をまったく感じない
+e3eb80	core	always presents {1} as extravagantly as possible, displaying a magnificent image to the world	常に可能な限り派手に自分を見せ、世間に華々しい姿を示す
+e3eb80	core	likes to present {1} boldly, even if it would offend an average sense of modesty	世間並みの慎みに反しても、大胆に自分を見せるのを好む
+e3eb80	core	prefers to present {1} modestly	自分を控えめに見せることを好む
+e3eb80	core	presents {1} modestly and frowns on any flashy accoutrements	自分を控えめに見せ、派手な飾り物には眉をひそめる
+e3eb80	core	thinks {1} is fairly important in the grand scheme of things	大局的に見れば自分はそれなりに重要な存在だと考えている
+e3eb80	core	is completely convinced of {1} own worthlessness	自分には価値がないと完全に思い込んでいる
+e3eb80	core	is deliberately cruel to those unfortunate enough to be subject to {1} sadism	自らのサディズムの対象になってしまった不運な者に、わざと残酷にふるまう
+e3eb80	core	always acts with mercy and compassion at the forefront of {1} considerations	行動するときは常に、慈悲と思いやりを何よりも優先する
+e3eb80	core	has such a developed sense of optimism that {1} always assumes the best outcome will eventually occur, no matter what	楽観的な気質が非常に強く、何があっても最後には最良の結果になると常に思い込んでいる
+e3eb80	core	generally finds {1} quite hopeful about the future	概して将来に対してかなり希望を抱いている
+e3eb80	core	is very curious, sometimes to {1} detriment	非常に好奇心が強く、時にはそのために損をする
+e3eb80	core	is incurious and never seeks out knowledge or information to satisfy {1}	好奇心に乏しく、知識や情報を得ようとして探し求めることは決してない
+e3eb80	core	is gripped by a crippling shyness	身動きできないほどの内気さにとらわれている
+e3eb80	core	tends to consider what others think of {1}	他人が自分をどう思うかを気にしがちだ
+e3eb80	core	is not particularly interested in what others think of {1}	他人が自分をどう思うかには、特に関心がない
+e3eb80	core	is generally unhindered by the thoughts of others concerning {1} actions	自分の行動について他人がどう考えるかには、たいてい左右されない
+e3eb80	core	is private to the point of paranoia, unwilling to reveal even basic information about {1}	被害妄想と言えるほど秘密主義で、自分の基本的な情報さえ明かそうとしない
+e3eb80	core	has a strong tendency toward privacy	私生活を守りたがる傾向が強い
+e3eb80	core	tends to share {1} own experiences and thoughts with others	自分の経験や考えを他人と分かち合いがちだ
+e3eb80	core	is not a private person and freely shares details of {1} life	私生活を隠さず、自分の暮らしの細かいことを気軽に話す
+e3eb80	core	shares intimate details of {1} life without sparing a thought to repercussions or propriety	周囲への影響や体裁を気にすることなく、自分の私生活の内輪の事情を明かす
+e3eb80	core	is inattentive to detail in {1} own work	自分の仕事の細部に注意を払わない
+e3eb80	core	is frustratingly sloppy and careless with every task {1} sets to carry out	取り組む作業はどれも、いらだたしいほど雑で不注意だ
+e3eb80	core	is completely closed-minded and never changes {1} mind after forming an initial idea	完全に頑迷で、いったん考えを持つとけっして改めない
+e3eb80	core	is intellectually stubborn, rarely changing {1} mind during a debate regardless of the merits	知的に頑固で、議論の中身にかかわらず、途中で考えを変えることはまれだ
+e3eb80	core	tends to be a bit stubborn in changing {1} mind about things	物事への考えを改めることには、やや頑固なところがある
+e3eb80	core	doesn't cling tightly to ideas and is open to changing {1} mind	考えに固執せず、考えを改めることに開かれている
+e3eb80	core	often finds {1} changing {2} mind to agree with somebody else	他の誰かに同意するために、自分の考えを変えることがよくある
+e3eb80	core	easily changes {1} mind and will generally go with the prevailing view on anything	考えをたやすく変え、何についても大勢の意見に従いがちだ
+e3eb80	core	is very comfortable around others that are different from {1}	自分と違う人たちの中でも、とても気楽にしている
+e3eb80	core	is quite comfortable with others that have a different appearance or culture	見た目や文化の違う人たちとも、かなり気楽に付き合える
+e3eb80	core	is somewhat uncomfortable around those that appear unusual or live differently from {1}	変わった様子だったり自分と違う暮らし方をしていたりする人の周りでは、いくぶん落ち着かない
+e3eb80	core	is made deeply uncomfortable by differences in culture or appearance	文化や見た目の違いに、深く居心地の悪さを覚える
+e3eb80	core	forms strong emotional bonds with others, at times to {1} detriment	他人と強い情のつながりを築くが、時には自分が損をすることもある
+e3eb80	core	does not go out of {1} way to help others	他人を助けるために、わざわざ骨を折ることはしない
+e3eb80	core	feels helping others is an imposition on {1} time	他人を助けることは自分の時間を奪う迷惑だと感じる
+e3eb80	core	hates vows, obligations, promises and other binding elements that could restrict {1} life	誓い、義務、約束など、自分の生き方を縛りかねない拘束を嫌う
+e3eb80	core	never acts without prolonged deliberation, even to {1} own detriment and the harm of those around	自分の損や周囲への害になっても、長く熟慮しなければ行動しない
+e3eb80	core	is obsessed with order and structure in {1} own life, with everything kept in its proper place	自分の生活の秩序と構造にとりつかれていて、すべてを定位置に置いておく
+e3eb80	core	tries to keep {1} things orderly	持ち物をきちんと整頓しようとする
+e3eb80	core	tends to make a small mess with {1} own possessions	自分の持ち物を少し散らかしがちだ
+e3eb80	core	is sloppy with {1} living space	住まいの片づけがずさんだ
+e3eb80	core	is assertive to the point of aggression, unwilling to let others get a word in edgewise when {1} has something to say	攻撃的なほど自己主張が強く、言いたいことがあると他人に口を挟ませない
+e3eb80	core	only rarely tries to assert {1} in conversation	会話の中で自分を主張しようとすることはめったにない
+e3eb80	core	would never under any circumstances speak up or otherwise put forth {1} point of view in a discussion	議論の中で、どんな事情があっても自分の意見を口に出したり示したりすることはない
+e3eb80	core	does everything in {1} power to avoid excitement and stress	興奮や強いストレスを避けるためなら、できることは何でもする
+e3eb80	suffix	, and {1} is troubled by this because {2} values romance	。ただ、恋愛を大切に思っているため、そのことに悩んでいる
+e3eb80	suffix	, and {1} is troubled by this because {2} holds romance in low regard	。ただ、恋愛を軽んじているため、そのことに悩んでいる
+e3eb80	suffix	, and {1} is conflicted by this as {2} values parties and merrymaking in the abstract	。ただ、抽象的には宴や浮かれ騒ぎを大切に思っているため、そのことに葛藤している
+e3eb80	suffix	, though {1} remains put off by deliberate merrymaking	。もっとも、わざとらしい浮かれ騒ぎにはなじめないままだ
+e3eb80	suffix	, and {1} is troubled by this because {2} values self-control	。ただ、自制心を大切に思っているため、そのことに悩んでいる
+e3eb80	suffix	, and {1} is troubled by this because {2} values such powerful forces in life	。ただ、人生におけるそうした強大な力を大切に思っているため、そのことに悩んでいる
+e3eb80	suffix	, though {1} is conflicted by this for more than one reason	。もっとも、そのことには一つならぬ理由で葛藤している
+e3eb80	suffix	, though {1} is disturbed by this since {2} values quiet so, at least in the abstract	。もっとも、少なくとも抽象的には静けさを大切に思っているため、そのことに心が乱れている
+e3eb80	suffix	, even though {1} likes the way that they would break up the monotony on some level	。それでも、ある意味では単調さを破ってくれるところが気に入っている
+e3eb80	suffix	, though {1} dislikes the adoration of fighting as an art to be refined	。もっとも、磨き上げるべき技芸として戦いを崇める風潮は好まない
+e3eb80	suffix	, and {1} works to square this natural tendency with {2} respect of martial prowess	。そして、武勇への敬意と、この生まれつきの傾向とを両立させようと努めている
+e3eb80	suffix	, and {1} finds this troubling, since {2} values perseverance	。ただ、忍耐を大切に思っているため、そのことを気に病んでいる
+e3eb80	suffix	, though {1} is conflicted by this part of	。もっとも、そのことには一部葛藤している
+e3eb80	suffix	, and {1} is conflicted by this since {2} values harmony as an intellectual concept	。ただ、知的な概念としては調和を大切に思っているため、そのことに葛藤している
+e3eb80	suffix	, though {1} is troubled by {2} own nature as {3} prefers discord and debate at a more abstract level	。もっとも、より抽象的なレベルでは不和や論争を好むため、自分の性分に悩んでいる
+e3eb80	suffix	, and {1} is troubled by {2} nature since {3} values harmony	。調和を大切に思っているため、自分の性分に悩んでいる
+e3eb80	suffix	, and {1} is conflicted by {2} nature since {3} would ideally prefer more strife in {4} life	。理想を言えば人生にもっと争いがあってほしいと思うため、自分の性分に葛藤している
+e3eb80	suffix	, and {1} is bothered by this since {2} values friendship	。ただ、友情を大切に思っているため、そのことが気にかかっている
+e3eb80	suffix	, and {1} is burdened by this tendency because {2} dislikes the idea of friendship	。友情という考え方を好まないため、そのことを重荷に感じている
+e3eb80	suffix	, though {1} finds rules of etiquette to be valuable in the abstract	。もっとも、抽象的には礼儀作法の決まりを価値あるものだと考えている
+e3eb80	suffix	, though {1} is troubled by this natural tendency in {2} since {3} finds dignified society to be stifling and silly when properly considered	。もっとも、品位ある社会は息苦しく愚かしいと考えているため、そのような生まれつきの傾向に悩んでいる
+e3eb80	suffix	, and {1} is conflicted by this since {2} sees these tendencies as an impediment to the quest for power	。権力を追い求めるうえで、こうした傾向は妨げになると考えているため、そのことに葛藤している
+e3eb80	suffix	, and {1} is disturbed by this as someone who dislikes those that seek to acquire power over others	。他人を支配する権力を求める者を嫌っているため、そのことに心を乱している
+e3eb80	suffix	, and {1} struggles against this tendency, as {2} finds such open expression offensive	。そうしたあからさまな表現を不快に感じるため、この傾向と闘っている
+e3eb80	suffix	, though {1} is conflicted by this as {2} dislikes this sort of concealment in the abstract	。もっとも、抽象的にはこの種の隠しごとを嫌っているため、そのことに葛藤している
+e3eb80	suffix	, and {1} is troubled by this because {2} truly respects sacrifice	。犠牲を本当に尊んでいるため、そのことに悩んでいる
+e3eb80	suffix	, though {1} wishes this were not the case as {2} considers altruism foolish	。もっとも、利他主義を愚かだと考えているため、そうでなければよいのにと思っている
+e3eb80	suffix	, and {1} is conflicted by this since {2} believes in the importance of the rule of the law	。法の支配の重要性を信じているため、そのことに葛藤している
+e3eb80	suffix	, though {1} still holds the law in disdain	。もっとも、それでも法を軽蔑している
+e3eb80	suffix	, though {1} values the concept of loyalty and is troubled by {2} natural tendencies	。もっとも、忠誠の理念を大切に思っており、生まれつきの傾向に悩んでいる
+e3eb80	suffix	, though {1} still views loyalty in a dim light, at least in the abstract	。もっとも、少なくとも抽象的には、忠誠を冷ややかに見ている
+e3eb80	suffix	, although {1} finds this can conflict with {2} sense of independence	。ただ、これは自立心と衝突しうると感じている
+e3eb80	suffix	, though {1} still holds the idea of freedom itself in low regard	。もっとも、自由という考え方そのものを軽んじている
+e3eb80	suffix	, and {1} is conflicted by this because {2} considers tranquility preferable to tumult, conceptually	。概念としては、騒乱よりも平穏のほうが望ましいと考えているため、そのことに葛藤している
+e3eb80	suffix	, and {1} is conflicted by this since {2} feels intellectually that life should be more tumultuous	。知的には、人生はもっと波乱に満ちているべきだと感じているため、そのことに葛藤している
+e3eb80	suffix	, and {1} is conflicted by this as {2} values artwork and its creation	。芸術作品とその創作を大切に思っているため、そのことに葛藤している
+e3eb80	suffix	, and {1} is torn by this since {2} sees the whole pursuit of art as a waste	。芸術の追求全体を無駄だと見ているため、そのことに引き裂かれている
+e3eb80	suffix	, and {1} is conflicted by this because {2} holds nature in high regard	。自然を高く評価しているため、そのことに葛藤している
+e3eb80	suffix	, and {1} is troubled by this since {2} dislikes the natural world	。自然界を好まないため、そのことに悩んでいる
+manual	core	Like others in his culture, he {1}.	同じ文化の者たちと同じく、彼は{1}〔述〕。
+manual	core	He personally {1}.	彼は個人的に{1}〔述〕。
+manual	core	He dreams of {1}, and this dream was realized.	彼は{1}を夢見ていて、その夢はかなった。
+manual	core	He dreams of {1}.	彼は{1}を夢見ている。
+manual	core	His {1} is {2}.	彼の{1}は{2}〔述〕。
+manual	core	His {1} are {2}.	彼の{1}は{2}〔述〕。
+manual	core	Like others in her culture, she {1}.	同じ文化の者たちと同じく、彼女は{1}〔述〕。
+manual	core	She personally {1}.	彼女は個人的に{1}〔述〕。
+manual	core	She dreams of {1}, and this dream was realized.	彼女は{1}を夢見ていて、その夢はかなった。
+manual	core	She dreams of {1}.	彼女は{1}を夢見ている。
+manual	core	Her {1} is {2}.	彼女の{1}は{2}〔述〕。
+manual	core	Her {1} are {2}.	彼女の{1}は{2}〔述〕。
+manual	core	Like others in their culture, they {1}.	同じ文化の者たちと同じく、彼らは{1}〔述〕。
+manual	core	They personally {1}.	彼らは個人的に{1}〔述〕。
+manual	core	They dreams of {1}, and this dream was realized.	彼らは{1}を夢見ていて、その夢はかなった。
+manual	core	They dreams of {1}.	彼らは{1}を夢見ている。
+manual	core	Their {1} is {2}.	彼らの{1}は{2}〔述〕。
+manual	core	Their {1} are {2}.	彼らの{1}は{2}〔述〕。
+manual	core	Like others in its culture, it {1}.	同じ文化の者たちと同じく、それは{1}〔述〕。
+manual	core	It personally {1}.	それは個人的に{1}〔述〕。
+manual	core	It dreams of {1}, and this dream was realized.	それは{1}を夢見ていて、その夢はかなった。
+manual	core	It dreams of {1}.	それは{1}を夢見ている。
+manual	core	Its {1} is {2}.	それの{1}は{2}〔述〕。
+manual	core	Its {1} are {2}.	それの{1}は{2}〔述〕。
+manual	core	finds {1} somewhat disgusted with eloquent speakers	雄弁な話し手にいくらか嫌悪を覚える
+manual	core	finds the idea of fair-dealing foolish and cheats when {1} finds it profitable	公正な取引を愚かだと考え、得になるならいかさまをする
+manual	core	is disgusted by tradition and would flout any {1} encounters if given a chance	伝統を嫌い、機会があれば出会ったどんな伝統も踏みにじる
+manual	core	sees concealment of emotions as a betrayal and tries {1} best never to associate with such secretive fools	感情を隠すことを裏切りとみなし、そんな秘密主義の愚か者とは決して付き合わないよう努める
+manual	core	views {1} with disgust and would desecrate a so-called masterwork or two if {2} could get away with it	{1}を嫌悪し、ばれないならいわゆる傑作の一つや二つ汚してやろうと思っている
+manual	core	The event featured a telling of the story of {1}, {2}.	催しには{1}の物語の語り、{2}があった。
+manual	core	The event featured a telling of the story of {1}.	催しには{1}の物語の語りがあった。
+manual	core	His {1} have {2}.	彼の{1}には{2}がある。
+manual	core	Her {1} have {2}.	彼女の{1}には{2}がある。
+manual	core	Their {1} have {2}.	彼らの{1}には{2}がある。
+manual	core	Its {1} have {2}.	それの{1}には{2}がある。
+manual	core	The view is dark underground.	地下では視界が暗くなります。
+manual	core	You can recenter on yourself with the [KEY:{1}] hotkey or by clicking the recenter button.	[KEY:{1}]キーか、中央に戻すボタンで、視点を自分に戻せます。
+manual	core	Right-clicking can always be used to close most menus, as well as [KEY:{1}].	ほとんどのメニューは、右クリックか[KEY:{1}]でいつでも閉じられます。
+manual	core	If you have a number pad, you can move one tile at a time by pressing [KEY:{1}][KEY:{2}][KEY:{3}][KEY:{4}] etc.	テンキーがあれば、[KEY:{1}][KEY:{2}][KEY:{3}][KEY:{4}]などを押して1マスずつ移動できます。
+manual	core	If you want to move carefully, confirming your selection, you can press [KEY:{1}] etc.	選択を確かめながら慎重に移動したいときは、[KEY:{1}]などを押してください。
+manual	core	If you miss an announcement or would like to review old messages, you can click the indicated button or press [KEY:{1}] to view the message log.	告知を見逃したときや古いメッセージを見返したいときは、表示されたボタンを押すか[KEY:{1}]を押してメッセージ記録を開いてください。
+manual	core	You can initiate throwing from the inventory menu, or by pressing [KEY:{1}] from play.	投げるには、持ち物メニューから選ぶか、プレイ中に[KEY:{1}]を押します。
+manual	core	When flying, use [KEY:{1}] etc. and[KEY:{2}] etc. to change altitude.	飛んでいるときは、[KEY:{1}]などと[KEY:{2}]などで高度を変えます。
+manual	core	View the {1}	{1}を見る
+manual	core	View {1}	{1}を見る
+manual	core	Talk to the {1}	{1}と話す
+manual	core	Talk to {1}	{1}と話す
+manual	core	Attack the {1}	{1}を攻撃する
+manual	core	Attack {1}	{1}を攻撃する
+manual	core	To move the camera around, press [KEY:{1}] [KEY:{2}] [KEY:{3}] [KEY:{4}] or hold the middle mouse button and drag the view.	カメラを動かすには、[KEY:{1}] [KEY:{2}] [KEY:{3}] [KEY:{4}]を押すか、中ボタンを押したままビューをドラッグしてください。
+manual	core	To change the camera's elevation, press [KEY:{1}] and [KEY:{2}] or [C:2:0:1]roll the mouse wheel[C:7:0:0].	カメラの高さを変えるには、[KEY:{1}]と[KEY:{2}]を押すか、[C:2:0:1]マウスホイールを回して[C:7:0:0]ください。
+manual	core	Hold shift to move faster.	Shift を押したままにすると速く動きます。
+manual	core	The [KEY:{1}] hotkey will recenter on your wagon.	[KEY:{1}]キーで荷馬車に視点を戻せます。
+manual	core	You can alternate between standing and a prone position by clicking the indicated button or pressing [KEY:{1}].	表示されたボタンを押すか[KEY:{1}]を押すと、立った姿勢と伏せた姿勢を切り替えられます。
+manual	core	You can set your gait/speed and other movement options by clicking the indicated button or pressing [KEY:{1}].	表示されたボタンを押すか[KEY:{1}]を押すと、歩き方や速さなどの移動の設定を変えられます。
+manual	core	This menu will also show you how stealthfully you are moving.	このメニューでは、どれだけ忍んで移動しているかも分かります。
+manual	core	If you see brown downward triangles under your character, you will move very slowly and should try to stand if you are able.	キャラクターの足元に茶色の下向きの三角が見える場合、動きが非常に遅くなります。可能なら立ち上がるようにしてください。
+manual	core	You can click the indicated button or press [KEY:{1}] to view your character's status.	表示されたボタンを押すか[KEY:{1}]を押すと、キャラクターの状態を見られます。
+manual	core	You can click the indicated button or press [KEY:{1}] to view your log.	表示されたボタンを押すか[KEY:{1}]を押すと、記録を見られます。
+manual	core	You can click the indicated button or press [KEY:{1}] to view and interact with your worn and carried items.	表示されたボタンを押すか[KEY:{1}]を押すと、身に着けている物や持ち物を見たり使ったりできます。
+manual	core	You can click the indicated button or press [KEY:{1}] to interact with nearby objects and environmental features.	表示されたボタンを押すか[KEY:{1}]を押すと、近くの物や周りの地形を調べたり使ったりできます。
+manual	core	You can click the indicated button or press [KEY:{1}] to continue an active conversation.	表示されたボタンを押すか[KEY:{1}]を押すと、続いている会話を再開できます。
+manual	core	Right click on people to initiate conversations.	人を右クリックすると会話を始められます。
+manual	core	You can click the indicated button or press [KEY:{1}] to butcher a carcass or to engage in crafting activities.	表示されたボタンを押すか[KEY:{1}]を押すと、死骸を解体したり物作りをしたりできます。
+manual	core	You can click the indicated button or press [KEY:{1}] to yield in combat.	表示されたボタンを押すか[KEY:{1}]を押すと、戦闘で降参できます。
+manual	core	You can click the indicated button or press [KEY:{1}] to draw or strap your weapon.	表示されたボタンを押すか[KEY:{1}]を押すと、武器を抜いたり収めたりできます。
+manual	core	You can click the indicated button or press [KEY:{1}] to unpause or use the highlighted controls at the top of the screen.	表示されたボタンを押すか[KEY:{1}]を押すか、画面上部の強調表示された操作で、一時停止を解除できます。
+manual	core	Move to {1} ({2})	{1}へ移動（{2}）
+manual	core	Move to {1}	{1}へ移動
+manual	core	This event occurred on the {1} in the year {2}.	この出来事は{2}年{1}に起きた。
+manual	core	Start new conversation with {1}	{1}と新しく会話を始める
+manual	core	Continue conversation with {1}	{1}との会話を続ける
+manual	core	Hello {1}.	こんにちは、{1}。
+manual	core	Greetings, {1}.	ごきげんよう、{1}。
+manual	core	Hello, {1}.	こんにちは、{1}。
+manual	core	I'm {1}.	{1}だ。
+manual	core	I am {1}.	{1}だ。
+manual	core	My name is {1}.	わしの名は{1}だ。
+manual	core	and the {1} said, "Are you going to eat that?"	…すると{1}が『それ、食べないの？』と言ったのさ
+manual	core	So, the {1} saw the sun and vomited on the spot!	それで、{1}は太陽を見てその場で吐いちまったのさ！
+manual	core	{1} really makes the outfit.	{1}が服装を引き立てているね。
+manual	core	{1} really make the outfit.	{1}が服装を引き立てているね。
+manual	core	Attack {1}:	{1}を攻撃する：
+manual	core	{1} rules {2}.	{2}は{1}が治めている。
+manual	core	I rule {1}.	わしが{1}を治めている。
+manual	core	{1} has occupied {2}.	{1}が{2}を占領している。
+manual	core	The seat of {1} is also located here.	{1}の本拠もここにある。
+manual	core	{1} abides here in magnificence.	{1}がここで威厳をもって暮らしている。
+manual	core	{1} is a group of {2}.	{1}は{2}の集団だ。
+manual	core	{1} are vying for control.	{1}が支配権を争っている。
+manual	core	There are no fewer than {1} other groups vying for control.	ほかにも少なくとも{1}の集団が支配権を争っている。
+manual	core	No fewer than {1} groups fled.	少なくとも{1}の集団が逃げた。
+manual	core	{1} fled before the attack.	{1}は襲撃の前に逃げた。
+manual	core	{1} lives in {2}.	{1}は{2}に住んでいる。
+manual	core	If you want to find a relative, {1} lives in {2}.	親族を探すなら、{1}が{2}に住んでいる。
+manual	core	You must kill {1}.	{1}を討ち取らねばならない。
+manual	core	The trouble started because of {1}.	事の起こりは{1}だ。
+manual	core	You are hereby charged to retrieve {1}.	ここに{1}の奪還を命ずる。
+manual	core	You are hereby charged to retrieve {1} from {2}.	ここに{2}から{1}を取り戻すよう命ずる。
+manual	core	I merely ask that you serve {1} in a way that suits you.	ただ、あなたなりのやり方で{1}に仕えてほしい。
+manual	core	Blessed be {1} and the chosen!	{1}と選ばれし者に祝福あれ！
+manual	core	{1} sent {2} to try to boss us around, but you'll show them the true nature of power.	{1}は{2}をよこして我らを牛耳ろうとしたが、あなたが本当の力を思い知らせてやるのだ。
+manual	core	{1} came try to boss us around, but you'll teach that coward a lesson.	{1}が我らを牛耳ろうとやって来たが、あなたがあの臆病者に思い知らせてやるのだ。
+manual	core	{1} should talk to {2}.	{1}は{2}と話すといい。
+manual	core	{1} should travel to {2}.	{1}は{2}へ行くといい。
+manual	core	If you want to offer your condolences, {1} should travel to {2}.	お悔やみを伝えたいなら、{1}は{2}へ行くといい。
+manual	core	We rent out {1} for {2} a night.	{1}を一晩{2}で貸している。
+manual	core	We have {1}.	{1}がある。
+manual	core	All drinks cost {1} for a mug.	飲み物はどれもジョッキ1杯{1}だ。
+manual	core	Your room is {1}.	あなたの部屋は{1}だ。
+manual	core	I'd like the {1}.	{1}を頼む。
+manual	core	Would you agree to become {1}, taking over my duties and responsibilities?	わしの務めと責任を引き継いで、{1}になってくれないか？
+manual	core	Would you please adopt {1}?	{1}を養子に迎えてくれないか？
+manual	core	This must be the will of {1}.	これは{1}の御心に違いない。
+manual	core	Perhaps you'd be willing to trade {1}?	{1}を譲ってくれる気はないか？
+manual	core	{1} is yours.  Please consider my offer.	{1}をやろう。考えてみてくれ。
+manual	core	{1} is yours.	{1}をやろう。
+manual	core	Where is {1}?	{1}はどこだ？
+manual	core	Let there be peace between {1} and {2}!	{1}と{2}の間に平和を！
+manual	core	{1} will no longer pay homage to {2}!	{1}はもう{2}に臣従しない！
+manual	core	{1} must pay homage to {2} or suffer the consequences.	{1}は{2}に臣従せよ。さもなくば報いを受けることになる。
+manual	core	{1} offers to pay homage to {2}.	{1}は{2}への臣従を申し出た。
+manual	core	Join me and we can shake off the yoke of {1} forever!	共に来い、{1}のくびきを永遠に振り払おう！
+manual	core	Join me and we'll bring {1} back home!	共に来い、{1}を連れて帰ろう！
+manual	core	I'm in charge of {1}.	わしは{1}を任されている。
+manual	core	I've decided.  Let's call our troupe {1}.	決めた。一座の名前は{1}にしよう。
+manual	core	Let's call our troupe {1}.	一座の名前は{1}にしよう。
+manual	core	I have no master, but {1} sometimes has need for my services.	主人はいないが、{1}がときどき私の力を必要とする。
+manual	core	I serve {1}.	私は{1}に仕えている。
+manual	core	I do not know!  My instructions come from {1}.	知らない！指示は{1}から来るんだ。
+manual	core	My instructions come from {1}.	指示は{1}から来る。
+manual	core	{1} appears to acquiesce.	{1}は従うようだ。
+manual	core	{1} engages in trade with {2}.	{1}は{2}と交易している。
+manual	core	There are {1} villages which utilize the market here.	ここの市場を使う村が{1}つある。
+manual	core	The villages {1} utilize the market here.	{1}の村がここの市場を使っている。
+manual	core	{1} utilize the market here.	{1}がここの市場を使っている。
+manual	core	{1} is the only other settlement to utilize the market here.	ほかにここの市場を使う集落は{1}だけだ。
+manual	core	{1} is the only other settlement to utilize the market there.	ほかにそこの市場を使う集落は{1}だけだ。
+manual	core	{1} also utilize the market there.	{1}もそこの市場を使っている。
+manual	core	The people of {1} also utilize the market there.	{1}の人々もそこの市場を使っている。
+manual	core	There are {1} other villages which utilize the market there.	そこの市場を使う村はほかに{1}つある。
+manual	core	{1} trades directly with no fewer than {2} other major settlements.	{1}は少なくとも{2}のほかの大きな集落と直接交易している。
+manual	core	The largest of these is {1}.	その中で一番大きいのは{1}だ。
+manual	core	However, the {1} is well-traveled and would probably have that information.	だが、{1}は旅慣れているから、たぶん知っているだろう。
+manual	core	I may not be able to guide you personally.  It is the best I can do.	自分で案内はできないかもしれない。これが精一杯だ。
+manual	core	I'm going to {1} in search of work.	仕事を探しに{1}へ行くところだ。
+manual	core	I'm going to {1} in search of a thrilling adventure.	胸躍る冒険を求めて{1}へ行くところだ。
+manual	core	I'm going to {1} to start a new life.	新しい暮らしを始めに{1}へ行くところだ。
+manual	core	I'm going to {1} in search of adventure.	冒険を求めて{1}へ行くところだ。
+manual	core	I'm going to {1} in search of excitement.	刺激を求めて{1}へ行くところだ。
+manual	core	I'm going to {1} to take up my position.	職に就くために{1}へ行くところだ。
+manual	core	I'm returning to my home in {1}.	{1}の家に帰るところだ。
+manual	core	I'm traveling to {1}.	{1}へ旅をしているところだ。
+manual	core	I'm preparing to travel to {1}.	{1}へ旅立つ支度をしているところだ。
+manual	core	I visited {1}.	{1}を訪れた。
+manual	core	I started my pilgrimage in {1}.	{1}で巡礼を始めた。
+manual	core	{1} is dead.	{1}は死んだ。
+manual	core	This is {1}.	ここは{1}だ。
+manual	core	I am searching for {1}.	{1}を探している。
+manual	core	I have obtained {1}.	{1}を手に入れた。
+manual	core	I am returning it to {1}.	それを{1}に返しに行くところだ。
+manual	core	I will return it to {1}.	それを{1}に返すつもりだ。
+manual	core	The treasure is sought by {1}.	その宝は{1}が探している。
+manual	core	Recovering from attacking {1} with {2}, aiming for the {3}	{2}で{1}の{3}を攻撃した後の立て直し中
+manual	core	Recovering from attacking {1} with {2}	{2}で{1}を攻撃した後の立て直し中
+manual	core	Recovering from attacking {1}	{1}を攻撃した後の立て直し中
+manual	core	Attacking {1} with {2}, aiming for the {3}	{2}で{1}の{3}を狙って攻撃中
+manual	core	Attacking {1} with {2}	{2}で{1}を攻撃中
+manual	core	Attacking {1}	{1}を攻撃中
+manual	core	Your party of seven is to make an outpost for the glory of all of {1}.	あなたたち7人の一行は、{1}全体の栄光のために前哨地を築くのだ。
+manual	core	Although it is a grim reminder of the winter hardships to come, the supply caravan from {1} is a welcome sight.	来たる冬の厳しさを思い起こさせるものではあるが、{1}からの補給のキャラバンはありがたい光景だ。
+manual	core	Their eyes are alight with the anticipation of inspecting the splendid products of your industrious craftsdwarves.	彼らの目は、勤勉な職人ドワーフたちの見事な品々を見られる期待に輝いている。
+manual	core	An animal has grown to become a {1}.	動物が成長して{1}になった。
+manual	core	The outpost liaison {1} from {2} has arrived.	{2}の前哨地連絡官{1}が到着した。
+manual	core	There is nothing to catch in {1}.	{1}には獲れるものが何もない。
+manual	core	I am not scared!	怖くなんかない！
+manual	core	You have arrived.	到着した。
+manual	core	Ask for the whereabouts of {1}	{1}の居場所を尋ねる
+manual	core	Ask for directions to {1}	{1}への道を尋ねる
+manual	core	Ask about {1}	{1}について尋ねる
+manual	core	{1} is lord.	領主は{1}だ。
+manual	core	{1} is lady.	領主は{1}だ。
+manual	core	{1} live in the indicated locations above.	{1}は上に示した場所に住んでいる。
+# 性格の画面（特性・好み）の文。ゲームが部品から組み立てる
+manual	core	He has {1}, but he has {2}.	彼の長所は{1}。短所は{2}。
+manual	core	He likes {1}.	彼は{1}を好む。
+manual	core	When possible, he prefers to consume {1}.	できれば彼は{1}を口にしたがる。
+manual	core	He absolutely detests {1}.	彼は{1}を心底嫌っている。
+manual	core	He needs alcohol to get through the working day.	彼は一日の仕事をこなすのに酒が必要だ。
+manual	core	He needs alcohol to get through the working day and can't even remember the last time he had some.	彼は一日の仕事をこなすのに酒が必要だが、最後に飲んだのがいつか思い出せない。
+manual	core	He needs alcohol to get through the working day and has gone without a drink for far, far too long.	彼は一日の仕事をこなすのに酒が必要だが、ずいぶん長いこと飲んでいない。
+manual	core	He needs alcohol to get through the working day and really wants a drink.	彼は一日の仕事をこなすのに酒が必要で、今すぐ一杯飲みたがっている。
+manual	core	He needs alcohol to get through the working day and is starting to work slowly due to its scarcity.	彼は一日の仕事をこなすのに酒が必要で、酒が足りず仕事が遅くなり始めている。
+manual	core	He likes working outdoors and grumbles only mildly at inclement weather.	彼は屋外での作業を好み、悪天候にも少し不平を言う程度だ。
+manual	core	He does not mind being outdoors, at least for a time.	彼はしばらくの間なら屋外でも気にしない。
+manual	core	He stiffens up when he's surprised.	彼は驚くと体が硬直する。
+manual	core	She has {1}, but she has {2}.	彼女の長所は{1}。短所は{2}。
+manual	core	She likes {1}.	彼女は{1}を好む。
+manual	core	When possible, she prefers to consume {1}.	できれば彼女は{1}を口にしたがる。
+manual	core	She absolutely detests {1}.	彼女は{1}を心底嫌っている。
+manual	core	She needs alcohol to get through the working day.	彼女は一日の仕事をこなすのに酒が必要だ。
+manual	core	She needs alcohol to get through the working day and can't even remember the last time she had some.	彼女は一日の仕事をこなすのに酒が必要だが、最後に飲んだのがいつか思い出せない。
+manual	core	She needs alcohol to get through the working day and has gone without a drink for far, far too long.	彼女は一日の仕事をこなすのに酒が必要だが、ずいぶん長いこと飲んでいない。
+manual	core	She needs alcohol to get through the working day and really wants a drink.	彼女は一日の仕事をこなすのに酒が必要で、今すぐ一杯飲みたがっている。
+manual	core	She needs alcohol to get through the working day and is starting to work slowly due to its scarcity.	彼女は一日の仕事をこなすのに酒が必要で、酒が足りず仕事が遅くなり始めている。
+manual	core	She likes working outdoors and grumbles only mildly at inclement weather.	彼女は屋外での作業を好み、悪天候にも少し不平を言う程度だ。
+manual	core	She does not mind being outdoors, at least for a time.	彼女はしばらくの間なら屋外でも気にしない。
+manual	core	She stiffens up when she's surprised.	彼女は驚くと体が硬直する。
+manual	core	It has {1}, but it has {2}.	それの長所は{1}。短所は{2}。
+manual	core	It likes {1}.	それは{1}を好む。
+manual	core	When possible, it prefers to consume {1}.	できればそれは{1}を口にしたがる。
+manual	core	It absolutely detests {1}.	それは{1}を心底嫌っている。
+manual	core	It needs alcohol to get through the working day.	それは一日の仕事をこなすのに酒が必要だ。
+manual	core	It needs alcohol to get through the working day and can't even remember the last time it had some.	それは一日の仕事をこなすのに酒が必要だが、最後に飲んだのがいつか思い出せない。
+manual	core	It needs alcohol to get through the working day and has gone without a drink for far, far too long.	それは一日の仕事をこなすのに酒が必要だが、ずいぶん長いこと飲んでいない。
+manual	core	It needs alcohol to get through the working day and really wants a drink.	それは一日の仕事をこなすのに酒が必要で、今すぐ一杯飲みたがっている。
+manual	core	It needs alcohol to get through the working day and is starting to work slowly due to its scarcity.	それは一日の仕事をこなすのに酒が必要で、酒が足りず仕事が遅くなり始めている。
+manual	core	It likes working outdoors and grumbles only mildly at inclement weather.	それは屋外での作業を好み、悪天候にも少し不平を言う程度だ。
+manual	core	It does not mind being outdoors, at least for a time.	それはしばらくの間なら屋外でも気にしない。
+manual	core	It stiffens up when it's surprised.	それは驚くと体が硬直する。
+manual	core	They have {1}, but they have {2}.	彼らの長所は{1}。短所は{2}。
+manual	core	They like {1}.	彼らは{1}を好む。
+manual	core	When possible, they prefer to consume {1}.	できれば彼らは{1}を口にしたがる。
+manual	core	They absolutely detest {1}.	彼らは{1}を心底嫌っている。
+manual	core	They need alcohol to get through the working day.	彼らは一日の仕事をこなすのに酒が必要だ。
+manual	core	They need alcohol to get through the working day and can't even remember the last time they had some.	彼らは一日の仕事をこなすのに酒が必要だが、最後に飲んだのがいつか思い出せない。
+manual	core	They need alcohol to get through the working day and have gone without a drink for far, far too long.	彼らは一日の仕事をこなすのに酒が必要だが、ずいぶん長いこと飲んでいない。
+manual	core	They need alcohol to get through the working day and really want a drink.	彼らは一日の仕事をこなすのに酒が必要で、今すぐ一杯飲みたがっている。
+manual	core	They need alcohol to get through the working day and are starting to work slowly due to its scarcity.	彼らは一日の仕事をこなすのに酒が必要で、酒が足りず仕事が遅くなり始めている。
+manual	core	They like working outdoors and grumbles only mildly at inclement weather.	彼らは屋外での作業を好み、悪天候にも少し不平を言う程度だ。
+manual	core	They do not mind being outdoors, at least for a time.	彼らはしばらくの間なら屋外でも気にしない。
+manual	core	They stiffen up when they're surprised.	彼らは驚くと体が硬直する。
+manual	core	You have {1}, but you have {2}.	あなたの長所は{1}。短所は{2}。
+manual	core	You like {1}.	あなたは{1}を好む。
+manual	core	When possible, you prefer to consume {1}.	できればあなたは{1}を口にしたがる。
+manual	core	You absolutely detest {1}.	あなたは{1}を心底嫌っている。
+manual	core	You need alcohol to get through the working day.	あなたは一日の仕事をこなすのに酒が必要だ。
+manual	core	You need alcohol to get through the working day and can't even remember the last time you had some.	あなたは一日の仕事をこなすのに酒が必要だが、最後に飲んだのがいつか思い出せない。
+manual	core	You need alcohol to get through the working day and have gone without a drink for far, far too long.	あなたは一日の仕事をこなすのに酒が必要だが、ずいぶん長いこと飲んでいない。
+manual	core	You need alcohol to get through the working day and really want a drink.	あなたは一日の仕事をこなすのに酒が必要で、今すぐ一杯飲みたがっている。
+manual	core	You need alcohol to get through the working day and are starting to work slowly due to its scarcity.	あなたは一日の仕事をこなすのに酒が必要で、酒が足りず仕事が遅くなり始めている。
+manual	core	You like working outdoors and grumbles only mildly at inclement weather.	あなたは屋外での作業を好み、悪天候にも少し不平を言う程度だ。
+manual	core	You do not mind being outdoors, at least for a time.	あなたはしばらくの間なら屋外でも気にしない。
+manual	core	You stiffen up when you're surprised.	あなたは驚くと体が硬直する。
+manual	core	{1} likes {2}.	{1}は{2}を好む。
+manual	core	{1} absolutely detests {2}.	{1}は{2}を心底嫌っている。
+manual	core	the color {1}	{1}
+# 癖の文（group 10fbb90）。同じ代名詞が何度も出て読みにくいので、重なる分を落とす
+manual	core	When {1} becomes exasperated, {2} begins to speak very deliberately	うんざりすると、{2}は{REST}とても慎重に話し始める
+manual	core	When {1} becomes exasperated, {2} clicks {3} {4}	うんざりすると、{2}は{REST}{3}{4}をカチカチ鳴らす
+manual	core	When {1} becomes exasperated, {2} starts to mutter under {3} breath	うんざりすると、{2}は{REST}{3}の息の下でぶつぶつ言い始める
+manual	core	When {1} gets bored, {2}{3}	退屈すると、{2}は{REST}{3}
+manual	core	When {1} gets exasperated, {2} often points and shakes {3} {4}	うんざりすると、{2}は{REST}よく{4}で指差して振る
+manual	core	When {1} gets excited, it's easy to tell because {2} drums {3} {4}	{1}が興奮すると、{2}が{REST}{4}を叩くので、すぐ分かる
+manual	core	When {1} gets excited, {2} often starts talking to {3}	興奮すると、{2}は{REST}よく{3}に話しかけ始める
+manual	core	When {1} gets excited, {2} often tells stories without any real point	興奮すると、{2}は{REST}よく何の意味もない話をする
+manual	core	When {1} is excited during conversations, {2} often can't help interrupting others	会話中に興奮すると、{2}は{REST}よく他人の話をさえぎらずにいられない
+manual	core	When {1} is nervous, {2} clicks {3} {4}	緊張すると、{2}は{REST}{3}{4}をカチカチ鳴らす
+manual	core	When {1} is nervous, {2} never allows pauses to occur in conversation	緊張すると、{2}は{REST}会話に間が生じるのを決して許さない
+manual	core	When {1} is nervous, {2} often interrupts others during conversations	緊張すると、{2}は{REST}会話中によく他人の話をさえぎる
+manual	core	When {1} is speaking, {2} usually lowers {3} {4}	話すとき、{2}は{REST}たいてい{4}を下げる
+manual	core	When {1}'s annoyed, {2} starts to talk slowly	いらだつと、{2}は{REST}ゆっくり話し始める
+manual	core	When {1}'s bored, {2} constantly rolls {3} {4}	退屈すると、{2}は絶えず{REST}{3}{4}をぐるりと回す
+manual	core	When {1}'s bored, {2} often scratches {3} {4}	退屈すると、{2}は{REST}よく{4}を掻く
+manual	core	When {1}'s nervous, {2} has a habit of chewing on {3} {4}	緊張すると、{2}は{REST}{4}をかじる癖がある
+manual	core	When {1}'s nervous, {2} often drums {3} {4}	緊張すると、{2}は{REST}よく{4}を叩く
+manual	core	When {1}'s nervous, {2} rarely talks	緊張すると、{2}は{REST}めったに話さない
+manual	core	When {1}'s nervous, {2} sometimes cracks {3} {4}	緊張すると、{2}は{REST}時々{4}を鳴らす
+manual	core	When {1}'s nervous, {2} tends to chew on {3} {4}	緊張すると、{2}は{REST}{4}をかじる傾向がある
+manual	core	When {1}'s nervous, {2} tends to stretch {3} body	緊張すると、{2}は{REST}{3}体を伸ばす傾向がある
+manual	core	When {1}'s surprised, {2} has a very unique laugh	驚くと、{2}は{REST}とても独特な笑い方をする
+manual	core	When {1}'s thinking hard, {2} has a habit of licking {3} {4}	懸命に考えているとき、{2}は{3}{4}を{REST}なめる癖がある
+manual	core	When {1}'s thinking, {2} body becomes very still	考えているとき、{2}は{REST}体をとても静止させる
+manual	core	When {1}'s thinking, {2} clicks {3} {4} repeatedly	考えているとき、{2}は{3}{4}を{REST}何度もカチカチ鳴らす
+manual	core	When {1}'s thinking, {2} has a tendency to chew on {3} {4}	考えているとき、{2}は{REST}{4}をかじる傾向がある
+manual	core	When {1}'s trying to remember something, {2} often starts chewing on {3} {4}	何かを思い出そうとすると、{2}は{REST}よく{4}をかじり始める
+manual	core	When {1}'s trying to remember something, {2} usually starts tapping {3} {4}	何かを思い出そうとすると、{2}は{REST}たいてい{4}を叩き始める
+manual	core	{1} becomes very rigid when {2}'s angry	{1}は{REST}怒るととてもこわばる
+manual	core	{1} cackles when {2}'s nervous	{1}は{REST}緊張するとケタケタ笑う
+manual	core	{1} laughs loudly when {2}'s excited	{1}は{REST}興奮すると大声で笑う
+manual	core	{1} laughs very loudly whenever {2}'s nervous	{1}は{REST}緊張するたびにとても大声で笑う
+manual	core	{1} laughs very loudly whenever {2}'s surprised	{1}は{REST}驚くたびにとても大声で笑う
+manual	core	{1} sticks out {2} {3} when {4}'s thinking hard	懸命に考えているとき、{1}は{REST}{2}{3}を突き出す
+manual	core	{1} stiffens up when {2}'s surprised	{1}は{REST}驚くと体が硬直する
+manual	core	{1} tenses up when {2}'s nervous	{1}は{REST}緊張すると体がこわばる
+manual	core	{1} {2} are animated when {3} speaks	{1}と{2}は{REST}話すと活発になる
+manual	core	{1} {2} are animated when {3}'s surprised	{1}と{2}は{REST}驚くと活発になる
+manual	core	{1} {2} become animated when {3} gets angry	{1}と{2}は{REST}怒ると活発に動き出す
+manual	core	{1} {2} begin moving when {3} becomes exasperated	{1}と{2}は{REST}うんざりすると動き出す
+manual	core	{1} {2} jump all over the place when {3}'s excited	{1}と{2}は{REST}興奮すると、あちこち跳ね回る
+manual	core	{1} {2} move frantically when {3}'s trying to remember something	{1}と{2}は{REST}何かを思い出そうとすると、せわしなく動く
+manual	core	{1} {2} sticks out when {3}'s trying to remember something	{3}が何かを思い出そうとしているとき、{2}が{REST}突き出る
+manual	core	{1}'s bored, {2} often scratches {3} {4}	{1}は退屈しており、{2}は{REST}よく{4}を掻く
+manual	core	{1}always scratches {2} {3} when {4}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、必ず{3}を掻く
+manual	core	{1}always snaps {2} {3} when {4}'s greeting somebody	{1}は{REST}誰かにあいさつするとき、必ず{3}を鳴らす
+manual	core	{1}always stutters when {2}'s nervous	{1}は{REST}緊張するといつもどもる
+manual	core	{1}begins to stammer when {2} becomes exasperated	{1}は{REST}うんざりするとどもり始める
+manual	core	{1}begins to talk louder when {2} is nervous	{1}は{REST}緊張すると声を大きくし始める
+manual	core	{1}begins to talk more slowly when {2}'s angry	{1}は{REST}怒るとゆっくり話し始める
+manual	core	{1}begins to talk much more slowly when {2}'s exasperated	{1}は{REST}うんざりするとずっとゆっくり話し始める
+manual	core	{1}bites {2} {3} when {4} gets bored	{1}は{REST}退屈すると、{3}を噛む
+manual	core	{1}bites {2} {3} when {4}'s annoyed	{1}は{REST}いらだつと、{3}を噛む
+manual	core	{1}bounces {2} {3} whenever {4} is sitting down	座るたびに、{1}は{REST}{2}{3}を跳ねさせる
+manual	core	{1}chews {2} {3} intently when {4}'s thinking	{1}は{REST}考えるとき、{3}を熱心にかじる
+manual	core	{1}chews {2} {3} when {4} gets excited	{1}は{REST}興奮すると、{3}をかじる
+manual	core	{1}chews {2} {3} when {4}'s angry	{1}は{REST}怒ると、{3}をかじる
+manual	core	{1}chews {2} {3} when {4}'s bored	{1}は{REST}退屈すると、{3}をかじる
+manual	core	{1}chews {2} {3} when {4}'s thinking	{1}は{REST}考えるとき、{3}をかじる
+manual	core	{1}cracks {2} {3} when {4}'s angry	{1}は{REST}怒ると、{3}を鳴らす
+manual	core	{1}cracks {2} {3} when {4}'s bored	{1}は{REST}退屈すると、{3}を鳴らす
+manual	core	{1}drums {2} {3} when {4}'s thinking	{1}は{REST}考えるとき、{3}を叩く
+manual	core	{1}drums {2} {3} when {4}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、{3}を叩く
+manual	core	{1}drums {2} {3} whenever {4}'s sitting down	{1}は{REST}座るたびに、{3}を叩く
+manual	core	{1}gets distracted during conversations when {2}'s exasperated	{1}は{REST}うんざりすると会話中に気が散る
+manual	core	{1}gets distracted during conversations when {2}'s excited	{1}は{REST}興奮すると会話中に気が散る
+manual	core	{1}gets distracted during conversations when {2}'s nervous	{1}は{REST}緊張すると会話中に気が散る
+manual	core	{1}gets distracted from conversations easily when {2}'s angry	{1}は{REST}怒ると会話からすぐに気がそれる
+manual	core	{1}gets easily distracted during conversations when {2}'s annoyed	{1}は{REST}いらだつと会話中にすぐ気が散る
+manual	core	{1}gnaws on {2} {3} when {4}'s excited	{1}は{REST}興奮すると、{3}をかじる
+manual	core	{1}gnaws {2} {3} when {4} is annoyed	{1}は{REST}いらだつと、{3}をかじる
+manual	core	{1}gnaws {2} {3} when {4}'s annoyed	{1}は{REST}いらだつと、{3}をかじる
+manual	core	{1}has a certain stare for when {2} gets annoyed	{1}は{REST}いらだったときの独特な目つきをする
+manual	core	{1}has a habit of chewing on {2} {3}	{1}は{REST}{3}をかじる癖がある
+manual	core	{1}has a habit of running {2} {3} through {4} {5}	{1}は{REST}{5}に{3}を走らせる癖がある
+manual	core	{1}has a menacing stare when {2}'s angry	{1}は{REST}怒ると、威嚇するような目つきをする
+manual	core	{1}has a very distinct laugh for when {2}'s excited	{1}は{REST}興奮したときの非常に特徴的な笑い方をする
+manual	core	{1}has trouble speaking when {2}'s excited	{1}は{REST}興奮すると話すのに苦労する
+manual	core	{1}idly chews {2} {3} when {4}'s bored	{1}は{REST}退屈すると、{3}をぼんやりかじる
+manual	core	{1}interrupts others during conversations when {2} is angry	{1}は{REST}怒ると、会話中に他人の話をさえぎる
+manual	core	{1}interrupts others during conversations when {2} is annoyed	{1}は{REST}いらだつと、会話中に他人の話をさえぎる
+manual	core	{1}interrupts others during conversations when {2} is exasperated	{1}は{REST}うんざりすると、会話中に他人の話をさえぎる
+manual	core	{1}is distracted from conversations easily when {2}'s trying to remember something	{1}は{REST}何かを思い出そうとすると会話からすぐに気がそれる
+manual	core	{1}is easily distracted during conversations when {2}'s bored	{1}は{REST}退屈すると会話中にすぐ気が散る
+manual	core	{1}laughs in a distinct fashion when {2}'s exasperated	{1}は{REST}うんざりすると特徴的な笑い方をする
+manual	core	{1}laughs in a unique way when {2}'s nervous	{1}は{REST}緊張すると独特な笑い方をする
+manual	core	{1}laughs in a unique way whenever {2}'s annoyed	{1}は{REST}いらだつたびに独特な笑い方をする
+manual	core	{1}lowers {2} {3} when {4}'s angry	{1}は{REST}怒ると、{3}を下げる
+manual	core	{1}lowers {2} {3} when {4}'s annoyed	{1}は{REST}いらだつと、{3}を下げる
+manual	core	{1}lowers {2} {3} when {4}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、{3}を下げる
+manual	core	{1}mutters under {2} breath when {3}'s trying to remember something	{1}は{REST}何かを思い出そうとすると{2}の息の下でぶつぶつ言う
+manual	core	{1}mutters under {2} breath when {3}'s {4}	{4}とき、{1}は{2}の息の下で{REST}ぶつぶつ呟く
+manual	core	{1}occasionally cracks {2} {3}	{1}は{REST}時々{3}を鳴らす
+manual	core	{1}often bites {2} {3} when {4}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、よく{3}を噛む
+manual	core	{1}often gives {2} {3} a good crack when {4}'s thinking hard	{1}は{REST}深く考えるとき、よく{3}をぽきぽき鳴らす
+manual	core	{1}often has {2} {3} lowered to the ground	{1}は{REST}よく{3}を地面に下ろす
+manual	core	{1}often lowers {2} {3} when {4}'s thinking	{1}は{REST}考えるとき、よく{3}を下げる
+manual	core	{1}often rubs {2} {3}	{1}は{REST}よく{3}をこする
+manual	core	{1}often snaps {2} {3} when {4}'s bored	{1}は{REST}退屈するとよく{3}を鳴らす
+manual	core	{1}often snaps {2} {3} when {4}'s nervous	{1}は{REST}緊張すると、よく{3}を鳴らす
+manual	core	{1}often tells pointless stories when {2}'s nervous	{1}は{REST}緊張するとよく無意味な話をする
+manual	core	{1}often touches others during conversations when {2}'s excited	{1}は{REST}興奮すると、会話中によく他人に触れる
+manual	core	{1}often touches others during conversations when {2}'s nervous	{1}は{REST}緊張すると、会話中によく他人に触れる
+manual	core	{1}often touches those to whom {2} is speaking	{1}は{REST}話している相手によく触れる
+manual	core	{1}points and shakes {2} {3} when {4}'s angry	{1}は{REST}怒ると、{3}で指差して振る
+manual	core	{1}quite often tells pointless stories when {2}'s bored	{1}は{REST}退屈するとかなりよく無意味な話をする
+manual	core	{1}rarely speaks when {2}'s angry	{1}は{REST}怒っているとき、めったに話さない
+manual	core	{1}rarely speaks when {2}'s annoyed	{1}は{REST}いらだっているとき、めったに話さない
+manual	core	{1}rarely speaks when {2}'s exasperated	{1}は{REST}うんざりしているとき、めったに話さない
+manual	core	{1}repeatedly snaps {2} {3} when {4} is trying to remember something	{1}は{REST}何かを思い出そうとすると、{3}を何度も鳴らす
+manual	core	{1}runs {2} {3} through {4} {5} when {6} becomes exasperated	{1}は{REST}うんざりすると、{5}に{3}を走らせる
+manual	core	{1}runs {2} {3} through {4} {5} when {6}'s annoyed	{1}は{REST}いらだつと、{5}に{3}を走らせる
+manual	core	{1}runs {2} {3} through {4} {5} when {6}'s bored	{1}は{REST}退屈すると、{5}に{3}を走らせる
+manual	core	{1}runs {2} {3} through {4} {5} when {6}'s nervous	{1}は{REST}緊張すると、{5}に{3}を走らせる
+manual	core	{1}runs {2} {3} through {4} {5} when {6}'s thinking	{1}は{REST}考えるとき、{5}に{3}を走らせる
+manual	core	{1}runs {2} {3} through {4} {5} when {6}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、{5}に{3}を走らせる
+manual	core	{1}scratches {2} {3} when {4}'s bored	{1}は{REST}退屈すると、{3}を掻く
+manual	core	{1}scratches {2} {3} when {4}'s thinking	{1}は{REST}考えるとき、{3}を掻く
+manual	core	{1}scratches {2} {3} when {4}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、{3}を掻く
+manual	core	{1}scratches {2} {3} whenever {4}'s bored	{1}は{REST}退屈するたびに、{3}を掻く
+manual	core	{1}shakes {2} {3} up and down when {4}'s excited	{1}は{REST}興奮すると、{3}を上下に振る
+manual	core	{1}shakes {2} {3} up and down when {4}'s trying to remember something	{1}は{REST}何かを思い出そうとすると、{3}を上下に振る
+manual	core	{1}shouts when {2} is {3} surprised	{1}は{REST}{3}驚くと叫ぶ
+manual	core	{1}skips around when {2}'s excited	{1}は{REST}興奮するとあちこち跳ね回る
+manual	core	{1}skips over to others when {2} meets them	{1}は{REST}出会うと、他人のもとへ跳ねていく
+manual	core	{1}skips wherever {2} goes	{1}は{REST}どこへ行くにも跳ねていく
+manual	core	{1}slouches when {2}'s bored	{1}は{REST}退屈すると猫背になる
+manual	core	{1}snaps {2} {3} repeatedly when {4}'s excited	{1}は{REST}興奮すると、{3}を繰り返し鳴らす
+manual	core	{1}speaks very deliberately when {2}'s angry	{1}は{REST}怒るととても慎重に話す
+manual	core	{1}speaks very deliberately when {2}'s annoyed	{1}は{REST}いらだつととても慎重に話す
+manual	core	{1}stammers when {2}'s annoyed	{1}は{REST}いらだつとどもる
+manual	core	{1}stammers when {2}'s excited	{1}は{REST}興奮するとどもる
+manual	core	{1}stares intently when {2}'s thinking	{1}は{REST}考えるとき、じっと見つめる
+manual	core	{1}starts talking to {2} when {3} becomes exasperated	{1}は{REST}うんざりすると{2}に話しかけ始める
+manual	core	{1}starts to mutter under {2} breath when {3} gets excited	{1}は{REST}興奮すると{2}の息の下でぶつぶつ言い始める
+manual	core	{1}starts to stutter when {2} gets angry	{1}は{REST}怒るとどもり始める
+manual	core	{1}starts to stutter when {2}'s surprised	{1}は{REST}驚くとどもり始める
+manual	core	{1}starts yelling whenever {2} gets angry	{1}は{REST}怒るたびに怒鳴り始める
+manual	core	{1}stomps {2} {3} repeatedly when {4}'s angry	{1}は{REST}怒ると、{3}を繰り返し踏み鳴らす
+manual	core	{1}talks to {2} when {3}'s angry	{1}は{REST}怒ると{2}に話しかける
+manual	core	{1}talks to {2} when {3}'s annoyed	{1}は{REST}いらだつと{2}に話しかける
+manual	core	{1}talks to {2} when {3}'s nervous	{1}は{REST}緊張すると{2}に話しかける
+manual	core	{1}talks to {2} when {3}'s thinking	{1}は{REST}考えるとき{2}に話しかける
+manual	core	{1}talks to {2} when {3}'s trying to remember something	{1}は{REST}何かを思い出そうとすると{2}に話しかける
+manual	core	{1}talks to {2} whenever {3} gets bored	{1}は{REST}退屈するたびに{2}に話しかける
+manual	core	{1}talks very loudly when {2} is excited	{1}は{REST}興奮するととても大声で話す
+manual	core	{1}talks very loudly whenever {2} is annoyed	{1}は{REST}いらだつたびにとても大声で話す
+manual	core	{1}talks very loudly whenever {2} is exasperated	{1}は{REST}うんざりするたびにとても大声で話す
+manual	core	{1}taps {2} {3} constantly when {4}'s nervous	{1}は{REST}緊張すると、絶えず{3}を叩く
+manual	core	{1}taps {2} {3} when there's a lull in conversation	{1}は{REST}会話が途切れると、{3}を叩く
+manual	core	{1}taps {2} {3} when {4}'s annoyed	{1}は{REST}いらだつと、{3}を叩く
+manual	core	{1}taps {2} {3} whenever {4}'s sitting down	{1}は{REST}座るたびに、{3}を叩く
+manual	core	{1}tends to chew {2} {3}	{1}は{REST}{3}をかじる傾向がある
+manual	core	{1}tends to interrupts others during conversations when {2} is trying to remember something	{1}は{REST}何かを思い出そうとすると、会話中に他人の話をさえぎりがちだ
+manual	core	{1}tends to scratch {2} {3} a lot	{1}は{REST}{3}をよく掻く傾向がある
+manual	core	{1}tends to scratch {2} {3} quite often	{1}は{REST}{3}をかなり頻繁に掻く傾向がある
+manual	core	{1}tends to stare unwaveringly when {2}'s speaking to somebody	{1}は{REST}誰かに話しかけるとき、じっと見つめる傾向がある
+manual	core	{1}tends to stretch out when {2}'s bored	退屈すると、{1}は{REST}伸びをする傾向がある
+manual	core	{1}tends to stretch {2} body after {3} stands up	立ち上がった後、{1}は{REST}{2}体を伸ばす傾向がある
+manual	core	{1}tends to stretch {2} body when {3}'s thinking	考えているとき、{1}は{REST}{2}体を伸ばす傾向がある
+manual	core	{1}walks as if in a terrible hurry whenever {2} goes anywhere	{1}は{REST}どこへ行くにもひどく急いでいるように歩く
+manual	core	{1}winks when {2} is nervous	{1}は{REST}緊張するとウインクする
+manual	core	{1}{2} {3} {4} when {5}'s nervous	緊張しているとき、{1}は{REST}{2}{3}{4}
+# 心の強さ（性格タブの最後の段落）
+manual	core	He is getting used to tragedy.	彼は悲劇に慣れてきている。
+manual	core	He is a hardened individual.	彼は心の鍛えられた人物だ。
+manual	core	He doesn't really care about anything anymore.	彼はもう何にも関心がない。
+manual	core	She is getting used to tragedy.	彼女は悲劇に慣れてきている。
+manual	core	She is a hardened individual.	彼女は心の鍛えられた人物だ。
+manual	core	She doesn't really care about anything anymore.	彼女はもう何にも関心がない。
+manual	core	It is getting used to tragedy.	それは悲劇に慣れてきている。
+manual	core	It is a hardened individual.	それは心の鍛えられた人物だ。
+manual	core	It doesn't really care about anything anymore.	それはもう何にも関心がない。
+manual	core	They are getting used to tragedy.	彼らは悲劇に慣れてきている。
+manual	core	They are a hardened individual.	彼らは心の鍛えられた人物だ。
+manual	core	They don't really care about anything anymore.	彼らはもう何にも関心がない。
+manual	core	You are getting used to tragedy.	あなたは悲劇に慣れてきている。
+manual	core	You are a hardened individual.	あなたは心の鍛えられた人物だ。
+manual	core	You don't really care about anything anymore.	あなたはもう何にも関心がない。
+# 体の特徴のまとめ（健康→説明 "He is clumsy, quick to tire, very slow to heal and very flimsy."）。
+# 列挙なので、ふつうの文を飲み込まないよう ", " か " and " を含む形だけにする
+manual	core	He is {1}, {2}.	彼は{1}、{2}。
+manual	core	He is {1} and {2}.	彼は{1}、{2}。
+manual	core	She is {1}, {2}.	彼女は{1}、{2}。
+manual	core	She is {1} and {2}.	彼女は{1}、{2}。
+manual	core	It is {1}, {2}.	それは{1}、{2}。
+manual	core	It is {1} and {2}.	それは{1}、{2}。
+manual	core	They are {1}, {2}.	彼らは{1}、{2}。
+manual	core	They are {1} and {2}.	彼らは{1}、{2}。
+manual	core	You are {1}, {2}.	あなたは{1}、{2}。
+manual	core	You are {1} and {2}.	あなたは{1}、{2}。
+# 役職への就任の知らせ
+manual	core	{1} has assumed the position of {2} of {3}.	{1}は{3}の{2}に就任した。
+manual	core	{1} has assumed the position of {2}.	{1}は{2}に就任した。
+# 知らせの文（ゲーム中のログから拾ったもの）
+manual	core	{1} has given birth to {2}.	{1}が{2}を産んだ。
+manual	core	The merchants from {1} will be leaving soon.	{1}の商人たちはまもなく発つ。
+manual	core	The merchants from {1} have embarked on their journey.	{1}の商人たちは帰路についた。
+manual	core	{1} has gone berserk!	{1}が錯乱した！
+manual	core	{1} has gone stark raving mad!	{1}が完全に正気を失った！
+manual	core	{1} is stricken by melancholy!	{1}が憂鬱に沈んだ！
+manual	core	{1} has stopped responding to the world...	{1}は世界に応えなくなった……
+# 戦闘の文（ゲームのログから拾ったもの）
+manual	core	{1} shakes {2} around by the {3}, {4}!	{1}は{2}の{3}をくわえて振り回し、{4}！
+manual	core	{1} releases the grip of {2} from {3}.	{1}は{3}から{2}の握りを放した。
+manual	core	{1} releases the joint lock of {2} on {3}.	{1}は{3}にかけた{2}の関節技を解いた。
+manual	core	{1} bends {2} with {3} and the {4} collapses!	{1}は{3}で{2}を曲げ、{4}が砕けた！
+manual	core	{1} passes out from exhaustion.	{1}は疲れ果てて気を失った。
+manual	core	{1} collapses and falls to the ground from over-exertion.	{1}は無理がたたって倒れ込んだ。
+manual	core	{1} is no longer enraged.	{1}の怒りが収まった。
+manual	core	{1} gains possession of {2}.	{1}は{2}を手にした。
+manual	core	{1} pulls on the embedded {2}.	{1}は突き刺さった{2}を引き抜こうとした。
+manual	core	The XX({1})XX is ripped to shreds!	ぼろぼろの{1}がずたずたに引き裂かれた！
+manual	core	The XX({1})XX breaks!	ぼろぼろの{1}が壊れた！
+manual	core	The X({1})X is ripped to shreds!	傷んだ{1}がずたずたに引き裂かれた！
+manual	core	The X({1})X breaks!	傷んだ{1}が壊れた！
+# 傷の文（主語のない形）
+manual	core	A {1} has been bruised!	{1}が打撲した！
+manual	core	A {1} has been torn!	{1}が裂けた！
+manual	core	A {1} has been bruised and a {2} has been bruised!	{1}と{2}が打撲した！
+manual	core	A {1} has been torn and a {2} has been torn!	{1}と{2}が裂けた！
+manual	core	A {1} in the {2} has been bruised!	{2}の{1}が打撲した！
+manual	core	A {1} in the {2} has been torn!	{2}の{1}が裂けた！
+manual	core	A {1} in the {2} has been bruised and a {3} has been bruised!	{2}の{1}と{3}が打撲した！
+# 世界生成の記録
+manual	core	Seed: {1}	シード: {1}
+manual	core	Creature Seed: {1}	生き物のシード: {1}
+manual	core	History Seed: {1}	歴史のシード: {1}
+manual	core	Name Seed: {1}	名前のシード: {1}
+manual	core	Generating world using parameter set {1}	設定「{1}」で世界を生成しています
+manual	core	An artery has been opened by the attack, {1}!	動脈が切り裂かれ、{1}！
+manual	core	A ligament has been torn, {1}!	靭帯が裂け、{1}！
+manual	core	A tendon has been torn, {1}!	腱が裂け、{1}！
+# キャラバンの到着など（ゲームのログから）
+manual	core	{1} has adopted {2}.	{1}が{2}になついた。
+manual	core	The dwarves were unable to complete the {1}.	ドワーフたちは{1}を完成させられなかった。
+133d990	core	Needs {1} building material non-economic items.	建材になる品物が{1}個必要{REST}
+# 文の頭に来る大文字の形（"… has arrived.  Overall trade sentiments are …"）
+e5ac00.1	prefix	  Overall trade sentiments are cautious.	  全体的な交易の雰囲気は慎重です
+e5ac00.1	prefix	Overall trade sentiments are cautious.	全体的な交易の雰囲気は慎重です
+e5ac00.1	prefix	  Overall trade sentiments are good.	  全体的な交易の雰囲気は良好です
+e5ac00.1	prefix	Overall trade sentiments are good.	全体的な交易の雰囲気は良好です
+e5ac00.1	prefix	  Overall trade sentiments are great.	  全体的な交易の雰囲気は素晴らしいです
+e5ac00.1	prefix	Overall trade sentiments are great.	全体的な交易の雰囲気は素晴らしいです
+e5ac00.1	prefix	  Overall trade sentiments are lukewarm.	  全体的な交易の雰囲気は生ぬるいです
+e5ac00.1	prefix	Overall trade sentiments are lukewarm.	全体的な交易の雰囲気は生ぬるいです
+e5ac00.1	prefix	  Overall trade sentiments are terrible.	  全体的な交易の雰囲気は最悪です
+e5ac00.1	prefix	Overall trade sentiments are terrible.	全体的な交易の雰囲気は最悪です
+e5ac00.1	prefix	  Overall trade sentiments are very good.	  全体的な交易の雰囲気はとても良好です
+e5ac00.1	prefix	Overall trade sentiments are very good.	全体的な交易の雰囲気はとても良好です
+e5ac00.1	prefix	  Overall trade sentiments are fantastic.	  全体的な交易の雰囲気は見事です
+e5ac00.1	prefix	Overall trade sentiments are fantastic.	全体的な交易の雰囲気は見事です
+e5ac00.1	prefix	  Overall trade sentiments are tenuous at best.	  全体的な交易の雰囲気は、せいぜい不安定です
+e5ac00.1	prefix	Overall trade sentiments are tenuous at best.	全体的な交易の雰囲気は、せいぜい不安定です
+e5ac00.1	core	  Overall trade sentiments are {1}.	  全体的な交易の雰囲気は{1}です{REST}
+# キャラバンの到着（交易の雰囲気の語を文字通り入れる。差し込みにすると既存の組とぶつかる）
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are cautious.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体として慎重だ。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are cautious.	{1}からのキャラバンが到着した。交易の雰囲気は全体として慎重だ。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are good.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体として良好だ。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are good.	{1}からのキャラバンが到着した。交易の雰囲気は全体として良好だ。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are great.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体として素晴らしい。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are great.	{1}からのキャラバンが到着した。交易の雰囲気は全体として素晴らしい。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are lukewarm.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体として生ぬるい。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are lukewarm.	{1}からのキャラバンが到着した。交易の雰囲気は全体として生ぬるい。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are terrible.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体として最悪だ。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are terrible.	{1}からのキャラバンが到着した。交易の雰囲気は全体として最悪だ。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are very good.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体としてとても良好だ。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are very good.	{1}からのキャラバンが到着した。交易の雰囲気は全体としてとても良好だ。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are fantastic.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体として見事だ。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are fantastic.	{1}からのキャラバンが到着した。交易の雰囲気は全体として見事だ。
+manual	core	A {1} caravan from {2} has arrived.  Overall trade sentiments are tenuous at best.	{2}からの{1}のキャラバンが到着した。交易の雰囲気は全体としてせいぜい不安定だ。
+manual	core	A caravan from {1} has arrived.  Overall trade sentiments are tenuous at best.	{1}からのキャラバンが到着した。交易の雰囲気は全体としてせいぜい不安定だ。
+# 顔立ちの文（部位の名前が後ろに付く形）
+manual	core	He has a deeply recessed {1}.	彼の{1}は深く引っ込んでいる。
+manual	core	She has a deeply recessed {1}.	彼女の{1}は深く引っ込んでいる。
+manual	core	It has a deeply recessed {1}.	それの{1}は深く引っ込んでいる。
+manual	core	They have a deeply recessed {1}.	彼らの{1}は深く引っ込んでいる。
+manual	core	You have a deeply recessed {1}.	あなたの{1}は深く引っ込んでいる。
+manual	core	He has a recessed {1}.	彼の{1}は引っ込んでいる。
+manual	core	She has a recessed {1}.	彼女の{1}は引っ込んでいる。
+manual	core	It has a recessed {1}.	それの{1}は引っ込んでいる。
+manual	core	They have a recessed {1}.	彼らの{1}は引っ込んでいる。
+manual	core	You have a recessed {1}.	あなたの{1}は引っ込んでいる。
+manual	core	He has a prominent {1}.	彼の{1}は突き出ている。
+manual	core	She has a prominent {1}.	彼女の{1}は突き出ている。
+manual	core	It has a prominent {1}.	それの{1}は突き出ている。
+manual	core	They have a prominent {1}.	彼らの{1}は突き出ている。
+manual	core	You have a prominent {1}.	あなたの{1}は突き出ている。
+manual	core	He has a narrow {1}.	彼の{1}は細い。
+manual	core	She has a narrow {1}.	彼女の{1}は細い。
+manual	core	It has a narrow {1}.	それの{1}は細い。
+manual	core	They have a narrow {1}.	彼らの{1}は細い。
+manual	core	You have a narrow {1}.	あなたの{1}は細い。
+manual	core	He has a very narrow {1}.	彼の{1}はとても細い。
+manual	core	She has a very narrow {1}.	彼女の{1}はとても細い。
+manual	core	It has a very narrow {1}.	それの{1}はとても細い。
+manual	core	They have a very narrow {1}.	彼らの{1}はとても細い。
+manual	core	You have a very narrow {1}.	あなたの{1}はとても細い。
+manual	core	He has a broad {1}.	彼の{1}は広い。
+manual	core	She has a broad {1}.	彼女の{1}は広い。
+manual	core	It has a broad {1}.	それの{1}は広い。
+manual	core	They have a broad {1}.	彼らの{1}は広い。
+manual	core	You have a broad {1}.	あなたの{1}は広い。
+manual	core	He has a very broad {1}.	彼の{1}はとても広い。
+manual	core	She has a very broad {1}.	彼女の{1}はとても広い。
+manual	core	It has a very broad {1}.	それの{1}はとても広い。
+manual	core	They have a very broad {1}.	彼らの{1}はとても広い。
+manual	core	You have a very broad {1}.	あなたの{1}はとても広い。
+manual	core	He has a narrow, recessed {1}.	彼の{1}は細く引っ込んでいる。
+manual	core	She has a narrow, recessed {1}.	彼女の{1}は細く引っ込んでいる。
+manual	core	It has a narrow, recessed {1}.	それの{1}は細く引っ込んでいる。
+manual	core	They have a narrow, recessed {1}.	彼らの{1}は細く引っ込んでいる。
+manual	core	You have a narrow, recessed {1}.	あなたの{1}は細く引っ込んでいる。
+manual	core	He has a narrow, prominent {1}.	彼の{1}は細く突き出ている。
+manual	core	She has a narrow, prominent {1}.	彼女の{1}は細く突き出ている。
+manual	core	It has a narrow, prominent {1}.	それの{1}は細く突き出ている。
+manual	core	They have a narrow, prominent {1}.	彼らの{1}は細く突き出ている。
+manual	core	You have a narrow, prominent {1}.	あなたの{1}は細く突き出ている。
+manual	core	He has a broad, prominent {1}.	彼の{1}は広く突き出ている。
+manual	core	She has a broad, prominent {1}.	彼女の{1}は広く突き出ている。
+manual	core	It has a broad, prominent {1}.	それの{1}は広く突き出ている。
+manual	core	They have a broad, prominent {1}.	彼らの{1}は広く突き出ている。
+manual	core	You have a broad, prominent {1}.	あなたの{1}は広く突き出ている。
+manual	core	He has a deeply recessed, narrow {1}.	彼の{1}は深く引っ込んで細い。
+manual	core	She has a deeply recessed, narrow {1}.	彼女の{1}は深く引っ込んで細い。
+manual	core	It has a deeply recessed, narrow {1}.	それの{1}は深く引っ込んで細い。
+manual	core	They have a deeply recessed, narrow {1}.	彼らの{1}は深く引っ込んで細い。
+manual	core	You have a deeply recessed, narrow {1}.	あなたの{1}は深く引っ込んで細い。
+manual	core	He has a narrow, jutting {1}.	彼の{1}は細く前に張り出している。
+manual	core	She has a narrow, jutting {1}.	彼女の{1}は細く前に張り出している。
+manual	core	It has a narrow, jutting {1}.	それの{1}は細く前に張り出している。
+manual	core	They have a narrow, jutting {1}.	彼らの{1}は細く前に張り出している。
+manual	core	You have a narrow, jutting {1}.	あなたの{1}は細く前に張り出している。
+manual	core	He has a deeply recessed, broad {1}.	彼の{1}は深く引っ込んで広い。
+manual	core	She has a deeply recessed, broad {1}.	彼女の{1}は深く引っ込んで広い。
+manual	core	It has a deeply recessed, broad {1}.	それの{1}は深く引っ込んで広い。
+manual	core	They have a deeply recessed, broad {1}.	彼らの{1}は深く引っ込んで広い。
+manual	core	You have a deeply recessed, broad {1}.	あなたの{1}は深く引っ込んで広い。
+manual	core	He has a massive {1}.	彼の{1}は途方もなく大きい。
+manual	core	She has a massive {1}.	彼女の{1}は途方もなく大きい。
+manual	core	It has a massive {1}.	それの{1}は途方もなく大きい。
+manual	core	They have a massive {1}.	彼らの{1}は途方もなく大きい。
+manual	core	You have a massive {1}.	あなたの{1}は途方もなく大きい。
+# 体の特徴のまとめの「but」の形（"She is slow to tire, but she is very slow to heal, quite clumsy and …"）
+manual	core	He is {1}, but he is {2}.	彼は{1}。ただし{2}。
+manual	core	He is {1} and {2}, but he is {3}.	彼は{1}、{2}。ただし{3}。
+manual	core	She is {1}, but she is {2}.	彼女は{1}。ただし{2}。
+manual	core	She is {1} and {2}, but she is {3}.	彼女は{1}、{2}。ただし{3}。
+manual	core	It is {1}, but it is {2}.	それは{1}。ただし{2}。
+manual	core	It is {1} and {2}, but it is {3}.	それは{1}、{2}。ただし{3}。
+manual	core	They are {1}, but they are {2}.	彼らは{1}。ただし{2}。
+manual	core	They are {1} and {2}, but they are {3}.	彼らは{1}、{2}。ただし{3}。
+manual	core	You are {1}, but you are {2}.	あなたは{1}。ただし{2}。
+manual	core	You are {1} and {2}, but you are {3}.	あなたは{1}、{2}。ただし{3}。
+# 品物の装飾の文（芸術品の説明など）
+manual	core	It is studded with {1}.	{1}が散りばめられている。
+manual	core	It is studded with {1} and studded with {2}.	{1}が散りばめられ、{2}が散りばめられている。
+manual	core	It is studded with {1} and encrusted with {2}.	{1}が散りばめられ、{2}がはめ込まれている。
+manual	core	It is studded with {1} and decorated with {2}.	{1}が散りばめられ、{2}で飾られている。
+manual	core	It is studded with {1} and glazed with {2}.	{1}が散りばめられ、{2}で釉がかけられている。
+manual	core	It is studded with {1} and encircled with bands of {2}.	{1}が散りばめられ、{2}の帯が巻かれている。
+manual	core	It is studded with {1} and adorned with hanging rings of {2}.	{1}が散りばめられ、{2}の吊り輪が下がりている。
+manual	core	It is encrusted with {1}.	{1}がはめ込まれている。
+manual	core	It is encrusted with {1} and studded with {2}.	{1}がはめ込まれ、{2}が散りばめられている。
+manual	core	It is encrusted with {1} and encrusted with {2}.	{1}がはめ込まれ、{2}がはめ込まれている。
+manual	core	It is encrusted with {1} and decorated with {2}.	{1}がはめ込まれ、{2}で飾られている。
+manual	core	It is encrusted with {1} and glazed with {2}.	{1}がはめ込まれ、{2}で釉がかけられている。
+manual	core	It is encrusted with {1} and encircled with bands of {2}.	{1}がはめ込まれ、{2}の帯が巻かれている。
+manual	core	It is encrusted with {1} and adorned with hanging rings of {2}.	{1}がはめ込まれ、{2}の吊り輪が下がりている。
+manual	core	It is decorated with {1}.	{1}で飾られている。
+manual	core	It is decorated with {1} and studded with {2}.	{1}で飾られ、{2}が散りばめられている。
+manual	core	It is decorated with {1} and encrusted with {2}.	{1}で飾られ、{2}がはめ込まれている。
+manual	core	It is decorated with {1} and decorated with {2}.	{1}で飾られ、{2}で飾られている。
+manual	core	It is decorated with {1} and glazed with {2}.	{1}で飾られ、{2}で釉がかけられている。
+manual	core	It is decorated with {1} and encircled with bands of {2}.	{1}で飾られ、{2}の帯が巻かれている。
+manual	core	It is decorated with {1} and adorned with hanging rings of {2}.	{1}で飾られ、{2}の吊り輪が下がりている。
+manual	core	It is glazed with {1}.	{1}で釉がかけられている。
+manual	core	It is glazed with {1} and studded with {2}.	{1}で釉がかけられ、{2}が散りばめられている。
+manual	core	It is glazed with {1} and encrusted with {2}.	{1}で釉がかけられ、{2}がはめ込まれている。
+manual	core	It is glazed with {1} and decorated with {2}.	{1}で釉がかけられ、{2}で飾られている。
+manual	core	It is glazed with {1} and glazed with {2}.	{1}で釉がかけられ、{2}で釉がかけられている。
+manual	core	It is glazed with {1} and encircled with bands of {2}.	{1}で釉がかけられ、{2}の帯が巻かれている。
+manual	core	It is glazed with {1} and adorned with hanging rings of {2}.	{1}で釉がかけられ、{2}の吊り輪が下がりている。
+manual	core	It is encircled with bands of {1}.	{1}の帯が巻かれている。
+manual	core	It is encircled with bands of {1} and studded with {2}.	{1}の帯が巻かれ、{2}が散りばめられている。
+manual	core	It is encircled with bands of {1} and encrusted with {2}.	{1}の帯が巻かれ、{2}がはめ込まれている。
+manual	core	It is encircled with bands of {1} and decorated with {2}.	{1}の帯が巻かれ、{2}で飾られている。
+manual	core	It is encircled with bands of {1} and glazed with {2}.	{1}の帯が巻かれ、{2}で釉がかけられている。
+manual	core	It is encircled with bands of {1} and encircled with bands of {2}.	{1}の帯が巻かれ、{2}の帯が巻かれている。
+manual	core	It is encircled with bands of {1} and adorned with hanging rings of {2}.	{1}の帯が巻かれ、{2}の吊り輪が下がりている。
+manual	core	It is adorned with hanging rings of {1}.	{1}の吊り輪が下がりている。
+manual	core	It is adorned with hanging rings of {1} and studded with {2}.	{1}の吊り輪が下がり、{2}が散りばめられている。
+manual	core	It is adorned with hanging rings of {1} and encrusted with {2}.	{1}の吊り輪が下がり、{2}がはめ込まれている。
+manual	core	It is adorned with hanging rings of {1} and decorated with {2}.	{1}の吊り輪が下がり、{2}で飾られている。
+manual	core	It is adorned with hanging rings of {1} and glazed with {2}.	{1}の吊り輪が下がり、{2}で釉がかけられている。
+manual	core	It is adorned with hanging rings of {1} and encircled with bands of {2}.	{1}の吊り輪が下がり、{2}の帯が巻かれている。
+manual	core	It is adorned with hanging rings of {1} and adorned with hanging rings of {2}.	{1}の吊り輪が下がり、{2}の吊り輪が下がりている。
+manual	core	All craftsdwarfship is of the highest quality.	すべての造りが最高の出来だ。
+manual	core	All craftsdwarfship is of the finest quality.	すべての造りがこの上ない出来だ。
+manual	core	All craftsmanship is of the finest quality.	すべての造りがこの上ない出来だ。
+133d990	core	Needs {1}	{1}が必要{REST}
+manual	core	{1} has claimed a {2}.	{1}が{2}を占有した。
+manual	core	{1} has begun a mysterious construction!	{1}が謎めいた建造を始めた！
+133d990	prefix	{1} cancels {2}: 	{1}が「{2}」を取り消し: 
+manual	core	Whether by bolt, plow or hook, provide for your dwarves.	矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。
+manual	core	Enough time to delve secure lodgings, ere the {1} get hungry.	{1}が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。
+manual	core	[B]A new chapter of dwarven history begins here at this place, {1}, "{2}".	[B]ここ{1}「{2}」で、ドワーフの歴史の新たな章が幕を開けます。
+manual	core	[C:2:0:1]Strike the earth![C:7:0:0]	[C:2:0:1]大地を穿て！[C:7:0:0]
+manual	core	[B]A new chapter of dwarven history begins here at this place, {1}, "{2}".  [C:2:0:1]Strike the earth![C:7:0:0]	[B]ここ{1}「{2}」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+manual	core	{1} seems willing to trade.	{1}は取引に応じそうだ。
+manual	core	Merchants from {1}	{1}の商人
+manual	core	Your fortress of {1}	あなたの砦 {1}
+manual	core	{1} is fighting!	{1}が戦っている！
+manual	core	Somebody is fighting!	誰かが戦っている！
+manual	core	{1} killed {2}.	{1}が{2}を殺した。

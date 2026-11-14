@@ -1,0 +1,149 @@
+** Loading Fortress **
+** Starting Adventure **
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+A ligament has been torn and a tendon has been torn!
+A snow storm has come.
+Although it is a grim reminder of the winter hardships to come, the supply caravan from The Knives of Ransacking is a welcome sight. Their eyes are alight with the anticipation of inspecting the splendid products of your industrious craftsdwarves. [B]Take careful stock of your own stores. What these merchants offer might very well be the difference between a prosperous future and a slow and meaningless death.
+An animal has grown to become a Stray Yak Bull.
+An artery has been opened by the attack!
+Autumn has come.
+It has started raining.
+It is now summer.
+Some migrants have arrived.
+The animal caretaker Unib Adilgim: How fleeting life is...  Begone fear!
+The animal caretaker Unib Adilgim: I must withdraw!
+The expedition leader attacks the kea but He jumps away!
+The expedition leader grabs the kea by the first toe, left foot with her right hand, but the attack glances away!
+The expedition leader grabs the kea by the second toe, right foot with her right lower arm!
+The expedition leader misses the kea!
+The expedition leader punches the kea in the head with her left hand and the injured part collapses into a lump of gore!
+The expedition leader punches the kea in the head with her left hand and the injured part explodes into gore!
+The expedition leader punches the kea in the left foot with her right hand, bruising the skin!
+The expedition leader punches the kea in the lower body with her left hand, bruising the fat!
+The expedition leader punches the kea in the right wing with her right hand, but the attack glances away!
+The expedition leader punches the kea in the upper body with her right hand, bruising the muscle and shattering the right false ribs!
+The expedition leader throws the kea by the second toe, right foot with The expedition leader's right lower arm!
+The farmer Bëmbul Mengber (to the farmer Kosoth Eralmasos): Ah, hello.  I'm Bëmbul Lashearths.
+The farmer Bëmbul Mengber: It was raining on me.  It's annoying.
+The farmer Bëmbul Mengber: There's fighting!  I feel very uneasy.
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): ... and the goblins said, "Are you going to eat that?"
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): Greetings.  My name is Dastot Dyerose.
+The farmer Geshud Zontögum (to the farmer Dastot Atírlocun): Ah, hello.  I'm Geshud Helmverse.
+The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.
+The farmer Kogan Lelumingish: Really?  Alright.
+The farmer Kogan Lelumingish: Really?  Please come closer.
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): Greetings.  My name is Kosoth Vesseltalk.
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): I've been rained on.  That's very annoying.
+The farmer Kosoth Eralmasos: I was out in the rain.  That's very annoying.
+The farmer Momuz Mengrab: Hello.  It is good to see you.
+The farmer Momuz Mengrab: You should probably try a shopkeeper.
+The farmer Nomal Koganusen: Hello.  It is good to see you.
+The fisherdwarf attacks the kea but She jumps away!
+The fisherdwarf bounces backward!
+The fisherdwarf charges at the expedition leader!
+The fisherdwarf collides with the expedition leader!
+The fisherdwarf grabs the kea by the left lower leg with his left upper arm!
+The fisherdwarf is no longer stunned.
+The fisherdwarf jumps out of the kea's flight path!
+The fisherdwarf misses the kea!
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the guts!
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the left kidney!
+The fisherdwarf punches the kea in the neck with his left hand, bruising the fat!
+The fisherdwarf punches the kea in the right upper leg with his left hand and the injured part is smashed into the body, an unrecognizable mass!
+The fisherdwarf stands up.
+The force bends the left front leg!
+The force bends the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The force pulls the left front paw!
+The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.
+The herbalist Sigun Borlonerib: There's fighting!  I feel very uneasy.
+The herbalist Sigun Borlonerib: Well, let's see...
+The hunter Thîkut Samamustuth is having trouble breathing!
+The hunter Thîkut Samamustuth: A battle!  I feel very uneasy.
+The hunter Thîkut Samamustuth: Can it all end so quickly?  Begone fear!
+The hunter Thîkut Samamustuth: Has the tide turned?  I am not scared!
+The hunter Thîkut Samamustuth: Help!  Save me!
+The hunter Thîkut Samamustuth: The Trussed Armor rules Plaittome.  I don't care one way or another.
+The kea attacks the expedition leader but She jumps away!
+The kea attacks the stray dog but She jumps away!
+The kea bites the stray dog in the fourth left rear toe, but the attack glances away!
+The kea bites the stray dog in the left front leg, denting the skin and bruising the fat!
+The kea bites the stray dog in the left rear paw, denting the skin and bruising the fat!
+The kea bites the stray dog in the lower body, denting the skin and bruising the fat!
+The kea gives in to pain.
+The kea grabs the stray dog by the fourth right rear toe with her left wing!
+The kea has become enraged!
+The kea has been knocked unconscious!
+The kea is knocked over and tumbles backward!
+The kea is propelled away by the force of the blow!
+The kea latches on firmly!
+The kea looks sick!
+The kea misses the expedition leader!
+The kea misses the fisherdwarf!
+The kea misses the stray dog!
+The kea slams into an obstacle!
+The kea snatches at the expedition leader in the left upper arm with his first toe, right foot, bruising the muscle through the (cave spider silk dress)!
+The kea snatches at the fisherdwarf in the left lower leg with her first toe, right foot, bruising the fat through the (giant cave spider silk trousers)!
+The kea snatches at the fisherdwarf in the lower body with her first toe, right foot, bruising the muscle and bruising the left kidney through the (alpaca wool tunic)!
+The kea snatches at the stray dog in the fourth left front toe with her first toe, right foot, but the attack glances away!
+The kea snatches at the stray dog in the left front leg with his first toe, right foot, denting the skin and bruising the muscle!
+The kea snatches at the stray dog in the left front paw with her first toe, left foot, tearing the fat and bruising the muscle!
+The kea snatches at the stray dog in the left front paw with his first toe, left foot, denting the skin!
+The kea snatches at the stray dog in the tail with her first toe, left foot, tearing the fat!
+The kea stands up.
+The kea vomits.
+The kea's head skids along the ground, bruising the muscle, bruising the skull!
+The kea's left wing skids along the ground, bruising the bone!
+The kea's left wing skids along the ground, bruising the muscle!
+The kea's upper body skids along the ground, bruising the muscle and bruising the liver!
+The mayor Naco Ciraathe is having trouble breathing!
+The mayor Naco Ciraathe misses you!
+The mayor Naco Ciraathe: A battle!  I feel very uneasy.
+The mayor Naco Ciraathe: Stop!  This isn't happening!
+The merchants need a trade depot to unload their goods.
+The outpost liaison Datan Mörulamud from Zasit Vudthar has arrived.
+The stonecrafter grabs the kea by the third toe, right foot with her left lower arm!
+The stonecrafter punches the kea in the upper body with her left hand, bruising the muscle and bruising the left lung!
+The stonecrafter stands up.
+The stray dog attacks the kea but He jumps away!
+The stray dog attacks the kea but She jumps away!
+The stray dog bites the kea in the left foot, tearing apart the skin!
+The stray dog bites the kea in the left upper leg, tearing apart the skin!
+The stray dog bites the kea in the upper body, tearing the muscle and bruising the right lung!
+The stray dog breaks the grip of the kea's left wing on The stray dog's fourth right rear toe.
+The stray dog charges at the kea!
+The stray dog collides with the kea!
+The stray dog misses the kea!
+The stray dog scratches the kea in the second toe, right foot, but the attack glances away!
+The weather has cleared.
+There is nothing to catch in the central swamps.
+You attack the farmer Avuz Duthalid but She jumps away!
+You attack the hunter Thîkut Samamustuth but He jumps away!
+You bash the hunter Thîkut Samamustuth in the upper body from behind with your iron mace, bruising the muscle and bruising the right lung through the pig tail tunic!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the fat through the llama wool tunic!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and bruising the right lung through the llama wool tunic!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and shattering the left floating ribs through the llama wool tunic!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle, jamming the left false ribs through the left lung and tearing the left lung!
+You hack the animal caretaker Unib Adilgim in the upper body with your iron battle axe, tearing apart the muscle and tearing apart the liver through the xwater buffalo leather tunicx!
+You've finally got your equipment together, such as it is.  Now it's time for action and adventure!  In the rush of excitement, you've forgotten where you were going to go.  Perhaps some of your friends here can remind you.
+You: Hello Momuz.  This servant of labor greets you.
+You: Hello Nomal.
+You: Here's something you might be interested in...
+You: How have things been?
+You: I've defeated many fearsome opponents!
+You: Let's trade.
+You: Tell me about the local ruler.
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tiristidrom, "Rimshort".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the carnotaurus get hungry. [B]A new chapter of dwarven history begins here at this place, Lulârtobul, "Rootedcanyon".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Duthaldegël, "Worthgalleys".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Kilrudustir, "Bronzecrow".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Koganakmam, "Boatsink".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Libashlist, "Axegaze".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Zanossibrek, "Hopesalves".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Dakosttun, "Floordoors".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Ducimgomath, "Worklegend".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Rigòthbomrek, "Craftswhip".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tosidråsh, "Armordies".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Alåthstibmer, "Boltshore".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Orstistvutok, "Reclusefigure".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Åbleludib, "Bustsyrup".  [C:2:0:1]Strike the earth![C:7:0:0]

@@ -1,0 +1,9 @@
+When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must click on the depot and select [C:5:0:1]"Bring Goods to Depot"[C:7:0:0].
+Here you can select which goods you wish to trade.
+After everyone has brought their goods you can select [C:5:0:1]"Trade"[C:7:0:0].
+Don't worry if you have no [C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]"Anyone can Trade"[C:7:0:0].
+You cannot trade until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the depot.
+When trading you select which goods you want from the list on the left, and which goods of yours to trade from the list on the right.
+Then hit [C:5:0:1]"Trade"[C:7:0:0].
+The trader will accept if the deal is fair and they can carry away the weight of the things you are selling.
+Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with be shown if their skill is high enough.

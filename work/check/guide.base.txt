@@ -1,0 +1,481 @@
+Prepare to guide your stout charges to fortune in a world fraught with many perils.	危険に満ちた世界で、屈強な民を栄光へと導く準備をしてください
+You'll begin by creating your world and watching the region's history unfold.	まず世界を創造し、地域の歴史が移り変わる様子をご覧ください
+Once this process is complete, you can prepare a group and send them out to seek wealth deep in the mountains.	この処理が完了したら、一団を編成して山奥の富を求めて送り出すことができます
+As you dig deeper and more citizens take up residence in your outpost, your doings will attract attention, both wanted and unwanted.	掘り進めて居住者が拠点に住み着くにつれ、あなたの行いは望まれるものも望まれないものも含めて注目を集めるようになります
+Deal with challenges as they arise, and you might one day find that your humble settlement has grown to become a Mountainhome, the center of your civilization.	課題が生じるたびに対処していけば、いつか質素な集落が文明の中心である山の拠点へと成長していることに気づくかもしれません。
+Would you like your fortress located in a forested mineral-rich region of this world where you can play through a short tutorial?	短いチュートリアルを進められるよう、この世界の森林があり鉱物の豊富な地域に要塞を置きますか？
+Non-interactive help will be available whatever you decide.	どちらを選んでも、操作不要のヘルプは利用できます。
+If this is your first time playing, please heed the embark warnings about aquifers, saltwater, and other hazards.	初めてプレイされる場合は、帯水層や塩水などの危険に関する入植時の警告に必ずご注意ください
+Some locations are challenging even for experienced players, and it will be a very short game indeed if you don't know how to deal with them!	経験豊富なプレイヤーにとってさえ難しい場所があり、対処法を知らなければ本当にすぐゲームオーバーになります！
+After you embark, help is available by pressing the help button in the top right corner, including all of the tutorials.	出発後も、右上隅のヘルプボタンからすべてのチュートリアルを含む助けを得られます。
+You can zoom in and out of the play area using [KEY:][KEY:], [C:2:0:1]Ctrl+mouse wheel[C:7:0:0], or the indicated buttons.	プレイエリアの拡大・縮小は[KEY:][KEY:]、[C:2:0:1]Ctrl+マウスホイール[C:7:0:0]、または表示されているボタンでできます。
+Let's make a safe place to work.	作業のための安全な場所を作りましょう
+Select [C:5:0:1]Regular Mining[C:7:0:0] mode, to the left of [C:5:0:1]Stair Mining[C:7:0:0] mode.	[C:5:0:1]階段採掘[C:7:0:0]モードの左にある[C:5:0:1]通常採掘[C:7:0:0]モードを選択してください。
+Dig a rectangle underground big enough for a large [C:6:0:0]Stockpile[C:7:0:0] and some [C:6:0:0]Workshops[C:7:0:0].	大きな[C:6:0:0]備蓄庫[C:7:0:0]と数軒の[C:6:0:0]工房[C:7:0:0]が入る大きさの長方形を地下に掘ってください。
+Consider that most [C:6:0:0]Workshops[C:7:0:0] are 3x3 squares.	ほとんどの[C:6:0:0]工房[C:7:0:0]は3x3の正方形であることを考慮してください
+Mining through the stone layers further down may take longer, but it leaves [C:6:0:1]Boulders[C:7:0:0] which are an essential building material.	さらに下の石の層を採掘すると時間はかかりますが、建築に欠かせない資材である[C:6:0:1]丸石[C:7:0:0]が得られます。
+Later you can consider making a [C:3:0:0]Meeting Area[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu.	後で、[C:5:0:1]ゾーン[C:7:0:0]メニューから[C:3:0:0]集会所[C:7:0:0]を作ることも検討できます。
+Otherwise your citizens will continue to gather by the [C:6:0:0]Wagon[C:7:0:0] outside.	そうしないと、市民は外にある[C:6:0:0]荷馬車[C:7:0:0]のそばに集まり続けます。
+If unpaused, your workers should start unloading the wagon into the [C:6:0:0]Stockpile[C:7:0:0].	一時停止を解除すれば、作業員は荷馬車の積荷を[C:6:0:0]備蓄庫[C:7:0:0]へ降ろし始めるはずです。
+Later you may want to customize your [C:6:0:0]Stockpiles[C:7:0:0] by clicking on them and pressing the [C:5:0:1]Custom[C:7:0:0] button to forbid certain categories, like [C:5:0:1]Refuse[C:7:0:0] for example.	後で、[C:6:0:0]倉庫[C:7:0:0]をクリックして[C:5:0:1]カスタム[C:7:0:0]ボタンを押し、たとえば[C:5:0:1]廃棄物[C:7:0:0]など特定の分類を禁止することで、倉庫を好みに合わせて設定することもできます。
+A separate [C:6:0:0]Refuse Stockpile[C:7:0:0] is a good idea to keep your fortress clean.	要塞を清潔に保つには、別に[C:6:0:0]廃棄物倉庫[C:7:0:0]を設けるとよいでしょう。
+If the [C:5:0:1]Stockpile[C:7:0:0] menu is still open, you can close it now by right-clicking.	[C:5:0:1]倉庫[C:7:0:0]メニューがまだ開いている場合は、右クリックで閉じられます。
+Right-clicking can always be used to close most menus, as well as [KEY:].	右クリックは、[KEY:]と同じく、たいていのメニューを閉じるのに使えます。
+Now we just need to wait for the woodcutter to chop down the tree.	あとは木こりが木を切り倒すのを待つだけです
+If the fallen logs are accessible, everyone will help store them in the [C:6:0:0]Stockpile[C:7:0:0].	倒木に近づけるなら、全員で[C:6:0:0]備蓄庫[C:7:0:0]に運ぶのを手伝います。
+You can right click to close [C:5:0:1]Woodcutting[C:7:0:0] mode.	右クリックで[C:5:0:1]伐採[C:7:0:0]モードを閉じられます。
+Right clicking closes most menus.	右クリックでほとんどのメニューは閉じます。
+If all of your [C:6:0:0]Stockpiles[C:7:0:0] are full, go ahead and place another one.	すべての[C:6:0:0]備蓄庫[C:7:0:0]がいっぱいなら、もう一つ設置してください。
+With a [C:6:0:0]Bed[C:7:0:0] placed, your workers will have somewhere to sleep.	[C:6:0:0]ベッド[C:7:0:0]を置けば、作業員に寝る場所ができます
+Later you can create a room with a [C:6:0:0]Door[C:7:0:0] and use the [C:5:0:1]Zones[C:7:0:0] menu to assign an official [C:3:0:0]Bedroom[C:7:0:0] for each resident.	後で、[C:6:0:0]扉[C:7:0:0]付きの部屋を作り、[C:5:0:1]ゾーン[C:7:0:0]メニューで住民ごとに正式な[C:3:0:0]寝室[C:7:0:0]を割り当てることができます。
+Feel free to pause and check out the information.	自由に一時停止して情報を確認してください。
+Right click to dismiss the information sheet.	右クリックで情報画面を閉じます。
+Hover over an alert icon to see the information.	警告アイコンにカーソルを合わせると情報が表示されます。
+Left click on an alert for recentering options, and right click to dismiss an alert.	通知を左クリックすると再中央表示の選択肢が出て、右クリックすると通知を閉じられます。
+There has been one already!	もう一度あったぞ！
+There have been a few already!	もういくつかあったぞ！
+There have been several already!	すでに何度もあった！
+You may need supplies before the coming of winter.	冬の到来前に物資が必要になるかもしれません
+To trade with the autumn caravan, you must build a [C:6:0:0]Trade Depot[C:7:0:0] from the [C:5:0:1]Build[C:7:0:0] menu.	秋のキャラバンと交易するには、[C:5:0:1]建設[C:7:0:0]メニューから[C:6:0:0]交易所[C:7:0:0]を建設しなければなりません。
+You need something of value to trade.	交易するための価値あるものが必要です。
+[C:6:0:1]Crafts[C:7:0:0] are an easy way to make a lot of trade goods quickly.	[C:6:0:1]工芸品[C:7:0:0]は、交易品を手早くたくさん作るための簡単な方法です。
+Make the appropriate workshop with [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Crafts[C:7:0:0].	[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]工芸[C:7:0:0]から適切な工房を作ってください。
+An obvious material to use to make the crafts is rock.	工芸品を作るのに明らかな素材は岩石です。
+If you dig down enough layers you will find a near infinite amount of [C:6:0:1]Boulders[C:7:0:0] of various kinds as well as some [C:6:0:1]Rough Gems[C:7:0:0] if you are lucky.	十分に深く掘れば、さまざまな種類の[C:6:0:1]丸石[C:7:0:0]が無限に近いほど見つかり、運が良ければ[C:6:0:1]原石[C:7:0:0]も見つかります。
+[C:6:0:1]Gems[C:7:0:0] can be [C:3:0:1]Cut[C:7:0:0] at the [C:6:0:0]Jeweler's Workshop[C:7:0:0].	[C:6:0:1]宝石[C:7:0:0]は[C:6:0:0]宝石細工工房[C:7:0:0]で[C:3:0:1]カット[C:7:0:0]できます。
+[C:3:0:1]Encrust[C:7:0:0] them on [C:6:0:1]Crafts[C:7:0:0] and other items to add even more value.	[C:6:0:1]工芸品[C:7:0:0]や他の品物に[C:3:0:1]はめ込めば[C:7:0:0]、さらに価値を高められます。
+There's a lot more to learn!	学ぶことはまだたくさんある！
+As you enter new menus, there will be information and tips.	新しいメニューに入ると、情報やヒントが表示されます。
+The [C:5:0:1]Help[C:7:0:0] button at the top of the screen contains more guides.	画面上部の[C:5:0:1]ヘルプ[C:7:0:0]ボタンには、さらに案内があります。
+Click it now, and this tutorial will be concluded.	今クリックすると、このチュートリアルは終了します。
+[C:7:0:1]Drink[C:7:0:0]	[C:7:0:1]飲み物[C:7:0:0]
+There are two ways to make drinks for your residents.	住民のための酒を作る方法は2つあります。
+The main way is by brewing alcohol.	主な方法は酒の醸造である。
+This is done by building a [C:6:0:0]Still[C:7:0:0] from the [C:5:0:1]Build[C:7:0:0] menu using [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Still[C:7:0:0].	これは、[C:5:0:1]建設[C:7:0:0]メニューから[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]農業[C:7:0:0] -> [C:5:0:1]蒸留器[C:7:0:0]を使って[C:6:0:0]蒸留器[C:7:0:0]を建設することで行います。
+Once the [C:6:0:0]Still[C:7:0:0] is constructed, click on it and add the task [C:3:0:1]Brew Drink from Plant (or fruit)[C:7:0:0].	[C:6:0:0]蒸留器[C:7:0:0]が完成したら、それをクリックして作業[C:3:0:1]植物（または果物）から飲料を醸造[C:7:0:0]を追加してください。
+If you have no suitable [C:6:0:1]Plants[C:7:0:0], you may try [C:5:0:1]Planting[C:7:0:0] or [C:5:0:1]Gathering[C:7:0:0].	適した[C:6:0:1]植物[C:7:0:0]がない場合は、[C:5:0:1]植え付け[C:7:0:0]か[C:5:0:1]採集[C:7:0:0]を試してみてください
+The task also requires a [C:6:0:1]Barrel[C:7:0:0] from the [C:6:0:0]Carpenter's Workshop[C:7:0:0].	この作業には、[C:6:0:0]木工房[C:7:0:0]で作った[C:6:0:1]樽[C:7:0:0]も必要です。
+If you survive until the caravan comes you may also trade for [C:6:0:1]Drinks[C:7:0:0] or [C:6:0:1]Plants[C:7:0:0] there.	キャラバンが来るまで生き延びれば、そこで[C:6:0:1]飲み物[C:7:0:0]や[C:6:0:1]植物[C:7:0:0]を交易することもできます。
+The number of [C:6:0:1]Drink[C:7:0:0] rations can be seen at the top of the screen.	[C:6:0:1]飲料[C:7:0:0]の配給数は画面上部で確認できます。
+Absent alcohol and in warmer weather, you can designate a [C:3:0:0]Water Source[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu at a river or pond, so that your residents have water to drink.	酒がない場合や暖かい季節には、[C:5:0:1]ゾーン[C:7:0:0]メニューから川や池に[C:3:0:0]水源[C:7:0:0]を指定すると、住民が飲み水を得られます。
+You'll want one of these anyway for other purposes, like cleaning and certain [C:6:0:0]Workshop[C:7:0:0] tasks.	掃除や特定の[C:6:0:0]工房[C:7:0:0]作業など、ほかの目的のためにも、いずれ一つは必要になるでしょう
+You may find water underground.	地下で水が見つかることもあります。
+Now your [C:2:0:0]Planters[C:7:0:0], those that can access both the [C:6:0:0]Farmplot[C:7:0:0] and the [C:6:0:1]Spawn[C:7:0:0], will plant the field, and after a period of growth, they'll be harvested.	今や[C:6:0:0]農地[C:7:0:0]と[C:6:0:1]種苗[C:7:0:0]の両方に近づける[C:2:0:0]植え付け係[C:7:0:0]が畑に植え付けを行い、成長期間の後に収穫されます。
+If you'd like to focus a few of your citizens on farming, which gives skill benefits, you can assign them to the [C:2:0:0]Planters[C:7:0:0] work detail from the [C:5:0:1]Labor[C:7:0:0] menu.	技能の上昇効果がある農業に市民を数人集中させたい場合は、[C:5:0:1]労働[C:7:0:0]メニューから[C:2:0:0]植え付け係[C:7:0:0]の作業班に割り当てられます。
+[C:6:0:1]Fertilizer[C:7:0:0] and skilled [C:2:0:0]Planters[C:7:0:0] have a direct impact on crop yield.	[C:6:0:1]肥料[C:7:0:0]と熟練した[C:2:0:0]植え付け人[C:7:0:0]は、作物の収穫量に直接影響します。
+These effects are more pronounced deep underground where you can locate the cavern biome and its rich soil.	これらの効果は、洞窟の生物群系とその肥えた土壌を見つけられる地下深くでより顕著です。
+[C:6:0:1]Potash[C:7:0:0] is the fertilizer of choice, and it can be created in the [C:6:0:0]Ashery[C:7:0:0], using [C:6:0:1]Ash[C:7:0:0] from [C:6:0:1]Wood[C:7:0:0] burned in a [C:6:0:0]Wood Furnace[C:7:0:0].	[C:6:0:1]炭酸カリ[C:7:0:0]は好まれる肥料で、[C:6:0:0]灰汁小屋[C:7:0:0]で、[C:6:0:0]木材炉[C:7:0:0]で燃やした[C:6:0:1]木材[C:7:0:0]の[C:6:0:1]灰[C:7:0:0]を使って作れます。
+A [C:3:0:0]Water Source[C:7:0:0] zone and a [C:6:0:1]Bucket[C:7:0:0] are also required.	[C:3:0:0]水源[C:7:0:0]の区域と[C:6:0:1]バケツ[C:7:0:0]も必要です。
+[C:6:0:1]Fertilizer[C:7:0:0] is not needed to farm.	[C:6:0:1]肥料[C:7:0:0]は農作業に必要ありません。
+[C:7:0:1]Butchering[C:7:0:0]	[C:7:0:1]解体[C:7:0:0]
+[C:6:0:1]Meat[C:7:0:0] from [C:2:0:0]Livestock[C:7:0:0] you slaughter is a source of food.	[C:6:0:1]肉[C:7:0:0]は、屠殺した[C:2:0:0]家畜[C:7:0:0]から得られる食料源です。
+To slaughter an [C:2:0:0]Animal[C:7:0:0] you must first build a [C:6:0:0]Butcher's Shop[C:7:0:0].	[C:2:0:0]動物[C:7:0:0]を屠殺するには、まず[C:6:0:0]肉屋[C:7:0:0]を建設しなければなりません。
+Do this by selecting the building in [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Butcher[C:7:0:0].	[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]農業[C:7:0:0] -> [C:5:0:1]精肉所[C:7:0:0]で建物を選んで行ってください。
+Once the shop is built, open the [C:5:0:1]Creatures[C:7:0:0] info menu.	店が建ったら、[C:5:0:1]生物[C:7:0:0]の情報メニューを開きます。
+From there select the [C:5:0:1]Pets/Livestock[C:7:0:0] tab.	そこで[C:5:0:1]ペット/家畜[C:7:0:0]タブを選択します。
+There you can select which [C:2:0:0]Animals[C:7:0:0] to slaughter.	ここでは、屠殺する[C:2:0:0]動物[C:7:0:0]を選択できます。
+You may need to minimize the tutorial to see the [C:5:0:1]Slaughter[C:7:0:0] buttons.	[C:5:0:1]屠殺[C:7:0:0]ボタンを見るには、チュートリアルを最小化する必要があるかもしれません。
+Note that some [C:2:0:0]Livestock[C:7:0:0] must eat vegetation to survive.	一部の[C:2:0:0]家畜[C:7:0:0]は生き延びるために植物を食べる必要があることに注意してください。
+To keep them alive use the [C:3:0:0]Pen/Pasture[C:7:0:0] zone from the [C:5:0:1]Zones[C:7:0:0] menu to select a section of grass and click the add button to assign the [C:2:0:0]Animals[C:7:0:0].	家畜を生かしておくには、[C:5:0:1]ゾーン[C:7:0:0]メニューから[C:3:0:0]囲い/放牧地[C:7:0:0]ゾーンを使い、草地の一区画を選んで追加ボタンを押し、[C:2:0:0]動物[C:7:0:0]を割り当ててください。
+[C:3:0:0]Zones[C:7:0:0] are areas you designate where your citizens will work, socialize, rest, or perform specific duties.	[C:3:0:0]ゾーン[C:7:0:0]は、住民が作業、交流、休息、または特定の任務を行う場所として指定する区域です。
+There are several kinds of [C:3:0:0]Zones[C:7:0:0], which you can see in the panel on the left.	[C:3:0:0]区域[C:7:0:0]にはいくつかの種類があり、左のパネルで確認できます。
+[C:3:0:0]Zones[C:7:0:0] are placed much like [C:6:0:0]Stockpiles[C:7:0:0].	[C:3:0:0]区域[C:7:0:0]は[C:6:0:0]備蓄庫[C:7:0:0]とほぼ同じように配置します。
+Unlike [C:6:0:0]Stockpiles[C:7:0:0], multiple [C:3:0:0]Zones[C:7:0:0] can overlap.	[C:6:0:0]備蓄庫[C:7:0:0]と違い、複数の[C:3:0:0]区域[C:7:0:0]は重なることができます。
+Certain [C:3:0:0]Zones[C:7:0:0] like [C:3:0:0]Bedrooms[C:7:0:0] can be placed several at a time.	[C:3:0:0]寝室[C:7:0:0]などの特定の[C:3:0:0]区域[C:7:0:0]は、一度に複数配置できます。
+Just make sure you have the correct [C:6:0:0]Furniture[C:7:0:0] placed in the rooms with [C:6:0:0]Doors[C:7:0:0] or vertical entries separating each room before you begin.	始める前に、[C:6:0:0]扉[C:7:0:0]や各部屋を仕切る縦の出入口がある部屋に、適切な[C:6:0:0]家具[C:7:0:0]を配置してあることを確認してください。
+[C:1:0:0]Burrows[C:7:0:0] are work and living areas where citizens can be assigned.	[C:1:0:0]巣穴[C:7:0:0]は、住民を割り当てることができる作業・生活の区域です。
+Workers will try to limit their tasks to the confines of the [C:1:0:0]Burrow[C:7:0:0], but they will sometimes form paths which pass through other areas.	作業員は作業を[C:1:0:0]区画[C:7:0:0]内に限ろうとしますが、時には他の区域を通る通路を作ってしまうこともあります。
+[C:1:0:0]Burrows[C:7:0:0] can be suspended and unsuspended freely.	[C:1:0:0]区画[C:7:0:0]は自由に一時停止・再開できます。
+When a [C:1:0:0]Burrow[C:7:0:0] is suspended, assigned citizens will ignore it.	[C:1:0:0]区画[C:7:0:0]が一時停止されると、割り当てられた市民はそれを無視します。
+It can be useful to assign all of your civilians to a safe emergency [C:1:0:0]Burrow[C:7:0:0] which you activate in case of intruders.	侵入者に備えて、全市民を安全な緊急用の[C:1:0:0]区画[C:7:0:0]に割り当てておくと役立ちます。区画は侵入者の際に有効化してください。
+[C:6:0:1]Minecarts[C:7:0:0] and [C:6:0:0]Tracks[C:7:0:0] are a convenient way to move a lot of objects around the fortress quickly, though they take a little effort to prepare.	[C:6:0:1]トロッコ[C:7:0:0]と[C:6:0:0]線路[C:7:0:0]は、準備に少し手間がかかりますが、要塞内で多くの物を素早く運ぶ便利な方法です。
+One [C:6:0:1]Minecart[C:7:0:0] can be assigned to each route, and workers will move the vehicle from [C:6:0:0]Track Stop[C:7:0:0] to [C:6:0:0]Track Stop[C:7:0:0] according to conditions you specify.	各経路には[C:6:0:1]トロッコ[C:7:0:0]を1台割り当てられ、作業員は指定した条件に従って、[C:6:0:0]軌道停止点[C:7:0:0]から[C:6:0:0]軌道停止点[C:7:0:0]へ車両を動かします。
+Each [C:6:0:0]Track Stop[C:7:0:0] must be linked to a [C:6:0:0]Stockpile[C:7:0:0] for [C:6:0:1]Items[C:7:0:0] to be put on or removed from the [C:6:0:1]Minecart[C:7:0:0].	[C:6:0:1]品物[C:7:0:0]を[C:6:0:1]トロッコ[C:7:0:0]に積み込んだり降ろしたりするには、各[C:6:0:0]軌道停止点[C:7:0:0]を[C:6:0:0]備蓄庫[C:7:0:0]に接続しておく必要があります。
+Only one condition needs to be satisfied for the [C:6:0:1]Minecart[C:7:0:0] to move to the next [C:6:0:0]Track Stop[C:7:0:0].	[C:6:0:1]トロッコ[C:7:0:0]が次の[C:6:0:0]軌道停止点[C:7:0:0]へ移動するには、条件を一つ満たすだけで十分です。
+[C:6:0:1]Minecarts[C:7:0:0] that move too quickly around corners will spill their contents.	角を速く曲がりすぎる[C:6:0:1]トロッコ[C:7:0:0]は、積荷をこぼします。
+When a route has a steep descent, consider using powered [C:6:0:0]Rollers[C:7:0:0], extra curves, track "stops" between [C:6:0:0]Stops[C:7:0:0] with various friction settings, or a worker to guide the vehicle.	経路に急な下り坂がある場合は、動力付きの[C:6:0:0]ローラー[C:7:0:0]、追加のカーブ、様々な摩擦設定の[C:6:0:0]停留所[C:7:0:0]間に線路の「停止点」を設けること、または車両を誘導する作業員の使用を検討してください。
+Here you can see every [C:6:0:1]Item[C:7:0:0] in the fortress.	ここでは、要塞内のすべての[C:6:0:1]アイテム[C:7:0:0]を確認できます
+Click on category headings to collapse and expand them.	カテゴリの見出しをクリックすると、折りたたみと展開を切り替えられます。
+If you don't have a [C:5:0:0]Bookkeeper[C:7:0:0], or they don't have an [C:3:0:0]Office[C:7:0:0] to work in, numbers may be approximate.	[C:5:0:0]会計係[C:7:0:0]がいない場合、または[C:3:0:0]事務所[C:7:0:0]で働けない場合、数字は概算になることがあります。
+Work details are one way you can control which workers do which tasks, and they are the only way to assign certain tasks like mining, woodcutting, hunting, and fishing.	作業班は、どの作業員がどの作業を行うかを管理する方法の一つで、採掘、伐採、狩猟、漁労などの特定の作業を割り当てる唯一の方法です。
+Generally, almost every task will be available for every citizen, but you can both restrict both citizens and tasks.	通常、ほぼすべての作業はすべての市民が行えますが、市民と作業の両方を制限することもできます。
+Citizens are restricted by using their [C:5:0:1]Specialization[C:7:0:0] button.	住民は、[C:5:0:1]専門[C:7:0:0]ボタンを使って制限できます
+Tasks are restricted by setting their work detail to [C:5:0:1]"Only selected do this"[C:7:0:0].	作業は、作業班を[C:5:0:1]「選択した者のみが行う」[C:7:0:0]に設定することで制限されます。
+If a task does not have a default work detail, you can create a custom work detail.	作業にデフォルトの作業班がない場合は、独自の作業班を作成できます。
+Once you assign citizens to the task, you can then set [C:5:0:1]"Only selected do this"[C:7:0:0] if you want to restrict it.	市民を作業に割り当てたら、制限したい場合は[C:5:0:1]「選択した者のみが行う」[C:7:0:0]を設定できます。
+Here you can view your nobles, as well as assign your administrators, military leaders, and other officials.	ここでは貴族を確認したり、行政官、軍の指導者、その他の役人を任命したりできます。
+[C:5:0:0]Militia Commanders[C:7:0:0] are assigned here.	[C:5:0:0]民兵隊長[C:7:0:0]がここに配置されます。
+Once the first leader is assigned, subsequent [C:5:0:0]Captain[C:7:0:0] positions will appear.	最初の指導者を割り当てると、以降の[C:5:0:0]部隊長[C:7:0:0]の役職が表示されるようになります
+These can also be assigned from the squad menu.	これらは小隊メニューからも割り当てられます。
+Certain important functions in your fortress can only be performed by assigned administrators, such as the [C:5:0:0]Manager[C:7:0:0] and [C:5:0:0]Bookkeeper[C:7:0:0].	要塞の特定の重要な機能は、[C:5:0:0]管理人[C:7:0:0]や[C:5:0:0]会計係[C:7:0:0]など、割り当てられた管理者だけが行えます。
+Once they are assigned, you can create work orders, run a [C:1:0:1]Hospital[C:7:0:0], and count and appraise your hoard.	割り当てが済んだら、作業指示を作ったり、[C:1:0:1]病院[C:7:0:0]を運営したり、財宝を数えて鑑定したりできます。
+Nobles and certain administrators require rooms, and some may also make demands.	貴族や一部の管理者は部屋を必要とし、要求を出すこともあります。
+If you have a law enforcement administrator like a [C:5:0:0]Sheriff[C:7:0:0] or [C:5:0:0]Captain of the Guard[C:7:0:0], witnesses of crimes will make reports, which find their way here.	[C:5:0:0]保安官[C:7:0:0]や[C:5:0:0]警邏隊長[C:7:0:0]のような治安管理者がいる場合、犯罪の目撃者が報告を行い、その報告はここに届きます
+Certain crimes are indicative of larger problems, so you should pay attention to them, and affected victims and family members get upset if crime is ignored.	特定の犯罪はより大きな問題の兆候なので注意を払うべきです。また、犯罪を放置すると、被害者や家族は動揺します。
+It's up to you to choose whom to convict.	誰を有罪にするかは、あなたが選んでください。
+All available witness information is presented for each case.	利用可能なすべての目撃情報は、事件ごとに表示されます
+You can also interrogate suspects.	容疑者を尋問することもできます
+This is particularly important for schemes where the witnesses might not have the full story.	目撃者が全容を知らないかもしれない策略では、特に重要です。
+It is recommended to place a certain number of [C:6:0:0]Cages[C:7:0:0] and [C:6:0:0]Chains[C:7:0:0] and assign them to a [C:3:0:0]Dungeon[C:7:0:0] zone.	[C:6:0:0]檻[C:7:0:0]と[C:6:0:0]鎖[C:7:0:0]を一定数設置し、[C:3:0:0]地下牢[C:7:0:0]ゾーンに割り当てることをお勧めします。
+Officers may opt for physical punishment if they cannot carry out custodial sentences.	拘禁刑を執行できない場合、役人は体罰を選ぶことがあります。
+This is the squad menu.	これは小隊メニューです。
+Here you can create squads, fill their positions, assign equipment and schedules, and give specific orders.	ここでは小隊を編成し、役職を埋め、装備と予定を割り当て、特定の命令を出せます。
+It is recommended that you prepare a squad and get them training as soon as you can.	できるだけ早く小隊を編成して訓練させておくことをお勧めします
+You have no idea what's lurking out there.	外に何が潜んでいるか、まるで見当もつきません。
+Although this location is relatively safe, it is recommended that you prepare a squad and get them training at some point.	この場所は比較的安全ですが、いずれ小隊を編成して訓練させておくことをお勧めします
+Wildlife and even your own citizens can still be dangerous at times.	野生動物や、自分の市民でさえ、ときには危険になりえます。
+The world created at the beginning of the game is active, and others may take an interest in your outpost as it grows.	ゲーム開始時に作られた世界は活動しており、拠点が成長すると、ほかの勢力が関心を持つかもしれません
+Stolen [C:6:0:1]Artifacts[C:7:0:0] and kidnapped citizens can be recovered by preparing missions from this screen.	盗まれた[C:6:0:1]アーティファクト[C:7:0:0]と誘拐された市民は、この画面から任務を準備して取り戻せます。
+You can also cause trouble if you'd like to raid your neighbors.	近隣を襲撃したいなら、騒動を起こすこともできます。
+Raids are created by clicking on any site not belonging to your civilization.	襲撃は、自分の文明に属していない拠点をクリックすると作成できます。
+Work orders are used to automate [C:3:0:1]Tasks[C:7:0:0] in [C:6:0:0]Workshops[C:7:0:0].	作業指示は、[C:6:0:0]工房[C:7:0:0]の[C:3:0:1]作業[C:7:0:0]を自動化するために使います
+These work orders are set to complete a certain number of [C:3:0:1]Tasks[C:7:0:0] and can be given start conditions.	これらの作業命令は、一定数の[C:3:0:1]作業[C:7:0:0]を完了するよう設定されており、開始条件を与えることもできます。
+For instance, you can create an order to [C:3:0:1]Make Wooden Bins[C:7:0:0] if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month.	たとえば、空の木箱が無くなったら[C:3:0:1]木製の箱を作る[C:7:0:0]、飲み物が少なくなったら[C:3:0:1]飲み物を醸造する[C:7:0:0]、毎月[C:3:0:1]彫像を5体作る[C:7:0:0]といった命令を作成できます。
+You can limit work orders to a number of [C:6:0:0]Workshops[C:7:0:0].	作業命令を[C:6:0:0]工房[C:7:0:0]の数に制限できます。
+You can also create work orders at specific [C:6:0:0]Workshops[C:7:0:0] from their building sheet.	特定の[C:6:0:0]工房[C:7:0:0]の建物情報シートからも作業指示を作成できます
+The system is reasonably powerful and you can eventually automate almost all of your production if you wish.	このシステムは十分に強力で、望めば最終的にほぼすべての生産を自動化できます。
+If you find that your stockpiles are filling up too fast, you can create room by building [C:6:0:1]Bins[C:7:0:0], [C:6:0:1]Barrels[C:7:0:0], and [C:6:0:1]Bags[C:7:0:0].	備蓄庫がすぐにいっぱいになるなら、[C:6:0:1]収納箱[C:7:0:0]、[C:6:0:1]樽[C:7:0:0]、[C:6:0:1]袋[C:7:0:0]を作って空きを作れます。
+[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].	[C:6:0:1]樽[C:7:0:0]は[C:6:0:1]食料[C:7:0:0]の保管に使います。
+[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] (and some other things like [C:6:0:1]Sand[C:7:0:0]).	[C:6:0:1]袋[C:7:0:0]は[C:6:0:1]種[C:7:0:0]の保管に使います（[C:6:0:1]砂[C:7:0:0]など一部のほかの物にも）。
+[C:6:0:1]Bins[C:7:0:0] hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], [C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0].	[C:6:0:1]収納箱[C:7:0:0]は、[C:6:0:1]家具[C:7:0:0]、[C:6:0:1]木材[C:7:0:0]、[C:6:0:1]岩塊[C:7:0:0]を除くほぼすべてを保管できます。
+The [C:6:0:0]Carpenter's Workshop[C:7:0:0] is the best place to make lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they can also be made at the [C:6:0:0]Stoneworker's Shop[C:7:0:0] and the [C:6:0:0]Metalsmith's Forge[C:7:0:0].	[C:6:0:0]木工房[C:7:0:0]は軽量な[C:6:0:1]収納箱[C:7:0:0]と[C:6:0:1]樽[C:7:0:0]を作るのに最適ですが、[C:6:0:0]石工房[C:7:0:0]や[C:6:0:0]鍛冶場[C:7:0:0]でも作れます。
+[C:6:0:1]Bags[C:7:0:0] are created at the [C:6:0:0]Clothier's Shop[C:7:0:0] or the [C:6:0:0]Leatherworks[C:7:0:0].	[C:6:0:1]袋[C:7:0:0]は[C:6:0:0]仕立て屋[C:7:0:0]か[C:6:0:0]革細工場[C:7:0:0]で作られます。
+When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must click on the depot and select [C:5:0:1]"Bring Goods to Depot"[C:7:0:0].	キャラバンが[C:6:0:0]交易所[C:7:0:0]に到着したら、交易所をクリックして[C:5:0:1]「交易所へ商品を運ぶ」[C:7:0:0]を選択してください
+Here you can select which goods you wish to trade.	ここでは、交易したい商品を選択できます
+After everyone has brought their goods you can select [C:5:0:1]"Trade"[C:7:0:0].	全員が商品を運び終えたら、[C:5:0:1]「交易」[C:7:0:0]を選択できます
+Don't worry if you have no [C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]"Anyone can Trade"[C:7:0:0].	[C:5:0:0]取引係[C:7:0:0]がいなくても心配いりません。[C:5:0:1]「誰でも交易可能」[C:7:0:0]を選択してください
+You cannot trade until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the depot.	[C:5:0:0]取引係[C:7:0:0]または別の住民が交易所に到着するまで、交易はできません。
+When trading you select which goods you want from the list on the left, and which goods of yours to trade from the list on the right.	交易の際は、左のリストから欲しい商品を、右のリストから交易に出す自分の商品を選択します。
+Then hit [C:5:0:1]"Trade"[C:7:0:0].	次に[C:5:0:1]「交易」[C:7:0:0]を押してください
+The trader will accept if the deal is fair and they can carry away the weight of the things you are selling.	取引が公正で、売る品物の重さを商人が運び去れるなら、商人は応じます。
+Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with be shown if their skill is high enough.	[C:5:0:0]仲買人[C:7:0:0]がいて技能が十分に高ければ、各品物の価値が表示されることに注意してください。
+In order for some functions to be used, like work orders or bookkeeping, [C:5:0:0]Administrators[C:7:0:0] must be assigned.	作業指示や簿記などの一部の機能を使うには、[C:5:0:0]管理者[C:7:0:0]を割り当てる必要があります
+To do this select the [C:5:0:1]Nobles and administrators[C:7:0:0] menu and click the add button to assign somebody.	そのためには、[C:5:0:1]貴族と管理者[C:7:0:0]メニューを選び、追加ボタンを押して誰かを任命します。
+Some [C:5:0:0]Administrators[C:7:0:0] will require [C:3:0:0]Offices[C:7:0:0] to perform their work.	一部の[C:5:0:0]管理者[C:7:0:0]は、仕事を行うために[C:3:0:0]事務所[C:7:0:0]が必要です。
+You can create these with [C:5:0:1]Zones[C:7:0:0] -> [C:5:0:1]Office[C:7:0:0].	これらは[C:5:0:1]ゾーン[C:7:0:0] -> [C:5:0:1]事務所[C:7:0:0]で作成できます
+The [C:3:0:0]Zone[C:7:0:0] you select must contain a [C:6:0:0]Chair[C:7:0:0], or you can paint a [C:3:0:0]Zone[C:7:0:0] and place a [C:6:0:0]Chair[C:7:0:0] later.	選択する[C:3:0:0]ゾーン[C:7:0:0]には[C:6:0:0]椅子[C:7:0:0]が必要ですが、ゾーンを先に指定して、後で[C:6:0:0]椅子[C:7:0:0]を置くこともできます
+Remember to assign the [C:5:0:0]Administrator[C:7:0:0] to the [C:3:0:0]Office[C:7:0:0].	[C:5:0:0]行政官[C:7:0:0]を[C:3:0:0]事務所[C:7:0:0]に割り当てるのを忘れないでください。
+Other nobles may appear or be assigned as the game progresses.	ゲームが進むにつれ、ほかの貴族が現れたり割り当てられたりすることがあります。
+Use the [C:5:0:1]Nobles and administrators[C:7:0:0] menu to check their wants and needs.	[C:5:0:1]貴族と管理者[C:7:0:0]メニューを使って、彼らの要望と必要なものを確認してください。
+In order to make [C:6:0:1]Metal Bars[C:7:0:0] for the [C:2:0:0]Metalsmith[C:7:0:0], you must smelt [C:6:0:1]Ore[C:7:0:0].	[C:2:0:0]金属細工師[C:7:0:0]のために[C:6:0:1]金属棒[C:7:0:0]を作るには、[C:6:0:1]鉱石[C:7:0:0]を精錬しなければなりません
+This can done at the [C:6:0:0]Smelter[C:7:0:0] which can be found under [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> [C:5:0:1]Smelter[C:7:0:0].	これは[C:6:0:0]製錬所[C:7:0:0]で行えます。製錬所は[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]炉[C:7:0:0] -> [C:5:0:1]製錬所[C:7:0:0]の下にあります。
+[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers.	[C:6:0:1]鉱石[C:7:0:0]は、土の層の下の地下で採掘されます。
+If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0].	マグマを見つけたら、その真上に[C:6:0:0]マグマ精錬所[C:7:0:0]を建てられます。そうでなければ[C:6:0:1]燃料[C:7:0:0]が必要です。
+To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] with a [C:6:0:0]Wood Furnace[C:7:0:0], found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> [C:5:0:1]Wood Furnace[C:7:0:0].	[C:6:0:1]燃料[C:7:0:0]を得るには、[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]炉[C:7:0:0] -> [C:5:0:1]木炭炉[C:7:0:0]にある[C:6:0:0]木炭炉[C:7:0:0]で[C:6:0:1]木炭[C:7:0:0]を作る必要があります
+You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as [C:6:0:1]Coal[C:7:0:0], but you will usually need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to start the process.	後で[C:6:0:1]石炭[C:7:0:0]など別の[C:6:0:1]燃料[C:7:0:0]に切り替えることもできますが、通常は作業を始めるために[C:6:0:0]木炭炉[C:7:0:0]で作った[C:6:0:1]木炭[C:7:0:0]が必要になります。
+It is a dangerous world, and if the entrances of your fortress are left open, you can succumb to invasions.	この世界は危険で、要塞の入口を開けたままにすると、侵略を受けてしまうことがあります。
+The best way to avoid this fate is to build traps and lock the ways into your fortress.	この運命を避ける最良の方法は、罠を作り、要塞への通路を施錠することです。
+The ways to build traps are as wild as your imagination.	罠の作り方は、あなたの想像力と同じくらい自由です。
+Most require [C:6:0:1]Mechanisms[C:7:0:0] made at the [C:6:0:0]Mechanic's Shop[C:7:0:0], using [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Mechanic[C:7:0:0].	多くは、[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]機工[C:7:0:0]を使って[C:6:0:0]機工房[C:7:0:0]で作られた[C:6:0:1]機構[C:7:0:0]を必要とします。
+To stop some enemies from entering your fortress use [C:5:0:1]Build[C:7:0:0] -> [C:5:0:1]Machines/fluids[C:7:0:0] -> [C:5:0:1]Lever[C:7:0:0] to build a [C:6:0:0]Lever[C:7:0:0].	一部の敵が要塞に入るのを防ぐには、[C:5:0:1]建設[C:7:0:0] -> [C:5:0:1]機械/流体[C:7:0:0] -> [C:5:0:1]レバー[C:7:0:0]を使って[C:6:0:0]レバー[C:7:0:0]を建設してください。
+Then click on the [C:6:0:0]Lever[C:7:0:0] and choose to link it to a [C:6:0:0]Bridge[C:7:0:0] or [C:6:0:0]Door[C:7:0:0].	次に[C:6:0:0]レバー[C:7:0:0]をクリックし、[C:6:0:0]橋[C:7:0:0]か[C:6:0:0]扉[C:7:0:0]に連結するよう選んでください
+This will lock the [C:6:0:0]Door[C:7:0:0] or raise the [C:6:0:0]Bridge[C:7:0:0], locking you inside.	これにより[C:6:0:0]扉[C:7:0:0]が施錠されるか[C:6:0:0]橋[C:7:0:0]が上がり、内側に閉じ込められます。
+There are also predesigned traps, such as [C:6:0:0]Weapon[C:7:0:0], [C:6:0:0]Cage[C:7:0:0], and [C:6:0:0]Stone-Fall Traps[C:7:0:0].	[C:6:0:0]武器[C:7:0:0]、[C:6:0:0]檻[C:7:0:0]、[C:6:0:0]落石[C:7:0:0]などの、あらかじめ設計された罠もあります。
+These require a [C:6:0:1]Weapon[C:7:0:0], [C:6:0:1]Cage[C:7:0:0], or [C:6:0:1]Boulder[C:7:0:0] to function.	これらは機能させるために[C:6:0:1]武器[C:7:0:0]、[C:6:0:1]檻[C:7:0:0]、または[C:6:0:1]丸石[C:7:0:0]を必要とします
+Non-alcoholic water is essential to a functioning fortress.	酒ではない水は、機能する要塞には欠かせません
+The most favored place to get it is from a [C:6:0:0]Well[C:7:0:0].	最も好まれる入手先は[C:6:0:0]井戸[C:7:0:0]です。
+[C:6:0:0]Wells[C:7:0:0] require a [C:6:0:1]Bucket[C:7:0:0], [C:6:0:1]Blocks[C:7:0:0], a [C:6:0:1]Rope[C:7:0:0] or [C:6:0:1]Chain[C:7:0:0], and [C:6:0:1]Mechanisms[C:7:0:0].	[C:6:0:0]井戸[C:7:0:0]には、[C:6:0:1]バケツ[C:7:0:0]、[C:6:0:1]ブロック[C:7:0:0]、[C:6:0:1]ロープ[C:7:0:0]か[C:6:0:1]鎖[C:7:0:0]、そして[C:6:0:1]仕掛け[C:7:0:0]が必要です。
+They can be built over any body of water.	どんな水域の上にも建設できます
+It is possible to find water underground, or divert it from the surface.	地下で水が見つかることもあれば、地表から引き込むこともできます。
+Aquifers can block the downward progress of your fortress, but it is possible to bypass them.	帯水層は要塞の下方への進行を妨げることがありますが、迂回することもできます。
+One way is to simply re-designate the damp stone for mining in order to build a 3x3 room around the stairs.	一つの方法は、階段の周りに3x3の部屋を作るため、湿った石を採掘指定し直すことです。
+You can then build [C:6:0:0]Walls[C:7:0:0] around the stairs until the leaking water is blocked off.	その後、漏れ出す水を止めるまで、階段の周りに[C:6:0:0]壁[C:7:0:0]を建設できます。
+Repeat this pattern until you get below the aquifer.	帯水層の下に達するまでこのパターンを繰り返します。
+Eventually the [C:6:0:1]Clothing[C:7:0:0] that your residents start with will rot away.	やがて、住民が最初に持っている[C:6:0:1]衣類[C:7:0:0]は朽ちていきます
+While it is possible to trade for [C:6:0:1]Clothing[C:7:0:0], [C:6:0:1]Cloth[C:7:0:0], or [C:6:0:1]Leather[C:7:0:0], you can also farm [C:6:0:1]Pigtails[C:7:0:0], gather [C:6:0:1]Silk[C:7:0:0], or tan [C:6:0:1]Skins[C:7:0:0] for [C:6:0:1]Leather[C:7:0:0].	[C:6:0:1]衣類[C:7:0:0]、[C:6:0:1]布[C:7:0:0]、[C:6:0:1]革[C:7:0:0]を交易で手に入れることもできますが、[C:6:0:1]ピッグテイル[C:7:0:0]を栽培したり、[C:6:0:1]絹[C:7:0:0]を集めたり、[C:6:0:1]皮[C:7:0:0]をなめして[C:6:0:1]革[C:7:0:0]にすることもできます。
+After harvesting plants like the [C:6:0:1]Pigtail[C:7:0:0], first process them at the [C:6:0:0]Farmer's Workshop[C:7:0:0], then weave [C:6:0:1]Cloth[C:7:0:0] at the [C:6:0:0]Loom[C:7:0:0], then make [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Clothier[C:7:0:0].	[C:6:0:1]ピッグテイル[C:7:0:0]のような植物を収穫したら、まず[C:6:0:0]農夫工房[C:7:0:0]で加工し、次に[C:6:0:0]織機[C:7:0:0]で[C:6:0:1]布[C:7:0:0]を織り、最後に[C:6:0:0]仕立て屋[C:7:0:0]で[C:6:0:1]衣類[C:7:0:0]を作ります。
+Gathered [C:6:0:1]Silk[C:7:0:0] can go directly to the [C:6:0:0]Loom[C:7:0:0].	集めた[C:6:0:1]絹[C:7:0:0]は直接[C:6:0:0]機織り機[C:7:0:0]へ運べます。
+[C:6:0:1]Skins[C:7:0:0] can be obtained by butchering [C:2:0:0]Livestock[C:7:0:0] at the [C:6:0:0]Butcher's Shop[C:7:0:0].	[C:6:0:0]肉屋[C:7:0:0]で[C:2:0:0]家畜[C:7:0:0]を解体すると、[C:6:0:1]革[C:7:0:0]が得られます。
+[C:6:0:1]Skins[C:7:0:0] are tanned at the [C:6:0:0]Tanner's Shop[C:7:0:0], and made into [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Leather Works[C:7:0:0].	[C:6:0:1]皮[C:7:0:0]は[C:6:0:0]なめし工房[C:7:0:0]でなめされ、[C:6:0:0]革工房[C:7:0:0]で[C:6:0:1]衣服[C:7:0:0]に加工されます。
+The [C:5:0:1]Schedule menu[C:7:0:0] is a powerful tool to give automatic orders to the selected squad.	[C:5:0:1]日課メニュー[C:7:0:0]は、選択した小隊に自動的な命令を与える強力な道具です
+Routines are individual orders given to a squad or individual members of a squad.	ルーチンは、小隊または小隊の個々の隊員に与えられる個別の命令です
+From here you can assign and edit the routines your soldiers will follow.	ここでは、兵士が従うルーチンを割り当てたり編集したりできます。
+You can also give your squads a monthly schedule.	小隊に月間の日程を設定することもできます。
+The routines are aligned along the top of the grid and the months of the year are shown down the left side.	ルーチンは表の上部に並び、年の月は左側に表示されます
+To assign different orders for each month, line up with your chosen routine, go down the column, and press edit on the orders lining up with the month.	月ごとに異なる命令を割り当てるには、選んだルーチンに合わせて列を下り、その月に対応する命令の編集を押してください
+You can also copy an order from any cell.	どのセルからでも命令をコピーできます
+Clicking on the column itself will assign the routine to the selected squad.	列自体をクリックすると、選択した小隊にそのルーチンが割り当てられます。
+The regular mining command digs a tunnel into the side of a mountain or deep underground.	通常採掘の命令では、山の側面や地下深くに坑道を掘ります
+This leaves a "ceiling" above and "floor" below the empty space you have mined.	これにより、掘り抜いた空間の上には「天井」、下には「床」が残ります。
+A ramp is a special square that can be traversed to the level above.	スロープは、一つ上の階層へ移動できる特別なマスです。
+There must be space above a ramp and an adjacent wall with an open floor above for the ramp to be usable.	スロープを使えるようにするには、スロープの上に空間があり、隣接する壁の上に開けた床がある必要があります。
+Digging a ramp into a wall on the same level will create a connection to the higher level and remove the ceiling.	同じ階層の壁にスロープを掘ると、上の階層への通路ができ、天井が取り除かれます。
+Once a ramp is present, you can start using the regular mining command on the higher level.	スロープができたら、上の階層で通常の採掘命令を使い始められます。
+Digging a channel will mine out a floor or wall at the current level and dig out a ramp at the level below.	水路を掘ると、現在の階層の床や壁を採掘し、一つ下の階層にスロープを掘ります。
+If there's no solid ground below the square being channeled, channeling will destroy the floor and create a hole instead.	水路を掘るマスの下に固い地面がない場合、床が壊れて代わりに穴ができます。
+To easily see which ramps go up or down, click the [C:5:0:1]Ramp Vision[C:7:0:0] button by the minimap.	どのスロープが上り下りに使えるかを簡単に確認するには、ミニマップの横にある[C:5:0:1]スロープ表示[C:7:0:0]ボタンをクリックしてください。
+As your dwarves live and work in your fortress they will generate [C:6:0:1]Refuse[C:7:0:0].	ドワーフが要塞で暮らし働くと、[C:6:0:1]廃棄物[C:7:0:0]が発生します
+This includes everything from [C:6:0:1]Bones[C:7:0:0] and other [C:6:0:1]Remains[C:7:0:0] to worn-out [C:6:0:1]Clothing[C:7:0:0].	これには、[C:6:0:1]骨[C:7:0:0]や他の[C:6:0:1]遺骸[C:7:0:0]から、すり切れた[C:6:0:1]衣類[C:7:0:0]まですべてが含まれます
+You can gather the [C:6:0:1]Refuse[C:7:0:0] in a [C:6:0:0]Refuse Stockpile[C:7:0:0].	[C:6:0:1]廃棄物[C:7:0:0]は[C:6:0:0]廃棄物倉庫[C:7:0:0]に集めることができます
+Some [C:6:0:1]Refuse[C:7:0:0] can be put to use, for instance [C:6:0:1]Shells[C:7:0:0] can be turned into [C:6:0:1]Crafts[C:7:0:0].	一部の[C:6:0:1]廃棄物[C:7:0:0]は活用できます。たとえば、[C:6:0:1]殻[C:7:0:0]は[C:6:0:1]工芸品[C:7:0:0]にすることができます
+Most of it will just generate foul smelling [C:0:0:1]Miasma[C:7:0:0].	その大半は、ただ悪臭を放つ[C:0:0:1]瘴気[C:7:0:0]を発生させるだけです。
+If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create a [C:3:0:0]Dump Zone[C:7:0:0].	[C:6:0:0]廃棄物備蓄庫[C:7:0:0]がいっぱいになってきたら、[C:3:0:0]廃棄ゾーン[C:7:0:0]を作成できます。
+Use the [C:5:0:1]Zones[C:7:0:0] menu to select [C:3:0:0]Garbage Dump[C:7:0:0] and draw a rectangle over a cliff or hole and then designate [C:6:0:1]Items[C:7:0:0] for [C:3:0:1]Dumping[C:7:0:0].	[C:5:0:1]ゾーン[C:7:0:0]メニューで[C:3:0:0]ゴミ捨て場[C:7:0:0]を選び、崖や穴の上に長方形を描いてから、[C:6:0:1]アイテム[C:7:0:0]を[C:3:0:1]投棄[C:7:0:0]に指定してください
+This can be done either from the [C:5:0:1]Item's Info Sheet[C:7:0:0] or by dragging a rectangle over everything you want to dump using the [C:5:0:1]Dump Designation[C:7:0:0] tool.	これは、[C:5:0:1]アイテム情報シート[C:7:0:0]から行うか、[C:5:0:1]投棄指定[C:7:0:0]ツールで投棄したいものすべての上に長方形をドラッグして行えます。
+There are many treasures and perils deep underground.	地下深くには多くの宝物と危険があります
+In order to pursue the wealth of the earth, you must dig deeper!	大地の富を追い求めるには、さらに深く掘らなければなりません！
+Valuable gems and precious metals can be found, along with richer soil, desperately needed water, fungal lumber, and other tantalizing mysteries.	貴重な宝石や貴金属、より豊かな土壌、切実に必要とされる水、菌類の木材、そしてほかの心をそそる謎が見つかります。
+To attract migrants and build a successful settlement, you will need to keep your citizens happy.	移民を引き寄せ、成功した入植地を築くには、住民を幸せに保つ必要があります。
+There are many ways to maintain your citizens.	市民を維持する方法は多くあります。
+Alcohol, good food, and personal rooms go a long way.	酒、良い食事、個人用の部屋は大いに役立ちます
+Meet their needs by providing [C:3:0:0]Meeting Areas[C:7:0:0] and [C:1:0:1]Locations[C:7:0:0] for socializing, worship, and study.	交流、礼拝、学習のための[C:3:0:0]集会所[C:7:0:0]と[C:1:0:1]施設[C:7:0:0]を用意して、彼らの要求に応えてください
+Monitor their thoughts to identify problems that you can solve.	彼らの思考を観察して、解決できる問題を見つけてください。
+Unhappy citizens can act out and cause trouble, and fewer people will risk travel to a miserable fortress.	不幸な市民は暴れて騒ぎを起こすことがあり、みじめな要塞へ危険を冒してまで旅をする者も減ります。
+The current and optional path to victory is to have your fortress elevated to a barony.	現在の、そして任意の勝利への道は、要塞を男爵領に昇格させることです
+From there, you can build your wealth, export goods, and attract more migrants until you become a county then a duchy.	そこから、富を築き、商品を輸出し、さらに移民を引き寄せて、伯爵領、次いで公爵領になることを目指せます
+A happy fortress with many exports and massive wealth can attract the existing monarch of the civilization.	輸出が多く莫大な富を持つ幸福な要塞は、文明の既存の君主を引き寄せることができます。
+This is the first step to completing the game.	これがゲームクリアへの第一歩です。
+Next, you'll need to satisfy your ruler's needs, and finally become a Mountainhome by seating them on a legendary throne with seven mythical symbols of office.	次に、支配者の要求を満たし、最後に七つの神話的な役職の象徴を備えた伝説の玉座に座らせることで、マウンテンホームになる必要があります
+You'll be an accomplished player at this point.	この時点で、あなたは熟練のプレイヤーになっているでしょう。
+But this is only the beginning.	しかし、これはまだ始まりにすぎません。
+Ultimately, your true goals are up to your imagination.	最終的に、あなたの真の目標はあなたの想像力次第です。
+Call visitors from all over the world with the greatest tavern, library, or temple the world has ever known.	世界がこれまで知る中で最も素晴らしい酒場、図書館、神殿で、世界中から訪問者を呼び寄せましょう
+Build an elaborate water-powered contraption or domesticate previously untameable wild beasts.	精巧な水力装置を作ったり、これまで手なずけられなかった野獣を飼い慣らしたりしましょう
+Settle in unliveable regions tormented by ancient evils and defend your fortress from zombies with your own army of vampires.	古の邪悪に苦しめられる住めない地域に入植し、自分の吸血鬼の軍勢で、ゾンビから要塞を守りましょう
+Your exploits will be recorded for Legends mode and by the master engravers in subsequent fortresses in your world.	あなたの功績は伝説モードのために記録され、世界の後続の要塞の名匠彫刻師にも記録されます。
+Most adventurers have three principle needs: food, water, and sleep.	多くの冒険者には、食料、水、睡眠という三つの主な欲求があります。
+Food can be obtained in towns, from the environment, or by butchering corpses with a sharp object.	食料は町で入手するか、周囲の環境から、または鋭い道具で死体を解体して得られます。
+You can find water in wells in towns, or in rivers.	水は町の井戸や川で得られます。
+Salt and brackish waters are not safe for drinking.	塩水や汽水は飲用に適しません。
+Alcohol is also sufficient but may not be as easy to come by as it is in a fortress.	酒でも十分ですが、要塞ほど簡単には手に入らないかもしれません。
+You can sleep using the sleep option in either local play or travel mode.	ローカルプレイまたは移動モードのどちらでも、睡眠のオプションを使って眠ることができます。
+If you have party members or followers, they will take turns keeping watch and reducing the chance of ambush.	パーティーメンバーや追随者がいれば、交代で見張りをして待ち伏せの可能性を減らします。
+You also have needs according to your personality as seen in character creation and on your character sheet.	また、キャラクター作成時やキャラクターシートに見られるように、性格に応じた欲求があります。
+If your needs aren't met, you won't perform quite as well in most situations.	要求が満たされないと、ほとんどの状況でうまく振る舞えなくなります
+Combat with any creature will put you in immediate peril.	どの生物との戦闘も、すぐに危険な状況に陥らせます
+Wounds can be serious and long-lasting, and most enemies are capable of killing unprepared opponents.	傷は重く長引くことがあり、ほとんどの敵は備えのない相手を殺せます。
+The three main methods of attacking are striking, wrestling, and shooting.	攻撃の主な三つの方法は、打撃、組み技、射撃です。
+Items can also be thrown, and there are creatures with special abilities like spraying webs or breathing fire.	アイテムを投げることもでき、糸を吐いたり炎を吐いたりする特殊能力を持つ生物もいます。
+The three main methods of defending are dodging, parrying, and blocking.	防御の主な三つの方法は、回避、受け流し、防御です。
+If a strike is barely dodged, the defender may have no choice but to jump or scramble to another tile (or else be hit.	攻撃をかろうじてかわした場合、守る側は別のマスへ跳ぶか這って逃げるしかないことがあります（さもなければ当たります。
+) Parrying is by weapon skill and only works on other weapons.	）受け流しは武器の技能によるもので、ほかの武器に対してだけ効きます。
+Blocking is done with a shield and works on any attack, including fire and natural attacks.	防御は盾で行い、炎や自然の攻撃を含むあらゆる攻撃に有効です
+You may create multiple characters during character creation.	キャラクター作成中に、複数のキャラクターを作成できます
+These are your party.	これらがあなたのパーティーです
+You may select one party leader freely and control them while the others follow, or control each party member tactically.	パーティーリーダーを一人自由に選んで操作し、ほかのメンバーを追従させることも、各メンバーを戦術的に操作することもできます
+The game ends when the entire party is deceased or retired.	パーティ全員が死亡または引退するとゲームは終了します。
+For simplicity, only the party leader needs to eat and drink, though all party members will sleep aside from whoever is on watch.	簡単にするため、食事と飲水が必要なのはパーティーのリーダーだけですが、見張り番以外のパーティーメンバーは全員眠ります。
+You can also obtain other followers through conversation, such as a guide or a mercenary.	案内人や傭兵など、ほかの追随者を会話を通じて得ることもできます。
+These followers may help or run away in combat, and they cannot be controlled directly.	これらの追随者は戦闘中に助けたり逃げ出したりすることがあり、直接操作することはできません
+Some followers leave when their task is completed, while others will stay until they are asked to leave.	従者の中には任務が終わると去る者もいれば、去るよう求められるまで残る者もいます。
+Followers will join according to your heroic reputation, relevant skill, destiny type, and total follower amount.	追随者は、あなたの英雄的な評判、関連するスキル、運命の種類、追随者の総数に応じて加わります。
+The total follower amount is based on the [C:3:0:1]Leadership[C:7:0:0] skill and the [C:2:0:1]Social Awareness[C:7:0:0] attribute.	追随者の総数は、[C:3:0:1]統率[C:7:0:0]スキルと[C:2:0:1]社会的認識[C:7:0:0]属性に基づきます。
+Along with combat, conversations are where most of the events in play happen.	戦闘とともに、プレイ中の出来事の多くは会話の中で起こります
+You can obtain quests, followers, information, and more by talking to the other inhabitants you find in the world.	世界で出会うほかの住民と話すことで、クエスト、追随者、情報などを得られます。
+Most conversation events aside from trading take place interlaced with the rest of the game's actions, so don't be surprised if you don't always receive a reply immediately.	交易以外の会話イベントの多くは、ゲームのほかの行動と並行して起こるため、すぐに返事が返ってこなくても驚かないでください。
+The words of people that are talking to you will be highlighted.	あなたに話しかけている人の言葉は強調表示されます。
+The [C:3:0:1]Judge of Intent[C:7:0:0] skill can help you keep tabs on the other speaker's mood.	[C:3:0:1]意図の看破[C:7:0:0]スキルは、相手の話し手の気分を把握するのに役立ちます。
+The people you are conversing with might become impatient or upset with you.	会話している相手は、あなたに対していらだったり、腹を立てたりすることがあります
+Trading and bartering happen during conversation.	交易と物々交換は会話の中で行われます。
+Trading occurs in shops and bartering happens in every other context.	交易は店で行われ、物々交換はそれ以外のあらゆる場面で行われます。
+Trading is very similar to trading with a [C:5:0:1]Broker[C:7:0:0] in Fortress mode.	交易は、要塞モードで[C:5:0:1]取引係[C:7:0:0]と行う交易にとてもよく似ています。
+You can select any item in a store, or most items that a person is carrying.	店のどのアイテムでも、また人が持っているほとんどのアイテムでも選択できます
+You don't have to pick up an item in a store before you purchase it, but feel free to do so as long as you don't leave the premises.	店のアイテムは、購入する前に拾い上げる必要はありませんが、店の敷地を出ない限り、拾い上げても構いません
+Then select the items you'd like to trade, and see if you're successful.	次に、交易したいアイテムを選び、うまくいくか確かめてください
+The trader might make a counteroffer if your offer is almost acceptable.	あなたの申し出がほぼ受け入れられるものであれば、商人は逆提案をすることがあります。
+In Adventure mode, currency plays a role.	冒険モードでは、通貨が役割を果たします。
+You can trade the accepted currency of whatever realm you are in for a precise measure of value.	今いる領域で通用する通貨を、正確な価値の分だけ交換できます
+Other currencies can be traded as regular items.	ほかの通貨は、通常のアイテムとして交易できます
+You might receive change in the currency of the realm.	領域の通貨でお釣りを受け取ることがあります
+You can change your money between currency types in this fashion.	この方法で、通貨の種類を両替できます。
+There are several types of quests or quest-adjacent tasks that can be received during conversation or from a deity.	会話中や神から受けられる、クエストまたはそれに類する任務はいくつかの種類があります。
+If you are a member of a hearth (a hearthperson), you can speak to your leader to receive an order.	炉辺の民（ハースパーソン）の一員であれば、指導者に話しかけて命令を受けられます。
+Typically this will involve protecting the locals or stirring up trouble with a neighboring hearth.	通常は、地元の人々を守るか、隣の炉辺との間でいざこざを起こすことになります。
+If you speak to a priest at a temple or select the Chosen destiny, you might receive a divine quest.	神殿で司祭に話しかけるか、「選ばれし運命」を選ぶと、神からのクエストを受けるかもしれません。
+Finally, if you ask regular people about their troubles, they might tell you about various tasks which would result in a change in reputation with that community.	最後に、一般の人々に悩みを尋ねると、その共同体での評判に変化をもたらすさまざまな任務を教えてくれることがあります。
+For instance, you could rescue a kidnapped child or slay a dragon in order to be recognized as a hero.	例えば、誘拐された子供を救ったり、ドラゴンを倒したりして、英雄として認められることもできます。
+In order to receive recognition for your accomplishments, you must tell the relevant people about them.	功績を認めてもらうには、関係者にそれを伝えなければなりません。
+The quest giver is a safe bet, especially if it's a hearth order, but generally you can tell anybody in a group what you've done and they'll react and spread the news.	クエストの依頼人は確実な相手です。特に炉辺の命令の場合はそうですが、一般的には集団の誰にでもあなたの行いを伝えれば、彼らは反応して噂を広めてくれます
+Most villages will be happy that you've slain a dragon, for instance, whether you've received the quest from them or not, and it might be worth a drink in the tavern to let the people you meet know who you are.	たとえばドラゴンを倒したことは、そのクエストを受けたかどうかにかかわらず、ほとんどの村で喜ばれます。出会う人々にあなたが何者かを知らせるために、酒場で一杯飲むのも価値があるかもしれません。
+You don't always need to be slain in combat or starve to death.	戦闘で討たれたり飢え死にしたりする必要は必ずしもありません。
+If you are in a friendly community, you can retire there.	友好的な共同体にいるなら、そこで引退することもできます。
+Retired adventurers will continue their travels, and might show up in a future fortress or be hired by a future adventuring party.	引退した冒険者は旅を続け、将来の要塞に現れたり、将来の冒険者の一行に雇われたりすることがあります
+You can also unretire characters directly if they are still alive.	生きているキャラクターは、直接引退から復帰させることもできます
+Before you begin your travels, we'll familiarize you with the basic controls.	旅を始める前に、基本的な操作を説明します。
+Welcome adventurer!	ようこそ冒険者よ！
+If you have a number pad, you can move one tile at a time by pressing [KEY:][KEY:][KEY:][KEY:] etc.	テンキーがあれば、[KEY:][KEY:][KEY:][KEY:]などを押して1マスずつ動けます。
+If you want to move carefully, confirming your selection, you can press [KEY:] etc.	慎重に動きたいときは、選択を確かめながら[KEY:]などを押します。
+When flying, use [KEY:] etc.	飛行中は[KEY:]などを使います。
+and[KEY:] etc.	と[KEY:]など
+to change altitude.	高度を変えられます。
+You can also flying to other altitudes by left/right clicking while the camera is adjusted.	カメラを調整しているときに左/右クリックすると、他の高度へ飛ぶこともできます。
+If you miss an announcement or would like to review old messages, you can click the indicated button or press [KEY:] to view the message log.	知らせを見逃したときや古い記録を読み返したいときは、表示されているボタンを押すか[KEY:]を押すと記録を見られます。
+This is the companion menu.	これは仲間メニューです。
+Here you'll see a list of party members, companions, and pets, along with their general location if you know it.	ここには、パーティーのメンバー、仲間、ペットの一覧が、わかっていればおおよその位置とともに表示されます。
+You can assume control of party members.	パーティーメンバーを操作できます。
+Companions who join you later in the journey can't generally be controlled manually.	旅の途中で加わった仲間は、通常は手動で操作できません。
+You can also set whether a party member will be controlled manually during tactical mode, or whether they'll be controlled by the computer.	戦術モード中に仲間を手動で操作するか、コンピューターに操作させるかを設定することもできます。
+In tactical mode, you can control every party member manually if you wish, allow you to coordinate movements and attack with more precision.	戦術モードでは、希望すればすべてのパーティメンバーを手動で操作し、より正確に動きや攻撃を連携させることができます
+Tactical mode can be set by a button near the companion mode button on the main menu if you have multiple party members.	パーティーメンバーが複数いる場合、メインメニューの仲間モードボタンの近くにあるボタンで戦術モードを設定できます。
+This is the inventory menu.	これは所持品メニューです。
+Here you can interact with the objects you are carrying.	ここでは携帯している物品を操作できます。
+Items can be dropped, worn, eaten, thrown, named, etc.	物品は落とす、身につける、食べる、投げる、名前を付けるなどができます。
+The icon tooltips describe your options for each item.	アイコンのツールチップで、各物品の選択肢を確認できます。
+Inventory items are all worn, held, in containers, or otherwise related to specific body parts.	持ち物はすべて、身に着けているもの、手に持っているもの、容器に入っているもの、またはそのほか特定の体の部位に関係するものです。
+There is no abstract inventory space.	抽象的な持ち物の空間はありません。
+If you are carrying too much, you'll see an encumbrance indicator above the inventory button.	持ち物が多すぎると、持ち物ボタンの上に荷重表示が出ます。
+Encumbrance can cause you to move very slowly and should be avoided if possible.	荷重は極端に動きを遅くするため、可能な限り避けるべきです。
+This is the movement options menu.	ここは移動オプションのメニューです。
+Here you can choose your gait and see your current stealth profile.	ここでは歩き方を選んだり、現在の隠密性を確認したりできます。
+Moving quickly costs energy.	素早く動くにはエネルギーを消費します。
+You'll begin to move slowly or even collapse if you sprint for too long.	長く全力疾走すると、動きが遅くなり、倒れることさえあります。
+If a gait has two numbers, the first number is the starting speed for the gait, and the second is the maximum speed.	歩容に数字が二つある場合、最初の数字はその歩容の開始速度、二つ目は最高速度です。
+Continue moving in the same direction to build up speed.	同じ方向に動き続けて速度を上げましょう。
+If you or your mount are moving quickly, your attacks gain velocity.	あなた自身または騎獣が速く移動していると、攻撃に勢いが加わります。
+This is the hold and climb menu.	これはしがみつき・登攀のメニューです。
+You can climb trees.	木に登れます。
+First you must establish a hold with a free grasp.	まず空いている手で掴まり、足場を確保しなければなりません。
+Then you can continue to move up into the air, while maintaining a hold on an adjacent tile.	その後、隣接するタイルへの掴まりを保ったまま、空中へ登り続けられます。
+If you climb atop certain large branches, you can walk on them freely.	特定の大きな枝に登ると、自由に歩き回れます。
+Some surfaces like walls can be also climbed, but these require climbing skill to hold reliably.	壁のような一部の表面も登れますが、確実につかまるには登攀技能が必要です。
+You can jump while climbing, and you can also release your hold.	よじ登りながらジャンプしたり、掴んだ手を離したりできます。
+In these ways, you might reach areas you can't otherwise reach.	こうすることで、他では届かない場所に行けるかもしれません。
+The hold menu also allows you to lead and mount pets.	拘束メニューでは、ペットを率いたり騎乗させたりできます。
+You can claim stray animals as pets here too.	ここで迷い動物をペットとして引き取ることもできます。
+To name your new pets, use the talk menu.	新しいペットに名前を付けるには、会話メニューを使ってください。
+This is the conversation menu.	これは会話メニューです。
+Conversations occur over time, like movements and attacks.	会話は、動きや攻撃と同じように時間をかけて行われます。
+When speaking to somebody, you'll choose what to say, and then time will pass while you are speaking and waiting for a reply.	誰かに話しかけるとき、何を言うかを選ぶと、話している間と返事を待つ間に時間が過ぎます。
+There are many conversation options.	会話の選択肢はたくさんあります。
+Important ones to note at first are inquiring about troubles, which might set you on the road to adventure, asking for duties from your leader if you have one, and the ability to trade in shops.	最初に覚えておくべき重要なものは、困りごとを尋ねること（冒険の始まりにつながることがあります）、リーダーがいる場合は任務を求めること、そして店で取引できることです
+You can also ask anybody to join you, but many people will be shy of danger.	誰にでも同行を頼めますが、危険を恐れて尻込みする人も多いでしょう。
+This is the performance menu.	ここは演技メニューです。
+Here you can initiate a poetry recital, tell a story, dance, sing, or play a musical instrument.	ここでは詩の朗読を始めたり、物語を語ったり、踊ったり、歌ったり、楽器を演奏したりできます。
+You can also compose poems, songs, and choreography if you know a relevant art form.	関連する芸術形式を知っていれば、詩、歌、振付も作曲できます。
+Performance occur over a period of time related to the specific art form or piece.	演奏は、その芸術形式や作品に応じた期間をかけて行われます。
+You can interrupt the performance as it unfolds, commit to finishing it and wait for its completion, or continue in steps.	進行中に演奏を中断したり、最後まで演奏して完了を待ったり、段階的に続けたりできます。
+Compositions take more time, and you'll pass through a period of time similar to sleeping, resting, and traveling.	作曲にはより多くの時間がかかり、睡眠、休息、移動に似た時間が過ぎます。
+This is the butchering and crafting menu.	これは解体・製作メニューです。
+Butchering requires a sharp-edged weapon or tool, as well as a butcherable carcass.	解体には刃のある武器または道具と、解体可能な死骸が必要です。
+Butchering is an excellent source of meat.	解体は肉を得る優れた手段です。
+The other products cannot currently be used.	その他の産物は現在使えません。
+Crafting in the base game is limited to constructing a stone axe necessary to fell trees.	基本ゲームの製作は、木を切り倒すために必要な石斧を作ることに限られます。
+You can pick up few rocks and a tree branch to get started.	最初は、いくつかの石と木の枝を拾うことができます。
+This is the abilities menu.	これは能力メニューです。
+Any ability you possess that doesn't fit elsewhere will appear here.	ほかの項目に当てはまらない能力は、ここに表示されます。
+For instance, many creatures can spit or pet animals.	たとえば、多くの生物は唾を吐いたり、動物を撫でたりできます。
+Others can breathe fire.	ほかには火を吐けるものもいます。
+Some abilities, like the flight of winged creatures, can just be used during regular movement without needing this menu.	翼を持つ生き物の飛行のような一部の能力は、このメニューを使わなくても通常の移動中に使えます。
+If you obtain any magical powers during your adventure, you will find them in this menu.	冒険中に魔法の力を得た場合、このメニューで確認できます。
+This is the attack menu.	これは攻撃メニューです。
+Here you can strike creatures with an item or body part, or you can initiate a dodge or parry movement.	ここでは物品や体の部位で生き物を攻撃したり、回避や受け流しの動きを開始したりできます。
+Attacks target specific body parts and have various modifiers.	攻撃は特定の身体部位を狙い、さまざまな補正があります。
+You will select these in the subsequent menus.	これらは次のメニューで選択します。
+There is a random element to outcomes and some body parts will be easier or harder to hit from moment to moment.	結果には偶然の要素があり、身体部位によっては、その時々で命中させやすさが変わります
+However, skill is the most important determiner of hits versus misses.	しかし、命中か外れかを最も大きく決めるのは技能です。
+Once a strike hits, the materials and velocity are used to determine the damage.	攻撃が命中すると、素材と速度によってダメージが決まります。
+Skill and item quality can help with this, but sometimes it's just not possible to damage a target material with a weaker material.	技術とアイテムの品質はこれを助けますが、弱い素材では対象の素材にダメージを与えられない場合もあります
+For this reason, it's important to obtain better equipment when you can.	そのため、可能なときにより良い装備を手に入れることが大切です
+This is the wrestling menu.	これは組み打ちメニューです。
+Here you can grab creatures and then execute a variety of wrestling moves.	ここでは生き物を掴み、様々な組み技を実行できます。
+You can also initiate defensive actions here.	防御行動もここから開始できます。
+Wrestling involves specific attacking body parts and specific target body parts.	組み技では、攻撃する特定の身体部位と、狙う特定の身体部位が関わります。
+You can grab creatures with your grasps and limbs, and both the target and attacking part determine which wrestling moves are available.	つかむ動作と手足で生き物を掴めます。標的と攻撃する部位の両方によって、使える組み技が決まります。
+Relative body size is the most important determiner of wrestling outcomes.	組み技の勝敗を最も大きく左右するのは、相対的な体の大きさです。
+A character's wrestling skill is also important.	キャラクターの組み技の技能も重要です。
+Unless you are very skilled, you should not attempt to wrestle larger creatures, and you should try to avoid being grabbed by them.	非常に熟練していない限り、大型の生物とレスリングしようとしてはいけません。また、掴まれないように注意してください
+This is the projectile aiming menu.	ここは発射物の照準メニューです。
+You can shoot projectiles with a launcher like a bow or crossbow, and you can throw almost any object that you are carrying in a grasp.	弓やクロスボウのような発射器で発射物を撃つことができ、手に持っているほぼあらゆる物を投げることもできます。
+You can initiate throwing from the inventory menu, or by pressing [KEY:] from play.	投げるのは持ち物のメニューからか、プレイ中に[KEY:]を押して始められます。
+Be warned that shooting a projectile currently has a long recovery time, so you may be subject to attack after you fire.	注意：現在、発射物を撃つと回復に長い時間がかかるため、射撃後に攻撃を受けるおそれがあります。
+Friendly fire isn't currently possible, so your companions should be safe.	現在、味方への誤射は起こらないので、仲間は安全なはずです。
+This is travel mode.	これは旅行モードです。
+Here you can travel great distances without having to move in the local mode.	ここでは、現地モードで動き回らずに長距離を移動できます。
+You still become thirsty, hungry, and drowsy while traveling.	移動中も喉が渇き、空腹になり、眠くなります。
+You are also still subject to attack or ambush, though you can see certain groups on the map and may be able to avoid them.	また、地図上で特定の集団が見えて避けられることもありますが、依然として襲撃や待ち伏せを受ける可能性があります。
+You can stop traveling using the stop travel button below or by pressing .	下の旅の中止ボタンか、キーを押すと旅を中止できます。
+This is the sleep menu.	これは睡眠メニューです。
+Here you can sleep to overcome drowsiness or wait to pass time.	ここでは眠気を解消するために眠るか、時間が経つのを待つことができます。
+If you have multiple party members, your chances of being ambushed will be greatly reduced.	パーティーに複数のメンバーがいれば、待ち伏せされる可能性は大きく減ります。
+It's also generally wise to try to sleep in friendly places, but you might need to obtain permission.	また、友好的な場所で眠るようにするのが一般的に賢明ですが、許可を得る必要がある場合もあります
+Chief Medical Dwarf[C:7:0:0] from the [C:5:0:1]Nobles and administrators[C:7:0:0] menu.	医師団長[C:7:0:0]は[C:5:0:1]貴族と管理者[C:7:0:0]メニューから任命してください
+You will need to assign a [C:5:0:0]Doctor[C:7:0:0] to the [C:1:0:1]Hospital[C:7:0:0] from the [C:5:0:1]Hospital Info Menu[C:7:0:0].	[C:5:0:1]病院情報メニュー[C:7:0:0]から、[C:1:0:1]病院[C:7:0:0]に[C:5:0:0]医師[C:7:0:0]を割り当てる必要があります
+Later you can assign [C:5:0:0]Doctors[C:7:0:0] to specific roles such as the [C:5:0:0]Diagnostician[C:7:0:0].	後で[C:5:0:0]医者[C:7:0:0]を[C:5:0:0]診断医[C:7:0:0]などの特定の役割に割り当てられます。
+The [C:5:0:0]Doctor[C:7:0:0] will need a [C:6:0:0]Table[C:7:0:0] to perform surgeries.	[C:5:0:0]医師[C:7:0:0]が手術を行うには、[C:6:0:0]テーブル[C:7:0:0]が必要です。
+Some injuries will require [C:6:0:0]Traction Benches[C:7:0:0] which can be built at the [C:6:0:0]Mechanic's Shop[C:7:0:0].	けがによっては[C:6:0:0]牽引台[C:7:0:0]が必要です。これは[C:6:0:0]機械工房[C:7:0:0]で作れます。
+The thirst for knowledge some residents have can be satisfied at the [C:1:0:1]Library[C:7:0:0].	一部の住人が持つ知識欲は、[C:1:0:1]図書館[C:7:0:0]で満たすことができます。
+From the [C:5:0:1]Library Info Menu[C:7:0:0] you can assign [C:5:0:0]Scholars[C:7:0:0] who discuss their interests with the inhabitants, and [C:5:0:0]Scribes[C:7:0:0] to record them.	[C:5:0:1]図書館情報メニュー[C:7:0:0]から、住民と興味について語り合う[C:5:0:0]学者[C:7:0:0]と、それを記録する[C:5:0:0]書記[C:7:0:0]を割り当てられます。
+Beware!	用心せよ！
+Some knowledge is dangerous.	知識の中には危険なものもある。
+In order to hold [C:6:0:1]Scrolls[C:7:0:0] and [C:6:0:1]Codices[C:7:0:0] you will need [C:6:0:0]Bookcases[C:7:0:0].	[C:6:0:1]巻物[C:7:0:0]や[C:6:0:1]写本[C:7:0:0]を保管するには、[C:6:0:0]本棚[C:7:0:0]が必要です。
+You will also need [C:6:0:0]Tables[C:7:0:0] for your [C:5:0:0]Scribes[C:7:0:0] to work on.	[C:6:0:0]テーブル[C:7:0:0]も必要です（[C:5:0:0]書記[C:7:0:0]の作業台になります）。
+[C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] are needed to store the [C:6:0:1]Writing Material[C:7:0:0] for the [C:5:0:0]Scribes[C:7:0:0] to write on.	[C:6:0:0]チェスト[C:7:0:0]か[C:6:0:0]金庫[C:7:0:0]が必要です。[C:6:0:1]筆記用具[C:7:0:0]を入れ、[C:5:0:0]書記[C:7:0:0]が書くのに使います。
+[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions gather to socialize and share their knowledge.	[C:1:0:1]ギルドホール[C:7:0:0]は、特定の職業の職人たちが交流し、知識を共有する場所です。
+When deciding which guild to dedicate the [C:1:0:1]Guildhall[C:7:0:0] to, you can scroll over the names of the guilds and see how many workers of each profession there are and whether a guild has been established.	[C:1:0:1]ギルドホール[C:7:0:0]をどのギルドに割り当てるか決める際は、ギルド名にカーソルを合わせることで、各職業の労働者数やギルドが設立済みかどうかを確認できます。
+As the guild grows in power they may demand a [C:1:0:1]Guildhall[C:7:0:0] of greater value.	ギルドの力が増すと、より価値の高い[C:1:0:1]ギルドホール[C:7:0:0]を求めてくることがあります。
+This can be increased by decorating the hall and building [C:6:0:0]Furniture[C:7:0:0] like [C:6:0:0]Statues[C:7:0:0].	ホールを飾り、[C:6:0:0]彫像[C:7:0:0]などの[C:6:0:0]家具[C:7:0:0]を建てることで、これを高められます。
+Welcome to Dwarf Fortress	Dwarf Fortressへようこそ
+Quick start and short tutorial?	クイックスタートと短いチュートリアル？
+On your own!	自力で！
+Camera controls	カメラ操作
+Camera controls (1 of 8)	カメラ操作（1/8）
+Mining	採掘
+Mining (2 of 8)	採掘（2/8）
+Stockpiles	倉庫
+Stockpiles (3 of 8)	倉庫（3/8）
+Woodcutting	伐採
+Woodcutting (4 of 8)	伐採（4/8）
+Building	建物
+Building (5 of 8)	建築（5/8）
+Information sheets	情報画面
+Information sheets (6 of 8)	情報シート（6/8）
+Alerts	警報
+Alerts (7 of 8)	アラート（7/8）
+Preparing for the Caravan	キャラバンを迎える準備
+Preparing for the Caravan (8 of 8)	キャラバンへの準備（8/8）
+Just the beginning	始まりにすぎない
+Survival	生存
+Planting	植え付け
+Other food sources	その他の食料源
+Zones	ゾーン
+Burrows	巣穴
+Minecart routes	トロッコ路線
+Stocks	在庫
+Work details	作業班
+Nobles and administrators	貴族と管理者
+Justice	懲罰
+Squads	小隊
+The World	世界
+Work orders	作業指示
+Bins, bags, and barrels	収納箱、袋、樽
+Trade	交易
+Offices and administrative work	事務所と行政業務
+Ore and smelting	鉱石と製錬
+Traps and levers	罠とレバー
+Wells	井戸
+Handling light aquifers	弱い帯水層への対処
+Clothing	衣服
+Meeting areas and locations	集会場と施設
+Military	軍事
+Ramps and channels	斜路と溝
+Refuse and dumping	ゴミと投棄
+Dig deeper	さらに深く掘る
+Happiness and stress	幸福とストレス
+Goals	目標
+Combat	戦闘
+The party and followers	一行と従者
+Conversations	会話
+Trading	交易
+Quests and reputation	依頼と評判
+Fortress mode	要塞モード
+Retirement	引退
+Adventure mode	冒険モード
+Camera controls (1 of 3)	カメラ操作（1/3）
+Movement	移動
+Movement (2 of 3)	移動（2/3）
+Menu overview	メニューの概要
+Menu overview (3 of 3)	メニュー概要（3/3）
+Companions	仲間
+Adventurer's log	冒険者の記録
+Inventory	所持品
+Movement options	移動オプション
+Hold and climb	つかんで登る
+Talk	話す
+Perform	演じる
+Butcher and craft	屠殺と工作
+Abilities	能力
+Strike	打撃
+Wrestle	組み打ち
+Shoot and throw	射撃と投擲
+Travel	旅
+Sleep and rest	睡眠と休息

@@ -1,0 +1,481 @@
+Prepare to guide your stout charges to fortune in a world fraught with many perils.
+You'll begin by creating your world and watching the region's history unfold.
+Once this process is complete, you can prepare a group and send them out to seek wealth deep in the mountains.
+As you dig deeper and more citizens take up residence in your outpost, your doings will attract attention, both wanted and unwanted.
+Deal with challenges as they arise, and you might one day find that your humble settlement has grown to become a Mountainhome, the center of your civilization.
+Would you like your fortress located in a forested mineral-rich region of this world where you can play through a short tutorial?
+Non-interactive help will be available whatever you decide.
+If this is your first time playing, please heed the embark warnings about aquifers, saltwater, and other hazards.
+Some locations are challenging even for experienced players, and it will be a very short game indeed if you don't know how to deal with them!
+After you embark, help is available by pressing the help button in the top right corner, including all of the tutorials.
+You can zoom in and out of the play area using [KEY:][KEY:], [C:2:0:1]Ctrl+mouse wheel[C:7:0:0], or the indicated buttons.
+Let's make a safe place to work.
+Select [C:5:0:1]Regular Mining[C:7:0:0] mode, to the left of [C:5:0:1]Stair Mining[C:7:0:0] mode.
+Dig a rectangle underground big enough for a large [C:6:0:0]Stockpile[C:7:0:0] and some [C:6:0:0]Workshops[C:7:0:0].
+Consider that most [C:6:0:0]Workshops[C:7:0:0] are 3x3 squares.
+Mining through the stone layers further down may take longer, but it leaves [C:6:0:1]Boulders[C:7:0:0] which are an essential building material.
+Later you can consider making a [C:3:0:0]Meeting Area[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu.
+Otherwise your citizens will continue to gather by the [C:6:0:0]Wagon[C:7:0:0] outside.
+If unpaused, your workers should start unloading the wagon into the [C:6:0:0]Stockpile[C:7:0:0].
+Later you may want to customize your [C:6:0:0]Stockpiles[C:7:0:0] by clicking on them and pressing the [C:5:0:1]Custom[C:7:0:0] button to forbid certain categories, like [C:5:0:1]Refuse[C:7:0:0] for example.
+A separate [C:6:0:0]Refuse Stockpile[C:7:0:0] is a good idea to keep your fortress clean.
+If the [C:5:0:1]Stockpile[C:7:0:0] menu is still open, you can close it now by right-clicking.
+Right-clicking can always be used to close most menus, as well as [KEY:].
+Now we just need to wait for the woodcutter to chop down the tree.
+If the fallen logs are accessible, everyone will help store them in the [C:6:0:0]Stockpile[C:7:0:0].
+You can right click to close [C:5:0:1]Woodcutting[C:7:0:0] mode.
+Right clicking closes most menus.
+If all of your [C:6:0:0]Stockpiles[C:7:0:0] are full, go ahead and place another one.
+With a [C:6:0:0]Bed[C:7:0:0] placed, your workers will have somewhere to sleep.
+Later you can create a room with a [C:6:0:0]Door[C:7:0:0] and use the [C:5:0:1]Zones[C:7:0:0] menu to assign an official [C:3:0:0]Bedroom[C:7:0:0] for each resident.
+Feel free to pause and check out the information.
+Right click to dismiss the information sheet.
+Hover over an alert icon to see the information.
+Left click on an alert for recentering options, and right click to dismiss an alert.
+There has been one already!
+There have been a few already!
+There have been several already!
+You may need supplies before the coming of winter.
+To trade with the autumn caravan, you must build a [C:6:0:0]Trade Depot[C:7:0:0] from the [C:5:0:1]Build[C:7:0:0] menu.
+You need something of value to trade.
+[C:6:0:1]Crafts[C:7:0:0] are an easy way to make a lot of trade goods quickly.
+Make the appropriate workshop with [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Crafts[C:7:0:0].
+An obvious material to use to make the crafts is rock.
+If you dig down enough layers you will find a near infinite amount of [C:6:0:1]Boulders[C:7:0:0] of various kinds as well as some [C:6:0:1]Rough Gems[C:7:0:0] if you are lucky.
+[C:6:0:1]Gems[C:7:0:0] can be [C:3:0:1]Cut[C:7:0:0] at the [C:6:0:0]Jeweler's Workshop[C:7:0:0].
+[C:3:0:1]Encrust[C:7:0:0] them on [C:6:0:1]Crafts[C:7:0:0] and other items to add even more value.
+There's a lot more to learn!
+As you enter new menus, there will be information and tips.
+The [C:5:0:1]Help[C:7:0:0] button at the top of the screen contains more guides.
+Click it now, and this tutorial will be concluded.
+[C:7:0:1]Drink[C:7:0:0]
+There are two ways to make drinks for your residents.
+The main way is by brewing alcohol.
+This is done by building a [C:6:0:0]Still[C:7:0:0] from the [C:5:0:1]Build[C:7:0:0] menu using [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Still[C:7:0:0].
+Once the [C:6:0:0]Still[C:7:0:0] is constructed, click on it and add the task [C:3:0:1]Brew Drink from Plant (or fruit)[C:7:0:0].
+If you have no suitable [C:6:0:1]Plants[C:7:0:0], you may try [C:5:0:1]Planting[C:7:0:0] or [C:5:0:1]Gathering[C:7:0:0].
+The task also requires a [C:6:0:1]Barrel[C:7:0:0] from the [C:6:0:0]Carpenter's Workshop[C:7:0:0].
+If you survive until the caravan comes you may also trade for [C:6:0:1]Drinks[C:7:0:0] or [C:6:0:1]Plants[C:7:0:0] there.
+The number of [C:6:0:1]Drink[C:7:0:0] rations can be seen at the top of the screen.
+Absent alcohol and in warmer weather, you can designate a [C:3:0:0]Water Source[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu at a river or pond, so that your residents have water to drink.
+You'll want one of these anyway for other purposes, like cleaning and certain [C:6:0:0]Workshop[C:7:0:0] tasks.
+You may find water underground.
+Now your [C:2:0:0]Planters[C:7:0:0], those that can access both the [C:6:0:0]Farmplot[C:7:0:0] and the [C:6:0:1]Spawn[C:7:0:0], will plant the field, and after a period of growth, they'll be harvested.
+If you'd like to focus a few of your citizens on farming, which gives skill benefits, you can assign them to the [C:2:0:0]Planters[C:7:0:0] work detail from the [C:5:0:1]Labor[C:7:0:0] menu.
+[C:6:0:1]Fertilizer[C:7:0:0] and skilled [C:2:0:0]Planters[C:7:0:0] have a direct impact on crop yield.
+These effects are more pronounced deep underground where you can locate the cavern biome and its rich soil.
+[C:6:0:1]Potash[C:7:0:0] is the fertilizer of choice, and it can be created in the [C:6:0:0]Ashery[C:7:0:0], using [C:6:0:1]Ash[C:7:0:0] from [C:6:0:1]Wood[C:7:0:0] burned in a [C:6:0:0]Wood Furnace[C:7:0:0].
+A [C:3:0:0]Water Source[C:7:0:0] zone and a [C:6:0:1]Bucket[C:7:0:0] are also required.
+[C:6:0:1]Fertilizer[C:7:0:0] is not needed to farm.
+[C:7:0:1]Butchering[C:7:0:0]
+[C:6:0:1]Meat[C:7:0:0] from [C:2:0:0]Livestock[C:7:0:0] you slaughter is a source of food.
+To slaughter an [C:2:0:0]Animal[C:7:0:0] you must first build a [C:6:0:0]Butcher's Shop[C:7:0:0].
+Do this by selecting the building in [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Butcher[C:7:0:0].
+Once the shop is built, open the [C:5:0:1]Creatures[C:7:0:0] info menu.
+From there select the [C:5:0:1]Pets/Livestock[C:7:0:0] tab.
+There you can select which [C:2:0:0]Animals[C:7:0:0] to slaughter.
+You may need to minimize the tutorial to see the [C:5:0:1]Slaughter[C:7:0:0] buttons.
+Note that some [C:2:0:0]Livestock[C:7:0:0] must eat vegetation to survive.
+To keep them alive use the [C:3:0:0]Pen/Pasture[C:7:0:0] zone from the [C:5:0:1]Zones[C:7:0:0] menu to select a section of grass and click the add button to assign the [C:2:0:0]Animals[C:7:0:0].
+[C:3:0:0]Zones[C:7:0:0] are areas you designate where your citizens will work, socialize, rest, or perform specific duties.
+There are several kinds of [C:3:0:0]Zones[C:7:0:0], which you can see in the panel on the left.
+[C:3:0:0]Zones[C:7:0:0] are placed much like [C:6:0:0]Stockpiles[C:7:0:0].
+Unlike [C:6:0:0]Stockpiles[C:7:0:0], multiple [C:3:0:0]Zones[C:7:0:0] can overlap.
+Certain [C:3:0:0]Zones[C:7:0:0] like [C:3:0:0]Bedrooms[C:7:0:0] can be placed several at a time.
+Just make sure you have the correct [C:6:0:0]Furniture[C:7:0:0] placed in the rooms with [C:6:0:0]Doors[C:7:0:0] or vertical entries separating each room before you begin.
+[C:1:0:0]Burrows[C:7:0:0] are work and living areas where citizens can be assigned.
+Workers will try to limit their tasks to the confines of the [C:1:0:0]Burrow[C:7:0:0], but they will sometimes form paths which pass through other areas.
+[C:1:0:0]Burrows[C:7:0:0] can be suspended and unsuspended freely.
+When a [C:1:0:0]Burrow[C:7:0:0] is suspended, assigned citizens will ignore it.
+It can be useful to assign all of your civilians to a safe emergency [C:1:0:0]Burrow[C:7:0:0] which you activate in case of intruders.
+[C:6:0:1]Minecarts[C:7:0:0] and [C:6:0:0]Tracks[C:7:0:0] are a convenient way to move a lot of objects around the fortress quickly, though they take a little effort to prepare.
+One [C:6:0:1]Minecart[C:7:0:0] can be assigned to each route, and workers will move the vehicle from [C:6:0:0]Track Stop[C:7:0:0] to [C:6:0:0]Track Stop[C:7:0:0] according to conditions you specify.
+Each [C:6:0:0]Track Stop[C:7:0:0] must be linked to a [C:6:0:0]Stockpile[C:7:0:0] for [C:6:0:1]Items[C:7:0:0] to be put on or removed from the [C:6:0:1]Minecart[C:7:0:0].
+Only one condition needs to be satisfied for the [C:6:0:1]Minecart[C:7:0:0] to move to the next [C:6:0:0]Track Stop[C:7:0:0].
+[C:6:0:1]Minecarts[C:7:0:0] that move too quickly around corners will spill their contents.
+When a route has a steep descent, consider using powered [C:6:0:0]Rollers[C:7:0:0], extra curves, track "stops" between [C:6:0:0]Stops[C:7:0:0] with various friction settings, or a worker to guide the vehicle.
+Here you can see every [C:6:0:1]Item[C:7:0:0] in the fortress.
+Click on category headings to collapse and expand them.
+If you don't have a [C:5:0:0]Bookkeeper[C:7:0:0], or they don't have an [C:3:0:0]Office[C:7:0:0] to work in, numbers may be approximate.
+Work details are one way you can control which workers do which tasks, and they are the only way to assign certain tasks like mining, woodcutting, hunting, and fishing.
+Generally, almost every task will be available for every citizen, but you can both restrict both citizens and tasks.
+Citizens are restricted by using their [C:5:0:1]Specialization[C:7:0:0] button.
+Tasks are restricted by setting their work detail to [C:5:0:1]"Only selected do this"[C:7:0:0].
+If a task does not have a default work detail, you can create a custom work detail.
+Once you assign citizens to the task, you can then set [C:5:0:1]"Only selected do this"[C:7:0:0] if you want to restrict it.
+Here you can view your nobles, as well as assign your administrators, military leaders, and other officials.
+[C:5:0:0]Militia Commanders[C:7:0:0] are assigned here.
+Once the first leader is assigned, subsequent [C:5:0:0]Captain[C:7:0:0] positions will appear.
+These can also be assigned from the squad menu.
+Certain important functions in your fortress can only be performed by assigned administrators, such as the [C:5:0:0]Manager[C:7:0:0] and [C:5:0:0]Bookkeeper[C:7:0:0].
+Once they are assigned, you can create work orders, run a [C:1:0:1]Hospital[C:7:0:0], and count and appraise your hoard.
+Nobles and certain administrators require rooms, and some may also make demands.
+If you have a law enforcement administrator like a [C:5:0:0]Sheriff[C:7:0:0] or [C:5:0:0]Captain of the Guard[C:7:0:0], witnesses of crimes will make reports, which find their way here.
+Certain crimes are indicative of larger problems, so you should pay attention to them, and affected victims and family members get upset if crime is ignored.
+It's up to you to choose whom to convict.
+All available witness information is presented for each case.
+You can also interrogate suspects.
+This is particularly important for schemes where the witnesses might not have the full story.
+It is recommended to place a certain number of [C:6:0:0]Cages[C:7:0:0] and [C:6:0:0]Chains[C:7:0:0] and assign them to a [C:3:0:0]Dungeon[C:7:0:0] zone.
+Officers may opt for physical punishment if they cannot carry out custodial sentences.
+This is the squad menu.
+Here you can create squads, fill their positions, assign equipment and schedules, and give specific orders.
+It is recommended that you prepare a squad and get them training as soon as you can.
+You have no idea what's lurking out there.
+Although this location is relatively safe, it is recommended that you prepare a squad and get them training at some point.
+Wildlife and even your own citizens can still be dangerous at times.
+The world created at the beginning of the game is active, and others may take an interest in your outpost as it grows.
+Stolen [C:6:0:1]Artifacts[C:7:0:0] and kidnapped citizens can be recovered by preparing missions from this screen.
+You can also cause trouble if you'd like to raid your neighbors.
+Raids are created by clicking on any site not belonging to your civilization.
+Work orders are used to automate [C:3:0:1]Tasks[C:7:0:0] in [C:6:0:0]Workshops[C:7:0:0].
+These work orders are set to complete a certain number of [C:3:0:1]Tasks[C:7:0:0] and can be given start conditions.
+For instance, you can create an order to [C:3:0:1]Make Wooden Bins[C:7:0:0] if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month.
+You can limit work orders to a number of [C:6:0:0]Workshops[C:7:0:0].
+You can also create work orders at specific [C:6:0:0]Workshops[C:7:0:0] from their building sheet.
+The system is reasonably powerful and you can eventually automate almost all of your production if you wish.
+If you find that your stockpiles are filling up too fast, you can create room by building [C:6:0:1]Bins[C:7:0:0], [C:6:0:1]Barrels[C:7:0:0], and [C:6:0:1]Bags[C:7:0:0].
+[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].
+[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] (and some other things like [C:6:0:1]Sand[C:7:0:0]).
+[C:6:0:1]Bins[C:7:0:0] hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], [C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0].
+The [C:6:0:0]Carpenter's Workshop[C:7:0:0] is the best place to make lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they can also be made at the [C:6:0:0]Stoneworker's Shop[C:7:0:0] and the [C:6:0:0]Metalsmith's Forge[C:7:0:0].
+[C:6:0:1]Bags[C:7:0:0] are created at the [C:6:0:0]Clothier's Shop[C:7:0:0] or the [C:6:0:0]Leatherworks[C:7:0:0].
+When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must click on the depot and select [C:5:0:1]"Bring Goods to Depot"[C:7:0:0].
+Here you can select which goods you wish to trade.
+After everyone has brought their goods you can select [C:5:0:1]"Trade"[C:7:0:0].
+Don't worry if you have no [C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]"Anyone can Trade"[C:7:0:0].
+You cannot trade until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the depot.
+When trading you select which goods you want from the list on the left, and which goods of yours to trade from the list on the right.
+Then hit [C:5:0:1]"Trade"[C:7:0:0].
+The trader will accept if the deal is fair and they can carry away the weight of the things you are selling.
+Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with be shown if their skill is high enough.
+In order for some functions to be used, like work orders or bookkeeping, [C:5:0:0]Administrators[C:7:0:0] must be assigned.
+To do this select the [C:5:0:1]Nobles and administrators[C:7:0:0] menu and click the add button to assign somebody.
+Some [C:5:0:0]Administrators[C:7:0:0] will require [C:3:0:0]Offices[C:7:0:0] to perform their work.
+You can create these with [C:5:0:1]Zones[C:7:0:0] -> [C:5:0:1]Office[C:7:0:0].
+The [C:3:0:0]Zone[C:7:0:0] you select must contain a [C:6:0:0]Chair[C:7:0:0], or you can paint a [C:3:0:0]Zone[C:7:0:0] and place a [C:6:0:0]Chair[C:7:0:0] later.
+Remember to assign the [C:5:0:0]Administrator[C:7:0:0] to the [C:3:0:0]Office[C:7:0:0].
+Other nobles may appear or be assigned as the game progresses.
+Use the [C:5:0:1]Nobles and administrators[C:7:0:0] menu to check their wants and needs.
+In order to make [C:6:0:1]Metal Bars[C:7:0:0] for the [C:2:0:0]Metalsmith[C:7:0:0], you must smelt [C:6:0:1]Ore[C:7:0:0].
+This can done at the [C:6:0:0]Smelter[C:7:0:0] which can be found under [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> [C:5:0:1]Smelter[C:7:0:0].
+[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers.
+If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0].
+To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] with a [C:6:0:0]Wood Furnace[C:7:0:0], found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> [C:5:0:1]Wood Furnace[C:7:0:0].
+You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as [C:6:0:1]Coal[C:7:0:0], but you will usually need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to start the process.
+It is a dangerous world, and if the entrances of your fortress are left open, you can succumb to invasions.
+The best way to avoid this fate is to build traps and lock the ways into your fortress.
+The ways to build traps are as wild as your imagination.
+Most require [C:6:0:1]Mechanisms[C:7:0:0] made at the [C:6:0:0]Mechanic's Shop[C:7:0:0], using [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Mechanic[C:7:0:0].
+To stop some enemies from entering your fortress use [C:5:0:1]Build[C:7:0:0] -> [C:5:0:1]Machines/fluids[C:7:0:0] -> [C:5:0:1]Lever[C:7:0:0] to build a [C:6:0:0]Lever[C:7:0:0].
+Then click on the [C:6:0:0]Lever[C:7:0:0] and choose to link it to a [C:6:0:0]Bridge[C:7:0:0] or [C:6:0:0]Door[C:7:0:0].
+This will lock the [C:6:0:0]Door[C:7:0:0] or raise the [C:6:0:0]Bridge[C:7:0:0], locking you inside.
+There are also predesigned traps, such as [C:6:0:0]Weapon[C:7:0:0], [C:6:0:0]Cage[C:7:0:0], and [C:6:0:0]Stone-Fall Traps[C:7:0:0].
+These require a [C:6:0:1]Weapon[C:7:0:0], [C:6:0:1]Cage[C:7:0:0], or [C:6:0:1]Boulder[C:7:0:0] to function.
+Non-alcoholic water is essential to a functioning fortress.
+The most favored place to get it is from a [C:6:0:0]Well[C:7:0:0].
+[C:6:0:0]Wells[C:7:0:0] require a [C:6:0:1]Bucket[C:7:0:0], [C:6:0:1]Blocks[C:7:0:0], a [C:6:0:1]Rope[C:7:0:0] or [C:6:0:1]Chain[C:7:0:0], and [C:6:0:1]Mechanisms[C:7:0:0].
+They can be built over any body of water.
+It is possible to find water underground, or divert it from the surface.
+Aquifers can block the downward progress of your fortress, but it is possible to bypass them.
+One way is to simply re-designate the damp stone for mining in order to build a 3x3 room around the stairs.
+You can then build [C:6:0:0]Walls[C:7:0:0] around the stairs until the leaking water is blocked off.
+Repeat this pattern until you get below the aquifer.
+Eventually the [C:6:0:1]Clothing[C:7:0:0] that your residents start with will rot away.
+While it is possible to trade for [C:6:0:1]Clothing[C:7:0:0], [C:6:0:1]Cloth[C:7:0:0], or [C:6:0:1]Leather[C:7:0:0], you can also farm [C:6:0:1]Pigtails[C:7:0:0], gather [C:6:0:1]Silk[C:7:0:0], or tan [C:6:0:1]Skins[C:7:0:0] for [C:6:0:1]Leather[C:7:0:0].
+After harvesting plants like the [C:6:0:1]Pigtail[C:7:0:0], first process them at the [C:6:0:0]Farmer's Workshop[C:7:0:0], then weave [C:6:0:1]Cloth[C:7:0:0] at the [C:6:0:0]Loom[C:7:0:0], then make [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Clothier[C:7:0:0].
+Gathered [C:6:0:1]Silk[C:7:0:0] can go directly to the [C:6:0:0]Loom[C:7:0:0].
+[C:6:0:1]Skins[C:7:0:0] can be obtained by butchering [C:2:0:0]Livestock[C:7:0:0] at the [C:6:0:0]Butcher's Shop[C:7:0:0].
+[C:6:0:1]Skins[C:7:0:0] are tanned at the [C:6:0:0]Tanner's Shop[C:7:0:0], and made into [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Leather Works[C:7:0:0].
+The [C:5:0:1]Schedule menu[C:7:0:0] is a powerful tool to give automatic orders to the selected squad.
+Routines are individual orders given to a squad or individual members of a squad.
+From here you can assign and edit the routines your soldiers will follow.
+You can also give your squads a monthly schedule.
+The routines are aligned along the top of the grid and the months of the year are shown down the left side.
+To assign different orders for each month, line up with your chosen routine, go down the column, and press edit on the orders lining up with the month.
+You can also copy an order from any cell.
+Clicking on the column itself will assign the routine to the selected squad.
+The regular mining command digs a tunnel into the side of a mountain or deep underground.
+This leaves a "ceiling" above and "floor" below the empty space you have mined.
+A ramp is a special square that can be traversed to the level above.
+There must be space above a ramp and an adjacent wall with an open floor above for the ramp to be usable.
+Digging a ramp into a wall on the same level will create a connection to the higher level and remove the ceiling.
+Once a ramp is present, you can start using the regular mining command on the higher level.
+Digging a channel will mine out a floor or wall at the current level and dig out a ramp at the level below.
+If there's no solid ground below the square being channeled, channeling will destroy the floor and create a hole instead.
+To easily see which ramps go up or down, click the [C:5:0:1]Ramp Vision[C:7:0:0] button by the minimap.
+As your dwarves live and work in your fortress they will generate [C:6:0:1]Refuse[C:7:0:0].
+This includes everything from [C:6:0:1]Bones[C:7:0:0] and other [C:6:0:1]Remains[C:7:0:0] to worn-out [C:6:0:1]Clothing[C:7:0:0].
+You can gather the [C:6:0:1]Refuse[C:7:0:0] in a [C:6:0:0]Refuse Stockpile[C:7:0:0].
+Some [C:6:0:1]Refuse[C:7:0:0] can be put to use, for instance [C:6:0:1]Shells[C:7:0:0] can be turned into [C:6:0:1]Crafts[C:7:0:0].
+Most of it will just generate foul smelling [C:0:0:1]Miasma[C:7:0:0].
+If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create a [C:3:0:0]Dump Zone[C:7:0:0].
+Use the [C:5:0:1]Zones[C:7:0:0] menu to select [C:3:0:0]Garbage Dump[C:7:0:0] and draw a rectangle over a cliff or hole and then designate [C:6:0:1]Items[C:7:0:0] for [C:3:0:1]Dumping[C:7:0:0].
+This can be done either from the [C:5:0:1]Item's Info Sheet[C:7:0:0] or by dragging a rectangle over everything you want to dump using the [C:5:0:1]Dump Designation[C:7:0:0] tool.
+There are many treasures and perils deep underground.
+In order to pursue the wealth of the earth, you must dig deeper!
+Valuable gems and precious metals can be found, along with richer soil, desperately needed water, fungal lumber, and other tantalizing mysteries.
+To attract migrants and build a successful settlement, you will need to keep your citizens happy.
+There are many ways to maintain your citizens.
+Alcohol, good food, and personal rooms go a long way.
+Meet their needs by providing [C:3:0:0]Meeting Areas[C:7:0:0] and [C:1:0:1]Locations[C:7:0:0] for socializing, worship, and study.
+Monitor their thoughts to identify problems that you can solve.
+Unhappy citizens can act out and cause trouble, and fewer people will risk travel to a miserable fortress.
+The current and optional path to victory is to have your fortress elevated to a barony.
+From there, you can build your wealth, export goods, and attract more migrants until you become a county then a duchy.
+A happy fortress with many exports and massive wealth can attract the existing monarch of the civilization.
+This is the first step to completing the game.
+Next, you'll need to satisfy your ruler's needs, and finally become a Mountainhome by seating them on a legendary throne with seven mythical symbols of office.
+You'll be an accomplished player at this point.
+But this is only the beginning.
+Ultimately, your true goals are up to your imagination.
+Call visitors from all over the world with the greatest tavern, library, or temple the world has ever known.
+Build an elaborate water-powered contraption or domesticate previously untameable wild beasts.
+Settle in unliveable regions tormented by ancient evils and defend your fortress from zombies with your own army of vampires.
+Your exploits will be recorded for Legends mode and by the master engravers in subsequent fortresses in your world.
+Most adventurers have three principle needs: food, water, and sleep.
+Food can be obtained in towns, from the environment, or by butchering corpses with a sharp object.
+You can find water in wells in towns, or in rivers.
+Salt and brackish waters are not safe for drinking.
+Alcohol is also sufficient but may not be as easy to come by as it is in a fortress.
+You can sleep using the sleep option in either local play or travel mode.
+If you have party members or followers, they will take turns keeping watch and reducing the chance of ambush.
+You also have needs according to your personality as seen in character creation and on your character sheet.
+If your needs aren't met, you won't perform quite as well in most situations.
+Combat with any creature will put you in immediate peril.
+Wounds can be serious and long-lasting, and most enemies are capable of killing unprepared opponents.
+The three main methods of attacking are striking, wrestling, and shooting.
+Items can also be thrown, and there are creatures with special abilities like spraying webs or breathing fire.
+The three main methods of defending are dodging, parrying, and blocking.
+If a strike is barely dodged, the defender may have no choice but to jump or scramble to another tile (or else be hit.
+) Parrying is by weapon skill and only works on other weapons.
+Blocking is done with a shield and works on any attack, including fire and natural attacks.
+You may create multiple characters during character creation.
+These are your party.
+You may select one party leader freely and control them while the others follow, or control each party member tactically.
+The game ends when the entire party is deceased or retired.
+For simplicity, only the party leader needs to eat and drink, though all party members will sleep aside from whoever is on watch.
+You can also obtain other followers through conversation, such as a guide or a mercenary.
+These followers may help or run away in combat, and they cannot be controlled directly.
+Some followers leave when their task is completed, while others will stay until they are asked to leave.
+Followers will join according to your heroic reputation, relevant skill, destiny type, and total follower amount.
+The total follower amount is based on the [C:3:0:1]Leadership[C:7:0:0] skill and the [C:2:0:1]Social Awareness[C:7:0:0] attribute.
+Along with combat, conversations are where most of the events in play happen.
+You can obtain quests, followers, information, and more by talking to the other inhabitants you find in the world.
+Most conversation events aside from trading take place interlaced with the rest of the game's actions, so don't be surprised if you don't always receive a reply immediately.
+The words of people that are talking to you will be highlighted.
+The [C:3:0:1]Judge of Intent[C:7:0:0] skill can help you keep tabs on the other speaker's mood.
+The people you are conversing with might become impatient or upset with you.
+Trading and bartering happen during conversation.
+Trading occurs in shops and bartering happens in every other context.
+Trading is very similar to trading with a [C:5:0:1]Broker[C:7:0:0] in Fortress mode.
+You can select any item in a store, or most items that a person is carrying.
+You don't have to pick up an item in a store before you purchase it, but feel free to do so as long as you don't leave the premises.
+Then select the items you'd like to trade, and see if you're successful.
+The trader might make a counteroffer if your offer is almost acceptable.
+In Adventure mode, currency plays a role.
+You can trade the accepted currency of whatever realm you are in for a precise measure of value.
+Other currencies can be traded as regular items.
+You might receive change in the currency of the realm.
+You can change your money between currency types in this fashion.
+There are several types of quests or quest-adjacent tasks that can be received during conversation or from a deity.
+If you are a member of a hearth (a hearthperson), you can speak to your leader to receive an order.
+Typically this will involve protecting the locals or stirring up trouble with a neighboring hearth.
+If you speak to a priest at a temple or select the Chosen destiny, you might receive a divine quest.
+Finally, if you ask regular people about their troubles, they might tell you about various tasks which would result in a change in reputation with that community.
+For instance, you could rescue a kidnapped child or slay a dragon in order to be recognized as a hero.
+In order to receive recognition for your accomplishments, you must tell the relevant people about them.
+The quest giver is a safe bet, especially if it's a hearth order, but generally you can tell anybody in a group what you've done and they'll react and spread the news.
+Most villages will be happy that you've slain a dragon, for instance, whether you've received the quest from them or not, and it might be worth a drink in the tavern to let the people you meet know who you are.
+You don't always need to be slain in combat or starve to death.
+If you are in a friendly community, you can retire there.
+Retired adventurers will continue their travels, and might show up in a future fortress or be hired by a future adventuring party.
+You can also unretire characters directly if they are still alive.
+Before you begin your travels, we'll familiarize you with the basic controls.
+Welcome adventurer!
+If you have a number pad, you can move one tile at a time by pressing [KEY:][KEY:][KEY:][KEY:] etc.
+If you want to move carefully, confirming your selection, you can press [KEY:] etc.
+When flying, use [KEY:] etc.
+and[KEY:] etc.
+to change altitude.
+You can also flying to other altitudes by left/right clicking while the camera is adjusted.
+If you miss an announcement or would like to review old messages, you can click the indicated button or press [KEY:] to view the message log.
+This is the companion menu.
+Here you'll see a list of party members, companions, and pets, along with their general location if you know it.
+You can assume control of party members.
+Companions who join you later in the journey can't generally be controlled manually.
+You can also set whether a party member will be controlled manually during tactical mode, or whether they'll be controlled by the computer.
+In tactical mode, you can control every party member manually if you wish, allow you to coordinate movements and attack with more precision.
+Tactical mode can be set by a button near the companion mode button on the main menu if you have multiple party members.
+This is the inventory menu.
+Here you can interact with the objects you are carrying.
+Items can be dropped, worn, eaten, thrown, named, etc.
+The icon tooltips describe your options for each item.
+Inventory items are all worn, held, in containers, or otherwise related to specific body parts.
+There is no abstract inventory space.
+If you are carrying too much, you'll see an encumbrance indicator above the inventory button.
+Encumbrance can cause you to move very slowly and should be avoided if possible.
+This is the movement options menu.
+Here you can choose your gait and see your current stealth profile.
+Moving quickly costs energy.
+You'll begin to move slowly or even collapse if you sprint for too long.
+If a gait has two numbers, the first number is the starting speed for the gait, and the second is the maximum speed.
+Continue moving in the same direction to build up speed.
+If you or your mount are moving quickly, your attacks gain velocity.
+This is the hold and climb menu.
+You can climb trees.
+First you must establish a hold with a free grasp.
+Then you can continue to move up into the air, while maintaining a hold on an adjacent tile.
+If you climb atop certain large branches, you can walk on them freely.
+Some surfaces like walls can be also climbed, but these require climbing skill to hold reliably.
+You can jump while climbing, and you can also release your hold.
+In these ways, you might reach areas you can't otherwise reach.
+The hold menu also allows you to lead and mount pets.
+You can claim stray animals as pets here too.
+To name your new pets, use the talk menu.
+This is the conversation menu.
+Conversations occur over time, like movements and attacks.
+When speaking to somebody, you'll choose what to say, and then time will pass while you are speaking and waiting for a reply.
+There are many conversation options.
+Important ones to note at first are inquiring about troubles, which might set you on the road to adventure, asking for duties from your leader if you have one, and the ability to trade in shops.
+You can also ask anybody to join you, but many people will be shy of danger.
+This is the performance menu.
+Here you can initiate a poetry recital, tell a story, dance, sing, or play a musical instrument.
+You can also compose poems, songs, and choreography if you know a relevant art form.
+Performance occur over a period of time related to the specific art form or piece.
+You can interrupt the performance as it unfolds, commit to finishing it and wait for its completion, or continue in steps.
+Compositions take more time, and you'll pass through a period of time similar to sleeping, resting, and traveling.
+This is the butchering and crafting menu.
+Butchering requires a sharp-edged weapon or tool, as well as a butcherable carcass.
+Butchering is an excellent source of meat.
+The other products cannot currently be used.
+Crafting in the base game is limited to constructing a stone axe necessary to fell trees.
+You can pick up few rocks and a tree branch to get started.
+This is the abilities menu.
+Any ability you possess that doesn't fit elsewhere will appear here.
+For instance, many creatures can spit or pet animals.
+Others can breathe fire.
+Some abilities, like the flight of winged creatures, can just be used during regular movement without needing this menu.
+If you obtain any magical powers during your adventure, you will find them in this menu.
+This is the attack menu.
+Here you can strike creatures with an item or body part, or you can initiate a dodge or parry movement.
+Attacks target specific body parts and have various modifiers.
+You will select these in the subsequent menus.
+There is a random element to outcomes and some body parts will be easier or harder to hit from moment to moment.
+However, skill is the most important determiner of hits versus misses.
+Once a strike hits, the materials and velocity are used to determine the damage.
+Skill and item quality can help with this, but sometimes it's just not possible to damage a target material with a weaker material.
+For this reason, it's important to obtain better equipment when you can.
+This is the wrestling menu.
+Here you can grab creatures and then execute a variety of wrestling moves.
+You can also initiate defensive actions here.
+Wrestling involves specific attacking body parts and specific target body parts.
+You can grab creatures with your grasps and limbs, and both the target and attacking part determine which wrestling moves are available.
+Relative body size is the most important determiner of wrestling outcomes.
+A character's wrestling skill is also important.
+Unless you are very skilled, you should not attempt to wrestle larger creatures, and you should try to avoid being grabbed by them.
+This is the projectile aiming menu.
+You can shoot projectiles with a launcher like a bow or crossbow, and you can throw almost any object that you are carrying in a grasp.
+You can initiate throwing from the inventory menu, or by pressing [KEY:] from play.
+Be warned that shooting a projectile currently has a long recovery time, so you may be subject to attack after you fire.
+Friendly fire isn't currently possible, so your companions should be safe.
+This is travel mode.
+Here you can travel great distances without having to move in the local mode.
+You still become thirsty, hungry, and drowsy while traveling.
+You are also still subject to attack or ambush, though you can see certain groups on the map and may be able to avoid them.
+You can stop traveling using the stop travel button below or by pressing .
+This is the sleep menu.
+Here you can sleep to overcome drowsiness or wait to pass time.
+If you have multiple party members, your chances of being ambushed will be greatly reduced.
+It's also generally wise to try to sleep in friendly places, but you might need to obtain permission.
+Chief Medical Dwarf[C:7:0:0] from the [C:5:0:1]Nobles and administrators[C:7:0:0] menu.
+You will need to assign a [C:5:0:0]Doctor[C:7:0:0] to the [C:1:0:1]Hospital[C:7:0:0] from the [C:5:0:1]Hospital Info Menu[C:7:0:0].
+Later you can assign [C:5:0:0]Doctors[C:7:0:0] to specific roles such as the [C:5:0:0]Diagnostician[C:7:0:0].
+The [C:5:0:0]Doctor[C:7:0:0] will need a [C:6:0:0]Table[C:7:0:0] to perform surgeries.
+Some injuries will require [C:6:0:0]Traction Benches[C:7:0:0] which can be built at the [C:6:0:0]Mechanic's Shop[C:7:0:0].
+The thirst for knowledge some residents have can be satisfied at the [C:1:0:1]Library[C:7:0:0].
+From the [C:5:0:1]Library Info Menu[C:7:0:0] you can assign [C:5:0:0]Scholars[C:7:0:0] who discuss their interests with the inhabitants, and [C:5:0:0]Scribes[C:7:0:0] to record them.
+Beware!
+Some knowledge is dangerous.
+In order to hold [C:6:0:1]Scrolls[C:7:0:0] and [C:6:0:1]Codices[C:7:0:0] you will need [C:6:0:0]Bookcases[C:7:0:0].
+You will also need [C:6:0:0]Tables[C:7:0:0] for your [C:5:0:0]Scribes[C:7:0:0] to work on.
+[C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] are needed to store the [C:6:0:1]Writing Material[C:7:0:0] for the [C:5:0:0]Scribes[C:7:0:0] to write on.
+[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions gather to socialize and share their knowledge.
+When deciding which guild to dedicate the [C:1:0:1]Guildhall[C:7:0:0] to, you can scroll over the names of the guilds and see how many workers of each profession there are and whether a guild has been established.
+As the guild grows in power they may demand a [C:1:0:1]Guildhall[C:7:0:0] of greater value.
+This can be increased by decorating the hall and building [C:6:0:0]Furniture[C:7:0:0] like [C:6:0:0]Statues[C:7:0:0].
+Welcome to Dwarf Fortress
+Quick start and short tutorial?
+On your own!
+Camera controls
+Camera controls (1 of 8)
+Mining
+Mining (2 of 8)
+Stockpiles
+Stockpiles (3 of 8)
+Woodcutting
+Woodcutting (4 of 8)
+Building
+Building (5 of 8)
+Information sheets
+Information sheets (6 of 8)
+Alerts
+Alerts (7 of 8)
+Preparing for the Caravan
+Preparing for the Caravan (8 of 8)
+Just the beginning
+Survival
+Planting
+Other food sources
+Zones
+Burrows
+Minecart routes
+Stocks
+Work details
+Nobles and administrators
+Justice
+Squads
+The World
+Work orders
+Bins, bags, and barrels
+Trade
+Offices and administrative work
+Ore and smelting
+Traps and levers
+Wells
+Handling light aquifers
+Clothing
+Meeting areas and locations
+Military
+Ramps and channels
+Refuse and dumping
+Dig deeper
+Happiness and stress
+Goals
+Combat
+The party and followers
+Conversations
+Trading
+Quests and reputation
+Fortress mode
+Retirement
+Adventure mode
+Camera controls (1 of 3)
+Movement
+Movement (2 of 3)
+Menu overview
+Menu overview (3 of 3)
+Companions
+Adventurer's log
+Inventory
+Movement options
+Hold and climb
+Talk
+Perform
+Butcher and craft
+Abilities
+Strike
+Wrestle
+Shoot and throw
+Travel
+Sleep and rest

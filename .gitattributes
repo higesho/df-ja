@@ -1,0 +1,14 @@
+# 辞書は LF のまま扱う（Windows でチェックアウトしても変換しない）。
+# CRLF に変わると、タブ区切りの行末に \r が付いて訳が一致しなくなる
+* text=auto eol=lf
+
+# PowerShell のスクリプトは UTF-8 BOM 付きで、Windows PowerShell 5.1 が読む。
+# BOM が無いと ANSI として読まれ、日本語のコメントで構文エラーになる
+*.ps1 text eol=crlf
+
+# 中身をいじらないもの
+*.otf binary
+*.ttf binary
+*.png binary
+*.dll binary
+*.lib binary

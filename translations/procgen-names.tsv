@@ -1,0 +1,855 @@
+# 世界生成で組み立てられる怪物・悪魔・天使の名前の部品。
+# 出典: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua と data/init/globals.lua。
+# 組み合わせは世界ごとに変わるので、build.py が data/lookups/monsters.csv に組み立て型の表として書き出す。
+# 分類: kind=種類の名詞 / spouse=連れ合いの呼び名 / end=末尾句 / adj=頭に付く形容詞
+#       mat=名前に使う物質 / sadj=神の領域の形容詞 / snoun=神の領域の名詞
+# 日本語は、adj・sadj・end は連体修飾の形（「夜の」「奇形の」）、kind・mat・snoun は素の名詞。
+# 英語の単数形・複数形・形容詞形は別の行だが、日本語はどれも同じ名詞形にしてある
+kind	Angel	天使
+kind	Angels	天使
+kind	Assistant	補佐役
+kind	Assistants	補佐役
+kind	Attendant	従者
+kind	Attendants	従者
+kind	Bane	災厄
+kind	Banes	災厄
+kind	Beast	獣
+kind	Beasts	獣
+kind	Behemoth	巨獣
+kind	Behemoths	巨獣
+kind	Being	存在
+kind	Beings	存在
+kind	Catastrophe	大災厄
+kind	Catastrophes	大災厄
+kind	Champion	勇士
+kind	Champions	勇士
+kind	Destroyer	破壊者
+kind	Destroyers	破壊者
+kind	Doom	破滅
+kind	Dooms	破滅
+kind	Enforcer	執行者
+kind	Enforcers	執行者
+kind	Fighter	戦士
+kind	Fighters	戦士
+kind	Guardian	守護者
+kind	Guardians	守護者
+kind	Hand	手
+kind	Hands	手
+kind	Harbinger	先触れ
+kind	Harbingers	先触れ
+kind	Helper	助け手
+kind	Helpers	助け手
+kind	Judgment	審判
+kind	Judgments	審判
+kind	Messenger	伝令
+kind	Messengers	伝令
+kind	Minion	配下
+kind	Minions	配下
+kind	Monster	怪物
+kind	Monsters	怪物
+kind	Pawn	手先
+kind	Pawns	手先
+kind	Puppet	操り人形
+kind	Puppets	操り人形
+kind	Retainer	家臣
+kind	Retainers	家臣
+kind	Ruination	荒廃
+kind	Ruinations	荒廃
+kind	Servant	下僕
+kind	Servants	下僕
+kind	Slayer	討伐者
+kind	Slayers	討伐者
+kind	Soldier	兵士
+kind	Soldiers	兵士
+kind	Spirit	霊
+kind	Spirits	霊
+kind	Warrior	戦士
+kind	Warriors	戦士
+kind	Worker	作業者
+kind	Workers	労働者
+kind	angelic	天使
+kind	assistant	補佐役
+kind	attendant	従者
+kind	bane	災厄
+kind	banshee	バンシー
+kind	banshees	バンシー
+kind	beast	獣
+kind	behemoth	巨獣
+kind	being	存在
+kind	brute	獣鬼
+kind	brutes	獣鬼
+kind	brutish	野獣
+kind	catastrophe	大災厄
+kind	champion	勇士
+kind	creature	生き物
+kind	creatures	生き物
+kind	crone	老婆
+kind	crones	老婆
+kind	demon	悪魔
+kind	demonic	悪魔
+kind	demons	悪魔
+kind	destroyer	破壊者
+kind	devil	魔物
+kind	devilish	魔物
+kind	devils	魔物
+kind	doom	破滅
+kind	enforcer	執行者
+kind	fiend	悪鬼
+kind	fiendish	悪鬼
+kind	fiends	悪鬼
+kind	fighter	戦士
+kind	freak	異形
+kind	ghost	幽霊
+kind	ghosts	幽霊
+kind	guardian	守護者
+kind	hag	鬼婆
+kind	hags	鬼婆
+kind	hand	手
+kind	harbinger	先触れ
+kind	haunt	怨霊
+kind	haunts	怨霊
+kind	helper	助け手
+kind	horror	恐怖
+kind	horrors	恐怖
+kind	judgment	審判
+kind	man	男
+kind	men	男
+kind	messenger	伝令
+kind	minion	配下
+kind	monster	怪物
+kind	monsters	怪物
+kind	ogre	オーガ
+kind	ogres	オーガ
+kind	ogress	女オーガ
+kind	ogresses	女オーガ
+kind	pawn	手先
+kind	phantom	幻影
+kind	phantoms	幻影
+kind	puppet	操り人形
+kind	retainer	家臣
+kind	ruination	荒廃
+kind	servant	下僕
+kind	slayer	討伐者
+kind	soldier	兵士
+kind	specter	亡霊
+kind	specters	亡霊
+kind	spirit	霊
+kind	spirits	霊
+kind	troll	トロル
+kind	trolls	トロル
+kind	warrior	戦士
+kind	woman	女
+kind	women	女性
+kind	worker	作業者
+kind	wraith	死霊
+kind	wraiths	死霊
+spouse	bride	花嫁
+spouse	bridegroom	花婿
+spouse	bridegrooms	花婿
+spouse	brides	花嫁
+spouse	consort	配偶者
+spouse	consorts	配偶者
+spouse	groom	花婿
+spouse	grooms	花婿
+spouse	husband	夫
+spouse	husbands	夫
+spouse	mate	連れ合い
+spouse	mates	連れ合い
+spouse	spouse	配偶者
+spouse	spouses	配偶者
+spouse	wife	妻
+spouse	wives	妻
+end	of evil	邪悪な
+end	of shadow	影の
+end	of tears	涙の
+end	of the night	夜の
+end	of twilight	薄明の
+adj	backward	逆さまの
+adj	baying	遠吠えする
+adj	bellowing	吼える
+adj	black	黒
+adj	bleak	荒涼たる
+adj	blind	盲目の
+adj	blizzard	吹雪の
+adj	bloated	膨れた
+adj	boiling	煮え立つ
+adj	brooding	陰気な
+adj	brown	茶色
+adj	burning	燃焼
+adj	crooked	ねじくれた
+adj	dark	闇の
+adj	dusk	黄昏の
+adj	emaciated	痩せこけた
+adj	eyeless	無眼の
+adj	flaming	燃え盛る
+adj	flare	閃光の
+adj	flash	瞬きの
+adj	flood	洪水
+adj	gloom	陰鬱の
+adj	gray	灰色
+adj	green	緑
+adj	groaning	呻く
+adj	grumbling	ぶつぶつ言う
+adj	howling	咆哮する
+adj	hulking	巨大な
+adj	inferno	業火の
+adj	lumbering	鈍重な
+adj	midnight	真夜中の
+adj	moaning	嘆く
+adj	moon	月の
+adj	muttering	呟く
+adj	narrow	細い
+adj	night	夜の
+adj	of tears	涙の
+adj	one-eyed	隻眼の
+adj	quagmire	泥沼の
+adj	red	赤
+adj	scorching	灼熱
+adj	screaming	絶叫する
+adj	shade	陰の
+adj	shadow	影の
+adj	shrieking	金切り声の
+adj	skinless	皮なしの
+adj	sleet	みぞれの
+adj	slick	滑りやすい
+adj	slush	泥水
+adj	starved	飢えた
+adj	tear	涙の
+adj	three-eyed	三眼の
+adj	twilight	薄明の
+adj	twisted	歪んだ
+adj	vile	邪悪な
+adj	wailing	泣き叫ぶ
+adj	waste	廃棄物
+adj	whispering	囁く
+adj	white	白
+adj	wicked	悪辣な
+adj	winged	翼の
+mat	amber	琥珀
+mat	ash	灰
+mat	brine	かん水
+mat	cinders	燃え殻
+mat	coal	石炭
+mat	coral	珊瑚
+mat	embers	残り火
+mat	filth	汚物
+mat	fire	火
+mat	flame	炎
+mat	glass	ガラス
+mat	grime	汚れ
+mat	ice	氷
+mat	muck	泥
+mat	mud	泥
+mat	rain	雨
+mat	salt	塩
+mat	shadow	影
+mat	sludge	ヘドロ
+mat	snow	雪
+mat	soot	煤
+mat	steam	蒸気
+mat	vomit	嘔吐
+mat	water	水
+sadj	agricultural	農耕の
+sadj	animal	動物
+sadj	artistic	芸術的
+sadj	baked	焼き固められた
+sadj	balanced	均衡のとれた
+sadj	beautiful	美しき
+sadj	birthing	産みの
+sadj	blighted	枯れ果てた
+sadj	cavernous	洞窟の
+sadj	chaotic	混沌の
+sadj	charitable	慈善の
+sadj	child-like	幼子の
+sadj	cloudy	曇りの
+sadj	coastal	沿岸の
+sadj	colorful	色鮮やかな
+sadj	consoling	慰め
+sadj	courageous	勇敢な
+sadj	crafted	巧みなる
+sadj	created	作られた
+sadj	crystal	水晶の
+sadj	dancing	ダンス
+sadj	dark	闇の
+sadj	dawning	暁の
+sadj	dead	死亡
+sadj	deceitful	欺きの
+sadj	deformed	奇形の
+sadj	delineated	描かれし
+sadj	depraved	堕落した
+sadj	disciplined	規律正しき
+sadj	diseased	病める
+sadj	dreaming	夢見る
+sadj	dusklight	薄明の
+sadj	dutiful	忠実
+sadj	earthen	土の
+sadj	electrical	電気の
+sadj	enslaved	隷属の
+sadj	enterprising	進取の
+sadj	familial	家族の
+sadj	famous	名高き
+sadj	fated	宿命の
+sadj	fertile	肥沃なる
+sadj	festive	祝祭の
+sadj	fiery	火焔の
+sadj	fish	魚
+sadj	flowing	流れる
+sadj	forgiving	赦しの
+sadj	free	自由
+sadj	gambling	賭博
+sadj	generous	寛大な
+sadj	happy	幸せ
+sadj	healing	治癒
+sadj	hopeless	絶望
+sadj	hospitable	もてなしの
+sadj	hunting	狩猟
+sadj	inspired	霊感を受けた
+sadj	jealous	嫉妬深き
+sadj	jeweled	宝石をちりばめた
+sadj	joyous	喜び
+sadj	just	正しき
+sadj	laboring	労働中
+sadj	leafy	葉の茂る
+sadj	lettered	学識ある
+sadj	long-lived	長寿の
+sadj	lordly	威厳ある
+sadj	loving	愛情深い
+sadj	loyal	忠実
+sadj	lucky	幸運の
+sadj	lustful	好色
+sadj	lyrical	抒情の
+sadj	married	既婚
+sadj	merciful	慈悲深い
+sadj	metal	金属
+sadj	miserable	惨め
+sadj	misty	霧の
+sadj	moonlit	月明かりの
+sadj	mountainous	山岳の
+sadj	muddy	泥だらけの
+sadj	murderous	殺戮の
+sadj	natural	自然の
+sadj	nightmarish	悪夢の
+sadj	noon-time	真昼の
+sadj	oceanic	海洋の
+sadj	ordered	秩序ある
+sadj	painted	描かれた
+sadj	peaceful	平和なる
+sadj	persuasive	説得の
+sadj	playful	戯れの
+sadj	poetic	詩情の
+sadj	pregnant	妊娠の
+sadj	protected	保護された
+sadj	rainy	雨の
+sadj	reborn	生まれ変わりし
+sadj	rigid	硬直した
+sadj	sacrificial	生贄の
+sadj	salty	塩辛き
+sadj	scholarly	学者の
+sadj	seasonal	季節ごと
+sadj	shining	輝く
+sadj	silent	沈黙の
+sadj	singing	歌唱
+sadj	starry	星々の
+sadj	stormy	嵐の
+sadj	strong	強い
+sadj	sunny	陽光の
+sadj	sworn	誓いの
+sadj	thieving	盗みの
+sadj	thunderous	雷鳴の
+sadj	traveling	旅行中
+sadj	treacherous	背信の
+sadj	tricky	厄介
+sadj	true	真の
+sadj	twilight	薄明の
+sadj	valorous	勇猛なる
+sadj	vengeful	復讐心
+sadj	victorious	勝利の
+sadj	volcanic	火山の
+sadj	warring	戦う
+sadj	watery	水っぽい
+sadj	wealthy	富める
+sadj	wet	濡れた
+sadj	whispering	囁く
+sadj	wicked	悪辣な
+sadj	windy	風の
+sadj	wise	賢き
+sadj	wooden	木製
+sadj	wordy	饒舌な
+sadj	young	若き
+snoun	animals	動物
+snoun	art	芸術
+snoun	balance	平衡感覚
+snoun	beauty	美
+snoun	birth	誕生
+snoun	blight	立ち枯れ病
+snoun	boundaries	境界
+snoun	caverns	洞窟群
+snoun	chaos	混沌
+snoun	charity	慈善
+snoun	children	子供
+snoun	coasts	沿岸
+snoun	consolation	慰め
+snoun	courage	勇気
+snoun	crafts	工芸品
+snoun	creation	創造
+snoun	dance	踊り
+snoun	darkness	暗闇
+snoun	dawn	夜明け
+snoun	day	日
+snoun	death	死
+snoun	deformity	奇形
+snoun	depravity	堕落
+snoun	discipline	規律
+snoun	disease	病気
+snoun	dreams	夢
+snoun	dusk	夕暮れ
+snoun	duty	任務
+snoun	earth	大地
+snoun	fame	名声
+snoun	family	家族
+snoun	farming	農耕
+snoun	fate	運命
+snoun	fertility	肥沃さ
+snoun	festivals	祭り
+snoun	fire	火
+snoun	fish	魚
+snoun	fishing	釣り
+snoun	food	食料
+snoun	forgiveness	赦し
+snoun	fortresses	要塞
+snoun	freedom	自由
+snoun	gambling	賭博
+snoun	games	遊び
+snoun	generosity	寛大さ
+snoun	happiness	幸福
+snoun	healing	治癒
+snoun	hospitality	もてなし
+snoun	hunting	狩猟
+snoun	inspiration	霊感
+snoun	jealousy	嫉妬
+snoun	jewels	宝石
+snoun	justice	懲罰
+snoun	labor	労働
+snoun	lakes	湖
+snoun	laws	法
+snoun	lies	嘘
+snoun	light	光
+snoun	lightning	稲妻
+snoun	longevity	長寿
+snoun	love	愛
+snoun	loyalty	忠誠
+snoun	luck	幸運
+snoun	lust	欲情
+snoun	marriage	結婚
+snoun	mercy	慈悲
+snoun	metals	金属
+snoun	minerals	鉱物
+snoun	misery	惨めさ
+snoun	mist	霧
+snoun	moon	月
+snoun	mountains	山岳
+snoun	muck	泥
+snoun	murder	殺人
+snoun	music	音楽
+snoun	nature	自然
+snoun	night	夜
+snoun	nightmares	悪夢
+snoun	oaths	誓い
+snoun	oceans	海洋
+snoun	order	命令
+snoun	painting	絵画
+snoun	peace	和平
+snoun	persuasion	説得
+snoun	plants	植物
+snoun	poetry	詩
+snoun	pregnancy	妊娠
+snoun	rain	雨
+snoun	rainbows	虹
+snoun	rebirth	再生
+snoun	revelry	大騒ぎ
+snoun	revenge	復讐
+snoun	rivers	川
+snoun	rulership	支配
+snoun	rumors	噂
+snoun	sacrifice	生贄
+snoun	salt	塩
+snoun	scholarship	学識
+snoun	seasons	季節
+snoun	silence	沈黙
+snoun	sky	空
+snoun	song	歌
+snoun	speech	演説
+snoun	stars	星
+snoun	storms	嵐
+snoun	strength	筋力
+snoun	suicide	自殺
+snoun	sun	太陽
+snoun	theft	窃盗
+snoun	thralldom	隷属
+snoun	thunder	雷鳴
+snoun	torture	拷問
+snoun	trade	交易
+snoun	travelers	旅人
+snoun	treachery	背信
+snoun	trees	木
+snoun	trickery	策略
+snoun	truth	真実
+snoun	twilight	黄昏
+snoun	valor	武勇
+snoun	victory	勝利
+snoun	volcanos	火山
+snoun	war	戦争
+snoun	water	水
+snoun	wealth	富
+snoun	weather	天候
+snoun	wind	風
+snoun	wisdom	知恵
+snoun	writing	執筆
+snoun	youth	若者
+kind	thing	もの
+kind	things	もの
+kind	blob	塊
+kind	blobs	塊
+kind	bat	蝙蝠
+kind	bats	蝙蝠
+rcp	albatross	アホウドリ
+rcp	alligator	アリゲーター
+rcp	anaconda	アナコンダ
+rcp	ankylosaurid	鎧竜
+rcp	ant	アリ
+rcp	anteater	アリクイ
+rcp	antelope	カモシカ
+rcp	antlion larva	アリジゴク
+rcp	ape	類人猿
+rcp	aphid	アブラムシ
+rcp	armadillo	アルマジロ
+rcp	assassin bug	サシガメ
+rcp	badger	アナグマ
+rcp	bear	熊
+rcp	beaver	ビーバー
+rcp	bee	ハチ
+rcp	bison	バイソン
+rcp	bristleworm	ゴカイ
+rcp	buffalo	バッファロー
+rcp	bull	雄牛
+rcp	bunting	ホオジロ
+rcp	bushtit	ヤブガラ
+rcp	butterfly	チョウ
+rcp	buzzard	ノスリ
+rcp	caddisfly	トビケラ
+rcp	camel	ラクダ
+rcp	capybara	カピバラ
+rcp	cardinal	カーディナル
+rcp	cat	猫
+rcp	caterpillar	イモムシ
+rcp	cavy	テンジクネズミ
+rcp	ceratopsid	角竜
+rcp	chameleon	カメレオン
+rcp	chickadee	コガラ
+rcp	chicken	鶏
+rcp	chinchilla	チンチラ
+rcp	cicada	セミ
+rcp	civet	ジャコウネコ
+rcp	click beetle	コメツキムシ
+rcp	coati	ハナグマ
+rcp	cobra	コブラ
+rcp	cockatoo	キバタン
+rcp	cockroach	ゴキブリ
+rcp	condor	コンドル
+rcp	coyote	コヨーテ
+rcp	crab	カニ
+rcp	crane	ツル
+rcp	cricket	コオロギ
+rcp	crocodile	ワニ
+rcp	crow	カラス
+rcp	cuckoo	カッコウ
+rcp	damselfly	イトトンボ
+rcp	darkling beetle	ゴミムシダマシ
+rcp	deer	鹿
+rcp	dimetrodon	ディメトロドン
+rcp	donkey	ロバ
+rcp	dove	ハト
+rcp	dragonfly	トンボ
+rcp	duck	アヒル
+rcp	dung beetle	フンコロガシ
+rcp	eagle	鷲
+rcp	earthworm	ミミズ
+rcp	earwig	ハサミムシ
+rcp	elephant	ゾウ
+rcp	elk	エルク
+rcp	falcon	ハヤブサ
+rcp	fantail	オウギビタキ
+rcp	finch	アトリ
+rcp	firefly	ホタル
+rcp	flamingo	フラミンゴ
+rcp	flat worm	ウズムシ
+rcp	flea	ノミ
+rcp	fly	飛行
+rcp	flycatcher	ヒタキ
+rcp	fox	キツネ
+rcp	frog	カエル
+rcp	fruit bat	オオコウモリ
+rcp	gecko	ヤモリ
+rcp	gila monster	アメリカドクトカゲ
+rcp	giraffe	キリン
+rcp	goat	ヤギ
+rcp	goose	ガチョウ
+rcp	gopher	ホリネズミ
+rcp	grasshopper	バッタ
+rcp	grebe	カイツブリ
+rcp	grouse	雷鳥
+rcp	gull	カモメ
+rcp	hadrosaurid	カモノハシ竜
+rcp	hare	野兎
+rcp	harrier	チュウヒ
+rcp	hawk	タカ
+rcp	hedgehog	ハリネズミ
+rcp	hippopotamus	カバ
+rcp	honeyeater	ミツスイ
+rcp	hornbill	サイチョウ
+rcp	hornet	オオスズメバチ
+rcp	horse	馬
+rcp	humanoid	人型
+rcp	hummingbird	ハチドリ
+rcp	hyena	ハイエナ
+rcp	iguana	イグアナ
+rcp	iguanodont	イグアノドン類
+rcp	jackal	ジャッカル
+rcp	jay	カケス
+rcp	kangaroo	カンガルー
+rcp	kestrel	チョウゲンボウ
+rcp	kingfisher	カワセミ
+rcp	kinglet	キクイタダキ
+rcp	kite	トビ
+rcp	koala	コアラ
+rcp	lacewing	クサカゲロウ
+rcp	ladybug	テントウムシ
+rcp	lark	ヒバリ
+rcp	leech	ヒル
+rcp	lemur	キツネザル
+rcp	lizard	トカゲ
+rcp	llama	ラマ
+rcp	lobster	ロブスター
+rcp	loon	アビ
+rcp	loris	ロリス
+rcp	louse	シラミ
+rcp	lyrebird	コトドリ
+rcp	maggot	ウジ
+rcp	magpie	カササギ
+rcp	mammoth	マンモス
+rcp	mantis	カマキリ
+rcp	marmot	マーモット
+rcp	martin	イワツバメ
+rcp	mayfly	カゲロウ
+rcp	mite	ダニ
+rcp	mockingbird	マネシツグミ
+rcp	mole	モグラ
+rcp	mongoose	マングース
+rcp	monitor	モニター
+rcp	monkey	サル
+rcp	moose	ヘラジカ
+rcp	mosquito	蚊
+rcp	moth	蛾
+rcp	mouse	マウス
+rcp	nematode	線虫
+rcp	newt	イモリ
+rcp	nightjar	ヨタカ
+rcp	nuthatch	ゴジュウカラ
+rcp	opossum	オポッサム
+rcp	oriole	コウライウグイス
+rcp	osprey	ミサゴ
+rcp	otter	カワウソ
+rcp	owl	フクロウ
+rcp	oxpecker	ウシツツキ
+rcp	panda	パンダ
+rcp	pangolin	センザンコウ
+rcp	panther	パンサー
+rcp	parrot	オウム
+rcp	pelican	ペリカン
+rcp	penguin	ペンギン
+rcp	petrel	ミズナギドリ
+rcp	pheasant	キジ
+rcp	pig	豚
+rcp	pigeon	ハト
+rcp	porcupine	ヤマアラシ
+rcp	pterosaur	翼竜
+rcp	python	ニシキヘビ
+rcp	quadruped	四足獣
+rcp	quail	ウズラ
+rcp	quetzal	ケツァール
+rcp	rabbit	兎
+rcp	raccoon	アライグマ
+rcp	rat	鼠
+rcp	rattlesnake	ガラガラヘビ
+rcp	raven	ワタリガラス
+rcp	rhinoceros	サイ
+rcp	rhinoceros beetle	カブトムシ
+rcp	ribbon worm	ヒモムシ
+rcp	rove beetle	ハネカクシ
+rcp	salamander	サンショウウオ
+rcp	sauropod	竜脚類
+rcp	scarab beetle	コガネムシ
+rcp	scorpion	サソリ
+rcp	scorpionfly	サソリアブ
+rcp	serpent	蛇
+rcp	sheep	羊
+rcp	shrew	トガリネズミ
+rcp	shrike	モズ
+rcp	shrimp	エビ
+rcp	silverfish	シミ
+rcp	skink	トカゲ（スキンク）
+rcp	skunk	スカンク
+rcp	sloth	ナマケモノ
+rcp	slug	ナメクジ
+rcp	snail	カタツムリ
+rcp	snakefly	ヘビトンボ
+rcp	sparrow	スズメ
+rcp	spider	クモ
+rcp	squirrel	リス
+rcp	stag beetle	クワガタムシ
+rcp	starling	ムクドリ
+rcp	stegosaurid	剣竜
+rcp	stick insect	ナナフシ
+rcp	stonefly	カワゲラ
+rcp	stork	コウノトリ
+rcp	swallow	ツバメ
+rcp	swan	白鳥
+rcp	swift	アマツバメ
+rcp	tanager	フウキンチョウ
+rcp	tapir	バク
+rcp	tarantula	タランチュラ
+rcp	termite	シロアリ
+rcp	theropod	獣脚類
+rcp	thornbill	ソーンビル
+rcp	thrips	アザミウマ
+rcp	thrush	ツグミ
+rcp	tick	ダニ
+rcp	tiger beetle	ハンミョウ
+rcp	titmouse	シジュウカラ
+rcp	toad	ヒキガエル
+rcp	tortoise	亀
+rcp	toucan	オオハシ
+rcp	turkey	七面鳥
+rcp	turtle	カメ
+rcp	viper	クサリヘビ
+rcp	vulture	ハゲワシ
+rcp	walrus	セイウチ
+rcp	warbler	ムシクイ
+rcp	warthog	イボイノシシ
+rcp	wasp	スズメバチ
+rcp	waxwing	レンジャク
+rcp	weasel	イタチ
+rcp	weevil	ゾウムシ
+rcp	wolf	狼
+rcp	wombat	ウォンバット
+rcp	woodpecker	キツツキ
+rcp	wren	ミソサザイ
+rcp	zebra	シマウマ
+kind	bogeyman	ブギーマン
+kind	bogeymen	ブギーマン
+mythadj	primordial	原初の
+mythadj	elder	太古の
+mythadj	cosmic	宇宙の
+mythadj	primal	原始の
+mythadj	elemental	元素の
+mythadj	primeval	始原の
+mythadj	curious	奇妙な
+mythadj	weird	異様な
+mythadj	odd	風変わりな
+mythadj	strange	不思議な
+mythadj	unusual	珍しい
+mythadj	peculiar	奇異な
+mythnoun	chaos	混沌
+mythnoun	cloudstuff	雲の素
+mythnoun	crystal	水晶
+mythnoun	darkness	闇
+mythnoun	dreamstuff	夢の素
+mythnoun	fire	炎
+mythnoun	glitchstuff	綻びの素
+mythnoun	ice	氷
+mythnoun	leaf	葉
+mythnoun	light	光
+mythnoun	lightning	稲妻
+mythnoun	metal	金属
+mythnoun	moonstone	ムーンストーン
+mythnoun	mudstone	泥岩
+mythnoun	obsidian	黒曜石
+mythnoun	salt	塩
+mythnoun	stardust	星屑
+mythnoun	stone	石
+mythnoun	sunstone	サンストーン
+mythnoun	wood	木
+mythnoun	liquid	液体
+mythnoun	fluid	流体
+mythnoun	broth	煮汁
+mythnoun	juice	汁
+mythnoun	goo	ねばねば
+mythnoun	liquor	酒
+mythnoun	solution	溶液
+mythnoun	jelly	ゼリー
+mythnoun	pulp	果肉
+mythnoun	wax	蝋
+mythnoun	jam	ジャム
+mythnoun	dough	生地
+divine	black metal	黒い金属
+divine	blazing cloth	燃え盛る布
+divine	blazing metal	燃え盛る金属
+divine	blistered metal	水ぶくれの金属
+divine	booming metal	轟く金属
+divine	bright cloth	輝く布
+divine	bright metal	輝く金属
+divine	clear blue cloth	澄んだ青い布
+divine	clear blue metal	澄んだ青い金属
+divine	crashing metal	砕ける金属
+divine	dancing wisps	踊る細片
+divine	dark metal	暗い金属
+divine	dirty fabric	汚れた織物
+divine	faceted cloth	切子の布
+divine	faceted metal	切子の金属
+divine	flashing metal	閃く金属
+divine	flashing sparks	閃く火花
+divine	flickering cloth	揺らめく布
+divine	flickering metal	揺らめく金属
+divine	flowing cloth	流れる布
+divine	flowing fabric	流れる織物
+divine	flowing metal	流れる金属
+divine	frosty metal	霜の金属
+divine	glowing cloth	光る布
+divine	glowing metal	光る金属
+divine	heavy cloth	重い布
+divine	liquid cloth	液状の布
+divine	liquid darkness	液状の闇
+divine	misty cloth	霧の布
+divine	moist fabric	湿った織物
+divine	molten liquid	溶けた液体
+divine	motes of light	光の塵
+divine	multicolored cloth	色とりどりの布
+divine	multicolored metal	色とりどりの金属
+divine	never-still cloth	止まらぬ布
+divine	pale fabric	淡い織物
+divine	pale metal	淡い金属
+divine	patchy cloth	まだらの布
+divine	pitch-black fabric	漆黒の織物
+divine	pock-marked metal	あばたの金属
+divine	rotted fabric	朽ちた織物
+divine	ruddy metal	赤みがかった金属
+divine	rusted metal	錆びた金属
+divine	rustling fabric	衣擦れの織物
+divine	screaming mouths	叫ぶ口
+divine	searing metal	焼け付く金属
+divine	shadow stuff	影の素
+divine	shimmering cloth	煌めく布
+divine	shining cloth	輝く布
+divine	shining metal	輝く金属
+divine	singing metal	歌う金属
+divine	slick metal	滑らかな金属
+divine	sonorous lines	鳴り響く線
+divine	still blue fabric	静かな青い織物
+divine	translucent cloth	半透明の布
+divine	translucent metal	半透明の金属
+divine	twinkling metal	瞬く金属
+divine	twisted fabric	捩れた織物
+divine	twisting metal	捩れる金属
+divine	undulating cloth	波打つ布
+divine	white cloth	白い布
+divine	wispy cloth	薄い布

@@ -1,0 +1,149 @@
+** Loading Fortress **	** 要塞を読み込み中 **
+** Starting Adventure **	** 冒険を開始 **
+** Starting New Outpost **	** 新しい前哨地を開始 **
+*** STARTING NEW GAME ***	*** 新しいゲームを開始 ***
+A ligament has been torn and a tendon has been torn!	靭帯と腱が切れた！
+A snow storm has come.	吹雪がやって来た。
+Although it is a grim reminder of the winter hardships to come, the supply caravan from The Knives of Ransacking is a welcome sight. Their eyes are alight with the anticipation of inspecting the splendid products of your industrious craftsdwarves. [B]Take careful stock of your own stores. What these merchants offer might very well be the difference between a prosperous future and a slow and meaningless death.	来たる冬の厳しさを思い起こさせるものではあるが、The Knives of Ransackingからの補給のキャラバンはありがたい光景だ。彼らの目は、勤勉な職人ドワーフたちの見事な品々を見られる期待に輝いている。[B]自分の備蓄をよく確認してください。これらの商人が提供するものは、繁栄する未来と、緩慢で無意味な死との違いになるかもしれない。
+An animal has grown to become a Stray Yak Bull.	動物が成長して野良ヤク（雄）になった。
+An artery has been opened by the attack!	動脈が裂けた！
+Autumn has come.	秋が来ました。
+It has started raining.	雨が降り始めた。
+It is now summer.	夏になった。
+Some migrants have arrived.	移民が到着しました。
+The animal caretaker Unib Adilgim: How fleeting life is...  Begone fear!	動物の世話係のUnib Adilgim「命とはなんとはかないんだ……恐れなど消えろ！」
+The animal caretaker Unib Adilgim: I must withdraw!	動物の世話係のUnib Adilgim「退かなければ！」
+The expedition leader attacks the kea but He jumps away!	遠征隊長はケアに攻撃したが、かわされた！
+The expedition leader grabs the kea by the first toe, left foot with her right hand, but the attack glances away!	遠征隊長は右手でケアの第1足指、左足をつかもうとしたが、それた！
+The expedition leader grabs the kea by the second toe, right foot with her right lower arm!	遠征隊長は右前腕でケアの第2足指、右足をつかんだ！
+The expedition leader misses the kea!	遠征隊長の攻撃はケアに外れた！
+The expedition leader punches the kea in the head with her left hand and the injured part collapses into a lump of gore!	遠征隊長は左手でケアの頭を殴った（負傷した部位が血肉の塊になった）！
+The expedition leader punches the kea in the head with her left hand and the injured part explodes into gore!	遠征隊長は左手でケアの頭を殴った（負傷した部位が血肉となって飛び散った）！
+The expedition leader punches the kea in the left foot with her right hand, bruising the skin!	遠征隊長は右手でケアの左足を殴った（肌に打撲）！
+The expedition leader punches the kea in the lower body with her left hand, bruising the fat!	遠征隊長は左手でケアの下半身を殴った（脂肪に打撲）！
+The expedition leader punches the kea in the right wing with her right hand, but the attack glances away!	遠征隊長は右手でケアの右翼を殴ったが、攻撃はそれた！
+The expedition leader punches the kea in the upper body with her right hand, bruising the muscle and shattering the right false ribs!	遠征隊長は右手でケアの上半身を殴った（筋肉に打撲、右の偽肋を粉砕）！
+The expedition leader throws the kea by the second toe, right foot with The expedition leader's right lower arm!	遠征隊長はTheでケアを第2足指、右足を掴んで投げ飛ばす遠征隊長の右前腕！
+The farmer Bëmbul Mengber (to the farmer Kosoth Eralmasos): Ah, hello.  I'm Bëmbul Lashearths.	農家のBëmbul Mengber（農家のKosoth Eralmasosへ）「ああ、こんにちは。Bëmbul Lashearthsだ」
+The farmer Bëmbul Mengber: It was raining on me.  It's annoying.	農家のBëmbul Mengber「雨に降られていた。うっとうしいことだ」
+The farmer Bëmbul Mengber: There's fighting!  I feel very uneasy.	農家のBëmbul Mengber「戦ってるぞ！ひどく落ち着かない」
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): ... and the goblins said, "Are you going to eat that?"	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「…するとゴブリンが『それ、食べないの？』と言ったのさ」
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): Greetings.  My name is Dastot Dyerose.	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「よう。わしの名はDastot Dyeroseだ」
+The farmer Geshud Zontögum (to the farmer Dastot Atírlocun): Ah, hello.  I'm Geshud Helmverse.	農家のGeshud Zontögum（農家のDastot Atírlocunへ）「ああ、こんにちは。Geshud Helmverseだ」
+The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.	農家のKogan Lelumingish（宝石細工師のKosoth Isethdelerへ）「ああ、こんにちは。Kogan Wanebodiceだ」
+The farmer Kogan Lelumingish: Really?  Alright.	農家のKogan Lelumingish「本当か？わかった」
+The farmer Kogan Lelumingish: Really?  Please come closer.	農家のKogan Lelumingish「本当か？　もっと近くに来てくれ」
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): Greetings.  My name is Kosoth Vesseltalk.	農家のKosoth Eralmasos（農家のBëmbul Mengberへ）「よう。わしの名はKosoth Vesseltalkだ」
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): I've been rained on.  That's very annoying.	農家のKosoth Eralmasos（農家のBëmbul Mengberへ）「雨に降られた。まったく腹立たしい」
+The farmer Kosoth Eralmasos: I was out in the rain.  That's very annoying.	農家のKosoth Eralmasos「雨の中に出ていた。まったく腹立たしい」
+The farmer Momuz Mengrab: Hello.  It is good to see you.	農家のMomuz Mengrab「こんにちは。会えて嬉しいぞ」
+The farmer Momuz Mengrab: You should probably try a shopkeeper.	農家のMomuz Mengrab「店主に当たってみるといいだろう」
+The farmer Nomal Koganusen: Hello.  It is good to see you.	農家のNomal Koganusen「こんにちは。会えて嬉しいぞ」
+The fisherdwarf attacks the kea but She jumps away!	漁師はケアに攻撃したが、かわされた！
+The fisherdwarf bounces backward!	漁師は後ろに跳ね返された！
+The fisherdwarf charges at the expedition leader!	漁師は遠征隊長に突撃する！
+The fisherdwarf collides with the expedition leader!	漁師は遠征隊長にぶつかった！
+The fisherdwarf grabs the kea by the left lower leg with his left upper arm!	漁師は左上腕でケアの左下脚をつかんだ！
+The fisherdwarf is no longer stunned.	漁師の朦朧状態が解けた。
+The fisherdwarf jumps out of the kea's flight path!	漁師は飛んでくるケアをよけた！
+The fisherdwarf misses the kea!	漁師の攻撃はケアに外れた！
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the guts!	漁師は左手でケアの下半身を殴った（筋肉に打撲、腸に打撲）！
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the left kidney!	漁師は左手でケアの下半身を殴った（筋肉に打撲、左腎臓に打撲）！
+The fisherdwarf punches the kea in the neck with his left hand, bruising the fat!	漁師は左手でケアの首を殴った（脂肪に打撲）！
+The fisherdwarf punches the kea in the right upper leg with his left hand and the injured part is smashed into the body, an unrecognizable mass!	漁師は左手でケアの右上脚を殴った（負傷した部位が体にめり込み、原形をとどめない）！
+The fisherdwarf stands up.	漁師は立ち上がった。
+The force bends the left front leg!	衝撃で左前脚が曲がった！
+The force bends the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右腰が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The force pulls the left front paw!	衝撃で左前足が引っ張られた！
+The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.	宝石細工師のKosoth Isethdeler（農家のKogan Lelumingishへ）「よう。わしの名はKosoth Queststeelだ」
+The herbalist Sigun Borlonerib: There's fighting!  I feel very uneasy.	薬草師のSigun Borlonerib「戦ってるぞ！ひどく落ち着かない」
+The herbalist Sigun Borlonerib: Well, let's see...	薬草師のSigun Borlonerib「さて、どうかな……」
+The hunter Thîkut Samamustuth is having trouble breathing!	狩人のThîkut Samamustuthは息が苦しそうだ！
+The hunter Thîkut Samamustuth: A battle!  I feel very uneasy.	狩人のThîkut Samamustuth「戦いだ！ひどく落ち着かない」
+The hunter Thîkut Samamustuth: Can it all end so quickly?  Begone fear!	狩人のThîkut Samamustuth「全部こんなに早く終わるのか？恐れなど消えろ！」
+The hunter Thîkut Samamustuth: Has the tide turned?  I am not scared!	狩人のThîkut Samamustuth「流れは変わったか？怖くなんかない！」
+The hunter Thîkut Samamustuth: Help!  Save me!	狩人のThîkut Samamustuth「助けて！誰か！」
+The hunter Thîkut Samamustuth: The Trussed Armor rules Plaittome.  I don't care one way or another.	狩人のThîkut Samamustuth「PlaittomeはThe Trussed Armorが治めている。どっちでも構わない」
+The kea attacks the expedition leader but She jumps away!	ケアは遠征隊長に攻撃したが、かわされた！
+The kea attacks the stray dog but She jumps away!	ケアは野良犬に攻撃したが、かわされた！
+The kea bites the stray dog in the fourth left rear toe, but the attack glances away!	ケアは野良犬の左の第4後足指に噛みついたが、攻撃はそれた！
+The kea bites the stray dog in the left front leg, denting the skin and bruising the fat!	ケアは野良犬の左前脚に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea bites the stray dog in the left rear paw, denting the skin and bruising the fat!	ケアは野良犬の左後足に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea bites the stray dog in the lower body, denting the skin and bruising the fat!	ケアは野良犬の下半身に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea gives in to pain.	ケアは痛みに屈した。
+The kea grabs the stray dog by the fourth right rear toe with her left wing!	ケアは左翼で野良犬の右の第4後足指をつかんだ！
+The kea has become enraged!	ケアは激怒した！
+The kea has been knocked unconscious!	ケアは気絶した！
+The kea is knocked over and tumbles backward!	ケアは倒されて後ろに転がった！
+The kea is propelled away by the force of the blow!	ケアは打撃の勢いで吹き飛ばされた！
+The kea latches on firmly!	ケアはしっかりと食らいついた！
+The kea looks sick!	ケアは具合が悪そうだ！
+The kea misses the expedition leader!	ケアの攻撃は遠征隊長に外れた！
+The kea misses the fisherdwarf!	ケアの攻撃は漁師に外れた！
+The kea misses the stray dog!	ケアの攻撃は野良犬に外れた！
+The kea slams into an obstacle!	ケアは障害物に激突した！
+The kea snatches at the expedition leader in the left upper arm with his first toe, right foot, bruising the muscle through the (cave spider silk dress)!	ケアは第1足指（右足）で遠征隊長の左上腕につかみかかった（洞窟グモの絹のドレス越しに筋肉に打撲）！
+The kea snatches at the fisherdwarf in the left lower leg with her first toe, right foot, bruising the fat through the (giant cave spider silk trousers)!	ケアは第1足指（右足）で漁師の左下脚につかみかかった（巨大洞窟グモの絹のズボン越しに脂肪に打撲）！
+The kea snatches at the fisherdwarf in the lower body with her first toe, right foot, bruising the muscle and bruising the left kidney through the (alpaca wool tunic)!	ケアは第1足指（右足）で漁師の下半身につかみかかった（筋肉に打撲、アルパカの羊毛のチュニック越しに左腎臓に打撲）！
+The kea snatches at the stray dog in the fourth left front toe with her first toe, right foot, but the attack glances away!	ケアは第1足指（右足）で野良犬の左の第4前足指につかみかかったが、攻撃はそれた！
+The kea snatches at the stray dog in the left front leg with his first toe, right foot, denting the skin and bruising the muscle!	ケアは第1足指（右足）で野良犬の左前脚につかみかかった（肌にへこみ、筋肉に打撲）！
+The kea snatches at the stray dog in the left front paw with her first toe, left foot, tearing the fat and bruising the muscle!	ケアは第1足指（左足）で野良犬の左前足につかみかかった（脂肪に裂傷、筋肉に打撲）！
+The kea snatches at the stray dog in the left front paw with his first toe, left foot, denting the skin!	ケアは第1足指（左足）で野良犬の左前足につかみかかった（肌にへこみ）！
+The kea snatches at the stray dog in the tail with her first toe, left foot, tearing the fat!	ケアは第1足指（左足）で野良犬の尾につかみかかった（脂肪に裂傷）！
+The kea stands up.	ケアは立ち上がった。
+The kea vomits.	ケアは嘔吐した。
+The kea's head skids along the ground, bruising the muscle, bruising the skull!	ケアの頭は地面を滑った（筋肉に打撲、頭蓋骨に打撲）！
+The kea's left wing skids along the ground, bruising the bone!	ケアの左翼は地面を滑った（骨に打撲）！
+The kea's left wing skids along the ground, bruising the muscle!	ケアの左翼は地面を滑った（筋肉に打撲）！
+The kea's upper body skids along the ground, bruising the muscle and bruising the liver!	ケアの上半身は地面を滑った（筋肉に打撲、肝臓に打撲）！
+The mayor Naco Ciraathe is having trouble breathing!	市長のNaco Ciraatheは息が苦しそうだ！
+The mayor Naco Ciraathe misses you!	市長のNaco Ciraatheの攻撃はあなたに外れた！
+The mayor Naco Ciraathe: A battle!  I feel very uneasy.	市長のNaco Ciraathe「戦いだ！ひどく落ち着かない」
+The mayor Naco Ciraathe: Stop!  This isn't happening!	市長のNaco Ciraathe「やめろ！　こんなこと、あり得ない！」
+The merchants need a trade depot to unload their goods.	商人が荷物を降ろすには交易所が必要です。
+The outpost liaison Datan Mörulamud from Zasit Vudthar has arrived.	Zasit Vudtharの前哨地連絡官Datan Mörulamudが到着した。
+The stonecrafter grabs the kea by the third toe, right foot with her left lower arm!	石細工師は左前腕でケアの第3足指、右足をつかんだ！
+The stonecrafter punches the kea in the upper body with her left hand, bruising the muscle and bruising the left lung!	石細工師は左手でケアの上半身を殴った（筋肉に打撲、左肺に打撲）！
+The stonecrafter stands up.	石細工師は立ち上がった。
+The stray dog attacks the kea but He jumps away!	野良犬はケアに攻撃したが、かわされた！
+The stray dog attacks the kea but She jumps away!	野良犬はケアに攻撃したが、かわされた！
+The stray dog bites the kea in the left foot, tearing apart the skin!	野良犬はケアの左足に噛みついた（肌がずたずたに）！
+The stray dog bites the kea in the left upper leg, tearing apart the skin!	野良犬はケアの左上脚に噛みついた（肌がずたずたに）！
+The stray dog bites the kea in the upper body, tearing the muscle and bruising the right lung!	野良犬はケアの上半身に噛みついた（筋肉に裂傷、右肺に打撲）！
+The stray dog breaks the grip of the kea's left wing on The stray dog's fourth right rear toe.	野良犬は野良犬の右の第4後足指をつかんでいたケアの左翼を振りほどいた。
+The stray dog charges at the kea!	野良犬はケアに突撃する！
+The stray dog collides with the kea!	野良犬はケアにぶつかった！
+The stray dog misses the kea!	野良犬の攻撃はケアに外れた！
+The stray dog scratches the kea in the second toe, right foot, but the attack glances away!	野良犬はケアの第2足指、右足を引っかいたが、攻撃はそれた！
+The weather has cleared.	天気が回復しました。
+There is nothing to catch in the central swamps.	中央の湿地には獲れるものが何もない。
+You attack the farmer Avuz Duthalid but She jumps away!	あなたは農家のAvuz Duthalidに攻撃したが、かわされた！
+You attack the hunter Thîkut Samamustuth but He jumps away!	あなたは狩人のThîkut Samamustuthに攻撃したが、かわされた！
+You bash the hunter Thîkut Samamustuth in the upper body from behind with your iron mace, bruising the muscle and bruising the right lung through the pig tail tunic!	あなたは背後から鉄のメイスで狩人のThîkut Samamustuthの上半身を殴りつけた（筋肉に打撲、ピッグテイルのチュニック越しに右肺に打撲）！
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the fat through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（ラマの羊毛のチュニック越しに脂肪に打撲）！
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and bruising the right lung through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、ラマの羊毛のチュニック越しに右肺に打撲）！
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and shattering the left floating ribs through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、ラマの羊毛のチュニック越しに左の浮遊肋を粉砕）！
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle, jamming the left false ribs through the left lung and tearing the left lung!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、左の偽肋が左肺を貫く、左肺に裂傷）！
+You hack the animal caretaker Unib Adilgim in the upper body with your iron battle axe, tearing apart the muscle and tearing apart the liver through the xwater buffalo leather tunicx!	あなたは鉄の戦斧で動物の世話係のUnib Adilgimの上半身を叩き斬った（筋肉がずたずたに、x水牛の革のチュニックx越しに肝臓がずたずたに）！
+You've finally got your equipment together, such as it is.  Now it's time for action and adventure!  In the rush of excitement, you've forgotten where you were going to go.  Perhaps some of your friends here can remind you.	ひとまず装備は揃いました。さあ、行動と冒険の時です！興奮のあまり、どこへ向かうつもりだったのか忘れてしまいました。ここにいる仲間の中には、思い出させてくれる者もいるかもしれません。
+You: Hello Momuz.  This servant of labor greets you.	あなた「こんにちは、Momuz。労働に仕える者が挨拶する」
+You: Hello Nomal.	あなた「こんにちは、Nomal」
+You: Here's something you might be interested in...	あなた「興味がありそうな話があるんだが……」
+You: How have things been?	あなた「調子はどうだい？」
+You: I've defeated many fearsome opponents!	あなた「多くの恐ろしい敵を倒してきた！」
+You: Let's trade.	あなた「取引しよう」
+You: Tell me about the local ruler.	あなた「ここの支配者について教えてくれ」
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tiristidrom, "Rimshort".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここTiristidrom「Rimshort」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the carnotaurus get hungry. [B]A new chapter of dwarven history begins here at this place, Lulârtobul, "Rootedcanyon".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。カルノタウルスが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここLulârtobul「Rootedcanyon」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Duthaldegël, "Worthgalleys".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここDuthaldegël「Worthgalleys」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Kilrudustir, "Bronzecrow".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここKilrudustir「Bronzecrow」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Koganakmam, "Boatsink".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここKoganakmam「Boatsink」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Libashlist, "Axegaze".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここLibashlist「Axegaze」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Zanossibrek, "Hopesalves".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここZanossibrek「Hopesalves」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Dakosttun, "Floordoors".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここDakosttun「Floordoors」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Ducimgomath, "Worklegend".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここDucimgomath「Worklegend」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Rigòthbomrek, "Craftswhip".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここRigòthbomrek「Craftswhip」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tosidråsh, "Armordies".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここTosidråsh「Armordies」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Alåthstibmer, "Boltshore".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここAlåthstibmer「Boltshore」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Orstistvutok, "Reclusefigure".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここOrstistvutok「Reclusefigure」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Åbleludib, "Bustsyrup".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここÅbleludib「Bustsyrup」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]

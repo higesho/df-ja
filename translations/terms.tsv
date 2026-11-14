@@ -1,0 +1,3401 @@
+bodies	体
+lower bodies	下半身
+upper bodies	上半身
+left feet	左足
+right feet	右足
+left front feet	左前足
+right front feet	右前足
+left rear feet	左後足
+right rear feet	右後足
+left fangs	左の牙
+right fangs	右の牙
+left eye teeth	左犬歯
+right eye teeth	右犬歯
+left hooves	左蹄
+right hooves	右蹄
+thoraxes	胸部
+left second feet	左第二足
+left third feet	左第三足
+right second feet	右第二足
+right third feet	右第三足
+left first feet	左第一足
+right first feet	右第一足
+left forefeet	左前足
+right forefeet	右前足
+pancreases	膵臓
+proboscises	口吻
+left front hooves	左前蹄
+left rear hooves	左後蹄
+right front hooves	右前蹄
+right rear hooves	右後蹄
+left fifth feet	左第五足
+right fifth feet	右第五足
+cephalothoraxes	頭胸部
+left fourth feet	左第四足
+right fourth feet	右第四足
+lower front teeth	下前歯
+lower left back teeth	左下奥歯
+lower right back teeth	右下奥歯
+upper front teeth	上前歯
+upper left back teeth	左上奥歯
+upper right back teeth	右上奥歯
+Screw Press	スクリュープレス
+Soap Maker's Workshop	石鹸工房
+amber	琥珀色
+apple green	アップルグリーン
+aqua	アクア
+aquamarine	アクアマリン
+ash gray	アッシュグレー
+auburn	赤褐色
+azure	紺碧
+beige	ベージュ
+black	黒
+blue	青
+blue-gray	青灰色
+bright green	鮮緑色
+brown	茶色
+buff	バフ色
+burnt sienna	バーントシェンナ
+burnt umber	バーントアンバー
+carmine	カーマイン
+cerulean	セルリアンブルー
+charcoal	チャコール
+chartreuse	シャルトルーズ
+chocolate	チョコレート色
+cinnamon	シナモン色
+clear	透明
+cobalt	コバルトブルー
+cornflower	コーンフラワー
+cream	クリーム色
+crimson	深紅
+crocus purple	クロッカスパープル
+dark azure	暗い紺碧
+dark blue	紺色
+dark brown	焦げ茶色
+dark chestnut	暗い栗色
+dark green	深緑
+dark indigo	濃藍
+dark olive	ダークオリーブ
+dark peach	ダークピーチ
+dark pink	濃いピンク
+dark scarlet	暗い緋色
+dark tan	濃い黄褐色
+dark violet	濃い菫色
+deep sea blue	深海色
+ecru	エクリュ
+emerald	エメラルドグリーン
+eucalyptus	ユーカリ色
+fern green	ファーングリーン
+flax	亜麻色
+foxglove	フォックスグローブ
+fuchsia	フクシア
+glacier blue	グレイシャーブルー
+goldenrod	ゴールデンロッド
+golden yellow	山吹色
+grass green	草色
+gray	灰色
+green	緑
+green-yellow	グリーンイエロー
+heliotrope	ヘリオトロープ
+indigo	藍色
+jade	翡翠色
+lavender	ラベンダー色
+lavender blush	ラベンダーブラッシュ
+leaf green	リーフグリーン
+lemon	レモン色
+light blue	水色
+light brown	薄茶色
+lilac	ライラック色
+maroon	マルーン
+mauve	モーブ
+mauve taupe	モーブトープ
+midnight blue	ミッドナイトブルー
+mint green	ミントグリーン
+moss green	苔色
+ochre	黄土色
+orchid pink	オーキッドピンク
+pale blue	淡青色
+pale brown	淡い茶色
+pale chestnut	淡い栗色
+pale pink	淡いピンク
+periwinkle	ペリウィンクル
+pine green	松葉色
+pink	ピンク
+puce	ピュース
+pumpkin	パンプキン色
+purple	紫
+raspberry pink	ラズベリーピンク
+raw umber	ローアンバー
+red	赤
+red-purple	赤紫
+river blue	リバーブルー
+rose	ローズ
+russet	ラセット
+rust	錆色
+saffron	サフラン色
+sapphire	サファイアブルー
+scarlet	緋色
+sea foam	シーフォーム
+sea green	シーグリーン
+sepia	セピア
+sky blue	空色
+slate gray	スレートグレー
+spring green	スプリンググリーン
+tan	黄褐色
+dark taupe	ダークトープ
+taupe gray	トープグレー
+taupe	トープ
+pale taupe	ペールトープ
+purple taupe	パープルトープ
+rose taupe	ローズトープ
+sandy taupe	サンディトープ
+teal	ティール
+turquoise	ターコイズ
+ultramarine	群青色
+vermilion	朱色
+vibrant green	鮮やかな緑
+violet	菫色
+white	白
+woodland green	ウッドランドグリーン
+yellow	黄色
+yellow-green	黄緑
+zesty green	ゼスティグリーン
+cardinal	カーディナル
+amethyst	アメジスト
+bronze	青銅
+ivory	象牙
+brass	真鍮
+copper	銅
+gold	金
+pearl	真珠
+silver	銀
+chestnut	栗
+eggplant	ナス
+lime	ライム
+mahogany	マホガニー
+olive	オリーブ
+orange	オレンジ
+peach	桃
+plum	プラム
+aardvark	ツチブタ
+aardvark cub	ツチブタの子
+adder	クサリヘビ
+adder venom	クサリヘビの毒
+alligator	アリゲーター
+alligator hatchling	アリゲーターの子
+alligator snapping turtle	ワニガメ
+alpaca	アルパカ
+alpaca cheese	アルパカチーズ
+alpaca cheese powder	アルパカチーズの粉
+alpaca's milk	アルパカの乳
+baby alpaca	アルパカの子
+melted alpaca cheese	溶けたアルパカチーズ
+amphibian man	両生類男
+amphibian woman	両生類女
+anaconda	アナコンダ
+anole	アノール
+ant	アリ
+drone ant	雄アリ
+queen ant	女王アリ
+soldier ant	兵隊アリ
+worker ant	働きアリ
+antman	アリ男
+armadillo	アルマジロ
+armadillo boar	アルマジロ（雄）
+armadillo pup	アルマジロの子
+armadillo sow	アルマジロ（雌）
+axolotl	アホロートル
+aye-aye	アイアイ
+badger	アナグマ
+badger boar	アナグマ（雄）
+badger cub	アナグマの子
+badger sow	アナグマ（雌）
+bark scorpion	バークスコーピオン
+bark scorpion venom	バークスコーピオンの毒
+bat	コウモリ
+giant bat pup	巨大コウモリの子
+beak dog	ビークドッグ
+beak dog pup	ビークドッグの子
+black bear	クロクマ
+black bear cub	クロクマの子
+grizzly bear	ハイイログマ
+grizzly bear cub	ハイイログマの子
+polar bear	ホッキョクグマ
+polar bear cub	ホッキョクグマの子
+sloth bear	ナマケグマ
+sloth bear cub	ナマケグマの子
+beaver	ビーバー
+beaver kit	ビーバーの子
+beetle	甲虫
+albatross	アホウドリ
+albatross hatchling	アホウドリの雛
+blue jay	アオカケス
+blue jay hatchling	アオカケスの雛
+bushtit	ヤブガラ
+bushtit hatchling	ヤブガラの雛
+buzzard	ノスリ
+buzzard hatchling	ノスリの雛
+cardinal hatchling	カーディナルの雛
+cassowary	ヒクイドリ
+cassowary chick	ヒクイドリの雛
+chick	ひよこ
+chicken	鶏
+hen	雌鶏
+rooster	雄鶏
+cockatiel	オカメインコ
+cockatiel hatchling	オカメインコの雛
+crow	カラス
+crow hatchling	カラスの雛
+drake	雄アヒル
+duck	アヒル
+duckling	アヒルの子
+eagle	鷲
+eaglet	鷲の雛
+emu	エミュー
+emu chick	エミューの雛
+peregrine falcon	ハヤブサ
+peregrine falcon chick	ハヤブサの雛
+tiercel peregrine	ハヤブサ（雄）
+gander	ガチョウ（雄）
+goose	ガチョウ
+gosling	ガチョウの雛
+grackle	クロムクドリモドキ
+grackle hatchling	クロムクドリモドキの雛
+guineacock	ホロホロチョウ（雄）
+guineafowl	ホロホロチョウ
+guineahen	ホロホロチョウ（雌）
+keet	ホロホロチョウの雛
+hornbill	サイチョウ
+hornbill chick	サイチョウの雛
+kakapo	カカポ
+kakapo chick	カカポの雛
+kea	ケア
+kea chick	ケアの雛
+kestrel	チョウゲンボウ
+kestrel chick	チョウゲンボウの雛
+kiwi	キーウィ
+kiwi chick	キーウィの雛
+kiwi cock	キーウィ（雄）
+kiwi hen	キーウィ（雌）
+loon	アビ
+loon chick	アビの雛
+lorikeet	ヒインコ
+lorikeet hatchling	ヒインコの雛
+masked lovebird	キエリボタンインコ
+masked lovebird hatchling	キエリボタンインコの雛
+peach-faced lovebird	コザクラインコ
+peach-faced lovebird hatchling	コザクラインコの雛
+magpie	カササギ
+magpie hatchling	カササギの雛
+oriole	コウライウグイス
+oriole hatchling	コウライウグイスの雛
+osprey	ミサゴ
+osprey chick	ミサゴの雛
+ostrich	ダチョウ
+ostrich chick	ダチョウの雛
+ostrich cock	ダチョウ（雄）
+ostrich hen	ダチョウ（雌）
+barn owl	メンフクロウ
+barn owl chick	メンフクロウの雛
+great horned owl	アメリカワシミミズク
+great horned owl chick	アメリカワシミミズクの雛
+snowy owl	シロフクロウ
+snowy owl chick	シロフクロウの雛
+parakeet	セキセイインコ
+parakeet hatchling	セキセイインコの雛
+grey parrot	ヨウム
+grey parrot chick	ヨウムの雛
+blue peachick	インドクジャクの雛
+blue peacock	インドクジャク（雄）
+blue peafowl	インドクジャク
+blue peahen	インドクジャク（雌）
+penguin	ペンギン
+penguin chick	ペンギンの雛
+emperor penguin	コウテイペンギン
+emperor penguin chick	コウテイペンギンの雛
+little penguin	コガタペンギン
+little penguin chick	コガタペンギンの雛
+puffin	ツノメドリ
+puffin chick	ツノメドリの雛
+raven	ワタリガラス
+raven hatchling	ワタリガラスの雛
+roc	ロック鳥
+roc hatchling	ロック鳥の雛
+red-winged blackbird	ハゴロモガラス
+red-winged blackbird hatchling	ハゴロモガラスの雛
+white stork	シュバシコウ
+white stork hatchling	シュバシコウの雛
+cave swallow	ドウクツツバメ
+cave swallow hatchling	ドウクツツバメの雛
+cob swan	白鳥（雄）
+cygnet	白鳥の雛
+pen swan	白鳥（雌）
+swan	白鳥
+poult	七面鳥の雛
+turkey	七面鳥
+turkey gobbler	七面鳥（雄）
+turkey hen	七面鳥（雌）
+vulture	ハゲワシ
+vulture hatchling	ハゲワシの雛
+wren	ミソサザイ
+wren hatchling	ミソサザイの雛
+black mamba	ブラックマンバ
+black mamba venom	ブラックマンバの毒
+foul blendec	穢れたブレンデック
+blind cave bear	盲目の洞窟熊
+blind cave bear cub	盲目の洞窟熊の子
+blind cave ogre	盲目の洞窟オーガ
+blizzard man	吹雪男
+corrupted blood	穢れた血
+bluejay man	アオカケス男
+bluejay woman	アオカケス女
+bobcat	ボブキャット
+bobcat kitten	ボブキャットの子
+bonobo	ボノボ
+bugbat	バグバット
+bugbat pup	バグバットの子
+bumblebee	マルハナバチ
+bumblebee drone	マルハナバチ（雄）
+bumblebee honey	マルハナバチの蜂蜜
+bumblebee mead	マルハナバチの蜂蜜酒
+bumblebee queen	マルハナバチの女王
+bumblebee royal jelly	マルハナバチのローヤルゼリー
+bumblebee venom	マルハナバチの毒
+bumblebee wax	マルハナバチの蜜蝋
+bumblebee wax cake	マルハナバチの蜜蝋塊
+bumblebee worker	マルハナバチの働き蜂
+melted bumblebee wax	溶けたマルハナバチの蜜蝋
+bushmaster	ブッシュマスター
+bushmaster venom	ブッシュマスターの毒
+monarch butterfly	オオカバマダラ
+anomalocaris	アノマロカリス
+haikouichthys	ハイコウイクチス
+haikouichthys fry	ハイコウイクチスの稚魚
+hallucigenia	ハルキゲニア
+opabinia	オパビニア
+juvenile trilobite	三葉虫の幼体
+trilobite	三葉虫
+wiwaxia	ウィワクシア
+melted one-humped camel cheese	溶けたヒトコブラクダチーズ
+one-humped camel	ヒトコブラクダ
+one-humped camel calf	ヒトコブラクダの子
+one-humped camel cheese	ヒトコブラクダチーズ
+one-humped camel cheese powder	ヒトコブラクダチーズの粉
+one-humped camel's milk	ヒトコブラクダの乳
+melted two-humped camel cheese	溶けたフタコブラクダチーズ
+two-humped camel	フタコブラクダ
+two-humped camel calf	フタコブラクダの子
+two-humped camel cheese	フタコブラクダチーズ
+two-humped camel cheese powder	フタコブラクダチーズの粉
+two-humped camel's milk	フタコブラクダの乳
+capuchin	オマキザル
+capybara	カピバラ
+capybara pup	カピバラの子
+cap hopper	キャップホッパー
+arthropleura	アースロプレウラ
+meganeura	メガネウラ
+oestocephalus	オエストケファルス
+tullimonstrum	ツリモンストラム
+cat	猫
+feline	猫
+kitten	子猫
+cave blob	洞窟ブロブ
+cave blob fluid	洞窟ブロブの体液
+fluid	体液
+cave draconic	洞窟竜
+cave dragon	洞窟竜
+cave floater	ケイヴフローター
+cave floater gas	ケイヴフローターのガス
+cave floater juice	ケイヴフローターの汁
+interior gas	体内ガス
+pod	気嚢
+cavy	テンジクネズミ
+cavy boar	テンジクネズミ（雄）
+cavy pup	テンジクネズミの子
+cavy sow	テンジクネズミ（雌）
+andrewsarchus	アンドリューサルクス
+andrewsarchus pup	アンドリューサルクスの子
+deinotherium	デイノテリウム
+deinotherium calf	デイノテリウムの子
+dodo	ドードー
+dodo cock	ドードー（雄）
+dodo hatchling	ドードーの雛
+dodo hen	ドードー（雌）
+entelodon	エンテロドン
+entelodon piglet	エンテロドンの子
+glyptodon	グリプトドン
+glyptodon boar	グリプトドン（雄）
+glyptodon pup	グリプトドンの子
+glyptodon sow	グリプトドン（雌）
+kelenken	ケレンケン
+kelenken cock	ケレンケン（雄）
+kelenken hatchling	ケレンケンの雛
+kelenken hen	ケレンケン（雌）
+pygmy mammoth	コビトマンモス
+pygmy mammoth calf	コビトマンモスの子
+woolly mammoth	ケナガマンモス
+woolly mammoth calf	ケナガマンモスの子
+megacerops	メガケロプス
+megacerops calf	メガケロプスの子
+megalania	メガラニア
+megalania hatchling	メガラニアの子
+megalodon	メガロドン
+megalodon pup	メガロドンの子
+megatherium	メガテリウム
+megatherium cub	メガテリウムの子
+melted miohippus cheese	溶けたミオヒップスチーズ
+miohippus	ミオヒップス
+miohippus cheese	ミオヒップスチーズ
+miohippus cheese powder	ミオヒップスチーズの粉
+miohippus foal	ミオヒップスの子
+miohippus's milk	ミオヒップスの乳
+moa	モア
+moa cock	モア（雄）
+moa hatchling	モアの雛
+moa hen	モア（雌）
+paraceratherium	パラケラテリウム
+paraceratherium calf	パラケラテリウムの子
+platybelodon	プラティベロドン
+platybelodon calf	プラティベロドンの子
+woolly rhinoceros	ケサイ
+woolly rhinoceros calf	ケサイの子
+smilodon	スミロドン
+smilodon cub	スミロドンの子
+thylacine	フクロオオカミ
+thylacine pup	フクロオオカミの子
+titanoboa	ティタノボア
+titanoboa hatchling	ティタノボアの子
+centaur	ケンタウロス
+centauress	女ケンタウロス
+chameleon	カメレオン
+cheetah	チーター
+cheetah cub	チーターの子
+chimera	キメラ
+chimeric	キメラ
+chimpanzee	チンパンジー
+chinchilla	チンチラ
+chinchilla kit	チンチラの子
+chipmunk	シマリス
+baby coati	ハナグマの子
+coati	ハナグマ
+bronze colossus	青銅の巨像
+copperhead snake	アメリカマムシ
+copperhead snake venom	アメリカマムシの毒
+cougar	ピューマ
+cougar cub	ピューマの子
+bovine	牛
+bull	雄牛
+bull calf	子牛（雄）
+cow	雌牛
+cow calf	子牛（雌）
+cow cheese	牛乳チーズ
+cow cheese powder	牛乳チーズの粉
+cow's milk	牛乳
+melted cow cheese	溶けた牛乳チーズ
+vellum	上質皮紙
+coyote	コヨーテ
+coyote pup	コヨーテの子
+crab	カニ
+creeping eye	這い寄る目
+creepy crawler	クリーピークローラー
+amargasaurus	アマルガサウルス
+amargasaurus hatchling	アマルガサウルスの子
+ammonite	アンモナイト
+ammonite hatchling	アンモナイトの幼体
+ankylosaurus	アンキロサウルス
+ankylosaurus hatchling	アンキロサウルスの子
+archelon	アーケロン
+archelon hatchling	アーケロンの子
+buitreraptor	ブイトレラプトル
+buitreraptor hatchling	ブイトレラプトルの子
+carnotaurus	カルノタウルス
+carnotaurus hatchling	カルノタウルスの子
+colepiocephale	コレピオケファレ
+colepiocephale hatchling	コレピオケファレの子
+deinonychus	デイノニクス
+deinonychus hatchling	デイノニクスの子
+hypsilophodon	ヒプシロフォドン
+hypsilophodon hatchling	ヒプシロフォドンの子
+iguanodon	イグアノドン
+iguanodon hatchling	イグアノドンの子
+kosmoceratops	コスモケラトプス
+kosmoceratops hatchling	コスモケラトプスの子
+linhenykus	リンヘニクス
+linhenykus hatchling	リンヘニクスの子
+microceratus	ミクロケラトゥス
+microceratus hatchling	ミクロケラトゥスの子
+mononykus	モノニクス
+mononykus hatchling	モノニクスの子
+mosasaurus	モササウルス
+mosasaurus hatchling	モササウルスの子
+nodosaurus	ノドサウルス
+nodosaurus hatchling	ノドサウルスの子
+nothronychus	ノスロニクス
+nothronychus hatchling	ノスロニクスの子
+oviraptor	オヴィラプトル
+oviraptor hatchling	オヴィラプトルの子
+pachycephalosaurus	パキケファロサウルス
+pachycephalosaurus hatchling	パキケファロサウルスの子
+parasaurolophus	パラサウロロフス
+parasaurolophus hatchling	パラサウロロフスの子
+quetzalcoatlus	ケツァルコアトルス
+quetzalcoatlus hatchling	ケツァルコアトルスの子
+sinopterus	シノプテルス
+sinopterus hatchling	シノプテルスの子
+spinosaurus aegyptiacus	スピノサウルス・エジプティアクス
+spinosaurus aegyptiacus hatchling	スピノサウルス・エジプティアクスの子
+spinosaurus mirabilis	スピノサウルス・ミラビリス
+spinosaurus mirabilis hatchling	スピノサウルス・ミラビリスの子
+suzhousaurus	スゾウサウルス
+suzhousaurus hatchling	スゾウサウルスの子
+therizinosaurus	テリジノサウルス
+therizinosaurus hatchling	テリジノサウルスの子
+triceratops	トリケラトプス
+triceratops hatchling	トリケラトプスの子
+tsintaosaurus	チンタオサウルス
+tsintaosaurus hatchling	チンタオサウルスの子
+tyrannosaurus	ティラノサウルス
+tyrannosaurus hatchling	ティラノサウルスの子
+utahraptor	ユタラプトル
+utahraptor hatchling	ユタラプトルの子
+velociraptor	ヴェロキラプトル
+velociraptor hatchling	ヴェロキラプトルの子
+cave crocodile	洞窟ワニ
+cave crocodile hatchling	洞窟ワニの子
+saltwater crocodile	イリエワニ
+saltwater crocodile hatchling	イリエワニの子
+crundle	クランドル
+cuttlefish	コウイカ
+cuttlefish ink	コウイカの墨
+cyclopes	サイクロプス
+cyclops	サイクロプス
+damselfly	イトトンボ
+deer	鹿
+deer fawn	子鹿
+desert tortoise	サバクゴファーガメ
+desert tortoise hatchling	サバクゴファーガメの子
+drepanopterus	ドレパノプテルス
+juvenile drepanopterus	ドレパノプテルスの幼体
+dunkleosteus	ダンクルオステウス
+dunkleosteus fry	ダンクルオステウスの稚魚
+hibbertopterus peachi	ヒベルトプテルス・ピーチ
+juvenile hibbertopterus peachi	ヒベルトプテルス・ピーチの幼体
+hibbertopterus scouleri	ヒベルトプテルス・スコウレリ
+juvenile hibbertopterus scouleri	ヒベルトプテルス・スコウレリの幼体
+mimetaster	ミメタスター
+mimetaster hatchling	ミメタスターの幼体
+tiktaalik	ティクターリク
+tiktaalik pup	ティクターリクの幼体
+dingo	ディンゴ
+dingo pup	ディンゴの子
+canine	犬
+dog	犬
+puppy	子犬
+asinine	ロバ
+donkey	ロバ
+donkey cheese	ロバチーズ
+donkey cheese powder	ロバチーズの粉
+donkey foal	ロバの子
+donkey's milk	ロバの乳
+melted donkey cheese	溶けたロバチーズ
+draconic	ドラゴン
+dragon	ドラゴン
+dragon hatchling	ドラゴンの子
+dragonfly	トンボ
+draltha	ドラルサ
+drunian	ドルーニアン
+dwarf	ドワーフ
+dwarven	ドワーフ
+dwarven baby	ドワーフの赤子
+dwarven child	ドワーフの子供
+dwarven children	ドワーフの子供
+echidna	ハリモグラ
+puggle	ハリモグラの子
+fire man	炎男
+condensed iron man gas	凝縮した鉄男のガス
+gas	ガス
+iron man gas	鉄男のガス
+crust	外殻
+mud	泥
+elephant	ゾウ
+elephant calf	ゾウの子
+elephant seal	ゾウアザラシ
+elephant seal pup	ゾウアザラシの子
+elf	エルフ
+elven	エルフ
+elk	エルク
+elk fawn	エルクの子
+elk bird	エルクバード
+elk bird hatchling	エルクバードの雛
+wagon	荷馬車
+ettin	エティン
+fairy	妖精
+firefly	ホタル
+anchovy	アンチョビ
+great barracuda	オニカマス
+great barracuda fry	オニカマスの稚魚
+bluefish	アミキリ
+bluefish fry	アミキリの稚魚
+black bullhead	ブラックブルヘッド
+brown bullhead	ブラウンブルヘッド
+yellow bullhead	イエローブルヘッド
+carp	コイ
+carp fry	コイの稚魚
+cave fish	洞窟魚
+char	イワナ
+clownfish	クマノミ
+cod	タラ
+cod fry	タラの稚魚
+coelacanth	シーラカンス
+coelacanth fry	シーラカンスの稚魚
+conger eel	アナゴ
+conger eel fry	アナゴの稚魚
+flounder	ヒラメ
+longnose gar	ロングノーズガー
+longnose gar fry	ロングノーズガーの稚魚
+glasseye	ホウセキキントキ
+giant grouper	タマカイ
+grouper fry	タマカイの稚魚
+guppy	グッピー
+hagfish	ヌタウナギ
+hake	メルルーサ
+halibut	オヒョウ
+halibut fry	オヒョウの稚魚
+herring	ニシン
+banded knifefish	バンデッドナイフフィッシュ
+brook lamprey	スナヤツメ
+larval sea lamprey	ウミヤツメの幼生
+sea lamprey	ウミヤツメ
+clown loach	クラウンローチ
+lungfish	ハイギョ
+mackerel	サバ
+marlin	カジキ
+marlin fry	カジキの稚魚
+milkfish	サバヒー
+milkfish fry	サバヒーの稚魚
+sailfin molly	セイルフィンモーリー
+opah	アカマンボウ
+opah fry	アカマンボウの稚魚
+perch	パーチ
+pike fry	カワカマスの稚魚
+white-spotted puffer	サザナミフグ
+spotted ratfish	スポッテッドラットフィッシュ
+bat ray	バットレイ
+manta ray	マンタ
+manta ray pup	マンタの子
+thornback ray	ソーンバックレイ
+salmon	サケ
+seahorse	タツノオトシゴ
+shad	シャッド
+common skate	ガンギエイ
+common skate pup	ガンギエイの子
+sole	シタビラメ
+stingray	アカエイ
+stingray pup	アカエイの子
+sturgeon	チョウザメ
+sturgeon fry	チョウザメの稚魚
+ocean sunfish	マンボウ
+ocean sunfish fry	マンボウの稚魚
+swordfish	メカジキ
+swordfish fry	メカジキの稚魚
+tigerfish	タイガーフィッシュ
+tigerfish fry	タイガーフィッシュの稚魚
+rainbow trout	ニジマス
+steelhead trout	スチールヘッド
+bluefin fry	クロマグロの稚魚
+bluefin tuna	クロマグロ
+flesh	肉
+flesh ball	肉塊
+floating guts	浮遊する臓物
+fly	ハエ
+acorn fly	ドングリバエ
+fox	キツネ
+fox pup	キツネの子
+fox squirrel	キツネリス
+gazelle	ガゼル
+gazelle fawn	ガゼルの子
+leopard gecko	ヒョウモントカゲモドキ
+giantess	女巨人
+giant tortoise	ゾウガメ
+giant tortoise hatchling	ゾウガメの子
+giant bluejay	巨大アオカケス
+giant bluejay hatchling	巨大アオカケスの雛
+giant chipmunk pup	巨大シマリスの子
+baby giant coati	巨大ハナグマの子
+giant eagle chick	巨大鷲の雛
+giant earthworm	巨大ミミズ
+giant echidna puggle	巨大ハリモグラの子
+giant lizard hatchling	巨大トカゲの子
+baby giant opossum	巨大オポッサムの子
+giant otter	オオカワウソ
+giant otter pup	オオカワウソの子
+baby giant pangolin	巨大センザンコウの子
+giant roach	巨大ゴキブリ
+giant snapping turtle	巨大カミツキガメ
+giant gray squirrel pup	巨大ハイイロリスの子
+giant red squirrel pup	巨大キタリスの子
+giant walrus pup	巨大セイウチの子
+bilou	クロステナガザル
+black-crested gibbon	クロテナガザル
+black-handed gibbon	アジルテナガザル
+gray gibbon	ミュラーテナガザル
+pileated gibbon	ボウシテナガザル
+siamang	フクロテナガザル
+silvery gibbon	ワウワウテナガザル
+white-browed gibbon	フーロックテナガザル
+white-handed gibbon	シロテテナガザル
+gigantic squid	ダイオウイカ
+gigantic tortoise	超巨大リクガメ
+gigantic tortoise hatchling	超巨大リクガメの子
+gila monster	アメリカドクトカゲ
+gila monster hatchling	アメリカドクトカゲの子
+gila monster venom	アメリカドクトカゲの毒
+giraffe	キリン
+giraffe calf	キリンの子
+blood gnat	血ブヨ
+dark gnome	ダークノーム
+mountain gnome	マウンテンノーム
+billy goat	ヤギ（雄）
+goat	ヤギ
+goat cheese	ヤギチーズ
+goat cheese powder	ヤギチーズの粉
+goat kid	子ヤギ
+goat's milk	ヤギの乳
+hircine	ヤギ
+melted goat cheese	溶けたヤギチーズ
+nanny goat	ヤギ（雌）
+mountain goat	シロイワヤギ
+mountain goat kid	シロイワヤギの子
+goblin	ゴブリン
+gorilla	ゴリラ
+gorlak	ゴーラック
+grasshopper	バッタ
+gray langur	ハヌマンラングール
+green devourer	グリーンデバウラー
+green tree frog	アメリカアマガエル
+gremlin	グレムリン
+griffon	グリフォン
+grimeling	グライムリング
+groundhog	ウッドチャック
+groundhog pup	ウッドチャックの子
+hamster	ハムスター
+buck hare	野兎（雄）
+doe hare	野兎（雌）
+hare	野兎
+leveret	野兎の子
+harpy	ハーピー
+harp seal	タテゴトアザラシ
+harp seal pup	タテゴトアザラシの子
+hedgehog	ハリネズミ
+helmet snake	ヘルメットスネーク
+helmet snake venom	ヘルメットスネークの毒
+hippo	カバ
+hippo calf	カバの子
+honey badger	ラーテル
+honey badger cub	ラーテルの子
+honey bee	ミツバチ
+honey bee drone	ミツバチ（雄）
+honey bee honey	蜂蜜
+honey bee queen	女王蜂
+honey bee royal jelly	ローヤルゼリー
+honey bee venom	ミツバチの毒
+honey bee wax	蜜蝋
+honey bee wax cake	蜜蝋塊
+honey bee worker	働き蜂
+mead	蜂蜜酒
+melted honey bee wax	溶けた蜜蝋
+equine	馬
+horse	馬
+horse cheese	馬乳チーズ
+horse cheese powder	馬乳チーズの粉
+horse foal	子馬
+horse's milk	馬乳
+melted horse cheese	溶けた馬乳チーズ
+horseshoe crab	カブトガニ
+human	人間
+hungry head	飢えた頭
+hydra	ヒドラ
+hyena	ハイエナ
+hyena cub	ハイエナの子
+ibex	アイベックス
+ibex kid	アイベックスの子
+iguana	イグアナ
+iguana hatchling	イグアナの子
+impala	インパラ
+impala fawn	インパラの子
+fire imp	ファイアインプ
+jabberer	ジャバラー
+jabberer hatchling	ジャバラーの雛
+jackal	ジャッカル
+jackal pup	ジャッカルの子
+jaguar	ジャガー
+jaguar cub	ジャガーの子
+sea nettle jellyfish	シーネットル
+afrovenator	アフロヴェナトル
+afrovenator hatchling	アフロヴェナトルの子
+allosaurus	アロサウルス
+allosaurus hatchling	アロサウルスの子
+archaeopteryx	始祖鳥
+archaeopteryx hatchling	始祖鳥の雛
+brachiosaurus	ブラキオサウルス
+brachiosaurus hatchling	ブラキオサウルスの子
+brontosaurus	ブロントサウルス
+brontosaurus hatchling	ブロントサウルスの子
+ceratosaurus	ケラトサウルス
+ceratosaurus hatchling	ケラトサウルスの子
+dilophosaurus	ディロフォサウルス
+dilophosaurus hatchling	ディロフォサウルスの子
+diplodocus	ディプロドクス
+diplodocus hatchling	ディプロドクスの子
+europasaurus	エウロパサウルス
+europasaurus hatchling	エウロパサウルスの子
+ichthyosaurus	イクチオサウルス
+ichthyosaurus pup	イクチオサウルスの子
+jeholopterus	ジェホロプテルス
+jeholopterus hatchling	ジェホロプテルスの子
+kentrosaurus	ケントロサウルス
+kentrosaurus hatchling	ケントロサウルスの子
+juvenile ostenocaris	オステノカリスの幼体
+ostenocaris	オステノカリス
+plesiosaurus	プレシオサウルス
+plesiosaurus hatchling	プレシオサウルスの子
+pterodactylus	プテロダクティルス
+pterodactylus hatchling	プテロダクティルスの子
+rhamphorhynchus	ランフォリンクス
+rhamphorhynchus hatchling	ランフォリンクスの子
+stegosaurus	ステゴサウルス
+stegosaurus hatchling	ステゴサウルスの子
+torvosaurus	トルヴォサウルス
+torvosaurus hatchling	トルヴォサウルスの子
+kangaroo	カンガルー
+kangaroo buck	カンガルー（雄）
+kangaroo cheese	カンガルーチーズ
+kangaroo cheese powder	カンガルーチーズの粉
+kangaroo doe	カンガルー（雌）
+kangaroo joey	カンガルーの子
+kangaroo's milk	カンガルーの乳
+melted kangaroo cheese	溶けたカンガルーチーズ
+kingsnake	キングヘビ
+king cobra	キングコブラ
+king cobra venom	キングコブラの毒
+koala	コアラ
+koala joey	コアラの子
+kobold	コボルド
+leech	ヒル
+leopard	ヒョウ
+leopard cub	ヒョウの子
+leopard seal	ヒョウアザラシ
+leopard seal pup	ヒョウアザラシの子
+lion	ライオン
+lion cub	ライオンの子
+lion tamarin	ライオンタマリン
+lizard	トカゲ
+two-legged rhino lizard	二足サイトカゲ
+baby llama	ラマの子
+llama	ラマ
+llama cheese	ラマチーズ
+llama cheese powder	ラマチーズの粉
+llama's milk	ラマの乳
+melted llama cheese	溶けたラマチーズ
+cave lobster	洞窟ロブスター
+louse	シラミ
+lynx	オオヤマネコ
+lynx cub	オオヤマネコの子
+rhesus macaque	アカゲザル
+dwarven cheese	ドワーフチーズ
+dwarven cheese powder	ドワーフチーズの粉
+dwarven milk	ドワーフミルク
+melted dwarven cheese	溶けたドワーフチーズ
+purring maggot	ゴロゴロウジ
+magma crab	マグマガニ
+mandrill	マンドリル
+manera	マネラ
+mantis	カマキリ
+hoary marmot	シラガマーモット
+hoary marmot pup	シラガマーモットの子
+mermaid	人魚（雌）
+merman	人魚（雄）
+merpeople	人魚
+merperson	人魚
+mink	ミンク
+mink kit	ミンクの子
+minotaur	ミノタウロス
+mog juice	モグの汁
+moghopper	モグホッパー
+molemarian	モールメリアン
+molemarian puppy	モールメリアンの子
+naked mole dog	ハダカモグラ犬
+naked mole puppy	ハダカモグラ犬の子
+giant mole	巨大モグラ
+giant mole pup	巨大モグラの子
+mongoose	マングース
+mongoose pup	マングースの子
+monitor lizard	オオトカゲ
+monitor lizard hatchling	オオトカゲの子
+moon snail	タマガイ
+bull moose	ヘラジカ（雄）
+cow moose	ヘラジカ（雌）
+moose	ヘラジカ
+moose calf	ヘラジカの子
+giant moose bull	巨大ヘラジカ（雄）
+giant moose cow	巨大ヘラジカ（雌）
+mosquito	蚊
+moth	蛾
+mule	ラバ
+mule foal	ラバの子
+muskox	ジャコウウシ
+muskox calf	ジャコウウシの子
+muskoxen	ジャコウウシ
+mussel	ムール貝
+narwhal	イッカク
+narwhal calf	イッカクの子
+nautilus	オウムガイ
+nightwing	ナイトウィング
+ocelot	オセロット
+ocelot kitten	オセロットの子
+octopus	タコ
+octopus ink	タコの墨
+ogre	オーガ
+olm	ホライモリ
+baby opossum	オポッサムの子
+opossum	オポッサム
+orangutan	オランウータン
+orca	シャチ
+orca calf	シャチの子
+aegirocassis	エーギロカシス
+juvenile aegirocassis	エーギロカシスの幼体
+otter man	カワウソ男
+otter woman	カワウソ女
+oyster	牡蠣
+panda	パンダ
+panda cub	パンダの子
+gigantic panda	超巨大パンダ
+gigantic panda cub	超巨大パンダの子
+baby pangolin	センザンコウの子
+pangolin	センザンコウ
+anteosaurus	アンテオサウルス
+anteosaurus hatchling	アンテオサウルスの子
+diadectes	ディアデクテス
+diadectes hatchling	ディアデクテスの子
+dimetrodon	ディメトロドン
+dimetrodon hatchling	ディメトロドンの子
+diplocaulus	ディプロカウルス
+diplocaulus hatchling	ディプロカウルスの子
+eryops	エリオプス
+eryops hatchling	エリオプスの子
+helicoprion	ヘリコプリオン
+helicoprion hatchling	ヘリコプリオンの子
+lystrosaurus	リストロサウルス
+lystrosaurus hatchling	リストロサウルスの子
+boar	雄豚
+melted pig cheese	溶けた豚乳チーズ
+pig	豚
+pig cheese	豚乳チーズ
+pig cheese powder	豚乳チーズの粉
+pig's milk	豚乳
+piglet	子豚
+porcine	豚
+sow	雌豚
+pixie	ピクシー
+baby platypus	カモノハシの子
+platypus	カモノハシ
+platypus venom	カモノハシの毒
+baby giant platypus	巨大カモノハシの子
+melted plump helmet man tissue	溶けたプランプヘルメット男の組織
+plump helmet man tissue	プランプヘルメット男の組織
+pond grabber	ポンドグラバー
+pond turtle	ヨーロッパヌマガメ
+porcupine	ヤマアラシ
+porcupine pup	ヤマアラシの子
+python	ニシキヘビ
+buck rabbit	雄兎
+bunny	子兎
+doe rabbit	雌兎
+rabbit	兎
+raccoon	アライグマ
+raccoon pup	アライグマの子
+rat	鼠
+rattlesnake	ガラガラヘビ
+rattlesnake venom	ガラガラヘビの毒
+demon rat	悪魔鼠
+giant rat pup	巨大鼠の子
+large rat	大鼠
+large rat pup	大鼠の子
+reacher	リーチャー
+red panda	レッサーパンダ
+red panda boar	レッサーパンダ（雄）
+red panda cub	レッサーパンダの子
+red panda sow	レッサーパンダ（雌）
+melted reindeer cheese	溶けたトナカイチーズ
+reindeer	トナカイ
+reindeer bull	トナカイ（雄）
+reindeer calf	トナカイの子
+reindeer cheese	トナカイチーズ
+reindeer cheese powder	トナカイチーズの粉
+reindeer cow	トナカイ（雌）
+reindeer's milk	トナカイの乳
+antler	枝角
+reptile man	爬虫類男
+reptile woman	爬虫類女
+rhinoceros	サイ
+rhinoceros calf	サイの子
+river otter	カワウソ
+river otter pup	カワウソの子
+large roach	大ゴキブリ
+roach man	ゴキブリ男
+roach woman	ゴキブリ女
+rodent man	齧歯類男
+rodent woman	齧歯類女
+rutherer	ラザラー
+sasquatch	サスカッチ
+satyr	サテュロス
+sea otter	ラッコ
+sea otter pup	ラッコの子
+sea monster	海の怪物
+sea monster hatchling	海の怪物の子
+sea serpent	シーサーペント
+sea serpent hatchling	シーサーペントの子
+serpent man	蛇男
+serpent man venom	蛇男の毒
+serpent woman	蛇女
+angelshark	カスザメ
+angelshark pup	カスザメの子
+basking shark	ウバザメ
+basking shark pup	ウバザメの子
+blue shark	ヨシキリザメ
+blue shark pup	ヨシキリザメの子
+bull shark	オオメジロザメ
+bull shark pup	オオメジロザメの子
+frill shark	ラブカ
+frill shark pup	ラブカの子
+great white shark	ホホジロザメ
+great white shark pup	ホホジロザメの子
+hammerhead shark	シュモクザメ
+hammerhead shark pup	シュモクザメの子
+longfin mako shark	バケアオザメ
+longfin mako shark pup	バケアオザメの子
+shortfin mako shark	アオザメ
+shortfin mako shark pup	アオザメの子
+nurse shark	コモリザメ
+nurse shark pup	コモリザメの子
+blacktip reef shark	ツマグロ
+blacktip reef shark pup	ツマグロの子
+whitetip reef shark	ネムリブカ
+whitetip reef shark pup	ネムリブカの子
+spiny dogfish	アブラツノザメ
+spiny dogfish pup	アブラツノザメの子
+tiger shark	イタチザメ
+tiger shark pup	イタチザメの子
+whale shark	ジンベエザメ
+whale shark pup	ジンベエザメの子
+spotted wobbegong	オオセ
+spotted wobbegong pup	オオセの子
+ewe	雌羊
+lamb	子羊
+melted sheep cheese	溶けた羊乳チーズ
+ovine	羊
+ram	雄羊
+sheep	羊
+sheep cheese	羊乳チーズ
+sheep cheese powder	羊乳チーズの粉
+sheep's milk	羊乳
+jaekelopterus	イェーケロプテルス
+juvenile jaekelopterus	イェーケロプテルスの幼体
+skink	トカゲ（スキンク）
+skunk	スカンク
+skunk kit	スカンクの子
+sloth	ナマケモノ
+sloth cub	ナマケモノの子
+slug	ナメクジ
+snail	カタツムリ
+fire snake	火蛇
+liquid fire	液体の炎
+common snapping turtle	カミツキガメ
+snapping turtle man	カミツキガメ男
+snapping turtle woman	カミツキガメ女
+sparrow	スズメ
+sparrow hatchling	スズメの雛
+sperm whale	マッコウクジラ
+sperm whale calf	マッコウクジラの子
+brown recluse spider	ドクイトグモ
+brown recluse spider venom	ドクイトグモの毒
+cave spider	洞窟グモ
+cave spider venom	洞窟グモの毒
+jumping spider	ハエトリグモ
+spider monkey	クモザル
+phantom spider	ファントムスパイダー
+phantom spider venom	ファントムスパイダーの毒
+squid	イカ
+squid ink	イカ墨
+flying squirrel	モモンガ
+gray squirrel	ハイイロリス
+red squirrel	キタリス
+stoat	オコジョ
+stoat jack	オコジョ（雄）
+stoat jill	オコジョ（雌）
+stoat kit	オコジョの子
+strangler	ストラングラー
+melted tapir cheese	溶けたバクチーズ
+tapir	バク
+tapir calf	バクの子
+tapir cheese	バクチーズ
+tapir cheese powder	バクチーズの粉
+tapir's milk	バクの乳
+king termite	王シロアリ
+queen termite	女王シロアリ
+soldier termite	兵隊シロアリ
+termite	シロアリ
+worker termite	働きシロアリ
+thrips	アザミウマ
+tick	ダニ
+tiger	虎
+tiger cub	虎の子
+toad	ヒキガエル
+giant cave toad	巨大洞窟ヒキガエル
+drepanosaurus	ドレパノサウルス
+drepanosaurus hatchling	ドレパノサウルスの子
+eoraptor	エオラプトル
+eoraptor hatchling	エオラプトルの子
+gerrothorax	ゲロトラックス
+gerrothorax hatchling	ゲロトラックスの子
+procompsognathus	プロコンプソグナトゥス
+procompsognathus hatchling	プロコンプソグナトゥスの子
+psephoderma	プセフォデルマ
+psephoderma hatchling	プセフォデルマの子
+sharovipteryx	シャロビプテリクス
+sharovipteryx hatchling	シャロビプテリクスの子
+troglodyte	トログロダイト
+troll	トロール
+unicorn	ユニコーン
+unicorn foal	ユニコーンの子
+voracious cave crawler	貪欲な洞窟這い
+walrus	セイウチ
+walrus calf	セイウチの子
+fluff	ふわふわ
+fluffy wambler	フラッフィーワンブラー
+pudge	ぽっちゃり
+warthog	イボイノシシ
+warthog piglet	イボイノシシの子
+melted water buffalo cheese	溶けた水牛チーズ
+water buffalo	水牛
+water buffalo bull	水牛（雄）
+water buffalo calf	水牛の子
+water buffalo cheese	水牛チーズ
+water buffalo cheese powder	水牛チーズの粉
+water buffalo cow	水牛（雌）
+water buffalo's milk	水牛の乳
+weasel	イタチ
+weasel kit	イタチの子
+wild boar	猪
+wild boar piglet	猪の子
+wild boar sow	猪（雌）
+wolf	狼
+wolf pup	狼の子
+ice wolf	氷狼
+ice wolf pup	氷狼の子
+wolverine	クズリ
+wolverine kit	クズリの子
+wombat	ウォンバット
+wombat joey	ウォンバットの子
+worm	ミミズ
+knuckle worm	ナックルワーム
+melted yak cheese	溶けたヤクチーズ
+yak	ヤク
+yak bull	ヤク（雄）
+yak calf	ヤクの子
+yak cheese	ヤクチーズ
+yak cheese powder	ヤクチーズの粉
+yak cow	ヤク（雌）
+yak's milk	ヤクの乳
+yeti	イエティ
+pike	パイク
+giant	巨人
+blood	血
+gabbro	斑糲岩
+iron	鉄
+magma	マグマ
+wood	木材
+wooden	木製
+claw	鉤爪
+skin	皮膚
+spine	棘
+sponge	海綿
+fur	毛皮
+wool	羊毛
+arrow	矢
+blowdart	吹き矢
+bolt	ボルト
+breastplate	胸当て
+cape	ケープ
+cloak	外套
+coat	コート
+dress	ドレス
+armor	鎧
+mail shirt	鎖帷子
+robe	ローブ
+shirt	シャツ
+toga	トーガ
+tunic	チュニック
+vest	ベスト
+biscuits	ビスケット
+roast	ロースト
+stew	シチュー
+gauntlet	篭手
+glove	手袋
+mitten	ミトン
+cap	帽子
+helm	兜
+hood	フード
+mask	仮面
+headscarf	スカーフ
+turban	ターバン
+face veil	顔ベール
+head veil	頭ベール
+braies	ブレー
+greaves	すね当て
+leggings	レギンス
+loincloth	腰布
+trousers	ズボン
+skirt	スカート
+long	ロング
+short	ショート
+thong	下帯
+buckler	バックラー
+shield	盾
+high boot	ハイブーツ
+low boot	ローブーツ
+chausse	ショース
+sandal	サンダル
+shoe	靴
+sock	靴下
+ballista arrow	バリスタの矢
+altar	祭壇
+bookcase	本棚
+book binding	本の装丁
+bowl	鉢
+cauldron	大釜
+dice	サイコロ
+die	サイコロ
+display case	陳列ケース
+carving fork	カービングフォーク
+helve	柄
+hive	養蜂箱
+honeycomb	蜂の巣
+jug	水差し
+boning knife	骨すきナイフ
+carving knife	肉切りナイフ
+meat cleaver	肉切り包丁
+slicing knife	スライスナイフ
+ladle	お玉
+pot	壺
+large	大型
+minecart	トロッコ
+mortar	乳鉢
+nest box	巣箱
+pedestal	台座
+pestle	乳棒
+pouch	小袋
+quire	帳面
+scroll	巻物
+scroll rollers	巻物の軸
+stepladder	脚立
+axe	斧
+wheelbarrow	手押し車
+toy axe	おもちゃの斧
+toy boat	おもちゃの船
+toy hammer	おもちゃのハンマー
+mini-forge	ミニ鍛冶炉
+puzzlebox	パズル箱
+corkscrew	コルク抜き
+enormous	巨大
+axe blade	斧刃
+disc	円盤
+large, serrated	大きな鋸歯の
+menacing	恐ろしい
+spike	スパイク
+ball	球
+spiked	棘付き
+battle axe	戦斧
+great axe	大斧
+training axe	訓練用斧
+blowgun	吹き矢筒
+bow	弓
+crossbow	クロスボウ
+dagger	ダガー
+flail	フレイル
+halberd	ハルバード
+war hammer	ウォーハンマー
+mace	メイス
+maul	大槌
+morningstar	モーニングスター
+pick	つるはし
+great pick	大つるはし
+scimitar	シミター
+scourge	スカージ
+spear	槍
+training spear	訓練用槍
+two-handed sword	両手剣
+long sword	長剣
+short sword	短剣
+training sword	訓練用短剣
+whip	鞭
+adamantine	アダマンタイン
+molten adamantine	溶融アダマンタイン
+alabaster	雪花石膏
+aluminum	アルミニウム
+molten aluminum	溶融アルミニウム
+alunite	明礬石
+andesite	安山岩
+anhydrite	硬石膏
+ash glaze	灰釉
+basalt	玄武岩
+bauxite	ボーキサイト
+billon	ビロン
+molten billon	溶融ビロン
+bismuth	ビスマス
+molten bismuth	溶融ビスマス
+bismuthinite	輝蒼鉛鉱
+bismuth bronze	ビスマス青銅
+molten bismuth bronze	溶融ビスマス青銅
+black bronze	黒青銅
+molten black bronze	溶融黒青銅
+borax	ホウ砂
+molten brass	溶融真鍮
+brimstone	硫黄
+molten bronze	溶融青銅
+calcareous ooze	石灰質軟泥
+calcite	方解石
+cassiterite	錫石
+earthenware	土器
+porcelain	磁器
+stoneware	炻器
+chalk	白亜
+chert	チャート
+chromite	クロム鉄鉱
+cinnabar	辰砂
+clay	粘土
+claystone	粘土岩
+clay loam	埴壌土
+bituminous coal	瀝青炭
+cobaltite	輝コバルト鉱
+conglomerate	礫岩
+molten copper	溶融銅
+cryolite	氷晶石
+dacite	デイサイト
+diorite	閃緑岩
+dolomite	苦灰岩
+electrum	エレクトラム
+molten electrum	溶融エレクトラム
+fire clay	耐火粘土
+galena	方鉛鉱
+garnierite	珪ニッケル鉱
+gneiss	片麻岩
+gold dust	砂金
+molten gold	溶融金
+granite	花崗岩
+graphite	石墨
+gypsum	石膏
+hematite	赤鉄鉱
+hornblende	角閃石
+horn silver	角銀鉱
+ilmenite	チタン鉄鉱
+molten iron	溶融鉄
+jet	黒玉
+kaolinite	カオリナイト
+kimberlite	キンバーライト
+lead	鉛
+molten lead	溶融鉛
+lignite	亜炭
+limestone	石灰岩
+limonite	褐鉄鉱
+loam	ローム
+loamy sand	ローム質砂
+magnetite	磁鉄鉱
+malachite	孔雀石
+marble	大理石
+marcasite	白鉄鉱
+mica	雲母
+microcline	微斜長石
+milk of lime	石灰乳
+mudstone	泥岩
+molten native aluminum	溶融自然アルミニウム
+native aluminum	自然アルミニウム
+molten native copper	溶融自然銅
+native copper	自然銅
+molten native gold	溶融自然金
+native gold	自然金
+native gold dust	自然金の砂金
+molten native platinum	溶融自然白金
+native platinum	自然白金
+molten native silver	溶融自然銀
+native silver	自然銀
+molten nickel	溶融ニッケル
+nickel	ニッケル
+molten nickel silver	溶融洋銀
+nickel silver	洋銀
+obsidian	黒曜石
+olivine	かんらん石
+orpiment	雄黄
+orthoclase	正長石
+peat	泥炭
+pelagic clay	遠洋性粘土
+periclase	ペリクレース
+petrified wood	珪化木
+fine pewter	上質ピューター
+molten fine pewter	溶融上質ピューター
+lay pewter	並ピューター
+molten lay pewter	溶融並ピューター
+molten trifle pewter	溶融トライフルピューター
+trifle pewter	トライフルピューター
+phyllite	千枚岩
+molten pig iron	溶融銑鉄
+pig iron	銑鉄
+pitchblende	閃ウラン鉱
+gypsum plaster	石膏プラスター
+molten platinum	溶融白金
+platinum	白金
+puddingstone	プディングストーン
+pyrolusite	軟マンガン鉱
+quartzite	珪岩
+quicklime	生石灰
+molten raw adamantine	溶融未精錬アダマンタイン
+raw adamantine	未精錬アダマンタイン
+realgar	鶏冠石
+rhyolite	流紋岩
+rock salt	岩塩
+molten rose gold	溶融ローズゴールド
+rose gold	ローズゴールド
+rutile	金紅石
+saltpeter	硝石
+sandstone	砂岩
+sandy clay	砂質粘土
+sandy clay loam	砂質埴壌土
+sandy loam	砂壌土
+black sand	黒砂
+red sand	赤砂
+sand	砂
+white sand	白砂
+yellow sand	黄砂
+satinspar	繊維石膏
+schist	片岩
+selenite	透石膏
+serpentine	蛇紋石
+shale	頁岩
+siliceous ooze	珪質軟泥
+silt	シルト
+siltstone	シルト岩
+silty clay	シルト質粘土
+silty clay loam	シルト質埴壌土
+silt loam	シルト質壌土
+molten silver	溶融銀
+slade	スレイド
+slate	粘板岩
+sphalerite	閃亜鉛鉱
+molten steel	溶融鋼
+steel	鋼
+molten sterling silver	溶融スターリングシルバー
+sterling silver	スターリングシルバー
+stibnite	輝安鉱
+sylvite	カリ岩塩
+talc	滑石
+tetrahedrite	四面銅鉱
+molten tin	溶融錫
+tin	錫
+tin glaze	錫釉
+molten zinc	溶融亜鉛
+zinc	亜鉛
+bone meal	骨粉
+brain	脳
+bud	つぼみ
+cartilaginous	軟骨質
+cheese	チーズ
+cheesy	チーズ状
+melted cheese	溶けたチーズ
+melted cheesy	溶けたチーズ状
+eggshell	卵殻
+eggshell powder	卵殻粉
+egg white	卵白
+egg yolk	卵黄
+fatty	脂肪質
+grease	油脂
+greasy	脂ぎった
+flower	花
+goo	ねばねば
+ichor	霊液
+ink	インク
+leaf	葉
+leather	革
+metal	金属
+molten metal	溶融金属
+milky	乳状
+mushroom	キノコ
+parchment	羊皮紙
+alcohol	アルコール
+extract	エキス
+vegetable oil	植物油
+plant powder	植物粉末
+pus	膿
+seed	種
+silk	絹
+sinew	腱
+melted soap	溶けた石鹸
+soap	石鹸
+soil	土
+spit	唾液
+spongy	海綿状
+stone	石
+plant	植物
+none	なし
+sweat	汗
+melted tallow	溶けた獣脂
+tallow	獣脂
+tears	涙
+fiber	繊維
+melted wax	溶けた蝋
+wax	蝋
+bone	骨
+brain tissue	脳組織
+cartilage	軟骨
+cheek whisker	頬ひげ
+chin whisker	あごひげ
+chitin	キチン質
+eyebrow	眉毛
+eyelash	まつ毛
+eye tissue	眼組織
+fat	脂肪
+feather	羽毛
+flames	炎
+gizzard tissue	砂嚢組織
+gut	腸
+hair	毛
+heart tissue	心臓組織
+hoof	蹄
+kidney tissue	腎臓組織
+liver tissue	肝臓組織
+lung tissue	肺組織
+moustache	口ひげ
+muscle	筋肉
+nail	爪
+nervous tissue	神経組織
+pancreatic tissue	膵臓組織
+scale	鱗
+shell	殻
+sideburns	もみあげ
+spleen tissue	脾臓組織
+stomach tissue	胃組織
+talon	鋭爪
+tooth	歯
+n/a	n/a
+slime	粘液
+fruit	果実
+milk	乳
+horn	角
+abaca flower	アバカの花
+abaca leaf	アバカの葉
+abaca seed	アバカの種
+abaca tree	アバカの木
+acacia	アカシア
+acacia bark dye	アカシア樹皮染料
+acacia flower	アカシアの花
+acacia leaf	アカシアの葉
+acacia seed	アカシアの種
+acacia seed pod	アカシアの莢
+alder	ハンノキ
+alder bark dye	ハンノキ樹皮染料
+alder cone	ハンノキの球果
+alder cone dye	ハンノキ球果染料
+alder leaf	ハンノキの葉
+alder pollen catkin	ハンノキの雄花序
+alder seed catkin	ハンノキの雌花序
+alfalfa	アルファルファ
+alfalfa flower cluster	アルファルファの花房
+alfalfa leaf	アルファルファの葉
+alfalfa seed	アルファルファの種
+almond	アーモンド
+almond flower	アーモンドの花
+almond leaf	アーモンドの葉
+almond shell dye	アーモンド殻染料
+almond tree	アーモンドの木
+almond wood	アーモンド材
+apple	リンゴ
+apple bark dye	リンゴ樹皮染料
+apple cider	リンゴ酒
+apple flower	リンゴの花
+apple leaf	リンゴの葉
+apple leaf dye	リンゴの葉染料
+apple seed	リンゴの種
+apple tree	リンゴの木
+apple wood	リンゴ材
+apricot	アンズ
+apricot bark dye	アンズ樹皮染料
+apricot flower	アンズの花
+apricot leaf	アンズの葉
+apricot pit	アンズの種
+apricot tree	アンズの木
+apricot wine	アンズ酒
+apricot wood	アンズ材
+artichoke	アーティチョーク
+artichoke flower	アーティチョークの花
+artichoke heart	アーティチョークの芯
+artichoke leaf	アーティチョークの葉
+artichoke seed	アーティチョークの種
+artichoke wine	アーティチョーク酒
+ash	トネリコ
+ash bark dye	トネリコ樹皮染料
+ash flower	トネリコの花
+ash leaf	トネリコの葉
+ash samara	トネリコの翼果
+ashen	トネリコ
+asparagus	アスパラガス
+asparagus berry	アスパラガスの実
+asparagus flower	アスパラガスの花
+asparagus leaf	アスパラガスの葉
+asparagus seed	アスパラガスの種
+avocado	アボカド
+avocado flower	アボカドの花
+avocado leaf	アボカドの葉
+avocado pit	アボカドの種
+avocado skin dye	アボカド皮染料
+avocado tree	アボカドの木
+avocado wood	アボカド材
+baby toes succulent	五十鈴玉
+baby toes succulent bud	五十鈴玉のつぼみ
+baby toes succulent flower	五十鈴玉の花
+bambara groundnut	バンバラマメ
+bambara groundnut flower	バンバラマメの花
+bambara groundnut leaf	バンバラマメの葉
+bambara groundnut plant	バンバラマメの株
+bambara groundnut pod	バンバラマメの莢
+banana	バナナ
+banana beer	バナナビール
+banana flower	バナナの花
+banana leaf	バナナの葉
+banana leaf dye	バナナの葉染料
+banana peel dye	バナナの皮染料
+banana seed	バナナの種
+banana tree	バナナの木
+barley	大麦
+barley flour	大麦粉
+barley leaf	大麦の葉
+barley seed	大麦の種
+barley wine	大麦酒
+bayberry	ヤマモモ
+bayberry dye	ヤマモモ染料
+bayberry leaf	ヤマモモの葉
+bayberry leaf dye	ヤマモモの葉染料
+bayberry pollen catkin	ヤマモモの雄花序
+bayberry seed	ヤマモモの種
+bayberry seed catkin	ヤマモモの雌花穂
+bayberry tree	ヤマモモの木
+bayberry wine	ヤマモモ酒
+bayberry wood	ヤマモモ材
+beet flower spike	ビートの花穂
+beet leaf	ビートの葉
+beet plant	ビート
+beet seed	ビートの種
+beetroot wine	ビート酒
+fisher berry	フィッシャーベリー
+fisher berry seed	フィッシャーベリーの種
+fisher berry wine	フィッシャーベリー酒
+prickle berry	プリクルベリー
+prickle berry seed	プリクルベリーの種
+prickle berry wine	プリクルベリー酒
+strawberry	イチゴ
+strawberry plant	イチゴ
+strawberry seed	イチゴの種
+strawberry wine	イチゴ酒
+sun berry	サンベリー
+sun berry seed	サンベリーの種
+sunshine	サンシャイン
+bilberry	ビルベリー
+bilberry bush	ビルベリーの茂み
+bilberry dye	ビルベリー染料
+bilberry flower	ビルベリーの花
+bilberry leaf	ビルベリーの葉
+bilberry seed	ビルベリーの種
+bilberry wine	ビルベリー酒
+birch	カバノキ
+birch bark dye	カバノキ樹皮染料
+birch leaf	カバノキの葉
+birch pollen catkin	カバノキの雄花穂
+birch seed catkin	カバノキの雌花穂
+birchen	カバノキ材
+bitter melon	ゴーヤ
+bitter melon flower	ゴーヤの花
+bitter melon leaf	ゴーヤの葉
+bitter melon seed	ゴーヤの種
+bitter melon vine	ゴーヤのつる
+bitter orange	ダイダイ
+bitter orange flower	ダイダイの花
+bitter orange leaf	ダイダイの葉
+bitter orange seed	ダイダイの種
+bitter orange tree	ダイダイの木
+bitter orange wood	ダイダイ材
+bitter vetch	ビターベッチ
+bitter vetch flower	ビターベッチの花
+bitter vetch leaf	ビターベッチの葉
+bitter vetch pod	ビターベッチのさや
+bitter vetch seed	ビターベッチの種
+blackberry	ブラックベリー
+blackberry bush	ブラックベリーの茂み
+blackberry dye	ブラックベリー染料
+blackberry flower	ブラックベリーの花
+blackberry leaf	ブラックベリーの葉
+blackberry seed	ブラックベリーの種
+blackberry wine	ブラックベリー酒
+black-cap	ブラックキャップ
+blood amaranth	ブラッドアマランサス
+blood amaranth beer	ブラッドアマランサスビール
+blood amaranth flour	ブラッドアマランサス粉
+blood amaranth inflorescence	ブラッドアマランサスの花序
+blood amaranth leaf	ブラッドアマランサスの葉
+blood amaranth seed	ブラッドアマランサスの種
+blood thorn	ブラッドソーン
+blueberry	ブルーベリー
+blueberry bush	ブルーベリーの茂み
+blueberry dye	ブルーベリー染料
+blueberry flower	ブルーベリーの花
+blueberry leaf	ブルーベリーの葉
+blueberry seed	ブルーベリーの種
+blueberry wine	ブルーベリー酒
+broad bean	ソラマメ
+broad bean flower	ソラマメの花
+broad bean leaf	ソラマメの葉
+broad bean plant	ソラマメ
+broad bean pod	ソラマメのさや
+bubble bulb	バブルバルブ
+buckwheat	ソバ
+buckwheat beer	ソバビール
+buckwheat flour	ソバ粉
+buckwheat flower	ソバの花
+buckwheat leaf	ソバの葉
+buckwheat seed	ソバの種
+gnomeblight	ノームブライト
+kobold bulb	コボルドバルブ
+melted rock nut soap	溶けたロックナッツ石鹸
+quarry bush	クァリーブッシュ
+quarry bush leaf	クァリーブッシュの葉
+rock nut	ロックナッツ
+rock nut oil	ロックナッツ油
+rock nut paste	ロックナッツペースト
+rock nut press cake	ロックナッツの搾りかす
+rock nut soap	ロックナッツ石鹸
+cabbage	キャベツ
+cabbage flower spike	キャベツの花穂
+cabbage leaf	キャベツの葉
+cabbage leaf dye	キャベツの葉の染料
+cabbage seed	キャベツの種
+cacao bean	カカオ豆
+cacao flower	カカオの花
+cacao leaf	カカオの葉
+cacao pod	カカオの実
+cacao tree	カカオの木
+cacao wood	カカオ材
+candlenut	ククイナッツ
+candlenut flower	ククイの花
+candlenut leaf	ククイの葉
+caper	ケッパー
+caper berry	ケッパーベリー
+caper bush	ケッパーの茂み
+caper flower	ケッパーの花
+caper leaf	ケッパーの葉
+caper seed	ケッパーの種
+carambola	スターフルーツ
+carambola flower	スターフルーツの花
+carambola leaf	スターフルーツの葉
+carambola seed	スターフルーツの種
+carambola tree	スターフルーツの木
+carambola wine	スターフルーツ酒
+carambola wood	スターフルーツ材
+cashew	カシューナッツ
+cashew apple	カシューアップル
+cashew flower	カシューの花
+cashew leaf	カシューの葉
+cashew tree	カシューの木
+cashew wood	カシュー材
+cassava	キャッサバ
+cassava beer	キャッサバビール
+cassava flower	キャッサバの花
+cassava leaf	キャッサバの葉
+cassava seed	キャッサバの種
+cattail	ガマ
+cedar	シーダー
+cedar pollen cone	シーダーの雄花
+cedar scale-leaf	シーダーの鱗葉
+cedar seed cone	シーダーの球果
+celery	セロリ
+celery leaf	セロリの葉
+celery seed	セロリの種
+celery umbel	セロリの花
+cherry	サクランボ
+cherry bark dye	桜の樹皮染料
+cherry flower	桜の花
+cherry leaf	桜の葉
+cherry leaf dye	桜の葉の染料
+cherry pit	サクランボの種
+cherry tree	桜の木
+cherry wine	チェリー酒
+cherry wood	桜材
+chestnut bark dye	栗の樹皮染料
+chestnut burr	栗のいが
+chestnut hull dye	栗の殻の染料
+chestnut leaf	栗の葉
+chestnut leaf dye	栗の葉の染料
+chestnut pollen catkin	栗の雄花穂
+chestnut seed catkin	栗の雌花穂
+chickpea	ヒヨコマメ
+chickpea flower	ヒヨコマメの花
+chickpea leaf	ヒヨコマメの葉
+chickpea plant	ヒヨコマメ
+chickpea pod	ヒヨコマメのさや
+chicory	チコリ
+chicory flower	チコリの花
+chicory leaf	チコリの葉
+chicory seed	チコリの種
+citron	シトロン
+citron flower	シトロンの花
+citron leaf	シトロンの葉
+citron seed	シトロンの種
+citron tree	シトロンの木
+citron wood	シトロン材
+cloudberry	クラウドベリー
+cloudberry bud	クラウドベリーのつぼみ
+cloudberry flower	クラウドベリーの花
+coffee bean	コーヒー豆
+coffee bean dye	コーヒー豆染料
+coffee cherry	コーヒーチェリー
+coffee flower cluster	コーヒーの花房
+coffee leaf	コーヒーの葉
+coffee tree	コーヒーノキ
+coffee wood	コーヒー材
+common reed	ヨシ
+cotton	綿
+cotton flower	綿の花
+cotton leaf	綿の葉
+cotton paper	綿紙
+cotton plant	綿
+cotton seed	綿の種
+cotton seed paste	綿実ペースト
+cotton seed press cake	綿実の搾りかす
+cotton slurry	綿パルプ
+cottonseed oil	綿実油
+cottonseed oil soap	綿実油石鹸
+melted cottonseed oil soap	溶けた綿実油石鹸
+cottongrass bud	ワタスゲのつぼみ
+cottongrass tuft	ワタスゲの綿毛
+cowpea	ササゲ
+cowpea flower	ササゲの花
+cowpea leaf	ササゲの葉
+cowpea plant	ササゲ
+cowpea pod	ササゲのさや
+cranberry	クランベリー
+cranberry dye	クランベリー染料
+cranberry flower	クランベリーの花
+cranberry leaf	クランベリーの葉
+cranberry seed	クランベリーの種
+cranberry vine	クランベリーのつる
+cranberry wine	クランベリー酒
+cucumber	キュウリ
+cucumber flower	キュウリの花
+cucumber leaf	キュウリの葉
+cucumber seed	キュウリの種
+cucumber vine	キュウリのつる
+custard-apple	カスタードアップル
+custard-apple cider	カスタードアップル酒
+custard-apple flower	カスタードアップルの花
+custard-apple leaf	カスタードアップルの葉
+custard-apple seed	カスタードアップルの種
+custard-apple tree	カスタードアップルの木
+custard-apple wood	カスタードアップル材
+date	デーツ
+date palm	ナツメヤシ
+date palm flower stalk	ナツメヤシの花茎
+date palm frond blade	ナツメヤシの葉
+date palm seed	ナツメヤシの種
+date palm wood	ナツメヤシ材
+date wine	デーツ酒
+desert lime	デザートライム
+desert lime flower	デザートライムの花
+desert lime leaf	デザートライムの葉
+desert lime seed	デザートライムの種
+desert lime tree	デザートライムの木
+desert lime wood	デザートライム材
+durian	ドリアン
+durian flower	ドリアンの花
+durian leaf	ドリアンの葉
+durian seed	ドリアンの種
+durian tree	ドリアンの木
+durian wine	ドリアン酒
+durian wood	ドリアン材
+eggplant dye	ナス染料
+eggplant flower	ナスの花
+eggplant leaf	ナスの葉
+eggplant seed	ナスの種
+elephant-head amaranth	エレファントヘッドアマランサス
+elephant-head amaranth inflorescence	エレファントヘッドアマランサスの花序
+elephant-head amaranth leaf	エレファントヘッドアマランサスの葉
+elephant-head amaranth seed	エレファントヘッドアマランサスの種
+staring eyeball	見つめる目玉
+feather tree	フェザーツリー
+feather tree down	フェザーツリーの綿毛
+feather tree egg	フェザーツリーの卵
+feather wood	フェザーツリー材
+finger lime	フィンガーライム
+finger lime flower	フィンガーライムの花
+finger lime leaf	フィンガーライムの葉
+finger lime seed	フィンガーライムの種
+finger lime tree	フィンガーライムの木
+finger lime wood	フィンガーライム材
+finger millet	シコクビエ
+finger millet beer	シコクビエビール
+finger millet flour	シコクビエ粉
+finger millet leaf	シコクビエの葉
+finger millet plant	シコクビエ
+flax flour	亜麻粉
+flax flower	亜麻の花
+flax leaf	亜麻の葉
+flax plant	亜麻
+flax seed	亜麻の種
+flax seed paste	亜麻仁ペースト
+flax seed press cake	亜麻仁の搾りかす
+linen	リネン
+linen paper	リネン紙
+linen slurry	リネンパルプ
+linseed oil	亜麻仁油
+linseed oil soap	亜麻仁油石鹸
+melted linseed oil soap	溶けた亜麻仁油石鹸
+floor fungus	床菌
+fonio	フォニオ
+fonio beer	フォニオビール
+fonio flour	フォニオ粉
+fonio leaf	フォニオの葉
+fonio plant	フォニオ
+foxtail millet	アワ
+foxtail millet beer	アワビール
+foxtail millet flour	アワ粉
+foxtail millet leaf	アワの葉
+foxtail millet plant	アワ
+fungiwood	フンギウッド
+garden cress	ガーデンクレス
+garden cress leaf	ガーデンクレスの葉
+garden cress raceme	ガーデンクレスの花房
+garden cress seed	ガーデンクレスの種
+garlic bulb	ニンニクの球根
+garlic flower	ニンニクの花
+garlic leaf	ニンニクの葉
+garlic plant	ニンニク
+garlic seed	ニンニクの種
+ginkgo leaf	イチョウの葉
+ginkgo leaf dye	イチョウの葉の染料
+ginkgo pollen catkin	イチョウの雄花穂
+ginkgo seed	ギンナン
+ginkgo tree	イチョウの木
+ginkgo wood	イチョウ材
+glumprong	グランプロング
+goblin-cap	ゴブリンキャップ
+grape	ブドウ
+grape dye	ブドウ染料
+grape inflorescence	ブドウの花序
+grape leaf	ブドウの葉
+grape seed	ブドウの種
+grape vine	ブドウのつる
+Longland beer	ロングランドビール
+Longland flour	ロングランド粉
+Longland grass	ロングランド草
+Longland grass seed	ロングランド草の種
+dwarven ale	ドワーフのエール
+pig tail	ピッグテイル
+pig tail paper	ピッグテイル紙
+pig tail seed	ピッグテイルの種
+pig tail slurry	ピッグテイルパルプ
+cave wheat	洞窟小麦
+cave wheat seed	洞窟小麦の種
+dwarven beer	ドワーフのビール
+dwarven wheat flour	ドワーフの小麦粉
+guava	グアバ
+guava bark dye	グアバ樹皮染料
+guava flower	グアバの花
+guava leaf	グアバの葉
+guava leaf dye	グアバの葉の染料
+guava seed	グアバの種
+guava tree	グアバの木
+guava wine	グアバ酒
+guava wood	グアバ材
+hard wheat	硬質小麦
+hard wheat beer	硬質小麦ビール
+hard wheat flour	硬質小麦粉
+hard wheat leaf	硬質小麦の葉
+hard wheat seed	硬質小麦の種
+hazel bark dye	ハシバミ樹皮染料
+hazel leaf	ハシバミの葉
+hazel leaf dye	ハシバミの葉の染料
+hazel nut	ヘーゼルナッツ
+hazel pollen catkin	ハシバミの雄花穂
+hazel tree	ハシバミの木
+hazel wood	ハシバミ材
+hemp	麻
+hemp flour	麻の実粉
+hemp leaf	麻の葉
+hemp paper	麻紙
+hemp plant	麻
+hemp seed	麻の種
+hemp seed paste	麻の実ペースト
+hemp seed press cake	麻の実の搾りかす
+hemp slurry	麻パルプ
+hempseed oil	麻の実油
+hempseed oil soap	麻の実油石鹸
+melted hempseed oil soap	溶けた麻の実油石鹸
+golden salve	黄金の軟膏
+valley herb	谷の薬草
+highwood	ハイウッド
+highwood flower	ハイウッドの花
+highwood leaf	ハイウッドの葉
+horned melon	キワノ
+horned melon flower	キワノの花
+horned melon leaf	キワノの葉
+horned melon seed	キワノの種
+horned melon vine	キワノのつる
+jute	ジュート
+jute flower	ジュートの花
+jute leaf	ジュートの葉
+jute paper	ジュート紙
+jute plant	ジュート
+jute seed	ジュートの種
+jute slurry	ジュートパルプ
+kaniwa	カニワ
+kaniwa beer	カニワビール
+kaniwa flour	カニワ粉
+kaniwa flower	カニワの花
+kaniwa leaf	カニワの葉
+kaniwa seed	カニワの種
+kapok	カポック
+kapok flower	カポックの花
+kapok fruit	カポックの実
+kapok leaf	カポックの葉
+kenaf	ケナフ
+kenaf flower	ケナフの花
+kenaf leaf	ケナフの葉
+kenaf paper	ケナフ紙
+kenaf plant	ケナフ
+kenaf seed	ケナフの種
+kenaf seed oil	ケナフ油
+kenaf seed oil soap	ケナフ油石鹸
+kenaf seed paste	ケナフ種子ペースト
+kenaf seed press cake	ケナフ種子の搾りかす
+kenaf slurry	ケナフパルプ
+melted kenaf seed oil soap	溶けたケナフ油石鹸
+kumquat	キンカン
+kumquat flower	キンカンの花
+kumquat leaf	キンカンの葉
+kumquat seed	キンカンの種
+kumquat tree	キンカンの木
+kumquat wood	キンカン材
+larch	カラマツ
+larch bark dye	カラマツ樹皮染料
+larch needle	カラマツの針葉
+larch pollen cone	カラマツの雄花
+larch seed cone	カラマツの球果
+leek	リーキ
+leek flower	リーキの花
+leek leaf	リーキの葉
+leek seed	リーキの種
+lentil	レンズ豆
+lentil flower	レンズ豆の花
+lentil leaf	レンズ豆の葉
+lentil plant	レンズ豆
+lentil pod	レンズ豆のさや
+lesser yam flower	トゲドコロの花
+lesser yam leaf	トゲドコロの葉
+lesser yam plant	トゲドコロ
+lesser yam seed	トゲドコロの種
+lettuce	レタス
+lettuce flower stalk	レタスの花茎
+lettuce leaf	レタスの葉
+lettuce seed	レタスの種
+lime flower	ライムの花
+lime leaf	ライムの葉
+lime seed	ライムの種
+lime tree	ライムの木
+lime wood	ライム材
+long yam flower	ナガイモの花
+long yam leaf	ナガイモの葉
+long yam plant	ナガイモ
+long yam seed	ナガイモの種
+lychee	ライチ
+lychee flower	ライチの花
+lychee leaf	ライチの葉
+lychee seed	ライチの種
+lychee tree	ライチの木
+lychee wine	ライチ酒
+lychee wood	ライチ材
+macadamia leaf	マカダミアの葉
+macadamia nut	マカダミアナッツ
+macadamia raceme	マカダミアの花房
+macadamia tree	マカダミアの木
+macadamia wood	マカダミア材
+mahogany bark dye	マホガニー樹皮染料
+mahogany flower	マホガニーの花
+mahogany fruit	マホガニーの実
+mahogany leaf	マホガニーの葉
+maize	トウモロコシ
+maize beer	トウモロコシビール
+maize flour	トウモロコシ粉
+maize leaf	トウモロコシの葉
+maize plant	トウモロコシ
+mango	マンゴー
+mango flower	マンゴーの花
+mango leaf	マンゴーの葉
+mango pit	マンゴーの種
+mango tree	マンゴーの木
+mango wine	マンゴー酒
+mango wood	マンゴー材
+mangrove	マングローブ
+mangrove bark dye	マングローブ樹皮染料
+mangrove flower	マングローブの花
+mangrove fruit	マングローブの実
+mangrove leaf	マングローブの葉
+mangrove leaf dye	マングローブの葉の染料
+maple	カエデ
+maple bark dye	カエデ樹皮染料
+maple flower cluster	カエデの花房
+maple leaf	カエデの葉
+maple samara	カエデの翼果
+marsh thistle	ヌマアザミ
+marsh thistle bud	ヌマアザミのつぼみ
+marsh thistle flower	ヌマアザミの花
+meadowsweet bud	メドウスイートのつぼみ
+meadowsweet flower	メドウスイートの花
+mountain avens bud	チョウノスケソウのつぼみ
+mountain avens flower	チョウノスケソウの花
+mung bean	緑豆
+mung bean flower	緑豆の花
+mung bean leaf	緑豆の葉
+mung bean plant	緑豆
+mung bean pod	緑豆のさや
+dimple cup	ディンプルカップ
+dimple cup spawn	ディンプルカップの胞子
+dimple dye	ディンプル染料
+dwarven wine	ドワーフのワイン
+plump helmet	プランプヘルメット
+plump helmet spawn	プランプヘルメットの胞子
+muskmelon	マスクメロン
+muskmelon flower	マスクメロンの花
+muskmelon leaf	マスクメロンの葉
+muskmelon seed	マスクメロンの種
+muskmelon vine	マスクメロンのつる
+nether-cap	ネザーキャップ
+acorn	どんぐり
+oak	オーク
+oak bark dye	オーク樹皮染料
+oak flower cluster	オークの花房
+oak leaf	オークの葉
+oaken	オーク材
+oat	オート麦
+oat flour	オート麦粉
+oat leaf	オート麦の葉
+oat seed	オート麦の種
+melted olive oil soap	溶けたオリーブ油石鹸
+olive bark dye	オリーブ樹皮染料
+olive fruit	オリーブの実
+olive leaf	オリーブの葉
+olive leaf dye	オリーブの葉の染料
+olive oil	オリーブ油
+olive oil soap	オリーブ油石鹸
+olive pit	オリーブの種
+olive pomace	オリーブの搾りかす
+olive raceme	オリーブの花房
+olive tree	オリーブの木
+olive wood	オリーブ材
+onion	タマネギ
+onion leaf	タマネギの葉
+onion plant	タマネギ
+onion seed	タマネギの種
+onion skin dye	タマネギの皮の染料
+onion umbel	タマネギの花
+orange flower	オレンジの花
+orange leaf	オレンジの葉
+orange seed	オレンジの種
+orange tree	オレンジの木
+orange wood	オレンジ材
+coconut	ココナッツ
+coconut palm	ココヤシ
+coconut palm frond blade	ココヤシの葉
+coconut palm spathe	ココヤシの仏炎苞
+papaya	パパイヤ
+papaya flower	パパイヤの花
+papaya leaf	パパイヤの葉
+papaya seed	パパイヤの種
+papaya tree	パパイヤの木
+papaya wine	パパイヤ酒
+papaya wood	パパイヤ材
+papyrus	パピルス
+papyrus flower cluster	パピルスの花房
+papyrus leaf	パピルスの葉
+papyrus sedge	パピルス
+papyrus seed	パピルスの種
+paradise nut	パラダイスナッツ
+paradise nut fruit	パラダイスナッツの実
+paradise nut leaf	パラダイスナッツの葉
+paradise nut raceme	パラダイスナッツの花房
+paradise nut tree	パラダイスナッツの木
+paradise nut wood	パラダイスナッツ材
+parsnip leaf	パースニップの葉
+parsnip plant	パースニップ
+parsnip seed	パースニップの種
+parsnip umbel	パースニップの花
+parsnip wine	パースニップ酒
+passion fruit	パッションフルーツ
+passion fruit flower	パッションフルーツの花
+passion fruit leaf	パッションフルーツの葉
+passion fruit seed	パッションフルーツの種
+passion fruit vine	パッションフルーツのつる
+passion fruit wine	パッションフルーツ酒
+pea	エンドウ豆
+pea flower	エンドウの花
+pea leaf	エンドウの葉
+pea plant	エンドウ
+pea pod	エンドウのさや
+peach bark dye	桃の樹皮染料
+peach cider	桃酒
+peach flower	桃の花
+peach leaf	桃の葉
+peach pit	桃の種
+peach tree	桃の木
+peach wood	桃材
+peanut	落花生
+peanut flower	落花生の花
+peanut leaf	落花生の葉
+peanut plant	落花生
+peanut pod	落花生のさや
+peanut shell dye	落花生の殻の染料
+pear	洋梨
+pear bark dye	洋梨の樹皮染料
+pear flower	洋梨の花
+pear leaf	洋梨の葉
+pear leaf dye	洋梨の葉の染料
+pear seed	洋梨の種
+pear tree	洋梨の木
+pear wood	洋梨材
+perry	洋梨酒
+pearl millet	トウジンビエ
+pearl millet beer	トウジンビエビール
+pearl millet flour	トウジンビエ粉
+pearl millet leaf	トウジンビエの葉
+pearl millet plant	トウジンビエ
+pebble plant	ペブルプラント
+pebble plant bud	ペブルプラントのつぼみ
+pebble plant flower	ペブルプラントの花
+pecan	ペカン
+pecan leaf	ペカンの葉
+pecan pollen catkin	ペカンの雄花穂
+pecan tree	ペカンの木
+pecan wood	ペカン材
+pendant amaranth	ヒモゲイトウ
+pendant amaranth beer	ヒモゲイトウビール
+pendant amaranth flour	ヒモゲイトウ粉
+pendant amaranth inflorescence	ヒモゲイトウの花序
+pendant amaranth leaf	ヒモゲイトウの葉
+pendant amaranth seed	ヒモゲイトウの種
+pepper	トウガラシ
+pepper flower	トウガラシの花
+pepper leaf	トウガラシの葉
+pepper plant	トウガラシ
+pepper seed	トウガラシの種
+persimmon	柿
+persimmon dye	柿渋
+persimmon flower	柿の花
+persimmon leaf	柿の葉
+persimmon seed	柿の種
+persimmon tree	柿の木
+persimmon wine	柿酒
+persimmon wood	柿材
+pine	松
+pine bark dye	松の樹皮染料
+pine needle	松葉
+pine pollen cone	松の雄花
+pine seed cone	松かさ
+pineapple	パイナップル
+pineapple flower	パイナップルの花
+pineapple leaf	パイナップルの葉
+pineapple leaf dye	パイナップルの葉の染料
+pineapple plant	パイナップル
+pineapple seed	パイナップルの種
+pineapple wine	パイナップル酒
+plum bark dye	スモモの樹皮染料
+plum flower	スモモの花
+plum leaf	スモモの葉
+plum pit	スモモの種
+plum tree	スモモの木
+plum wine	スモモ酒
+plum wood	スモモ材
+dwarven rum	ドワーフのラム酒
+dwarven sugar	ドワーフの砂糖
+dwarven syrup	ドワーフのシロップ
+sweet pod	スイートポッド
+sweet pod seed	スイートポッドの種
+pomegranate	ザクロ
+pomegranate bark dye	ザクロの樹皮染料
+pomegranate flower	ザクロの花
+pomegranate leaf	ザクロの葉
+pomegranate leaf dye	ザクロの葉の染料
+pomegranate rind dye	ザクロの果皮染料
+pomegranate seed	ザクロの種
+pomegranate tree	ザクロの木
+pomegranate wine	ザクロ酒
+pomegranate wood	ザクロ材
+pomelo	ブンタン
+pomelo flower	ブンタンの花
+pomelo leaf	ブンタンの葉
+pomelo seed	ブンタンの種
+pomelo tree	ブンタンの木
+pomelo wood	ブンタン材
+potato flower	ジャガイモの花
+potato leaf	ジャガイモの葉
+potato plant	ジャガイモ
+potato seed	ジャガイモの種
+potato skin dye	ジャガイモの皮の染料
+potato wine	ジャガイモ酒
+purple amaranth	ムラサキアマランサス
+purple amaranth beer	ムラサキアマランサスビール
+purple amaranth flour	ムラサキアマランサス粉
+purple amaranth inflorescence	ムラサキアマランサスの花序
+purple amaranth leaf	ムラサキアマランサスの葉
+purple amaranth seed	ムラサキアマランサスの種
+purple yam flower	ダイジョの花
+purple yam leaf	ダイジョの葉
+purple yam plant	ダイジョ
+purple yam seed	ダイジョの種
+quinoa	キヌア
+quinoa beer	キヌアビール
+quinoa flour	キヌア粉
+quinoa flower	キヌアの花
+quinoa leaf	キヌアの葉
+quinoa seed	キヌアの種
+radish dye	ラディッシュ染料
+radish leaf	ラディッシュの葉
+radish plant	ラディッシュ
+radish raceme	ラディッシュの花房
+radish seed	ラディッシュの種
+radish wine	ラディッシュ酒
+rambutan	ランブータン
+rambutan flower	ランブータンの花
+rambutan leaf	ランブータンの葉
+rambutan seed	ランブータンの種
+rambutan tree	ランブータンの木
+rambutan wine	ランブータン酒
+rambutan wood	ランブータン材
+ramie	ラミー
+ramie leaf	ラミーの葉
+ramie paper	ラミー紙
+ramie plant	ラミー
+ramie seed	ラミーの種
+ramie slurry	ラミーパルプ
+raspberry	ラズベリー
+raspberry bush	ラズベリーの茂み
+raspberry dye	ラズベリー染料
+raspberry flower	ラズベリーの花
+raspberry leaf	ラズベリーの葉
+raspberry seed	ラズベリーの種
+raspberry wine	ラズベリー酒
+red bean	小豆
+red bean flower	小豆の花
+red bean leaf	小豆の葉
+red bean pod	小豆のさや
+red bean vine	小豆のつる
+red spinach	ヒユナ
+red spinach inflorescence	ヒユナの花序
+red spinach leaf	ヒユナの葉
+red spinach leaf dye	ヒユナの葉の染料
+red spinach seed	ヒユナの種
+river spirits	リバースピリッツ
+rope reed	ロープリード
+rope reed paper	ロープリード紙
+rope reed seed	ロープリードの種
+rope reed slurry	ロープリードパルプ
+rhubarb	ルバーブ
+rhubarb inflorescence	ルバーブの花序
+rhubarb leaf	ルバーブの葉
+rhubarb leaf dye	ルバーブの葉の染料
+rhubarb seed	ルバーブの種
+rice	米
+rice beer	米酒
+rice flour	米粉
+rice husk dye	もみ殻染料
+rice leaf	稲の葉
+rice plant	稲
+hide root	ハイドルート
+hide root seed	ハイドルートの種
+redroot dye	レッドルート染料
+muck root	マックルート
+muck root seed	マックルートの種
+swamp whiskey	沼のウイスキー
+round lime	ラウンドライム
+round lime flower	ラウンドライムの花
+round lime leaf	ラウンドライムの葉
+round lime seed	ラウンドライムの種
+round lime tree	ラウンドライムの木
+round lime wood	ラウンドライム材
+rubber leaf	ゴムノキの葉
+rubber tree	ゴムノキ
+rubber wood	ゴムノキ材
+rush	イグサ
+rush bud	イグサのつぼみ
+rush flower	イグサの花
+rye	ライ麦
+rye beer	ライ麦ビール
+rye flour	ライ麦粉
+rye leaf	ライ麦の葉
+rye seed	ライ麦の種
+saguaro	サワロ
+saguaro flower	サワロの花
+saguaro fruit	サワロの実
+saguaro rib	サワロの骨格
+saguaro rib wood	サワロ骨格材
+sand pear	ナシ
+sand pear cider	梨酒
+sand pear flower	ナシの花
+sand pear leaf	ナシの葉
+sand pear seed	ナシの種
+sand pear tree	ナシの木
+sand pear wood	ナシ材
+single-grain wheat	ヒトツブコムギ
+single-grain wheat beer	ヒトツブコムギビール
+single-grain wheat flour	ヒトツブコムギ粉
+single-grain wheat leaf	ヒトツブコムギの葉
+single-grain wheat seed	ヒトツブコムギの種
+gutter cruor	ガタークルーオル
+sliver barb	スリヴァーバーブ
+sliver barb seed	スリヴァーバーブの種
+sliver dye	スリヴァー染料
+soft wheat	軟質小麦
+soft wheat beer	軟質小麦ビール
+soft wheat flour	軟質小麦粉
+soft wheat leaf	軟質小麦の葉
+soft wheat seed	軟質小麦の種
+sorghum	モロコシ
+sorghum beer	モロコシビール
+sorghum flour	モロコシ粉
+sorghum flower cluster	モロコシの花房
+sorghum leaf	モロコシの葉
+sorghum leaf dye	モロコシの葉の染料
+sorghum seed	モロコシの種
+soybean	大豆
+soybean flower	大豆の花
+soybean leaf	大豆の葉
+soybean plant	大豆
+soybean pod	大豆のさや
+spelt	スペルト小麦
+spelt beer	スペルト小麦ビール
+spelt flour	スペルト小麦粉
+spelt leaf	スペルト小麦の葉
+spelt seed	スペルト小麦の種
+spinach	ホウレンソウ
+spinach flower	ホウレンソウの花
+spinach leaf	ホウレンソウの葉
+spinach leaf dye	ホウレンソウの葉の染料
+spinach seed	ホウレンソウの種
+spore tree	胞子の木
+squash	カボチャ
+squash flower	カボチャの花
+squash leaf	カボチャの葉
+squash seed	カボチャの種
+squash vine	カボチャのつる
+string bean	インゲン豆
+string bean flower	インゲン豆の花
+string bean leaf	インゲン豆の葉
+string bean plant	インゲン豆
+string bean pod	インゲン豆のさや
+sweet potato flower	サツマイモの花
+sweet potato leaf	サツマイモの葉
+sweet potato plant	サツマイモ
+sweet potato seed	サツマイモの種
+sweet potato skin dye	サツマイモの皮の染料
+sweet potato wine	サツマイモ酒
+taro	タロイモ
+taro flower	タロイモの花
+taro leaf	タロイモの葉
+taro seed	タロイモの種
+tea flower	茶の花
+tea leaf	茶葉
+tea leaf dye	茶葉染料
+tea seed	茶の種
+tea tree	茶の木
+tea tree capsule	茶の実
+tea wood	茶の木材
+teff	テフ
+teff beer	テフビール
+teff flour	テフ粉
+teff leaf	テフの葉
+teff plant	テフ
+tomatillo	トマティーヨ
+tomatillo flower	トマティーヨの花
+tomatillo leaf	トマティーヨの葉
+tomatillo plant	トマティーヨ
+tomatillo seed	トマティーヨの種
+tomatillo wine	トマティーヨ酒
+tomato	トマト
+tomato flower	トマトの花
+tomato leaf	トマトの葉
+tomato plant	トマト
+tomato seed	トマトの種
+tomato skin dye	トマトの皮の染料
+tomato wine	トマト酒
+tower-cap	タワーキャップ
+bloated tuber	ブローテッドチューバー
+bloated tuber seed	ブローテッドチューバーの種
+tuber beer	塊茎ビール
+tunnel tube	トンネルチューブ
+turnip flower	カブの花
+turnip leaf	カブの葉
+turnip plant	カブ
+turnip seed	カブの種
+turnip skin dye	カブの皮の染料
+turnip wine	カブ酒
+two-grain wheat	フタツブコムギ
+two-grain wheat beer	フタツブコムギビール
+two-grain wheat flour	フタツブコムギ粉
+two-grain wheat leaf	フタツブコムギの葉
+two-grain wheat seed	フタツブコムギの種
+urad bean	ケツルアズキ
+urad bean flower	ケツルアズキの花
+urad bean leaf	ケツルアズキの葉
+urad bean plant	ケツルアズキ
+urad bean pod	ケツルアズキのさや
+whip vine	ウィップヴァイン
+whip vine flour	ウィップヴァイン粉
+whip vine seed	ウィップヴァインの種
+whip wine	ウィップワイン
+walnut	クルミ
+walnut flower cluster	クルミの花房
+walnut leaf	クルミの葉
+walnut pollen catkin	クルミの雄花穂
+walnut tree	クルミの木
+walnut wood	クルミ材
+watermelon	スイカ
+watermelon dye	スイカ染料
+watermelon flower	スイカの花
+watermelon leaf	スイカの葉
+watermelon seed	スイカの種
+watermelon vine	スイカのつる
+blade weed	ブレードウィード
+blade weed seed	ブレードウィードの種
+emerald dye	エメラルド染料
+rat weed	ラットウィード
+rat weed seed	ラットウィードの種
+sewer brew	下水醸造酒
+white millet	キビ
+white millet beer	キビビール
+white millet flour	キビ粉
+white millet leaf	キビの葉
+white millet plant	キビ
+white yam flower	ホワイトヤムの花
+white yam leaf	ホワイトヤムの葉
+white yam plant	ホワイトヤム
+white yam seed	ホワイトヤムの種
+carrot dye	ニンジン染料
+carrot leaf	ニンジンの葉
+carrot seed	ニンジンの種
+carrot umbel	ニンジンの花
+carrot wine	ニンジン酒
+wild carrot plant	野生ニンジン
+willow	ヤナギ
+willow bark dye	ヤナギの樹皮染料
+willow fruit	ヤナギの実
+willow leaf	ヤナギの葉
+willow leaf dye	ヤナギの葉の染料
+willow pollen catkin	ヤナギの雄花穂
+willow seed catkin	ヤナギの雌花穂
+winter melon	トウガン
+winter melon flower	トウガンの花
+winter melon leaf	トウガンの葉
+winter melon seed	トウガンの種
+winter melon vine	トウガンのつる
+wormy tendril	ワーミーテンドリル
+wine	ワイン
+acolyte	侍祭
+baron	男爵
+baroness	女男爵
+bookkeeper	簿記
+broker	取引係
+captain	隊長
+captain of the guard	警邏隊長
+captains of the guard	衛兵隊長
+champion	勇士
+chief medical dwarf	主任医師
+count	伯爵
+countess	女伯爵
+diplomat	外交官
+druid	ドルイド
+duchess	女公爵
+duke	公爵
+dungeon master	ダンジョンマスター
+expedition leader	遠征隊長
+administrator	管理官
+general	将軍
+princess	王女
+hammerer	執行人
+lieutenant	副官
+manager	支配人
+mayor	市長
+messenger	伝令
+militia captain	部隊長
+militia commander	司令官
+king	国王
+monarch	国王
+queen	女王
+outpost liaison	前哨連絡係
+ranger captain	レンジャー隊長
+sheriff	保安官
+snout	鼻先
+warning hisses	威嚇の声
+vicious bites	凶暴な噛みつき
+resemblance to a miniature llama	小さなラマのような姿
+dewlaps	喉袋
+propensity to dig	穴掘り好き
+thick, bony armor plates	分厚い骨の装甲板
+gills	えら
+interesting fingers	面白い指
+striped faces	縞模様の顔
+underground communities	地下の群れ
+stinging tail	毒針のある尾
+pincers	はさみ
+haunting cries	物悲しい鳴き声
+chatters and clicks	カチカチという鳴き声
+hunched backs	丸まった背中
+large beaks	大きなくちばし
+large floppy ears	垂れた大きな耳
+dams	ダム作り
+tree-felling habits	木を倒す習性
+protective shells	身を守る殻
+large wings	大きな翼
+coloration	色彩
+twittering groups	さえずる群れ
+striking red face	鮮やかな赤い顔
+casques	とさか
+clucking	コッコという鳴き声
+scratching	地面をひっかく仕草
+intelligence	知性
+quacks	ガーガーという鳴き声
+high soaring	高く舞う姿
+inquisitive nature	好奇心旺盛な性質
+size	大きさ
+ability to dive through the air	急降下する能力
+formation flying	編隊飛行
+raucous calls	騒々しい鳴き声
+great bills	大きなくちばし
+booming calls	響き渡る鳴き声
+flightlessness	飛べないこと
+longevity	長寿
+curiosity	好奇心
+hunting prowess	狩りの腕前
+long beaks	長いくちばし
+great size	巨大さ
+haunting call	物悲しい鳴き声
+bright coloration	鮮やかな色彩
+playful personalities	遊び好きな性格
+loving nature	愛情深さ
+fondness of shiny objects	光り物好き
+fishing ability	魚を捕る能力
+long necks	長い首
+giant eggs	巨大な卵
+piercing yellow eyes	鋭い黄色の目
+ear tufts	耳の飾り羽
+yellow eyes	黄色い目
+ability to speak	話す能力
+social nature	社交的な性質
+enormous fan tails	巨大な扇状の尾
+waddling gait	よちよち歩き
+way of flying through the water	水中を飛ぶような泳ぎ
+large size	大きさ
+enormous size	巨大さ
+small size	小ささ
+colorful beaks	色鮮やかなくちばし
+awe-inspiring size	畏怖すべき大きさ
+dedication to their young	子への献身
+long bills	長いくちばし
+long legs	長い脚
+gobble	ゴロゴロという鳴き声
+snood	肉垂れ
+wattle	肉垂
+patience	忍耐力
+intricate songs	複雑なさえずり
+aggression	攻撃性
+deadly bite	致命的な噛みつき
+goat heads	ヤギの頭
+goat legs	ヤギの脚
+rotten eye sockets	腐った眼窩
+drooping ears	垂れ耳
+echoing howls	響く遠吠え
+glowing red eyes	輝く赤い目
+icicle teeth	つららの歯
+pointy ears	尖った耳
+translucent skin	半透明の肌
+gruesomeness	おぞましさ
+short tails	短い尾
+freakish insect heads	異様な虫の頭
+woolly appearance	もこもこした姿
+frontal appendages	前部付属肢
+extra eyes	余分な目
+lobopods	葉足
+grasping proboscis	つかむ吻
+hump	こぶ
+enormous rodentness	巨大なネズミらしさ
+graceful swimming	優雅な泳ぎ
+resonant barking	よく響く吠え声
+beyond enormous rodentness	とてつもなく巨大なネズミらしさ
+swinging antics	ぶら下がる芸当
+disturbing size	不気味な大きさ
+slithering	這い回る動き
+jawed proboscis	顎のある吻
+aloofness	よそよそしさ
+bright orange color	鮮やかなオレンジ色
+impressive teeth	見事な歯
+large eyes	大きな目
+graceful drifting	優雅な漂い
+adorable call	愛らしい鳴き声
+three toes	三本指
+backward-curving tusks	後ろに曲がった牙
+terrifying beaks	恐ろしいくちばし
+hairy heads	毛深い頭
+forked horns	二股の角
+long tongues	長い舌
+small trunk	小さな鼻
+shovel-like lower tusks	シャベル状の下牙
+gigantic eye teeth	巨大な犬歯
+spots	斑点
+eyes	目
+terrifying features	恐ろしい容貌
+antics	おどけた仕草
+height	背の高さ
+attractive scale patterns	美しい鱗の模様
+haunting moos	物悲しい鳴き声
+howling	遠吠え
+sideways walk	横歩き
+unnerving stare	不安をかき立てる凝視
+freakish wriggling	異様なうごめき
+tail club	尾の棍棒
+armored carapace	装甲のような甲羅
+eye horns	目の上の角
+thumb spikes	親指のスパイク
+single claws	一本の鉤爪
+flippers	ひれ足
+beaks	くちばし
+parenting	子育て
+dome	ドーム状の頭
+crest	とさか
+wingspan	翼開長
+wings	翼
+sail	帆
+three horns	三本の角
+jaws	顎
+tiny arms	小さな腕
+scything claws	鎌のような鉤爪
+nervous energy	落ち着きのなさ
+distinctive pupils	独特な瞳孔
+ability to change color	体色を変える能力
+single eye	一つ目
+grace	優雅さ
+broad heads	幅広い頭
+tilted walk	傾いた歩き方
+affinity for land	陸への親しみ
+loyalty	忠実さ
+terrible majesty	恐るべき威厳
+faceted eyes	複眼
+lustrous manes	艶やかなたてがみ
+manes	たてがみ
+egg-laying	卵を産むこと
+licks of fire	揺らめく炎
+rockiness	岩らしさ
+stern appearance	厳めしい外見
+flowing movement	流れるような動き
+peculiar smell	独特の匂い
+aggressive sparring	激しい争い
+amazing trunks	驚くべき鼻
+calves' spirited antics	子象の元気な仕草
+flappy ears	ぱたぱたする耳
+great weight	重量感
+self-awareness	自己認識
+social behavior	社会的行動
+tool use	道具の使用
+trumpeting	ラッパのような鳴き声
+uprooting of trees	木を根こそぎにする力
+large floppy noses	大きく垂れた鼻
+elegant horns	優美な角
+arguing heads	言い争う頭
+babylike giggles	赤子のような笑い声
+lacy wings	レースのような翅
+enchanting glow	魅惑的な光
+distinct snout	特徴的な鼻先
+protruding mouths	突き出た口
+fins	ひれ
+long bodies	長い体
+strange eyes	奇妙な目
+long noses	長い鼻
+lips	唇
+ability to tie themselves in knots	体を結ぶ能力
+notched fins	切れ込みのあるひれ
+massive schools	巨大な群れ
+rippling fin	波打つひれ
+suckers	吸盤
+gulping	空気を飲み込む仕草
+silvery bodies	銀色の体
+wide dorsal fins	幅広い背びれ
+distinct markings	特徴的な模様
+ability to inflate	膨らむ能力
+shape	形
+majesty	威厳
+back spines	背中のとげ
+unusual shape	変わった形
+flat bodies	平たい体
+tail spines	尾のとげ
+bony scutes	骨質の鱗板
+strange fins	奇妙なひれ
+sharp snout	鋭い吻
+spirit	気概
+finlets	小離鰭
+calming roundness	心安らぐ丸み
+warmth	温かさ
+freakish appearance	異様な外見
+ability to annoy	人を苛立たせる能力
+deafening buzz	耳をつんざく羽音
+cunning	狡猾さ
+somewhat great size	それなりの大きさ
+awesome presence	圧倒的な存在感
+big fluffy faces	大きくふわふわした顔
+large stripes, of course	もちろん大きな縞模様
+beautiful songs	美しい歌声
+white head rings	頭の白い輪
+loud calls	大きな鳴き声
+ability to swing through the trees	木々を渡る能力
+mask-like facial coloration	仮面のような顔の模様
+pulsating lumpy bodies	脈打つでこぼこの体
+thirst for blood	血への渇望
+ability to hold liquor	酒への強さ
+eating habits	食習慣
+surefootedness	確かな足取り
+beards	ひげ
+long horns	長い角
+helpful guidance	親切な導き
+impressive tusks	見事な牙
+stimulating conversation	刺激的な会話
+chirping	鳴き声
+great leaps	大跳躍
+vocalizations	鳴き声
+distinct mating call	独特な求愛の声
+slithering nature	這い回る性質
+weedy bodies	雑草のような体
+puffy cheeks	ふくらんだ頬
+fluffy tails	ふわふわの尾
+long ears	長い耳
+fearsome talons	恐ろしい鉤爪
+feathery wings	羽毛の翼
+adorable pups	愛らしい子供
+many spines	たくさんのとげ
+impressive heads	見事な頭
+fearlessness	恐れ知らず
+ability to organize	組織力
+busy nature	働き者の性質
+buzzing	羽音
+strength	力強さ
+ability to hide in sand	砂に隠れる能力
+stature	体格
+seven heads	七つの頭
+coordinated hunting	連携した狩り
+distinctive laugh	独特な笑い声
+head bobs	首振り
+mighty leaps	力強い跳躍
+frightening beaks	恐ろしいくちばし
+resourceful nature	機転の利く性質
+graceful movement	優雅な動き
+head crests	頭のとさか
+elongated snout	長い吻
+round heads	丸い頭
+menacing spikes	威圧的なスパイク
+scuttling	ちょこちょこ走る動き
+graceful flight	優雅な飛行
+ferocious jaws	獰猛な顎
+back plates	背中の骨板
+tail spikes	尾のスパイク
+ferocious bite	獰猛な噛みつき
+short arms	短い腕
+habit of eating other snakes	他の蛇を食べる習性
+charming hood	魅力的なフード
+adorable appearance	愛らしい姿
+feeding habits	食習慣
+spotted coats	斑点模様の毛皮
+fierce nature	獰猛な性質
+roars	咆哮
+jutting teeth	突き出た歯
+ability to infest	寄生する能力
+comforting whirs	心地よい唸り
+chittering	キーキーという鳴き声
+colorful faces	色鮮やかな顔
+grasping legs	獲物をつかむ脚
+predatory nature	捕食者の性質
+whistles	口笛のような鳴き声
+round tummies	丸いお腹
+wrinkly skin	しわしわの肌
+noses	鼻
+agility	敏捷さ
+striking coloration	印象的な色彩
+broad antlers	幅広い角
+ability to feast on blood	血を吸う能力
+high-pitched buzz	甲高い羽音
+stubborness	頑固さ
+many tentacles	たくさんの触手
+ability to suck blood	血を吸う能力
+bat wings	コウモリの翼
+fangs	牙
+jackal heads	ジャッカルの頭
+long tails	長い尾
+needle-like horns	針のような角
+tightly-stretched skin	ぴんと張った皮膚
+coat patterns	毛皮の模様
+many arms	たくさんの腕
+low howls	低い遠吠え
+ability to play dead	死んだふりをする能力
+colorful hair	色鮮やかな毛
+long arms	長い腕
+great jumps	大ジャンプ
+bold head sclerites	大胆な頭部の硬皮
+big fluffy heads and bellies	大きくふわふわした頭とお腹
+lazy nature	怠惰な性質
+gigantic fluffy heads and bellies	巨大でふわふわした頭とお腹
+overlapping scales	重なり合う鱗
+stout bodies	ずんぐりした体
+wedge-shaped heads	くさび形の頭
+tooth whorl	渦巻き状の歯
+two teeth	二本の牙
+sense of smell	嗅覚
+snorts	鼻息
+intricate aerial dances	複雑な空中の舞
+shifting colors	移ろう色
+flat tails	平たい尾
+large bills	大きなくちばし
+venomous spurs	毒の蹴爪
+bizarre appearance	奇妙な姿
+similarity with food	食べ物に似ているところ
+quills	針
+ears	耳
+ability to burrow	穴を掘る能力
+mischief	いたずら好き
+friendliness	人懐っこさ
+warning rattle	警告の音
+diabolical hunger for the food of others	他者の食べ物への悪魔的な食欲
+insidious nature	狡猾な性質
+sinister nature	邪悪な性質
+large striped tails	大きな縞模様の尾
+large herds	大きな群れ
+fluffy faces	ふわふわの顔
+playfulness	遊び好き
+ability to disgust	嫌悪感を催させる能力
+enormous tails	巨大な尾
+reclusive nature	人目を避ける性質
+woolly legs	毛深い脚
+simple tool use	簡単な道具の使用
+horrifying freakish appearance	恐ろしく異様な姿
+impressive tails	見事な尾
+ability to conceal themselves	身を隠す能力
+giant open mouths	巨大に開いた口
+aggressive nature	攻撃的な性質
+frilled gill slits	ひだ状のえら穴
+needle teeth	針のような歯
+ability to make one afraid to go into the water	水に入るのを怖がらせる力
+oddly-shaped heads	奇妙な形の頭
+speed	速さ
+tenacity	粘り強さ
+distinctive dorsal fin	特徴的な背びれ
+dorsal spines	背びれのとげ
+stripes	縞模様
+gentle nature	穏やかな性質
+tendency to flock	群れる習性
+colorful tongues	色鮮やかな舌
+distinctive striping	特徴的な縞模様
+foul smell	悪臭
+slow movement	ゆっくりした動き
+slime trails	粘液の跡
+powerful bites	強力な噛みつき
+dust baths	砂浴び
+lovely songs	美しいさえずり
+vengeful nature	執念深さ
+venomous bite	毒のある噛みつき
+mystery	神秘性
+ability to leap	跳躍力
+striking appearance	印象的な姿
+long limbs	長い手足
+prehensile tails	巻きつく尾
+creepiness	不気味さ
+translucence	半透明さ
+squishy texture	ぷにぷにした感触
+ability to spray ink	墨を吐く能力
+gliding	滑空
+tails	尾
+ability to take down large prey	大きな獲物を仕留める能力
+graceful leaps	優雅な跳躍
+resounding hoots	響き渡る鳴き声
+three eyes	三つの目
+toothy maw	歯だらけの口
+floppy noses	垂れた鼻
+ability to devour wood	木を食い尽くす能力
+industrious nature	勤勉な性質
+prolific breeding	旺盛な繁殖力
+ability to expand	膨張する能力
+stripes, of course	もちろん縞模様
+beauty	美しさ
+giant second foredigit claws	巨大な前肢第二指の爪
+flatness	平たさ
+lively nature	活発な性質
+double carapace	二重の甲羅
+grunts	うなり声
+scary mouths	恐ろしい口
+tusks	牙
+whiskers	ひげ
+stumble bumbling	よたよた歩き
+warm heart	温かい心
+short tempers	短気さ
+water wallowing	水浴び
+short legs	短い脚
+ferocious charges	猛烈な突進
+piercing howls	鋭い遠吠え
+waddle	よちよち歩き
+wriggling	うごめき
+crackles and pops	パチパチという音
+knobs and angles	こぶと角張り
+shaggy hair	もじゃもじゃの毛
+white fur	白い毛皮
+thorns	とげ
+catkins	尾状花序
+sprouts	新芽
+yummy hearts	おいしい芯
+flying keys	舞う翼果
+delicious shoots	おいしい若芽
+edible nuts	食べられる実
+waxy berries	ろう質の実
+edible roots	食べられる根
+precise thorns	精緻なとげ
+vivid red color	鮮やかな赤色
+inner light	内なる光
+silver bark	銀色の樹皮
+taste	味
+gloomy appeal	陰鬱な魅力
+sickening appearance	気分の悪くなる姿
+shrouded history	謎に包まれた歴史
+gray leaves	灰色の葉
+buds and berries	つぼみと実
+fruit and nuts	果実と木の実
+roots	根
+blossoms	花
+smelly catkins	臭う尾状花序
+spiny pods	とげのある殻
+yummy cherries	おいしい実
+fragrant fruit	香り高い果実
+leaf coloration	葉の色
+feathery leaves	羽のような葉
+fine grain	きめ細かな木目
+cloves	鱗片
+living shadows	生きた影
+stunning color	見事な色
+sweeping stalks	なびく茎
+twisting stalks	ねじれた茎
+stalks	茎
+soothing fragrance	心安らぐ香り
+tiny leaves	小さな葉
+magnificence	壮大さ
+fibrous stems	繊維質の茎
+buttresses	板根
+lens-shaped seeds	レンズ形の種
+tubers	塊茎
+nuts	木の実
+loose inflorescences	まばらな花序
+popped kernels	はじけた粒
+sweet-smelling flowers	甘い香りの花
+soothing color	心安らぐ色
+rounded tops	丸い傘
+coldness to the touch	ひんやりした手触り
+autumn coloration	紅葉
+oil-giving fruit	油の採れる実
+bulbs	球根
+nut-filled pots	実の詰まった壺
+striking color	印象的な色
+cones	球果
+needles	針葉
+round shape	丸い形
+edible tubers	食べられる塊茎
+useful stems	役に立つ茎
+precise lines	整った線
+grain	穀粒
+fuzzy projections	毛羽立った突起
+twisting shape	ねじれた形
+branch shedding	落枝
+amazing arms	見事な腕
+beer	ビール
+wicked thorns	邪悪なとげ
+raining spores	降り注ぐ胞子
+stout shape	ずんぐりした形
+curving trunk	曲がった幹
+length	長さ
+stiff, triangular leaves	硬い三角形の葉
+hanging leaves	垂れ下がる葉
+fluffy catkins	ふわふわの尾状花序
+sad appearance	悲しげな姿
+make acacia bark dye	アカシアの樹皮染料を作る
+make adamantine wafers	アダマンタインの薄板を作る
+make alder bark dye	ハンノキの樹皮染料を作る
+make alder cone dye	ハンノキの球果染料を作る
+make almond shell dye	アーモンドの殻の染料を作る
+make apple bark dye	リンゴの樹皮染料を作る
+make apple leaf dye	リンゴの葉の染料を作る
+make apricot bark dye	アンズの樹皮染料を作る
+make ash bark dye	トネリコの樹皮染料を作る
+assemble stone axe	石斧を組み立てる
+make avocado skin dye	アボカドの皮の染料を作る
+make banana leaf dye	バナナの葉の染料を作る
+make banana peel dye	バナナの皮の染料を作る
+make bayberry dye	ヤマモモ染料を作る
+make bayberry leaf dye	ヤマモモの葉の染料を作る
+make bilberry dye	ビルベリー染料を作る
+make billon bars (use ore)	ビロンの延べ棒を作る（鉱石使用）
+make billon bars (use bars)	ビロンの延べ棒を作る（延べ棒使用）
+bind book	本を製本する
+make birch bark dye	カバノキの樹皮染料を作る
+make bismuth bronze bars	ビスマス青銅の延べ棒を作る
+make coke from bituminous coal	瀝青炭からコークスを作る
+make blackberry dye	ブラックベリー染料を作る
+make black bronze bars	黒青銅の延べ棒を作る
+make blueberry dye	ブルーベリー染料を作る
+make brass bars (use ore)	真鍮の延べ棒を作る（鉱石使用）
+make brass bars (use bars)	真鍮の延べ棒を作る（延べ棒使用）
+brew drink from plant	植物から酒を醸造する
+brew drink from fruit	果実から酒を醸造する
+make bronze bars (use ore)	青銅の延べ棒を作る（鉱石使用）
+make bronze bars (use bars)	青銅の延べ棒を作る（延べ棒使用）
+make cabbage leaf dye	キャベツの葉の染料を作る
+carve bone amulet	骨の護符を彫る
+carve bone bracelet	骨の腕輪を彫る
+carve bone crown	骨の冠を彫る
+carve bone earring	骨の耳飾りを彫る
+carve bone figurine	骨の小像を彫る
+carve bone cabochon	骨のカボションを彫る
+carve bone ring	骨の指輪を彫る
+carve bone scepter	骨の笏を彫る
+carve wooden helve from branch	枝から木製の柄を彫る
+make cherry bark dye	桜の樹皮染料を作る
+make cherry leaf dye	桜の葉の染料を作る
+make chestnut bark dye	栗の樹皮染料を作る
+make chestnut hull dye	栗の殻の染料を作る
+make chestnut leaf dye	栗の葉の染料を作る
+make coffee bean dye	コーヒー豆染料を作る
+make cranberry dye	クランベリー染料を作る
+make eggplant dye	ナス染料を作る
+make electrum bars (use ore)	エレクトラムの延べ棒を作る（鉱石使用）
+make electrum bars (use bars)	エレクトラムの延べ棒を作る（延べ棒使用）
+make ginkgo leaf dye	イチョウの葉の染料を作る
+glaze clay/stone craft	粘土/石の工芸品に釉薬をかける
+glaze clay/stone jug	粘土/石の水差しに釉薬をかける
+glaze large clay/stone pot	粘土/石の大壺に釉薬をかける
+glaze clay/stone statue	粘土/石の彫像に釉薬をかける
+make grape dye	ブドウ染料を作る
+make guava bark dye	グアバの樹皮染料を作る
+make guava leaf dye	グアバの葉の染料を作る
+make hazel bark dye	ハシバミの樹皮染料を作る
+make hazel leaf dye	ハシバミの葉の染料を作る
+make larch bark dye	カラマツの樹皮染料を作る
+make coke from lignite	褐炭からコークスを作る
+make mahogany bark dye	マホガニーの樹皮染料を作る
+make wooden barrel	木製の樽を作る
+make wooden bed	木製のベッドを作る
+make wooden bin	木製の収納箱を作る
+make wooden bookcase	木製の本棚を作る
+make wooden bucket	木製のバケツを作る
+make wooden buckler	木製のバックラーを作る
+make wooden cabinet	木製のキャビネットを作る
+make wooden casket	木製の棺を作る
+make wooden chair	木製の椅子を作る
+make wooden chest	木製の箱を作る
+make wooden crutch	木製の松葉杖を作る
+make display case	陳列ケースを作る
+make wooden door	木製の扉を作る
+make wooden grate	木製の格子を作る
+make wooden hatch cover	木製のハッチを作る
+make wooden pedestal	木製の台座を作る
+make wooden shield	木製の盾を作る
+make wooden splint	木製の添え木を作る
+make wooden stepladder	木製の脚立を作る
+make wooden table	木製のテーブルを作る
+make wooden training axe	木製の訓練用斧を作る
+make wooden training short sword	木製の訓練用短剣を作る
+make wooden training spear	木製の訓練用槍を作る
+make clay bricks	粘土のレンガを作る
+make clay crafts	粘土の工芸品を作る
+make clay hive	粘土の巣箱を作る
+make clay jug	粘土の水差しを作る
+make clay statue	粘土の彫像を作る
+make large clay pot	粘土の大壺を作る
+make mead	蜂蜜酒を作る
+make milk of lime	石灰乳を作る
+make parchment	羊皮紙を作る
+make pearlash	真珠灰を作る
+make plaster powder	石膏粉を作る
+make quicklime	生石灰を作る
+make quire	帳面を作る
+make scroll	巻物を作る
+make sharp rock	鋭い石を作る
+make sheet from plant	植物から紙を作る
+mash plant into slurry	植物をすり潰してパルプにする
+make soap from oil	油から石鹸を作る
+make soap from tallow	獣脂から石鹸を作る
+make wax crafts	蝋の工芸品を作る
+make mangrove bark dye	マングローブの樹皮染料を作る
+make mangrove leaf dye	マングローブの葉の染料を作る
+make maple bark dye	カエデの樹皮染料を作る
+mill seeds/nuts to paste	種/木の実を挽いてペーストにする
+make nickel silver bars	洋銀の延べ棒を作る
+make oak bark dye	オークの樹皮染料を作る
+make olive bark dye	オリーブの樹皮染料を作る
+make olive leaf dye	オリーブの葉の染料を作る
+make onion skin dye	タマネギの皮の染料を作る
+make peach bark dye	桃の樹皮染料を作る
+make peanut shell dye	落花生の殻の染料を作る
+make pear bark dye	洋梨の樹皮染料を作る
+make pear leaf dye	洋梨の葉の染料を作る
+make persimmon dye	柿渋を作る
+make fine pewter bars (use ore)	上質ピューターの延べ棒を作る（鉱石使用）
+make fine pewter bars (use bars)	上質ピューターの延べ棒を作る（延べ棒使用）
+make lay pewter bars (use bars)	並ピューターの延べ棒を作る（延べ棒使用）
+make trifle pewter bars (use ore)	トライフルピューターの延べ棒を作る（鉱石使用）
+make trifle pewter bars (use bars)	トライフルピューターの延べ棒を作る（延べ棒使用）
+make pig iron bars	銑鉄の延べ棒を作る
+make pineapple leaf dye	パイナップルの葉の染料を作る
+make pine bark dye	松の樹皮染料を作る
+make plum bark dye	スモモの樹皮染料を作る
+make pomegranate bark dye	ザクロの樹皮染料を作る
+make pomegranate leaf dye	ザクロの葉の染料を作る
+make pomegranate rind dye	ザクロの果皮染料を作る
+make potato skin dye	ジャガイモの皮の染料を作る
+press honey from honeycomb	蜂の巣から蜂蜜を搾る
+press liquid from paste	ペーストから液体を搾る
+press liquid from fruit	果実から液体を搾る
+press plant slurry into paper sheet	植物パルプを紙に圧搾する
+process plant to bag	植物を加工して袋に詰める
+make radish dye	ラディッシュ染料を作る
+make raspberry dye	ラズベリー染料を作る
+make red spinach leaf dye	ヒユナの葉の染料を作る
+render fat	脂肪を精製する
+make rhubarb leaf dye	ルバーブの葉の染料を作る
+make rice husk dye	もみ殻染料を作る
+make rose gold bars	ローズゴールドの延べ棒を作る
+make sorghum leaf dye	モロコシの葉の染料を作る
+make spinach leaf dye	ホウレンソウの葉の染料を作る
+make steel bars	鋼の延べ棒を作る
+make sterling silver bars	スターリングシルバーの延べ棒を作る
+make sweet potato skin dye	サツマイモの皮の染料を作る
+tan a hide	皮をなめす
+make tea leaf dye	茶葉染料を作る
+make tomato skin dye	トマトの皮の染料を作る
+make turnip skin dye	カブの皮の染料を作る
+make watermelon dye	スイカ染料を作る
+make carrot dye	ニンジン染料を作る
+make willow bark dye	ヤナギの樹皮染料を作る
+make willow leaf dye	ヤナギの葉の染料を作る
+baguette cut	バゲットカット
+briolette cut	ブリオレットカット
+circle	円
+cloud	雲
+narrow	細い
+thick	太い
+crescent	三日月
+broad	幅広の
+cross	十字
+tall	縦長の
+thin	細身の
+cushion	クッション
+cushion cut	クッションカット
+diamond	ひし形
+emerald cut	エメラルドカット
+gizzard stone	胃石
+four-sided long	四面の細長い
+four-sided prism	四角柱
+six-sided long	六面の細長い
+six-sided prism	六角柱
+eight-sided long	八面の細長い
+eight-sided prism	八角柱
+marquise cut	マーキスカット
+full	満ちた
+half	半分の
+hidden	隠れた
+moon	月
+mountain	山
+octagon cut	オクタゴンカット
+oval	楕円
+cabochon	カボション
+oval cut	オーバルカット
+pear cut	ペアシェイプカット
+cube	立方体
+cubic	立方体の
+dodecahedra	十二面体
+dodecahedral	十二面体の
+dodecahedron	十二面体
+icosahedra	二十面体
+icosahedral	二十面体の
+icosahedron	二十面体
+octahedra	八面体
+octahedral	八面体の
+octahedron	八面体
+tetrahedra	四面体
+tetrahedral	四面体の
+tetrahedron	四面体
+point cut	ポイントカット
+gem	宝石
+radiant cut	ラディアントカット
+rectangular	長方形
+rose cut	ローズカット
+round brilliant cut	ラウンドブリリアントカット
+round	丸形
+single cut	シングルカット
+pebble	小石
+smooth	滑らかな
+square	正方形
+square brilliant cut	スクエアブリリアントカット
+square cut	スクエアカット
+five-pointed	五芒の
+four-pointed	四芒の
+many-pointed	多芒の
+star	星
+three-pointed	三芒の
+blazing	燃え盛る
+shining	輝く
+sun	太陽
+table cut	テーブルカット
+tapered baguette cut	テーパードバゲットカット
+trillion cut	トリリアントカット
+wave	波
+arrow bamboo	ヤダケ
+bentgrass	ベントグラス
+blue sedge	ブルーセッジ
+carpetgrass	カーペットグラス
+cave moss	洞窟苔
+cottongrass	ワタスゲ
+dallisgrass	ダリスグラス
+dog's tooth grass	ギョウギシバ
+downy grass	ダウニーグラス
+dropseed grass	ドロップシード
+fescue grass	フェスク
+field sedge	フィールドセッジ
+golden bamboo	ホテイチク
+grama	グラマ
+hair grass	ヘアグラス
+hedge bamboo	ホウライチク
+knotgrass	ミチヤナギ
+meadow-grass	イチゴツナギ
+meadowsweet	セイヨウナツユキソウ
+mountain avens	チョウノスケソウ
+needle grass	ニードルグラス
+purple moor grass	ヌマガヤ
+reedgrass	ノガリヤス
+ryegrass	ライグラス
+satintail	チガヤ
+sawgrass	ヒトモトススキ
+underlichen	地下地衣類
+velvet grass	シラゲガヤ
+white mountain heather	イワヒゲ
+zoysia	シバ

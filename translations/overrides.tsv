@@ -1,0 +1,1300 @@
+# 手で直した訳（英語<TAB>日本語）。ここが最優先されます
+Continue active game	ゲームを続ける
+Start new game in existing world	既存の世界で新しいゲームを始める
+Create new world	新しい世界を創造
+Settings	設定
+About DF	DFについて
+Quit	終了
+Mods	MOD
+# Wikiの訳語に揃えたときに不自然になった文の手直し
+Fell into a deep chasm	深淵に落ちた
+Make potash from ash	灰から肥料を作る
+Stunned	気絶
+You are stunned.	あなたは気絶しています。
+No longer stunned	もう気絶していない
+
+# 実機確認（2026-11-12）で見つけた不自然な訳・数字入りの文字列
+Detect	自動検出
+Drink	飲み物
+%d years	%d年
+%d year	%d年
+Year %d	%d年
+Camera controls (%d of %d)	カメラ操作（%d/%d）
+Hotkey: 	ホットキー: 
+Offloading units... 	荷物を降ろしています... 
+To recenter, press 	視点の移動は 
+To recenter	視点の移動は
+ or hold+drag the middle mouse button.	 キー、または中ボタンを押したままドラッグ。
+Early Spring	初春
+Mid Spring	仲春
+Late Spring	晩春
+Early Summer	初夏
+Mid Summer	仲夏
+Late Summer	晩夏
+Early Autumn	初秋
+Mid Autumn	仲秋
+Late Autumn	晩秋
+Early Winter	初冬
+Mid Winter	仲冬
+Late Winter	晩冬
+%dst Granite	花崗岩の月%d日
+%dnd Granite	花崗岩の月%d日
+%drd Granite	花崗岩の月%d日
+%dth Granite	花崗岩の月%d日
+%dst Slate	粘板岩の月%d日
+%dnd Slate	粘板岩の月%d日
+%drd Slate	粘板岩の月%d日
+%dth Slate	粘板岩の月%d日
+%dst Felsite	珪長岩の月%d日
+%dnd Felsite	珪長岩の月%d日
+%drd Felsite	珪長岩の月%d日
+%dth Felsite	珪長岩の月%d日
+%dst Hematite	赤鉄鉱の月%d日
+%dnd Hematite	赤鉄鉱の月%d日
+%drd Hematite	赤鉄鉱の月%d日
+%dth Hematite	赤鉄鉱の月%d日
+%dst Malachite	孔雀石の月%d日
+%dnd Malachite	孔雀石の月%d日
+%drd Malachite	孔雀石の月%d日
+%dth Malachite	孔雀石の月%d日
+%dst Galena	方鉛鉱の月%d日
+%dnd Galena	方鉛鉱の月%d日
+%drd Galena	方鉛鉱の月%d日
+%dth Galena	方鉛鉱の月%d日
+%dst Limestone	石灰岩の月%d日
+%dnd Limestone	石灰岩の月%d日
+%drd Limestone	石灰岩の月%d日
+%dth Limestone	石灰岩の月%d日
+%dst Sandstone	砂岩の月%d日
+%dnd Sandstone	砂岩の月%d日
+%drd Sandstone	砂岩の月%d日
+%dth Sandstone	砂岩の月%d日
+%dst Timber	材木の月%d日
+%dnd Timber	材木の月%d日
+%drd Timber	材木の月%d日
+%dth Timber	材木の月%d日
+%dst Moonstone	月長石の月%d日
+%dnd Moonstone	月長石の月%d日
+%drd Moonstone	月長石の月%d日
+%dth Moonstone	月長石の月%d日
+%dst Opal	オパールの月%d日
+%dnd Opal	オパールの月%d日
+%drd Opal	オパールの月%d日
+%dth Opal	オパールの月%d日
+%dst Obsidian	黒曜石の月%d日
+%dnd Obsidian	黒曜石の月%d日
+%drd Obsidian	黒曜石の月%d日
+%dth Obsidian	黒曜石の月%d日
+Temperature: 	気温: 
+Trees: 	木: 
+Other Vegetation: 	その他の植生: 
+Surroundings: 	周辺: 
+Some dozens	数十
+a few hundred	数百
+Loading object files...  	オブジェクトファイルを読み込み中...  
+Preparing graphics...  	グラフィックを準備中...  
+Creating 	生成中: 
+ rejected)	 件却下)
+, year %d	、%d年
+Historical figures: 	歴史上の人物: 
+   Events: 	   出来事: 
+A pile of snow	雪の山
+%d Years Old	%d歳
+Squad: 	小隊: 
+Pacifier	なだめ役
+Strand Extractor	繊維抽出者
+the depths of the world	世界の深淵
+depths of the world	世界の深淵
+Related Entities	関連する組織
+World: 	世界: 
+Folder: 	フォルダ: 
+Last played	最終プレイ
+cave	洞窟
+Unmet need: 	満たされない欲求: 
+Unmet needs: 	満たされない欲求: 
+Your citizens will build, mine, craft, trade, fight, and manage as you guide your outpost through its history.  Design the shape and purpose of the fortress by issuing orders for the residents to follow.	住民たちは、あなたの導きのもとで建設、採掘、工芸、交易、戦闘、運営を行い、前哨地の歴史を紡いでいきます。住民に命令を出して、要塞の形と目的を決めましょう。
+You can play a sequence of fortresses and adventurers in the same world.  Migrants from retired and abandoned fortresses may come to visit, along with any surviving adventurers.	同じ世界で、要塞と冒険者を続けて遊べます。引退した要塞や放棄された要塞からは、生き残った冒険者とともに移民が訪れることがあります。
+You can play a sequence of fortresses and adventurers in the same world.  Uncover locations and artifacts for the benefit of your future fortresses.	同じ世界で、要塞と冒険者を続けて遊べます。場所やアーティファクトを見つけて、これからの要塞に役立てましょう。
+Mid-Spring	仲春
+Mid-Summer	仲夏
+Mid-Autumn	仲秋
+Mid-Winter	仲冬
+some dozens	数十
+Follow destiny or strike out on your own.  Explore, quest, fight, and perform.  Visit your own retired and ruined settlements.  Serve a deity or become a creature of the night.	運命に従うも、自らの道を切り開くも自由です。探検し、クエストをこなし、戦い、芸を披露しましょう。自分が引退させた拠点や廃墟を訪れることもできます。神に仕えることも、夜の怪物になることもできます。
+brush	低木地
+jungle	ジャングル
+Related Sites	関連する拠点
+Related Historical Figures	関連する歴史上の人物
+brush titan	低木地のタイタン
+forest titan	森のタイタン
+mountain titan	山のタイタン
+swamp titan	沼のタイタン
+marsh titan	湿地のタイタン
+lake titan	湖のタイタン
+ocean titan	海のタイタン
+grassland titan	草原のタイタン
+savanna titan	サバンナのタイタン
+shrubland titan	低木地帯のタイタン
+tundra titan	ツンドラのタイタン
+desert titan	砂漠のタイタン
+glacier titan	氷河のタイタン
+jungle titan	ジャングルのタイタン
+wetland titan	湿地のタイタン
+hills titan	丘陵のタイタン
+badlands titan	荒れ地のタイタン
+river titan	川のタイタン
+cave titan	洞窟のタイタン
+steppe titan	ステップのタイタン
+prairie titan	プレーリーのタイタン
+meadow titan	牧草地のタイタン
+bog titan	沼地のタイタン
+fen titan	湿原のタイタン
+moor titan	荒野のタイタン
+tropical titan	熱帯のタイタン
+temperate titan	温帯のタイタン
+mangrove titan	マングローブのタイタン
+a foot race	徒競走
+foot race	徒競走
+a flying race	飛行競争
+a dance competition	ダンス競技
+a gladiatory competition	剣闘競技
+a music competition	音楽競技
+a poetry competition	詩の競技
+a wrestling competition	レスリング競技
+a ceremony	式典
+a procession	行列
+criers in front	先触れ
+incense burning	香焚き
+acrobats	軽業師
+costumes	衣装
+banners	旗
+images	像
+moon creature	月の生き物
+Delete	削除
+One save	セーブ1件
+%d saves	セーブ%d件
+Fisherdwarves	漁師
+VACANT	空席
+NEW	新規
+A manager is required to coordinate	作業指示の調整には
+Beware!	用心せよ！
+dwarven hillocks	ドワーフの小丘
+dwarven fortress	ドワーフの要塞
+dwarven mountain halls	ドワーフの山の広間
+dwarven town	ドワーフの町
+dwarven hamlet	ドワーフの小村
+dwarven forest retreat	ドワーフの森林の隠れ家
+dwarven dark fortress	ドワーフの暗黒の要塞
+dwarven dark pits	ドワーフの暗黒の穴
+dwarven castle	ドワーフの城
+dwarven monastery	ドワーフの修道院
+dwarven tower	ドワーフの塔
+dwarven cave	ドワーフの洞窟
+dwarven camp	ドワーフの野営地
+dwarven vault	ドワーフの宝物庫
+dwarven lair	ドワーフの巣穴
+human hillocks	人間の小丘
+human fortress	人間の要塞
+human mountain halls	人間の山の広間
+human town	人間の町
+human hamlet	人間の小村
+human forest retreat	人間の森林の隠れ家
+human dark fortress	人間の暗黒の要塞
+human dark pits	人間の暗黒の穴
+human castle	人間の城
+human monastery	人間の修道院
+human tower	人間の塔
+human cave	人間の洞窟
+human camp	人間の野営地
+human vault	人間の宝物庫
+human lair	人間の巣穴
+elven hillocks	エルフの小丘
+elven fortress	エルフの要塞
+elven mountain halls	エルフの山の広間
+elven town	エルフの町
+elven hamlet	エルフの小村
+elven forest retreat	エルフの森林の隠れ家
+elven dark fortress	エルフの暗黒の要塞
+elven dark pits	エルフの暗黒の穴
+elven castle	エルフの城
+elven monastery	エルフの修道院
+elven tower	エルフの塔
+elven cave	エルフの洞窟
+elven camp	エルフの野営地
+elven vault	エルフの宝物庫
+elven lair	エルフの巣穴
+goblin hillocks	ゴブリンの小丘
+goblin fortress	ゴブリンの要塞
+goblin mountain halls	ゴブリンの山の広間
+goblin town	ゴブリンの町
+goblin hamlet	ゴブリンの小村
+goblin forest retreat	ゴブリンの森林の隠れ家
+goblin dark fortress	ゴブリンの暗黒の要塞
+goblin dark pits	ゴブリンの暗黒の穴
+goblin castle	ゴブリンの城
+goblin monastery	ゴブリンの修道院
+goblin tower	ゴブリンの塔
+goblin cave	ゴブリンの洞窟
+goblin camp	ゴブリンの野営地
+goblin vault	ゴブリンの宝物庫
+goblin lair	ゴブリンの巣穴
+kobold hillocks	コボルドの小丘
+kobold fortress	コボルドの要塞
+kobold mountain halls	コボルドの山の広間
+kobold town	コボルドの町
+kobold hamlet	コボルドの小村
+kobold forest retreat	コボルドの森林の隠れ家
+kobold dark fortress	コボルドの暗黒の要塞
+kobold dark pits	コボルドの暗黒の穴
+kobold castle	コボルドの城
+kobold monastery	コボルドの修道院
+kobold tower	コボルドの塔
+kobold cave	コボルドの洞窟
+kobold camp	コボルドの野営地
+kobold vault	コボルドの宝物庫
+kobold lair	コボルドの巣穴
+dark fortress	暗黒の要塞
+dark pits	暗黒の穴
+god	神
+goddess	女神
+Very low strength	筋力が非常に低い
+Below average strength	筋力が平均以下
+Above average strength	筋力が平均以上
+Very high strength	筋力が非常に高い
+Superior strength	筋力が卓越している
+Very low agility	敏捷性が非常に低い
+Below average agility	敏捷性が平均以下
+Above average agility	敏捷性が平均以上
+Very high agility	敏捷性が非常に高い
+Superior agility	敏捷性が卓越している
+Very low toughness	堅牢性が非常に低い
+Below average toughness	堅牢性が平均以下
+Above average toughness	堅牢性が平均以上
+Very high toughness	堅牢性が非常に高い
+Superior toughness	堅牢性が卓越している
+Very low endurance	持久力が非常に低い
+Below average endurance	持久力が平均以下
+Above average endurance	持久力が平均以上
+Very high endurance	持久力が非常に高い
+Superior endurance	持久力が卓越している
+Very low recuperation	回復力が非常に低い
+Below average recuperation	回復力が平均以下
+Above average recuperation	回復力が平均以上
+Very high recuperation	回復力が非常に高い
+Superior recuperation	回復力が卓越している
+Very low disease resistance	病気への抵抗力が非常に低い
+Below average disease resistance	病気への抵抗力が平均以下
+Above average disease resistance	病気への抵抗力が平均以上
+Very high disease resistance	病気への抵抗力が非常に高い
+Superior disease resistance	病気への抵抗力が卓越している
+Very low analytical ability	分析力が非常に低い
+Below average analytical ability	分析力が平均以下
+Above average analytical ability	分析力が平均以上
+Very high analytical ability	分析力が非常に高い
+Superior analytical ability	分析力が卓越している
+Very low focus	集中力が非常に低い
+Below average focus	集中力が平均以下
+Above average focus	集中力が平均以上
+Very high focus	集中力が非常に高い
+Superior focus	集中力が卓越している
+Very low willpower	意思の強さが非常に低い
+Below average willpower	意思の強さが平均以下
+Above average willpower	意思の強さが平均以上
+Very high willpower	意思の強さが非常に高い
+Superior willpower	意思の強さが卓越している
+Very low creativity	創造性が非常に低い
+Below average creativity	創造性が平均以下
+Above average creativity	創造性が平均以上
+Very high creativity	創造性が非常に高い
+Superior creativity	創造性が卓越している
+Very low intuition	直観が非常に低い
+Below average intuition	直観が平均以下
+Above average intuition	直観が平均以上
+Very high intuition	直観が非常に高い
+Superior intuition	直観が卓越している
+Very low patience	忍耐力が非常に低い
+Below average patience	忍耐力が平均以下
+Above average patience	忍耐力が平均以上
+Very high patience	忍耐力が非常に高い
+Superior patience	忍耐力が卓越している
+Very low memory	記憶力が非常に低い
+Below average memory	記憶力が平均以下
+Above average memory	記憶力が平均以上
+Very high memory	記憶力が非常に高い
+Superior memory	記憶力が卓越している
+Very low linguistic ability	言語力が非常に低い
+Below average linguistic ability	言語力が平均以下
+Above average linguistic ability	言語力が平均以上
+Very high linguistic ability	言語力が非常に高い
+Superior linguistic ability	言語力が卓越している
+Very low spatial sense	空間認識能力が非常に低い
+Below average spatial sense	空間認識能力が平均以下
+Above average spatial sense	空間認識能力が平均以上
+Very high spatial sense	空間認識能力が非常に高い
+Superior spatial sense	空間認識能力が卓越している
+Very low musicality	音楽性が非常に低い
+Below average musicality	音楽性が平均以下
+Above average musicality	音楽性が平均以上
+Very high musicality	音楽性が非常に高い
+Superior musicality	音楽性が卓越している
+Very low kinesthetic sense	運動感覚が非常に低い
+Below average kinesthetic sense	運動感覚が平均以下
+Above average kinesthetic sense	運動感覚が平均以上
+Very high kinesthetic sense	運動感覚が非常に高い
+Superior kinesthetic sense	運動感覚が卓越している
+Very low empathy	共感性が非常に低い
+Below average empathy	共感性が平均以下
+Above average empathy	共感性が平均以上
+Very high empathy	共感性が非常に高い
+Superior empathy	共感性が卓越している
+Very low social awareness	社会性が非常に低い
+Below average social awareness	社会性が平均以下
+Above average social awareness	社会性が平均以上
+Very high social awareness	社会性が非常に高い
+Superior social awareness	社会性が卓越している
+Marksdwarf	射手
+Macedwarf	メイス使い
+Speardwarf	槍使い
+Swordsdwarf	剣士
+Hammerdwarf	ハンマー使い
+Axedwarf	斧使い
+Marksman	射手
+Maceman	メイス使い
+Spearman	槍使い
+Swordsman	剣士
+Hammerman	ハンマー使い
+Axeman	斧使い
+Blank slate	白紙
+NE	北東
+NW	北西
+SE	南東
+SW	南西
+NNE	北北東
+ENE	東北東
+ESE	東南東
+SSE	南南東
+SSW	南南西
+WSW	西南西
+WNW	西北西
+NNW	北北西
+Path to here (no climbing/jumping)	ここまでの経路（登り・跳躍なし）
+Burden: 	負荷: 
+Centered on location	場所を中心に
+Hello.	こんにちは。
+Greetings.	ごきげんよう。
+Hi.	やあ。
+Hello!	こんにちは！
+Ah, hello.	ああ、こんにちは。
+Hey.	よう。
+Ah, greetings.	ああ、ごきげんよう。
+Set name	名前を設定
+Set origin	出自を設定
+%d pts	%d点
+ pts	点
+Easy strike	簡単な打撃
+Easier strike	より簡単な打撃
+Simple strike	容易な打撃
+Normal strike	通常の打撃
+Tricky strike	難しめの打撃
+Difficult strike	難しい打撃
+Impossible strike	不可能な打撃
+Easy shot	簡単な射撃
+Easier shot	より簡単な射撃
+Simple shot	容易な射撃
+Normal shot	通常の射撃
+Tricky shot	難しめの射撃
+Difficult shot	難しい射撃
+Impossible shot	不可能な射撃
+Easy throw	簡単な投擲
+Easier throw	より簡単な投擲
+Simple throw	容易な投擲
+Normal throw	通常の投擲
+Tricky throw	難しめの投擲
+Difficult throw	難しい投擲
+Impossible throw	不可能な投擲
+very square	真芯を捉える
+direct hit	直撃
+fairly solid	かなり確実
+can't land squarely	まともに当たらない
+can't quite connect	当たりが浅い
+can only graze	かすめるだけ
+Really start a conflict with 	本当に争いを始めますか？ 相手: 
+Really attack 	本当に攻撃しますか？ 相手: 
+ has yielded.  Attack anyway?	は降参した。それでも攻撃しますか？
+Really?	本当か？
+bruising the fat	脂肪に打撲
+left front paw	左前足
+right front paw	右前足
+left rear paw	左後足
+right rear paw	右後足
+left false ribs	左の偽肋
+right false ribs	右の偽肋
+stray dog	野良犬
+stray cat	野良猫
+stray horse	野良馬
+stray cow	野良雌牛
+stray pig	野良豚
+stray sheep	野良羊
+stray goat	野良ヤギ
+stray llama	野良ラマ
+stray alpaca	野良アルパカ
+stray donkey	野良ロバ
+stray mule	野良ラバ
+stray yak	野良ヤク
+stray water buffalo	野良水牛
+stray reindeer	野良トナカイ
+stray chicken	野良鶏
+stray duck	野良アヒル
+stray goose	野良ガチョウ
+stray turkey	野良七面鳥
+stray guineafowl	野良ホロホロチョウ
+stray rabbit	野良兎
+stray cavy	野良テンジクネズミ
+some of our kind	我らの仲間の何人か
+some of my kind	わしの仲間の何人か
+the surrounding area	このあたり
+a village nearby	近くの村
+just outside town	町のすぐ外
+right here	まさにここ
+this counting house	この勘定所
+I tire of this pointless skirmishing.	この無意味な小競り合いにはうんざりだ。
+We can no longer pay them homage.	もはや彼らに臣従することはできない。
+I wish I could tell you where to begin your search.	どこから探し始めればいいか教えられたらいいのだが。
+Until then, you are free to do as you please.	それまでは好きにしていい。
+In any case, peace is no longer an option.	いずれにせよ、もはや和平の道はない。
+The alliance has outlived its usefulness.	同盟はもう役目を終えた。
+Their tribute is not enough.	彼らの貢ぎ物では足りない。
+This war must end with our victory.	この戦争は我らの勝利で終わらねばならない。
+I'll show you calm!	落ち着きとやらを見せてやる！
+I will settle this my way.	わしのやり方でけりをつける。
+This conversation is over.	話は終わりだ。
+I cannot lay a quest on you.	あなたに使命を課すことはできない。
+All drinks are free, of course!	飲み物はもちろん全部ただだ！
+Stop!	止まれ！
+You have arrived.	到着した。
+I am not scared!	怖くなんかない！
+left floating ribs	左の浮遊肋
+right floating ribs	右の浮遊肋
+man of shadow	影の男
+woman of shadow	影の女
+No health problems	健康上の問題なし
+sees sincerity as a value worth upholding	誠実さを守るべき価値だと考える
+values craftsdwarfship	職人技を重んじる
+values craftsmanship	職人技を重んじる
+Desired grid width for scaling (default = 170)	拡大縮小に使うグリッド幅（既定値 170）
+Desired grid height for scaling (default = 64)	拡大縮小に使うグリッド高さ（既定値 64）
+Interface scaling percentage if not fitting width	幅に合わないときのインターフェース拡大率
+Walking spreads spatter (fort mode)	歩くと飛沫が広がる（要塞モード）
+UI Volume (Fortress): 	UI音の音量（要塞）: 
+UI Volume (Adventure): 	UI音の音量（冒険）: 
+Skills (%d)	スキル (%d)
+skill picks left	個のスキルを選べます
+Nearest site: 	最寄りの拠点: 
+Hunting dog	猟犬
+War dog	軍用犬
+hunting dogs	猟犬
+war dogs	軍用犬
+%d points remain!	ポイントが%d残っています！
+%d unpicked skills!	スキルが%d個未選択です！
+Animal traps	動物用の罠
+Ballista arrow heads	バリスタの矢尻
+Ballista parts	バリスタの部品
+Bolt thrower parts	ボルト射出機の部品
+(Active)	（有効）
+Click in the play area	プレイエリア内をクリックして
+to paint the stockpile.	備蓄庫を指定します。
+to paint the zone.	ゾーンを指定します。
+to paint the burrow.	区画を指定します。
+to create a squad.	（小隊の作成に必要）
+Missing citizens	行方不明の住民
+acorns	どんぐり
+chestnuts	栗
+crests	冠羽
+feathers	羽
+flowers	花
+horns	角
+humps	こぶ
+leaves	葉
+pods	さや
+pouches	育児嚢
+sails	帆
+snouts	鼻面
+spines	とげ
+he	彼
+she	彼女
+they	彼ら
+him	彼
+her	彼女
+them	彼ら
+# 世界生成で作られる治癒の素材の名前（vanilla_procedural/scripts/generators/materials.lua の mythical_healing_*）
+curious liquid	奇妙な液体
+curious fluid	奇妙な流体
+curious broth	奇妙なスープ
+curious juice	奇妙な汁
+curious goo	奇妙なねばねば
+curious liquor	奇妙な酒
+curious solution	奇妙な溶液
+curious jelly	奇妙なゼリー
+curious pulp	奇妙な果肉
+curious wax	奇妙なロウ
+curious jam	奇妙なジャム
+curious dough	奇妙な生地
+weird liquid	異様な液体
+weird fluid	異様な流体
+weird broth	異様なスープ
+weird juice	異様な汁
+weird goo	異様なねばねば
+weird liquor	異様な酒
+weird solution	異様な溶液
+weird jelly	異様なゼリー
+weird pulp	異様な果肉
+weird wax	異様なロウ
+weird jam	異様なジャム
+weird dough	異様な生地
+odd liquid	妙な液体
+odd fluid	妙な流体
+odd broth	妙なスープ
+odd juice	妙な汁
+odd goo	妙なねばねば
+odd liquor	妙な酒
+odd solution	妙な溶液
+odd jelly	妙なゼリー
+odd pulp	妙な果肉
+odd wax	妙なロウ
+odd jam	妙なジャム
+odd dough	妙な生地
+strange liquid	不思議な液体
+strange fluid	不思議な流体
+strange broth	不思議なスープ
+strange juice	不思議な汁
+strange goo	不思議なねばねば
+strange liquor	不思議な酒
+strange solution	不思議な溶液
+strange jelly	不思議なゼリー
+strange pulp	不思議な果肉
+strange wax	不思議なロウ
+strange jam	不思議なジャム
+strange dough	不思議な生地
+unusual liquid	珍しい液体
+unusual fluid	珍しい流体
+unusual broth	珍しいスープ
+unusual juice	珍しい汁
+unusual goo	珍しいねばねば
+unusual liquor	珍しい酒
+unusual solution	珍しい溶液
+unusual jelly	珍しいゼリー
+unusual pulp	珍しい果肉
+unusual wax	珍しいロウ
+unusual jam	珍しいジャム
+unusual dough	珍しい生地
+peculiar liquid	風変わりな液体
+peculiar fluid	風変わりな流体
+peculiar broth	風変わりなスープ
+peculiar juice	風変わりな汁
+peculiar goo	風変わりなねばねば
+peculiar liquor	風変わりな酒
+peculiar solution	風変わりな溶液
+peculiar jelly	風変わりなゼリー
+peculiar pulp	風変わりな果肉
+peculiar wax	風変わりなロウ
+peculiar jam	風変わりなジャム
+peculiar dough	風変わりな生地
+# raw の [SYN_NAME:..]（症候群の名前）と、思考タブの「悩みを打ち明けて」
+adder bite	クサリヘビの咬傷
+bark scorpion sting	バークスコーピオンの刺し傷
+black mamba bite	ブラックマンバの咬傷
+blob blisters	ブロブの水ぶくれ
+brown recluse spider bite	ドクイトグモの咬傷
+bumblebee sting	マルハナバチの刺し傷
+bushmaster bite	ブッシュマスターの咬傷
+cave floater sickness	ケイヴフローター病
+cave spider bite	洞窟グモの咬傷
+copperhead snake bite	アメリカマムシの咬傷
+giant cave spider bite	巨大洞窟グモの咬傷
+gila monster bite	アメリカドクトカゲの咬傷
+gnomeblight	ノームの毒
+helmet snake bite	ヘルメットスネークの咬傷
+honey bee sting	ミツバチの刺し傷
+inebriation	酩酊
+iron man cough	鉄男の咳
+king cobra bite	キングコブラの咬傷
+phantom spider bite	ファントムスパイダーの咬傷
+platypus sting	カモノハシの刺し傷
+rattlesnake bite	ガラガラヘビの咬傷
+serpent man bite	蛇男の咬傷
+discussing his problems with a friend	友に悩みを打ち明けた後
+discussing his problems with an acquaintance	知人に悩みを打ち明けた後
+discussing his problems with a lover	恋人に悩みを打ち明けた後
+discussing his problems with a sibling	きょうだいに悩みを打ち明けた後
+discussing his problems with a child	子に悩みを打ち明けた後
+discussing his problems with mother	母に悩みを打ち明けた後
+discussing his problems with father	父に悩みを打ち明けた後
+discussing his problems with somebody	誰かに悩みを打ち明けた後
+discussing his problems with the spouse	配偶者に悩みを打ち明けた後
+discussing her problems with a friend	友に悩みを打ち明けた後
+discussing her problems with an acquaintance	知人に悩みを打ち明けた後
+discussing her problems with a lover	恋人に悩みを打ち明けた後
+discussing her problems with a sibling	きょうだいに悩みを打ち明けた後
+discussing her problems with a child	子に悩みを打ち明けた後
+discussing her problems with mother	母に悩みを打ち明けた後
+discussing her problems with father	父に悩みを打ち明けた後
+discussing her problems with somebody	誰かに悩みを打ち明けた後
+discussing her problems with the spouse	配偶者に悩みを打ち明けた後
+discussing their problems with a friend	友に悩みを打ち明けた後
+discussing their problems with an acquaintance	知人に悩みを打ち明けた後
+discussing their problems with a lover	恋人に悩みを打ち明けた後
+discussing their problems with a sibling	きょうだいに悩みを打ち明けた後
+discussing their problems with a child	子に悩みを打ち明けた後
+discussing their problems with mother	母に悩みを打ち明けた後
+discussing their problems with father	父に悩みを打ち明けた後
+discussing their problems with somebody	誰かに悩みを打ち明けた後
+discussing their problems with the spouse	配偶者に悩みを打ち明けた後
+discussing its problems with a friend	友に悩みを打ち明けた後
+discussing its problems with an acquaintance	知人に悩みを打ち明けた後
+discussing its problems with a lover	恋人に悩みを打ち明けた後
+discussing its problems with a sibling	きょうだいに悩みを打ち明けた後
+discussing its problems with a child	子に悩みを打ち明けた後
+discussing its problems with mother	母に悩みを打ち明けた後
+discussing its problems with father	父に悩みを打ち明けた後
+discussing its problems with somebody	誰かに悩みを打ち明けた後
+discussing its problems with the spouse	配偶者に悩みを打ち明けた後
+I'm very fond.	とても気に入っている。
+Two saves	セーブ2件
+Three saves	セーブ3件
+Four saves	セーブ4件
+Five saves	セーブ5件
+Six saves	セーブ6件
+Seven saves	セーブ7件
+Eight saves	セーブ8件
+Nine saves	セーブ9件
+Ten saves	セーブ10件
+Eleven saves	セーブ11件
+Twelve saves	セーブ12件
+%dst Granite, %d	花崗岩の月%d日 %d年
+%dnd Granite, %d	花崗岩の月%d日 %d年
+%drd Granite, %d	花崗岩の月%d日 %d年
+%dth Granite, %d	花崗岩の月%d日 %d年
+%dst Slate, %d	粘板岩の月%d日 %d年
+%dnd Slate, %d	粘板岩の月%d日 %d年
+%drd Slate, %d	粘板岩の月%d日 %d年
+%dth Slate, %d	粘板岩の月%d日 %d年
+%dst Felsite, %d	珪長岩の月%d日 %d年
+%dnd Felsite, %d	珪長岩の月%d日 %d年
+%drd Felsite, %d	珪長岩の月%d日 %d年
+%dth Felsite, %d	珪長岩の月%d日 %d年
+%dst Hematite, %d	赤鉄鉱の月%d日 %d年
+%dnd Hematite, %d	赤鉄鉱の月%d日 %d年
+%drd Hematite, %d	赤鉄鉱の月%d日 %d年
+%dth Hematite, %d	赤鉄鉱の月%d日 %d年
+%dst Malachite, %d	孔雀石の月%d日 %d年
+%dnd Malachite, %d	孔雀石の月%d日 %d年
+%drd Malachite, %d	孔雀石の月%d日 %d年
+%dth Malachite, %d	孔雀石の月%d日 %d年
+%dst Galena, %d	方鉛鉱の月%d日 %d年
+%dnd Galena, %d	方鉛鉱の月%d日 %d年
+%drd Galena, %d	方鉛鉱の月%d日 %d年
+%dth Galena, %d	方鉛鉱の月%d日 %d年
+%dst Limestone, %d	石灰岩の月%d日 %d年
+%dnd Limestone, %d	石灰岩の月%d日 %d年
+%drd Limestone, %d	石灰岩の月%d日 %d年
+%dth Limestone, %d	石灰岩の月%d日 %d年
+%dst Sandstone, %d	砂岩の月%d日 %d年
+%dnd Sandstone, %d	砂岩の月%d日 %d年
+%drd Sandstone, %d	砂岩の月%d日 %d年
+%dth Sandstone, %d	砂岩の月%d日 %d年
+%dst Timber, %d	木材の月%d日 %d年
+%dnd Timber, %d	木材の月%d日 %d年
+%drd Timber, %d	木材の月%d日 %d年
+%dth Timber, %d	木材の月%d日 %d年
+%dst Moonstone, %d	ムーンストーンの月%d日 %d年
+%dnd Moonstone, %d	ムーンストーンの月%d日 %d年
+%drd Moonstone, %d	ムーンストーンの月%d日 %d年
+%dth Moonstone, %d	ムーンストーンの月%d日 %d年
+%dst Opal, %d	オパールの月%d日 %d年
+%dnd Opal, %d	オパールの月%d日 %d年
+%drd Opal, %d	オパールの月%d日 %d年
+%dth Opal, %d	オパールの月%d日 %d年
+%dst Obsidian, %d	黒曜石の月%d日 %d年
+%dnd Obsidian, %d	黒曜石の月%d日 %d年
+%drd Obsidian, %d	黒曜石の月%d日 %d年
+%dth Obsidian, %d	黒曜石の月%d日 %d年
+the swamps	湿地
+the northern swamps	北の湿地
+the southern swamps	南の湿地
+the eastern swamps	東の湿地
+the western swamps	西の湿地
+the northeastern swamps	北東の湿地
+the northwestern swamps	北西の湿地
+the southeastern swamps	南東の湿地
+the southwestern swamps	南西の湿地
+the central swamps	中央の湿地
+the eerie cavern	不気味な洞窟
+the northern eerie cavern	北の不気味な洞窟
+the southern eerie cavern	南の不気味な洞窟
+the eastern eerie cavern	東の不気味な洞窟
+the western eerie cavern	西の不気味な洞窟
+the northeastern eerie cavern	北東の不気味な洞窟
+the northwestern eerie cavern	北西の不気味な洞窟
+the southeastern eerie cavern	南東の不気味な洞窟
+the southwestern eerie cavern	南西の不気味な洞窟
+the central eerie cavern	中央の不気味な洞窟
+the magma sea	マグマの海
+the northern magma sea	北のマグマの海
+the southern magma sea	南のマグマの海
+the eastern magma sea	東のマグマの海
+the western magma sea	西のマグマの海
+the northeastern magma sea	北東のマグマの海
+the northwestern magma sea	北西のマグマの海
+the southeastern magma sea	南東のマグマの海
+the southwestern magma sea	南西のマグマの海
+the central magma sea	中央のマグマの海
+water covering	水まみれ
+snow covering	雪まみれ
+mud covering	泥まみれ
+vomit covering	吐瀉物まみれ
+dust covering	埃まみれ
+ash covering	灰まみれ
+filth covering	汚物まみれ
+slime covering	粘液まみれ
+ichor covering	膿汁まみれ
+pus covering	膿まみれ
+sweat covering	汗まみれ
+tears covering	涙まみれ
+spit covering	唾まみれ
+magma covering	マグマまみれ
+water	水
+# 世界生成の詳細設定（パラメータの見出し）
+Elevation Weighted Range (0-20)	標高の重み（0-20）
+Elevation Weighted Range (20-40)	標高の重み（20-40）
+Elevation Weighted Range (40-60)	標高の重み（40-60）
+Elevation Weighted Range (60-80)	標高の重み（60-80）
+Elevation Weighted Range (80-100)	標高の重み（80-100）
+Elevation X-Variance	標高の横方向のばらつき
+Elevation Y-Variance	標高の縦方向のばらつき
+Maximum Elevation	標高の最大値
+Minimum Elevation	標高の最小値
+Rain Weighted Range (0-20)	降水量の重み（0-20）
+Rain Weighted Range (20-40)	降水量の重み（20-40）
+Rain Weighted Range (40-60)	降水量の重み（40-60）
+Rain Weighted Range (60-80)	降水量の重み（60-80）
+Rain Weighted Range (80-100)	降水量の重み（80-100）
+Rain X-Variance	降水量の横方向のばらつき
+Rain Y-Variance	降水量の縦方向のばらつき
+Maximum Rain	降水量の最大値
+Minimum Rain	降水量の最小値
+Rainfall Weighted Range (0-20)	降水量の重み（0-20）
+Rainfall Weighted Range (20-40)	降水量の重み（20-40）
+Rainfall Weighted Range (40-60)	降水量の重み（40-60）
+Rainfall Weighted Range (60-80)	降水量の重み（60-80）
+Rainfall Weighted Range (80-100)	降水量の重み（80-100）
+Rainfall X-Variance	降水量の横方向のばらつき
+Rainfall Y-Variance	降水量の縦方向のばらつき
+Maximum Rainfall	降水量の最大値
+Minimum Rainfall	降水量の最小値
+Temperature Weighted Range (0-20)	気温の重み（0-20）
+Temperature Weighted Range (20-40)	気温の重み（20-40）
+Temperature Weighted Range (40-60)	気温の重み（40-60）
+Temperature Weighted Range (60-80)	気温の重み（60-80）
+Temperature Weighted Range (80-100)	気温の重み（80-100）
+Temperature X-Variance	気温の横方向のばらつき
+Temperature Y-Variance	気温の縦方向のばらつき
+Maximum Temperature	気温の最大値
+Minimum Temperature	気温の最小値
+Drainage Weighted Range (0-20)	水はけの重み（0-20）
+Drainage Weighted Range (20-40)	水はけの重み（20-40）
+Drainage Weighted Range (40-60)	水はけの重み（40-60）
+Drainage Weighted Range (60-80)	水はけの重み（60-80）
+Drainage Weighted Range (80-100)	水はけの重み（80-100）
+Drainage X-Variance	水はけの横方向のばらつき
+Drainage Y-Variance	水はけの縦方向のばらつき
+Maximum Drainage	水はけの最大値
+Minimum Drainage	水はけの最小値
+Savagery Weighted Range (0-20)	獰猛さの重み（0-20）
+Savagery Weighted Range (20-40)	獰猛さの重み（20-40）
+Savagery Weighted Range (40-60)	獰猛さの重み（40-60）
+Savagery Weighted Range (60-80)	獰猛さの重み（60-80）
+Savagery Weighted Range (80-100)	獰猛さの重み（80-100）
+Savagery X-Variance	獰猛さの横方向のばらつき
+Savagery Y-Variance	獰猛さの縦方向のばらつき
+Maximum Savagery	獰猛さの最大値
+Minimum Savagery	獰猛さの最小値
+Volcanism Weighted Range (0-20)	火山活動の重み（0-20）
+Volcanism Weighted Range (20-40)	火山活動の重み（20-40）
+Volcanism Weighted Range (40-60)	火山活動の重み（40-60）
+Volcanism Weighted Range (60-80)	火山活動の重み（60-80）
+Volcanism Weighted Range (80-100)	火山活動の重み（80-100）
+Volcanism X-Variance	火山活動の横方向のばらつき
+Volcanism Y-Variance	火山活動の縦方向のばらつき
+Maximum Volcanism	火山活動の最大値
+Minimum Volcanism	火山活動の最小値
+Minimum Final Desert Region Count	最終的な砂漠地域の最小数
+Minimum Initial Desert Region Count	初期の砂漠地域の最小数
+Minimum Initial Desert Square Count	初期の砂漠マスの最小数
+Minimum Final Forest Region Count	最終的な森林地域の最小数
+Minimum Initial Forest Region Count	初期の森林地域の最小数
+Minimum Initial Forest Square Count	初期の森林マスの最小数
+Minimum Final Glacier Region Count	最終的な氷河地域の最小数
+Minimum Initial Glacier Region Count	初期の氷河地域の最小数
+Minimum Initial Glacier Square Count	初期の氷河マスの最小数
+Minimum Final Grassland Region Count	最終的な草原地域の最小数
+Minimum Initial Grassland Region Count	初期の草原地域の最小数
+Minimum Initial Grassland Square Count	初期の草原マスの最小数
+Minimum Final Hills Region Count	最終的な丘陵地域の最小数
+Minimum Initial Hills Region Count	初期の丘陵地域の最小数
+Minimum Initial Hills Square Count	初期の丘陵マスの最小数
+Minimum Final Mountains Region Count	最終的な山地地域の最小数
+Minimum Initial Mountains Region Count	初期の山地地域の最小数
+Minimum Initial Mountains Square Count	初期の山地マスの最小数
+Minimum Final Ocean Region Count	最終的な海洋地域の最小数
+Minimum Initial Ocean Region Count	初期の海洋地域の最小数
+Minimum Initial Ocean Square Count	初期の海洋マスの最小数
+Minimum Final Tundra Region Count	最終的なツンドラ地域の最小数
+Minimum Initial Tundra Region Count	初期のツンドラ地域の最小数
+Minimum Initial Tundra Square Count	初期のツンドラマスの最小数
+Minimum Final Wetland Region Count	最終的な湿地地域の最小数
+Minimum Initial Wetland Region Count	初期の湿地地域の最小数
+Minimum Initial Wetland Square Count	初期の湿地マスの最小数
+In site finder	拠点探しのときだけ
+brush titans	低木地の巨人
+brush-titan	低木地の巨人
+desert titans	砂漠の巨人
+desert-titan	砂漠の巨人
+forest titans	森の巨人
+forest-titan	森の巨人
+glacier titans	氷河の巨人
+glacier-titan	氷河の巨人
+hill titan	丘の巨人
+hill titans	丘の巨人
+hill-titan	丘の巨人
+jungle titans	密林の巨人
+jungle-titan	密林の巨人
+lake titans	湖の巨人
+lake-titan	湖の巨人
+marsh titans	沼沢の巨人
+marsh-titan	沼沢の巨人
+mountain titans	山の巨人
+mountain-titan	山の巨人
+ocean titans	大洋の巨人
+ocean-titan	大洋の巨人
+plains titan	平原の巨人
+plains titans	平原の巨人
+plains-titan	平原の巨人
+sand titan	砂地の巨人
+sand titans	砂地の巨人
+sand-titan	砂地の巨人
+savanna titans	サバンナの巨人
+savanna-titan	サバンナの巨人
+swamp titans	湿地の巨人
+swamp-titan	湿地の巨人
+taiga titan	タイガの巨人
+taiga titans	タイガの巨人
+taiga-titan	タイガの巨人
+tundra titans	ツンドラの巨人
+tundra-titan	ツンドラの巨人
+# 傷の句（主語のない列挙に使う）
+a ligament has been torn	靭帯が裂けた
+many ligaments have been torn	多くの靭帯が裂けた
+the ligament has been torn	靭帯が裂けた
+a ligament has been bruised	靭帯が打撲した
+many ligaments have been bruised	多くの靭帯が打撲した
+the ligament has been bruised	靭帯が打撲した
+a ligament has been severed	靭帯が切断された
+many ligaments have been severed	多くの靭帯が切断された
+the ligament has been severed	靭帯が切断された
+a ligament has been opened	靭帯が切り裂かれた
+many ligaments have been opened	多くの靭帯が切り裂かれた
+the ligament has been opened	靭帯が切り裂かれた
+a ligament has been ripped apart	靭帯が引き裂かれた
+many ligaments have been ripped apart	多くの靭帯が引き裂かれた
+the ligament has been ripped apart	靭帯が引き裂かれた
+a ligament has been cut	靭帯が切られた
+many ligaments have been cut	多くの靭帯が切られた
+the ligament has been cut	靭帯が切られた
+a ligament has been punctured	靭帯が貫かれた
+many ligaments have been punctured	多くの靭帯が貫かれた
+the ligament has been punctured	靭帯が貫かれた
+a ligament has been crushed	靭帯が押し潰された
+many ligaments have been crushed	多くの靭帯が押し潰された
+the ligament has been crushed	靭帯が押し潰された
+a tendon has been torn	腱が裂けた
+many tendons have been torn	多くの腱が裂けた
+the tendon has been torn	腱が裂けた
+a tendon has been bruised	腱が打撲した
+many tendons have been bruised	多くの腱が打撲した
+the tendon has been bruised	腱が打撲した
+a tendon has been severed	腱が切断された
+many tendons have been severed	多くの腱が切断された
+the tendon has been severed	腱が切断された
+a tendon has been opened	腱が切り裂かれた
+many tendons have been opened	多くの腱が切り裂かれた
+the tendon has been opened	腱が切り裂かれた
+a tendon has been ripped apart	腱が引き裂かれた
+many tendons have been ripped apart	多くの腱が引き裂かれた
+the tendon has been ripped apart	腱が引き裂かれた
+a tendon has been cut	腱が切られた
+many tendons have been cut	多くの腱が切られた
+the tendon has been cut	腱が切られた
+a tendon has been punctured	腱が貫かれた
+many tendons have been punctured	多くの腱が貫かれた
+the tendon has been punctured	腱が貫かれた
+a tendon has been crushed	腱が押し潰された
+many tendons have been crushed	多くの腱が押し潰された
+the tendon has been crushed	腱が押し潰された
+a nerve has been torn	神経が裂けた
+many nerves have been torn	多くの神経が裂けた
+the nerve has been torn	神経が裂けた
+a nerve has been bruised	神経が打撲した
+many nerves have been bruised	多くの神経が打撲した
+the nerve has been bruised	神経が打撲した
+a nerve has been severed	神経が切断された
+many nerves have been severed	多くの神経が切断された
+the nerve has been severed	神経が切断された
+a nerve has been opened	神経が切り裂かれた
+many nerves have been opened	多くの神経が切り裂かれた
+the nerve has been opened	神経が切り裂かれた
+a nerve has been ripped apart	神経が引き裂かれた
+many nerves have been ripped apart	多くの神経が引き裂かれた
+the nerve has been ripped apart	神経が引き裂かれた
+a nerve has been cut	神経が切られた
+many nerves have been cut	多くの神経が切られた
+the nerve has been cut	神経が切られた
+a nerve has been punctured	神経が貫かれた
+many nerves have been punctured	多くの神経が貫かれた
+the nerve has been punctured	神経が貫かれた
+a nerve has been crushed	神経が押し潰された
+many nerves have been crushed	多くの神経が押し潰された
+the nerve has been crushed	神経が押し潰された
+an artery has been torn	動脈が裂けた
+many arterys have been torn	多くの動脈が裂けた
+the artery has been torn	動脈が裂けた
+an artery has been bruised	動脈が打撲した
+many arterys have been bruised	多くの動脈が打撲した
+the artery has been bruised	動脈が打撲した
+an artery has been severed	動脈が切断された
+many arterys have been severed	多くの動脈が切断された
+the artery has been severed	動脈が切断された
+an artery has been opened	動脈が切り裂かれた
+many arterys have been opened	多くの動脈が切り裂かれた
+the artery has been opened	動脈が切り裂かれた
+an artery has been ripped apart	動脈が引き裂かれた
+many arterys have been ripped apart	多くの動脈が引き裂かれた
+the artery has been ripped apart	動脈が引き裂かれた
+an artery has been cut	動脈が切られた
+many arterys have been cut	多くの動脈が切られた
+the artery has been cut	動脈が切られた
+an artery has been punctured	動脈が貫かれた
+many arterys have been punctured	多くの動脈が貫かれた
+the artery has been punctured	動脈が貫かれた
+an artery has been crushed	動脈が押し潰された
+many arterys have been crushed	多くの動脈が押し潰された
+the artery has been crushed	動脈が押し潰された
+a vein has been torn	静脈が裂けた
+many veins have been torn	多くの静脈が裂けた
+the vein has been torn	静脈が裂けた
+a vein has been bruised	静脈が打撲した
+many veins have been bruised	多くの静脈が打撲した
+the vein has been bruised	静脈が打撲した
+a vein has been severed	静脈が切断された
+many veins have been severed	多くの静脈が切断された
+the vein has been severed	静脈が切断された
+a vein has been opened	静脈が切り裂かれた
+many veins have been opened	多くの静脈が切り裂かれた
+the vein has been opened	静脈が切り裂かれた
+a vein has been ripped apart	静脈が引き裂かれた
+many veins have been ripped apart	多くの静脈が引き裂かれた
+the vein has been ripped apart	静脈が引き裂かれた
+a vein has been cut	静脈が切られた
+many veins have been cut	多くの静脈が切られた
+the vein has been cut	静脈が切られた
+a vein has been punctured	静脈が貫かれた
+many veins have been punctured	多くの静脈が貫かれた
+the vein has been punctured	静脈が貫かれた
+a vein has been crushed	静脈が押し潰された
+many veins have been crushed	多くの静脈が押し潰された
+the vein has been crushed	静脈が押し潰された
+a muscle has been torn	筋肉が裂けた
+many muscles have been torn	多くの筋肉が裂けた
+the muscle has been torn	筋肉が裂けた
+a muscle has been bruised	筋肉が打撲した
+many muscles have been bruised	多くの筋肉が打撲した
+the muscle has been bruised	筋肉が打撲した
+a muscle has been severed	筋肉が切断された
+many muscles have been severed	多くの筋肉が切断された
+the muscle has been severed	筋肉が切断された
+a muscle has been opened	筋肉が切り裂かれた
+many muscles have been opened	多くの筋肉が切り裂かれた
+the muscle has been opened	筋肉が切り裂かれた
+a muscle has been ripped apart	筋肉が引き裂かれた
+many muscles have been ripped apart	多くの筋肉が引き裂かれた
+the muscle has been ripped apart	筋肉が引き裂かれた
+a muscle has been cut	筋肉が切られた
+many muscles have been cut	多くの筋肉が切られた
+the muscle has been cut	筋肉が切られた
+a muscle has been punctured	筋肉が貫かれた
+many muscles have been punctured	多くの筋肉が貫かれた
+the muscle has been punctured	筋肉が貫かれた
+a muscle has been crushed	筋肉が押し潰された
+many muscles have been crushed	多くの筋肉が押し潰された
+the muscle has been crushed	筋肉が押し潰された
+a bone has been torn	骨が裂けた
+many bones have been torn	多くの骨が裂けた
+the bone has been torn	骨が裂けた
+a bone has been bruised	骨が打撲した
+many bones have been bruised	多くの骨が打撲した
+the bone has been bruised	骨が打撲した
+a bone has been severed	骨が切断された
+many bones have been severed	多くの骨が切断された
+the bone has been severed	骨が切断された
+a bone has been opened	骨が切り裂かれた
+many bones have been opened	多くの骨が切り裂かれた
+the bone has been opened	骨が切り裂かれた
+a bone has been ripped apart	骨が引き裂かれた
+many bones have been ripped apart	多くの骨が引き裂かれた
+the bone has been ripped apart	骨が引き裂かれた
+a bone has been cut	骨が切られた
+many bones have been cut	多くの骨が切られた
+the bone has been cut	骨が切られた
+a bone has been punctured	骨が貫かれた
+many bones have been punctured	多くの骨が貫かれた
+the bone has been punctured	骨が貫かれた
+a bone has been crushed	骨が押し潰された
+many bones have been crushed	多くの骨が押し潰された
+the bone has been crushed	骨が押し潰された
+a cartilage has been torn	軟骨が裂けた
+many cartilages have been torn	多くの軟骨が裂けた
+the cartilage has been torn	軟骨が裂けた
+a cartilage has been bruised	軟骨が打撲した
+many cartilages have been bruised	多くの軟骨が打撲した
+the cartilage has been bruised	軟骨が打撲した
+a cartilage has been severed	軟骨が切断された
+many cartilages have been severed	多くの軟骨が切断された
+the cartilage has been severed	軟骨が切断された
+a cartilage has been opened	軟骨が切り裂かれた
+many cartilages have been opened	多くの軟骨が切り裂かれた
+the cartilage has been opened	軟骨が切り裂かれた
+a cartilage has been ripped apart	軟骨が引き裂かれた
+many cartilages have been ripped apart	多くの軟骨が引き裂かれた
+the cartilage has been ripped apart	軟骨が引き裂かれた
+a cartilage has been cut	軟骨が切られた
+many cartilages have been cut	多くの軟骨が切られた
+the cartilage has been cut	軟骨が切られた
+a cartilage has been punctured	軟骨が貫かれた
+many cartilages have been punctured	多くの軟骨が貫かれた
+the cartilage has been punctured	軟骨が貫かれた
+a cartilage has been crushed	軟骨が押し潰された
+many cartilages have been crushed	多くの軟骨が押し潰された
+the cartilage has been crushed	軟骨が押し潰された
+a skin has been torn	皮膚が裂けた
+many skins have been torn	多くの皮膚が裂けた
+the skin has been torn	皮膚が裂けた
+a skin has been bruised	皮膚が打撲した
+many skins have been bruised	多くの皮膚が打撲した
+the skin has been bruised	皮膚が打撲した
+a skin has been severed	皮膚が切断された
+many skins have been severed	多くの皮膚が切断された
+the skin has been severed	皮膚が切断された
+a skin has been opened	皮膚が切り裂かれた
+many skins have been opened	多くの皮膚が切り裂かれた
+the skin has been opened	皮膚が切り裂かれた
+a skin has been ripped apart	皮膚が引き裂かれた
+many skins have been ripped apart	多くの皮膚が引き裂かれた
+the skin has been ripped apart	皮膚が引き裂かれた
+a skin has been cut	皮膚が切られた
+many skins have been cut	多くの皮膚が切られた
+the skin has been cut	皮膚が切られた
+a skin has been punctured	皮膚が貫かれた
+many skins have been punctured	多くの皮膚が貫かれた
+the skin has been punctured	皮膚が貫かれた
+a skin has been crushed	皮膚が押し潰された
+many skins have been crushed	多くの皮膚が押し潰された
+the skin has been crushed	皮膚が押し潰された
+a fat has been torn	脂肪が裂けた
+many fats have been torn	多くの脂肪が裂けた
+the fat has been torn	脂肪が裂けた
+a fat has been bruised	脂肪が打撲した
+many fats have been bruised	多くの脂肪が打撲した
+the fat has been bruised	脂肪が打撲した
+a fat has been severed	脂肪が切断された
+many fats have been severed	多くの脂肪が切断された
+the fat has been severed	脂肪が切断された
+a fat has been opened	脂肪が切り裂かれた
+many fats have been opened	多くの脂肪が切り裂かれた
+the fat has been opened	脂肪が切り裂かれた
+a fat has been ripped apart	脂肪が引き裂かれた
+many fats have been ripped apart	多くの脂肪が引き裂かれた
+the fat has been ripped apart	脂肪が引き裂かれた
+a fat has been cut	脂肪が切られた
+many fats have been cut	多くの脂肪が切られた
+the fat has been cut	脂肪が切られた
+a fat has been punctured	脂肪が貫かれた
+many fats have been punctured	多くの脂肪が貫かれた
+the fat has been punctured	脂肪が貫かれた
+a fat has been crushed	脂肪が押し潰された
+many fats have been crushed	多くの脂肪が押し潰された
+the fat has been crushed	脂肪が押し潰された
+an organ has been torn	臓器が裂けた
+many organs have been torn	多くの臓器が裂けた
+the organ has been torn	臓器が裂けた
+an organ has been bruised	臓器が打撲した
+many organs have been bruised	多くの臓器が打撲した
+the organ has been bruised	臓器が打撲した
+an organ has been severed	臓器が切断された
+many organs have been severed	多くの臓器が切断された
+the organ has been severed	臓器が切断された
+an organ has been opened	臓器が切り裂かれた
+many organs have been opened	多くの臓器が切り裂かれた
+the organ has been opened	臓器が切り裂かれた
+an organ has been ripped apart	臓器が引き裂かれた
+many organs have been ripped apart	多くの臓器が引き裂かれた
+the organ has been ripped apart	臓器が引き裂かれた
+an organ has been cut	臓器が切られた
+many organs have been cut	多くの臓器が切られた
+the organ has been cut	臓器が切られた
+an organ has been punctured	臓器が貫かれた
+many organs have been punctured	多くの臓器が貫かれた
+the organ has been punctured	臓器が貫かれた
+an organ has been crushed	臓器が押し潰された
+many organs have been crushed	多くの臓器が押し潰された
+the organ has been crushed	臓器が押し潰された
+a joint has been torn	関節が裂けた
+many joints have been torn	多くの関節が裂けた
+the joint has been torn	関節が裂けた
+a joint has been bruised	関節が打撲した
+many joints have been bruised	多くの関節が打撲した
+the joint has been bruised	関節が打撲した
+a joint has been severed	関節が切断された
+many joints have been severed	多くの関節が切断された
+the joint has been severed	関節が切断された
+a joint has been opened	関節が切り裂かれた
+many joints have been opened	多くの関節が切り裂かれた
+the joint has been opened	関節が切り裂かれた
+a joint has been ripped apart	関節が引き裂かれた
+many joints have been ripped apart	多くの関節が引き裂かれた
+the joint has been ripped apart	関節が引き裂かれた
+a joint has been cut	関節が切られた
+many joints have been cut	多くの関節が切られた
+the joint has been cut	関節が切られた
+a joint has been punctured	関節が貫かれた
+many joints have been punctured	多くの関節が貫かれた
+the joint has been punctured	関節が貫かれた
+a joint has been crushed	関節が押し潰された
+many joints have been crushed	多くの関節が押し潰された
+the joint has been crushed	関節が押し潰された
+# 案内のキー表記つきの文
+You can zoom in and out of the play area using [KEY:][KEY:], [C:2:0:1]Ctrl+mouse wheel[C:7:0:0], or the indicated buttons.	プレイエリアの拡大・縮小は[KEY:][KEY:]、[C:2:0:1]Ctrl+マウスホイール[C:7:0:0]、または表示されているボタンでできます。
+Right-clicking can always be used to close most menus, as well as [KEY:].	右クリックは、[KEY:]と同じく、たいていのメニューを閉じるのに使えます。
+If you have a number pad, you can move one tile at a time by pressing [KEY:][KEY:][KEY:][KEY:] etc.	テンキーがあれば、[KEY:][KEY:][KEY:][KEY:]などを押して1マスずつ動けます。
+If you want to move carefully, confirming your selection, you can press [KEY:] etc.	慎重に動きたいときは、選択を確かめながら[KEY:]などを押します。
+When flying, use [KEY:] etc.	飛行中は[KEY:]などを使います。
+and[KEY:] etc.	と[KEY:]など
+to change altitude.	高度を変えられます。
+When flying, use [KEY:] etc. and[KEY:] etc. to change altitude.	飛行中は[KEY:]などと[KEY:]などで高度を変えられます。
+If you miss an announcement or would like to review old messages, you can click the indicated button or press [KEY:] to view the message log.	知らせを見逃したときや古い記録を読み返したいときは、表示されているボタンを押すか[KEY:]を押すと記録を見られます。
+You can initiate throwing from the inventory menu, or by pressing [KEY:] from play.	投げるのは持ち物のメニューからか、プレイ中に[KEY:]を押して始められます。
+[C:7:0:1]Drink[C:7:0:0]	[C:7:0:1]飲み物[C:7:0:0]
+[C:7:0:1]Butchering[C:7:0:0]	[C:7:0:1]解体[C:7:0:0]
+# 交易の雰囲気
+terrible	険悪だ
+lukewarm	冷ややかだ
+cautious	慎重だ
+friendly	友好的だ
+warm	和やかだ
+hostile	敵対的だ
+neutral	淡々としている
+eager	乗り気だ
+poor	芳しくない
+good	良好だ
+excellent	申し分ない
+# 品物のある場所（"In Metalsmith's Forge"）
+In Animal Workshop	動物工房にある
+In Armor Stand	鎧立てにある
+In Armorsmithing Workshop	防具鍛冶の工房にある
+In Barracks	兵舎にある
+In Bedroom	寝室にある
+In Blacksmithing Workshop	鍛冶工房にある
+In Bone Carving Workshop	骨彫り工房にある
+In Bowmaking Workshop	弓作りの工房にある
+In Bowyer's Workshop	弓工房にある
+In Bridge	橋にある
+In Butcher's Shop	精肉所にある
+In Cabinet	キャビネットにある
+In Carpenter's Workshop	木工房にある
+In Carpentry Workshop	木工工房にある
+In Carry Patient to Bed	患者をベッドへ運ぶにある
+In Chair	椅子にある
+In Check Chest	箱を確認にある
+In Chest	宝箱にある
+In Cloth Clothing Workshop	布製衣服の工房にある
+In Cloth Workshop	布の工房にある
+In Clothier's Shop	仕立て屋にある
+In Clothing Shop	衣料品店にある
+In Craftsdwarf's Workshop	工芸所にある
+In Custom Workshop	カスタム工房にある
+In Decent Dining Room	まともな食堂にある
+In Depot	交易所にある
+In Dining Room	食堂にある
+In Dyer's Shop	染色場にある
+In Exotic Clothing Shop	異国衣料品店にある
+In Farmer's Workshop	農芸工房にある
+In Fine Dining Room	上等な食堂にある
+In Fine Tomb	立派な墓所にある
+In Floor Hatch	床ハッチにある
+In Forging Workshop	鍛造工房にある
+In Furnace	炉にある
+In Gem Cutting Workshop	宝石加工工房にある
+In Glass Furnace	ガラス溶鉱炉にある
+In Go to Shop	店へ行くにある
+In Grand Bedroom	豪華な寝室にある
+In Grand Dining Room	壮大な食堂にある
+In Great Bedroom	大寝室にある
+In Great Dining Room	立派な食堂にある
+In Hatch	ハッチにある
+In Hospital	病院にある
+In Interrogation Office	尋問室にある
+In Jeweler's Workshop	宝石工房にある
+In Kitchen	調理場にある
+In Leather Clothing Workshop	革製衣服の工房にある
+In Leatherworking Shop	革細工の工房にある
+In Magma Forge	マグマ鍛冶場にある
+In Magma Glass Furnace	マグマガラス溶鉱炉にある
+In Magma Kiln	マグマ窯にある
+In Magma Smelter	マグマ精錬所にある
+In Mason's Workshop	石工房にある
+In Meager Dining Room	貧相な食堂にある
+In Mechanic's Workshop	機械工房にある
+In Metal Crafting Workshop	金属工芸工房にある
+In Metalsmith's Forge	鍛冶場にある
+In Mill in Shop	店で製粉にある
+In Modest Dining Room	質素な食堂にある
+In No Dining Room	食堂なしにある
+In No Tomb	墓所なしにある
+In Office	執務室にある
+In Royal Bedroom	王の寝室にある
+In Royal Dining Room	王の食堂にある
+In Scheduled Sleep Bed	予定された寝床での睡眠にある
+In Seek Eating Chair	食事用の椅子を探すにある
+In Seek Manage Office	管理事務所を探すにある
+In Seek Update Office	執務室の更新を探すにある
+In Siege Workshop	兵器開発所にある
+In Sleep Barracks	兵舎で寝るにある
+In Sleep Bed	寝床で眠るにある
+In Smelter	精錬所にある
+In Soap Maker's Workshop	石鹸工房にある
+In Start Water Job Well	井戸での給水作業を開始にある
+In Statue	彫像にある
+In Still	醸造所にある
+In Stockpile	倉庫にある
+In Stoneworking Workshop	石工工房にある
+In Table	テーブルにある
+In Tanner's Shop	なめし革工房にある
+In Tanning Workshop	なめし工房にある
+In Throne Room/Office	玉座の間／執務室にある
+In Tower Bedroom	塔の寝室にある
+In Trade Depot	交易所にある
+In Vacant Shop	空き店舗にある
+In Vermin Catcher's Shop	害獣捕獲人の工房にある
+In Wander Depot	交易所をうろつくにある
+In Weapon Rack	武器立てにある
+In Weaponsmithing Workshop	武器鍛冶工房にある
+In Wood Furnace	炭焼き場にある
+In Workshop	工房にある

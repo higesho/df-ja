@@ -1,0 +1,3951 @@
+primeval stardust	始原の星屑
+Baru Stran, The Louse of Biles (Slab)	Baru Stran, The Louse of Biles (Slab)
+(pig tail trousers)	(ピッグテイルのズボン)
+(pig tail tunic)	(ピッグテイルのチュニック)
+(sheep wool left glove)	(羊の羊毛の左の手袋)
+(sheep wool right glove)	(羊の羊毛の右の手袋)
+(alpaca wool sock)	(アルパカの羊毛の靴下)
+(pig tail shoe)	(ピッグテイルの靴)
+(giant cave spider silk tunic)	(巨大洞窟グモの絹のチュニック)
+(yak leather left glove)	(ヤクの革の左の手袋)
+(yak leather right glove)	(ヤクの革の右の手袋)
+(pig tail sock)	(ピッグテイルの靴下)
+(badger leather shoe)	(アナグマの革の靴)
+(cave spider silk trousers)	(洞窟グモの絹のズボン)
+(kangaroo leather dress)	(カンガルーの革のドレス)
+(eagle leather trousers)	(鷲の革のズボン)
+(yak leather dress)	(ヤクの革のドレス)
+(cave spider silk shoe)	(洞窟グモの絹の靴)
+(giant cave spider silk dress)	(巨大洞窟グモの絹のドレス)
+(llama wool left glove)	(ラマの羊毛の左の手袋)
+(llama wool right glove)	(ラマの羊毛の右の手袋)
+(llama wool sock)	(ラマの羊毛の靴下)
+(alpaca wool shoe)	(アルパカの羊毛の靴)
+(sheep wool trousers)	(羊の羊毛のズボン)
+(sheep wool dress)	(羊の羊毛のドレス)
+(alpaca wool left glove)	(アルパカの羊毛の左の手袋)
+(alpaca wool right glove)	(アルパカの羊毛の右の手袋)
+(llama wool trousers)	(ラマの羊毛のズボン)
+(cave spider silk left glove)	(洞窟グモの絹の左の手袋)
+(cave spider silk right glove)	(洞窟グモの絹の右の手袋)
+(llama wool shoe)	(ラマの羊毛の靴)
+(iron pick)	(鉄のつるはし)
+(copper battle axe)	(銅の戦斧)
+(iron anvil)	(鉄の金床)
+(plump helmet spawn)	(プランプヘルメットの胞子)
+(pig tail seeds)	(豚の尾の種)
+(cave wheat seeds)	(洞窟小麦種)
+(sweet pod seeds)	(スイートポッド種)
+(rock nuts)	(ロックナッツ)
+(dimple cup spawn)	(ディンプルカップの胞子)
+(prepared crundle lung [2])	(調理済みのクランドルの肺 [2])
+(cave fish, ♂ [5])	(洞窟魚, ♂ [5])
+(pig tail thread)	(豚の尾の糸)
+(pig tail cloth)	(豚の尾の布)
+(pig tail bag)	(ピッグテイルの袋)
+(pig tail rope)	(ピッグテイルのロープ)
+(large rat leather quiver)	(大鼠の革の矢筒)
+(bayberry wood bucket)	(ヤマモモ材のバケツ)
+(bayberry wood splint)	(ヤマモモ材の副木)
+(bayberry wood crutch)	(ヤマモモ材の松葉杖)
+(bayberry wood wheelbarrow)	(ヤマモモ材の手押し車)
+(bayberry wood stepladder)	(ヤマモモ材の脚立)
+(copper short sword)	(銅の短剣)
+(prepared crundle lung [5])	(調理済みのクランドルの肺 [5])
+cave spider silk web	洞窟グモの絹の糸の巣
+giant cave spider silk web	巨大洞窟グモの絹の糸の巣
+sheep monster silk web	羊の怪物の絹の糸の巣
+pterosaur fiend silk web	翼竜の悪鬼の絹の糸の巣
+(+bismuth bronze spear+)	(+ビスマス青銅の槍+)
+(«+copper blowgun+»)	(«+銅の吹き矢筒+»)
+(-bronze blowdarts [2]-)	(-青銅の吹き矢 [2]-)
+(+copper blowgun+)	(+銅の吹き矢筒+)
+(-bismuth bronze blowdarts [6]-)	(-ビスマス青銅の吹き矢 [6]-)
+(+steel blowgun+)	(+鋼の吹き矢筒+)
+(+steel blowdarts [4]+)	(+鋼の吹き矢 [4]+)
+(-steel blowgun-)	(-鋼の吹き矢筒-)
+(+steel spear+)	(+鋼の槍+)
+(«-steel blowgun-»)	(«-鋼の吹き矢筒-»)
+(+steel blowdarts [10]+)	(+鋼の吹き矢 [10]+)
+(plump helmet spawn Bag (giant cave spider silk))	(プランプヘルメットの胞子の袋（巨大洞窟グモの絹）)
+(pig tail seeds Bag (cave spider silk))	(豚の尾の種の袋（洞窟グモの絹）)
+(cave wheat seeds Bag (guineafowl leather))	(洞窟小麦種の袋（ホロホロチョウの革）)
+(sweet pod seeds Bag (dingo leather))	(スイートポッド種の袋（ディンゴの革）)
+(rock nuts Bag (sheep wool))	(ロックナッツの袋（羊の羊毛）)
+(dimple cup spawn Bag (llama wool))	(ディンプルカップの胞子の袋（ラマの羊毛）)
+(black-cap barrel)	(ブラックキャップの樽)
+(tunnel tube barrel)	(トンネルチューブの樽)
+(willow barrel)	(ヤナギの樽)
+(goblin-cap barrel)	(ゴブリンキャップの樽)
+(ginkgo wood barrel)	(イチョウ材の樽)
+(nether-cap barrel)	(ネザーキャップの樽)
+(fungiwood barrel)	(フンギウッドの樽)
+(Meat Barrel (almond wood))	(肉の樽（アーモンド材）)
+(Fish Barrel (bayberry wood))	(魚の樽（ヤマモモ材）)
+(apple wood barrel)	(リンゴ材の樽)
+(blood thorn)	(ブラッドソーン)
+troll mangled skeleton	トロールの損壊した骸骨
+{olm Remains}	{ホライモリの遺骸}
+{cave swallow Remains}	{ドウクツツバメの遺骸}
+plump helmet spawn	プランプヘルメットの胞子
+{cap hopper Remains}	{キャップホッパーの遺骸}
+{hamster Remains}	{ハムスターの遺骸}
+(sheep wool tunic)	(羊の羊毛のチュニック)
+(cow leather left glove)	(雌牛の革の左の手袋)
+(cow leather right glove)	(雌牛の革の右の手袋)
+(alpaca leather shoe)	(アルパカの革の靴)
+(mountain goat leather trousers)	(シロイワヤギの革のズボン)
+x(pig tail tunic)x	x(ピッグテイルのチュニック)x
+(pig tail left glove)	(ピッグテイルの左の手袋)
+(pig tail right glove)	(ピッグテイルの右の手袋)
+(giant cave spider silk sock)	(巨大洞窟グモの絹の靴下)
+(giant cave spider silk shoe)	(巨大洞窟グモの絹の靴)
+(pig tail dress)	(ピッグテイルのドレス)
+(chicken leather left glove)	(鶏の革の左の手袋)
+(chicken leather right glove)	(鶏の革の右の手袋)
+(alpaca wool tunic)	(アルパカの羊毛のチュニック)
+(giant cave spider silk left glove)	(巨大洞窟グモの絹の左の手袋)
+(giant cave spider silk right glove)	(巨大洞窟グモの絹の右の手袋)
+(donkey leather left glove)	(ロバの革の左の手袋)
+(donkey leather right glove)	(ロバの革の右の手袋)
+dragonfly Remains	トンボの遺骸
+kangaroo buck skeleton	カンガルー（雄）の骸骨
+(cat leather trousers)	(猫の革のズボン)
+(alpaca wool trousers)	(アルパカの羊毛のズボン)
+(cave spider silk dress)	(洞窟グモの絹のドレス)
+(cave spider silk sock)	(洞窟グモの絹の靴下)
+(giant cave spider silk trousers)	(巨大洞窟グモの絹のズボン)
+(alpaca wool dress)	(アルパカの羊毛のドレス)
+(naked mole dog leather shoe)	(ハダカモグラ犬の革の靴)
+raven corpse	ワタリガラスの死体
+jabberer skeleton	ジャバラーの骸骨
+kea mangled corpse	ケアの損壊した死体
+giant cave spider right first leg chitin	巨大洞窟グモの右の第1脚のキチン
+giant cave spider chitin	巨大洞窟グモのキチン
+giant olm skeleton	巨大ホライモリの骸骨
+(-bronze blowdart-)	(-青銅の吹き矢-)
+magma	マグマ
+hamster Remains	ハムスターの遺骸
+peach-faced lovebird Remains	コザクラインコの遺骸
+{Rotten creepy crawler Remains}	{腐ったクリーピークローラーの遺骸}
+microcline	微斜長石
+({giant cave spider silk trousers})	({巨大洞窟グモの絹のズボン})
+({groundhog leather tunic})	({ウッドチャックの革のチュニック})
+({mountain goat leather left glove})	({シロイワヤギの革の左の手袋})
+({mountain goat leather right glove})	({シロイワヤギの革の右の手袋})
+({pig tail sock})	({ピッグテイルの靴下})
+({giant cave spider silk shoe})	({巨大洞窟グモの絹の靴})
+({goat leather trousers})	({ヤギの革のズボン})
+({llama wool dress})	({ラマの羊毛のドレス})
+({black bear leather left glove})	({クロクマの革の左の手袋})
+({black bear leather right glove})	({クロクマの革の右の手袋})
+({sheep wool sock})	({羊の羊毛の靴下})
+({groundhog leather shoe})	({ウッドチャックの革の靴})
+({-steel mace-})	({-鋼のメイス-})
+({-iron shield-})	({-鉄の盾-})
+({-copper helm-})	({-銅の兜-})
+({-hoary marmot leather trousers-})	({-シラガマーモットの革のズボン-})
+({-steel chain leggings-})	({-鋼の鎖のレギンス-})
+({+pig tail tunic+})	({+ピッグテイルのチュニック+})
+({-bismuth bronze mail shirt-})	({-ビスマス青銅の鎖帷子-})
+({-skunk leather left glove-})	({-スカンクの革の左の手袋-})
+({-bismuth bronze left gauntlet-})	({-ビスマス青銅の左の篭手-})
+({-skunk leather right glove-})	({-スカンクの革の右の手袋-})
+({+bismuth bronze right gauntlet+})	({+ビスマス青銅の右の篭手+})
+({«+alpaca wool sock+»})	({«+アルパカの羊毛の靴下+»})
+({-copper high boot-})	({-銅のハイブーツ-})
+({+alpaca wool sock+})	({+アルパカの羊毛の靴下+})
+({«-copper high boot-»})	({«-銅のハイブーツ-»})
+({-silver battle axe-})	({-銀の戦斧-})
+({+«+steel shield+»+})	({+«+鋼の盾+»+})
+({+pig tail trousers+})	({+ピッグテイルのズボン+})
+({+bismuth bronze chain leggings+})	({+ビスマス青銅の鎖のレギンス+})
+({+pig tail dress+})	({+ピッグテイルのドレス+})
+({+bismuth bronze mail shirt+})	({+ビスマス青銅の鎖帷子+})
+({-pig tail left glove-})	({-ピッグテイルの左の手袋-})
+({+steel left gauntlet+})	({+鋼の左の篭手+})
+({+pig tail right glove+})	({+ピッグテイルの右の手袋+})
+({+steel right gauntlet+})	({+鋼の右の篭手+})
+({+giant cave spider silk sock+})	({+巨大洞窟グモの絹の靴下+})
+({+steel high boot+})	({+鋼のハイブーツ+})
+({«+giant cave spider silk sock+»})	({«+巨大洞窟グモの絹の靴下+»})
+(garden cress leaves [5])	(ガーデンクレス葉 [5])
+(plump helmets [5])	(プランプヘルメット [5])
+(prepared giant earthworm intestines [5])	(調理済みの巨大ミミズの腸 [5])
+(muskmelons [5])	(マスクメロン [5])
+(raspberries [5])	(ラズベリー [5])
+(prepared elk bird spleen [5])	(調理済みのエルクバードの脾臓 [5])
+(pond turtle, ♀ [5])	(ヨーロッパヌマガメ, ♀ [5])
+(prepared water buffalo kidney [5])	(調理済みの水牛の腎臓 [5])
+(apple wood)	(リンゴ材)
+(horse cheese [5])	(馬のチーズ [5])
+(willow)	(ヤナギ)
+(spore tree)	(胞子の木)
+(persimmon wood)	(柿材)
+(fungiwood)	(フンギウッド)
+(plum wood)	(スモモ材)
+(almond wood)	(アーモンド材)
+(peach wood)	(桃材)
+(quarry bush leaves [5])	(クァリーブッシュ葉 [5])
+(drunian sweetbread [5])	(ドルーニアンの胸腺 [5])
+(pine)	(松)
+(cave lobster, ♀ [5])	(洞窟ロブスター, ♀ [5])
+(goblin-cap)	(ゴブリンキャップ)
+(+copper cap+)	(+銅の帽子+)
+(Cloth Bin (almond wood))	(布の収納箱（アーモンド材）)
+(steel greaves)	(鋼のすね当て)
+(-cave spider silk shoe-)	(-洞窟グモの絹の靴-)
+(-bismuth bronze high boot-)	(-ビスマス青銅のハイブーツ-)
+(-«giant cave spider silk vest»-)	(-«巨大洞窟グモの絹のベスト»-)
+(giant cave spider silk cloak)	(巨大洞窟グモの絹の外套)
+(-apple wood training axe-)	(-リンゴ材の訓練用斧-)
+(alpaca cheese [5])	(アルパカチーズ [5])
+(-«bronze cap»-)	(-«青銅の帽子»-)
+(-bismuth bronze low boot-)	(-ビスマス青銅のローブーツ-)
+(Cloth Bin (bayberry wood))	(布の収納箱（ヤマモモ材）)
+(giant cave spider silk cloth)	(巨大洞窟グモの絹の布)
+(cave spider silk cloth)	(洞窟グモの絹の布)
+(-dingo leather waterskin-)	(-ディンゴの革の水袋-)
+(steel anvil)	(鋼の金床)
+(+copper helm+)	(+銅の兜+)
+(dolomite blocks)	(苦灰岩のブロック)
+(pig tail cloak)	(ピッグテイルの外套)
+(Cloth Bin (birchen))	(布の収納箱（カバノキ材）)
+(alpaca wool cloth)	(アルパカの羊毛の布)
+(sheep wool cloth)	(羊の羊毛の布)
+(llama wool cloth)	(ラマの羊毛の布)
+(bismuth bronze mail shirt)	(ビスマス青銅の鎖帷子)
+(-alpaca wool sock-)	(-アルパカの羊毛の靴下-)
+(«*wombat leather right mitten*»)	(«*ウォンバットの革の右のミトン*»)
+(«*wombat leather left mitten*»)	(«*ウォンバットの革の左のミトン*»)
+(Cloth Bin (black-cap))	(布の収納箱（ブラックキャップ）)
+(-pig tail tunic-)	(-ピッグテイルのチュニック-)
+(-pig tail robe-)	(-ピッグテイルのローブ-)
+(bronze cap)	(青銅の帽子)
+(«pig tail right mitten»)	(«ピッグテイルの右のミトン»)
+(«pig tail left mitten»)	(«ピッグテイルの左のミトン»)
+(Cloth Bin (blood thorn))	(布の収納箱（ブラッドソーン）)
+(blueberries [5])	(ブルーベリー [5])
+(rock nuts Bag (cave spider silk))	(ロックナッツの袋（洞窟グモの絹）)
+(persimmon wood barrel)	(柿材の樽)
+(chicken leather quiver)	(鶏の革の矢筒)
+(almond wood barrel)	(アーモンド材の樽)
+(sheep wool yarn)	(羊の羊毛の毛糸)
+(copper helm)	(銅の兜)
+(single cut prase opals)	(シングルカットのプレーズオパール)
+(raccoon leather backpack)	(アライグマの革の背嚢)
+(billon bars)	(ビロンの延べ棒)
+(bismuth bronze chain leggings)	(ビスマス青銅の鎖のレギンス)
+(black sand Bag (cave spider silk))	(黒砂の袋（洞窟グモの絹）)
+(black sand)	(黒砂)
+(giant mole leather backpack)	(巨大モグラの革の背嚢)
+(copper shield)	(銅の盾)
+(cave lobster, ♂ [5])	(洞窟ロブスター, ♂ [5])
+(+large, serrated bronze disc+)	(+大型の鋸状の青銅の円盤+)
+(+«cave spider silk bag»+)	(+«洞窟グモの絹の袋»+)
+(alpaca wool yarn)	(アルパカの羊毛の毛糸)
+(reindeer parchment sheet)	(トナカイの羊皮紙の紙)
+(dwarven beer Barrel (tower-cap))	(ドワーフのビールの樽（タワーキャップ）)
+(dwarven beer [25])	(ドワーフのビール [25])
+(pig iron bars)	(銑鉄の延べ棒)
+(fire clay)	(耐火粘土)
+(dwarven wine Barrel (pine))	(ドワーフのワインの樽（松）)
+(dwarven wine [25])	(ドワーフのワイン [25])
+(sweet pod seeds Bag (cave spider silk))	(スイートポッド種の袋（洞窟グモの絹）)
+(«-purring maggot leather quiver-»)	(«-ゴロゴロウジの革の矢筒-»)
+(bilberries [5])	(ビルベリー [5])
+(-«spore tree crutch»-)	(-«胞子の木の松葉杖»-)
+(yak cheese [5])	(ヤクチーズ [5])
+(prepared bat brain [5])	(調理済みのコウモリの脳 [5])
+(«-iron buckler-»)	(«-鉄のバックラー-»)
+(-porcupine leather bag-)	(-ヤマアラシの革の袋-)
+(llama wool yarn)	(ラマの羊毛の毛糸)
+(+pig tail right glove+)	(+ピッグテイルの右の手袋+)
+(+pig tail left glove+)	(+ピッグテイルの左の手袋+)
+(anhydrite blocks)	(硬石膏のブロック)
+(llama wool bag)	(ラマの羊毛の袋)
+(-crystal glass rintor-)	(-crystal glass rintor-)
+(bitter vetch leaves [5])	(ビターベッチ葉 [5])
+(-alpaca wool loincloth-)	(-アルパカの羊毛の腰布-)
+(*zinc cage*)	(*亜鉛の檻*)
+(-«pig tail bag»-)	(-«ピッグテイルの袋»-)
+(pond grabber parchment sheet)	(ポンドグラバーの羊皮紙の紙)
+(chert blocks)	(チャートのブロック)
+(+«-bronze buckler-»+)	(+«-青銅のバックラー-»+)
+(black bronze bars)	(黒青銅の延べ棒)
+(«alpaca wool tunic»)	(«アルパカの羊毛のチュニック»)
+(white sand Bag (sheep wool))	(白砂の袋（羊の羊毛）)
+(white sand)	(白砂)
+(goose parchment sheet)	(ガチョウの羊皮紙の紙)
+(lettuce leaves [5])	(レタス葉 [5])
+(«large rat leather backpack»)	(«大鼠の革の背嚢»)
+(-«-bismuth bronze short sword-»-)	(-«-ビスマス青銅の短剣-»-)
+(-nether-cap crutch-)	(-ネザーキャップの松葉杖-)
+(donkey cheese [5])	(ロバチーズ [5])
+(cave spider silk thread)	(洞窟グモの絹の糸)
+(+tin cage+)	(+錫の檻+)
+(-«giant cave spider silk rope»-)	(-«巨大洞窟グモの絹のロープ»-)
+(chopped giant olm liver [5])	(刻んだ巨大ホライモリのレバー [5])
+(-«almond wood training sword»-)	(-«アーモンド材の訓練用短剣»-)
+(-peach wood bucket-)	(-桃材のバケツ-)
+(table cut bone opals)	(テーブルカットのボーンオパール)
+(+cougar leather bag+)	(+ピューマの革の袋+)
+(silty clay)	(シルト質粘土)
+(alpaca leather backpack)	(アルパカの革の背嚢)
+(-bronze crossbow-)	(-青銅のクロスボウ-)
+(-«ginkgo wood chest»-)	(-«イチョウ材の宝箱»-)
+(«-green glass rintor-»)	(«-green glass rintor-»)
+(-«bismuth bronze puzzlebox»-)	(-«ビスマス青銅のパズル箱»-)
+(-«-mule leather quiver-»-)	(-«-ラバの革の矢筒-»-)
+(«menacing copper spike»)	(«威嚇する銅のスパイク»)
+(+«-llama wool sock-»+)	(+«-ラマの羊毛の靴下-»+)
+(*steel pick*)	(*鋼のつるはし*)
+(bronze crossbow)	(青銅のクロスボウ)
+(prepared dingo kidney [5])	(調理済みのディンゴの腎臓 [5])
+(pond grabber leather waterskin)	(ポンドグラバーの革の水袋)
+(-«bronze crossbow»-)	(-«青銅のクロスボウ»-)
+(white sand Bag (alpaca wool))	(白砂の袋（アルパカの羊毛）)
+(«-pine barrel-»)	(«-松の樽-»)
+(raw crystal glass)	(生の水晶ガラス)
+(«-blood thorn crutch-»)	(«-ブラッドソーンの松葉杖-»)
+(-bismuth bronze pick-)	(-ビスマス青銅のつるはし-)
+(+bismuth bronze toy boat+)	(+ビスマス青銅のおもちゃの船+)
+(sheep tripe [5])	(羊の胃袋 [5])
+(cave fish, ♀ [5])	(洞窟魚, ♀ [5])
+(-llama wool rope-)	(-ラマの羊毛のロープ-)
+(+alpaca wool rope+)	(+アルパカの羊毛のロープ+)
+(«-large cushion cut kunzite-»)	(«-大きなクッションカットのクンツァイト-»)
+(dwarven rum Barrel (persimmon wood))	(ドワーフのラム酒の樽（柿材）)
+(dwarven rum [25])	(ドワーフのラム酒 [25])
+(black bear leather quiver)	(クロクマの革の矢筒)
+(copper bars)	(銅の延べ棒)
+(«+spore tree barrel+»)	(«+胞子の木の樽+»)
+(platinum bars)	(白金の延べ棒)
+(giant cave swallow meat [5])	(巨大ドウクツツバメの肉 [5])
+(-«-cave spider silk rope-»-)	(-«-洞窟グモの絹のロープ-»-)
+(-goblin-cap bucket-)	(-ゴブリンキャップのバケツ-)
+(trillion cut yellow grossulars)	(トリリアントカットの黄グロッシュラー)
+(prepared horse spleen [5])	(調理済みの馬の脾臓 [5])
+(-«-black-cap bucket-»-)	(-«-ブラックキャップのバケツ-»-)
+(clay)	(粘土)
+(-«-alpaca wool rope-»-)	(-«-アルパカの羊毛のロープ-»-)
+(lay pewter bars)	(並ピューターの延べ棒)
+(-pig tail rope-)	(-ピッグテイルのロープ-)
+sparrow Remains	スズメの遺骸
+{rat Remains}	{鼠の遺骸}
+copper bars	銅の延べ棒
+Enolrilem, The Grizzly Youth (Door)	Enolrilem, The Grizzly Youth (Door)
+Imush Melbilsulus "Tomescraters", Miner	Imush Melbilsulus "Tomescraters", 鉱夫
+Miner	鉱夫
+dwarves	ドワーフ
+DWARF	ドワーフ
+Melbil Aludamost "Brothertowns", Planter	Melbil Aludamost "Brothertowns", 植え付け係
+Planter	植え付け係
+Reg Monangkeskal "Drillshot", Woodworker	Reg Monangkeskal "Drillshot", 木工職人
+Woodworker	木工職人
+Sigun Aranolin "Sculpttongs", Metalcrafter	Sigun Aranolin "Sculpttongs", 金属細工師
+Metalcrafter	金属細工師
+Udil Nokimzuglar "Ochreships", Fisherdwarf	Udil Nokimzuglar "Ochreships", 漁師
+Fisherdwarf	漁師
+Stodir Shamebrigòth "Handledcrafts", Mason	Stodir Shamebrigòth "Handledcrafts", 石工
+Mason	石工
+Nish Zasitnakas "Knifeenjoyed", expedition leader	Nish Zasitnakas "Knifeenjoyed", 遠征隊長
+expedition leader	遠征隊長
+Yak Bull (tame)	ヤク（雄）（飼い慣らされた）
+Yak Bull	ヤク（雄）
+yaks	ヤク
+YAK	ヤク
+Dog (tame)	犬（飼い慣らされた）
+Dog	犬
+dogs	犬
+DOG	犬
+Asob Saziratol "Bridgedtruths", Cat (tame)	Asob Saziratol "Bridgedtruths"、猫（飼い慣らされた）
+Cat	猫
+cats	猫
+CAT	猫
+Cat (tame)	猫（飼い慣らされた）
+Sow (tame)	雌豚（飼い慣らされた）
+Sow	雌豚
+pigs	豚
+PIG	豚
+Gander (tame)	ガチョウ（雄）（飼い慣らされた）
+Gander	ガチョウ（雄）
+geese	ガチョウ
+BIRD_GOOSE	BIRD_GOOSE
+Yak Cow (tame)	ヤク（雌）（飼い慣らされた）
+Yak Cow	ヤク（雌）
+Troll	トロール
+trolls	トロール
+TROLL	トロール
+Worker Ant Woman Spearman	Worker Ant Woman Spearman
+antmen	アリ男
+ANT_MAN	ANT_MAN
+Worker Ant Woman Blowgunner	Worker Ant Woman Blowgunner
+Magma Crab	マグマガニ
+magma crabs	マグマガニ
+MAGMA_CRAB	MAGMA_CRAB
+Kadol Idèrith "Rockslabors", Miner	Kadol Idèrith "Rockslabors", 鉱夫
+Ral Gusgashathel "Stokeringed", Shearer	Ral Gusgashathel "Stokeringed", 毛刈り職人
+Shearer	毛刈り職人
+Olon Ungòbcatten "Aquachannel", Engraver	Olon Ungòbcatten "Aquachannel", 彫刻師
+Engraver	彫刻師
+Reindeer Bull (tame)	トナカイ（雄）（飼い慣らされた）
+Reindeer Bull	トナカイ（雄）
+reindeer	トナカイ
+REINDEER	トナカイ
+Ingish Atulstâkud "Fordmachine", Woodcrafter	Ingish Atulstâkud "Fordmachine", 木工職人
+Woodcrafter	木工職人
+Atír Urdimushul "Towerrealms", Blacksmith	Atír Urdimushul "Towerrealms", 鍛冶師
+Blacksmith	鍛冶師
+Floating Guts	浮遊する臓物
+floating guts	浮遊する臓物
+FLOATING_GUTS	FLOATING_GUTS
+Bull (tame)	雄牛（飼い慣らされた）
+Bull	雄牛
+cows	雌牛
+COW	雌牛
+Kangaroo Buck	カンガルー（雄）
+kangaroos	カンガルー
+KANGAROO	カンガルー
+Yak Calf (tame)	ヤクの子（飼い慣らされた）
+Yak Calf	ヤクの子
+Raven	ワタリガラス
+ravens	ワタリガラス
+BIRD_RAVEN	BIRD_RAVEN
+Zaneg ôsustkikrost "Tamestockades", Bowyer	Zaneg ôsustkikrost "Tamestockades", 弓職人
+Bowyer	弓職人
+Nish Rungakedëm "Skunkkey", Jeweler	Nish Rungakedëm "Skunkkey", 宝石職人
+Jeweler	宝石職人
+Kivish Asënkodor "Graveldawn", Blacksmith	Kivish Asënkodor "Graveldawn", 鍛冶師
+Edzul Akrulsezuk "Tinslaps", Carpenter	Edzul Akrulsezuk "Tinslaps", 大工
+Carpenter	大工
+Jabberer	ジャバラー
+jabberers	ジャバラー
+JABBERER	ジャバラー
+Kea	ケア
+kea	ケア
+BIRD_KEA	BIRD_KEA
+Cavy Sow (tame)	テンジクネズミ（雌）（飼い慣らされた）
+Cavy Sow	テンジクネズミ（雌）
+cavies	テンジクネズミ
+CAVY	テンジクネズミ
+Cavy Boar (tame)	テンジクネズミ（雄）（飼い慣らされた）
+Cavy Boar	テンジクネズミ（雄）
+Reindeer Cow (tame)	トナカイ（雌）（飼い慣らされた）
+Reindeer Cow	トナカイ（雌）
+Tiger (tame)	虎（飼い慣らされた）
+Tiger	虎
+tigers	虎
+TIGER	虎
+Opossum (tame)	オポッサム（飼い慣らされた）
+Opossum	オポッサム
+opossums	オポッサム
+OPOSSUM	オポッサム
+Giant Cave Spider	巨大洞窟グモ
+giant cave spiders	巨大洞窟グモ
+SPIDER_CAVE_GIANT	SPIDER_CAVE_GIANT
+Fire Imp	ファイアインプ
+fire imps	ファイアインプ
+IMP_FIRE	IMP_FIRE
+Giant Olm	巨大ホライモリ
+giant olms	巨大ホライモリ
+OLM_GIANT	OLM_GIANT
+Sheep Monster	羊の怪物
+sheep monsters	羊の怪物
+DEMON_9	DEMON_9
+Troglodyte	トログロダイト
+troglodytes	トログロダイト
+TROGLODYTE	トログロダイト
+Kikrost Letmosnisgak "Cobaltfrost", Merchant	Kikrost Letmosnisgak "Cobaltfrost", 商人
+Merchant	商人
+Deler Olonrag "Gearedclapped", Macedwarf	Deler Olonrag "Gearedclapped", メイス使い
+Macedwarf	メイス使い
+Dôbar Dodókozsit "Claspcrabs", Merchant	Dôbar Dodókozsit "Claspcrabs", 商人
+Såkzul Ugutkel "Tautmetals", Axedwarf	Såkzul Ugutkel "Tautmetals", 斧使い
+Axedwarf	斧使い
+Reacher	リーチャー
+reachers	リーチャー
+REACHER	リーチャー
+Wagon	荷馬車
+Trade Depot	交易所
+Metalsmith's Forge	鍛冶場
+single-grain wheat	ヒトツブコムギ
+single-grain wheat leaf	ヒトツブコムギの葉
+two-grain wheat	フタツブコムギ
+two-grain wheat leaf	フタツブコムギの葉
+soft wheat	軟質小麦
+soft wheat leaf	軟質小麦の葉
+hard wheat	硬質小麦
+hard wheat leaf	硬質小麦の葉
+spelt	スペルト小麦
+spelt leaf	スペルト小麦の葉
+barley	大麦
+barley leaf	大麦の葉
+buckwheat	ソバ
+buckwheat leaf	ソバの葉
+buckwheat flower	ソバの花
+oat	オート麦
+oats	オート麦
+oat leaf	オート麦の葉
+alfalfa	アルファルファ
+alfalfa leaf	アルファルファの葉
+alfalfa flower cluster	アルファルファの花房
+rye	ライ麦
+rye leaf	ライ麦の葉
+sorghum	モロコシ
+sorghum leaf	モロコシの葉
+sorghum flower cluster	モロコシの花房
+rice plant	稲
+rice plants	稲
+rice leaf	稲の葉
+maize plant	トウモロコシ
+maize plants	トウモロコシ
+maize leaf	トウモロコシの葉
+quinoa	キヌア
+quinoa leaf	キヌアの葉
+quinoa flower	キヌアの花
+kaniwa	カニワ
+kaniwa leaf	カニワの葉
+kaniwa flower	カニワの花
+bitter vetch	ビターベッチ
+bitter vetch leaf	ビターベッチの葉
+bitter vetch flower	ビターベッチの花
+bitter vetch pod	ビターベッチのさや
+pendant amaranth	ヒモゲイトウ
+pendant amaranths	ヒモゲイトウ
+pendant amaranth leaf	ヒモゲイトウの葉
+pendant amaranth inflorescence	ヒモゲイトウの花序
+blood amaranth	ブラッドアマランサス
+blood amaranths	ブラッドアマランサス
+blood amaranth leaf	ブラッドアマランサスの葉
+blood amaranth inflorescence	ブラッドアマランサスの花序
+purple amaranth	ムラサキアマランサス
+purple amaranths	ムラサキアマランサス
+purple amaranth leaf	ムラサキアマランサスの葉
+purple amaranth inflorescence	ムラサキアマランサスの花序
+red spinach	ヒユナ
+red spinach leaf	ヒユナの葉
+red spinach inflorescence	ヒユナの花序
+elephant-head amaranth	エレファントヘッドアマランサス
+elephant-head amaranths	エレファントヘッドアマランサス
+elephant-head amaranth leaf	エレファントヘッドアマランサスの葉
+elephant-head amaranth inflorescence	エレファントヘッドアマランサスの花序
+pearl millet plant	トウジンビエ
+pearl millet plants	トウジンビエ
+pearl millet leaf	トウジンビエの葉
+white millet plant	キビ
+white millet plants	キビ
+white millet leaf	キビの葉
+finger millet plant	シコクビエ
+finger millet plants	シコクビエ
+finger millet leaf	シコクビエの葉
+foxtail millet plant	アワ
+foxtail millet plants	アワ
+foxtail millet leaf	アワの葉
+fonio plant	フォニオ
+fonio plants	フォニオ
+fonio leaf	フォニオの葉
+teff plant	テフ
+teff plants	テフ
+teff leaf	テフの葉
+flax plant	亜麻
+flax plants	亜麻
+flax leaf	亜麻の葉
+flax flower	亜麻の花
+jute plant	ジュート
+jute plants	ジュート
+jute leaf	ジュートの葉
+jute flower	ジュートの花
+hemp plant	麻
+hemp plants	麻
+hemp leaf	麻の葉
+cotton plant	綿
+cotton plants	綿
+cotton leaf	綿の葉
+cotton flower	綿の花
+ramie plant	ラミー
+ramie plants	ラミー
+ramie leaf	ラミーの葉
+kenaf plant	ケナフ
+kenaf plants	ケナフ
+kenaf leaf	ケナフの葉
+kenaf flower	ケナフの花
+papyrus sedge	パピルス
+papyrus sedges	パピルス
+papyrus leaf	パピルスの葉
+papyrus flower cluster	パピルスの花房
+artichoke	アーティチョーク
+artichokes	アーティチョーク
+artichoke leaf	アーティチョークの葉
+artichoke heart	アーティチョークの芯
+artichoke flower	アーティチョークの花
+asparagus	アスパラガス
+asparagus leaf	アスパラガスの葉
+asparagus flower	アスパラガスの花
+asparagus berry	アスパラガスの実
+bambara groundnut plant	バンバラマメの株
+bambara groundnut plants	バンバラマメの株
+bambara groundnut leaf	バンバラマメの葉
+bambara groundnut flower	バンバラマメの花
+bambara groundnut pod	バンバラマメの莢
+string bean plant	インゲン豆
+string bean plants	インゲン豆
+string bean leaf	インゲン豆の葉
+string bean flower	インゲン豆の花
+string bean pod	インゲン豆のさや
+broad bean plant	ソラマメ
+broad bean plants	ソラマメ
+broad bean leaf	ソラマメの葉
+broad bean flower	ソラマメの花
+broad bean pod	ソラマメのさや
+beet plant	ビート
+beet plants	ビート
+beet leaf	ビートの葉
+beet flower spike	ビートの花穂
+bitter melon vine	ゴーヤのつる
+bitter melon vines	ゴーヤのつる
+bitter melon leaf	ゴーヤの葉
+bitter melon flower	ゴーヤの花
+bitter melon	ゴーヤ
+cabbage	キャベツ
+cabbages	キャベツ
+cabbage leaf	キャベツの葉
+cabbage flower spike	キャベツの花穂
+caper bush	ケッパーの茂み
+caper bushes	ケッパーの茂み
+caper leaf	ケッパーの葉
+caper	ケッパー
+caper flower	ケッパーの花
+caper berry	ケッパーベリー
+wild carrot plant	野生ニンジン
+wild carrot plants	野生ニンジン
+carrot leaf	ニンジンの葉
+carrot umbel	ニンジンの花
+cassava	キャッサバ
+cassavas	キャッサバ
+cassava leaf	キャッサバの葉
+cassava flower	キャッサバの花
+celery	セロリ
+celery leaf	セロリの葉
+celery umbel	セロリの花
+chickpea plant	ヒヨコマメ
+chickpea plants	ヒヨコマメ
+chickpea leaf	ヒヨコマメの葉
+chickpea flower	ヒヨコマメの花
+chickpea pod	ヒヨコマメのさや
+chicory	チコリ
+chicory leaf	チコリの葉
+chicory flower	チコリの花
+cowpea plant	ササゲ
+cowpea plants	ササゲ
+cowpea leaf	ササゲの葉
+cowpea flower	ササゲの花
+cowpea pod	ササゲのさや
+cucumber vine	キュウリのつる
+cucumber vines	キュウリのつる
+cucumber leaf	キュウリの葉
+cucumber flower	キュウリの花
+cucumber	キュウリ
+eggplant	ナス
+eggplants	ナス
+eggplant leaf	ナスの葉
+eggplant flower	ナスの花
+garden cress	ガーデンクレス
+garden cress leaf	ガーデンクレスの葉
+garden cress raceme	ガーデンクレスの花房
+garlic plant	ニンニク
+garlic plants	ニンニク
+garlic leaf	ニンニクの葉
+garlic flower	ニンニクの花
+garlic bulb	ニンニクの球根
+horned melon vine	キワノのつる
+horned melon vines	キワノのつる
+horned melon leaf	キワノの葉
+horned melon flower	キワノの花
+horned melon	キワノ
+leek	リーキ
+leeks	リーキ
+leek leaf	リーキの葉
+leek flower	リーキの花
+lentil plant	レンズ豆
+lentil plants	レンズ豆
+lentil leaf	レンズ豆の葉
+lentil flower	レンズ豆の花
+lentil pod	レンズ豆のさや
+lettuce	レタス
+lettuces	レタス
+lettuce leaf	レタスの葉
+lettuce flower stalk	レタスの花茎
+mung bean plant	緑豆
+mung bean plants	緑豆
+mung bean leaf	緑豆の葉
+mung bean flower	緑豆の花
+mung bean pod	緑豆のさや
+muskmelon vine	マスクメロンのつる
+muskmelon vines	マスクメロンのつる
+muskmelon leaf	マスクメロンの葉
+muskmelon flower	マスクメロンの花
+muskmelon	マスクメロン
+onion plant	タマネギ
+onion plants	タマネギ
+onion leaf	タマネギの葉
+onion umbel	タマネギの花
+onion	タマネギ
+parsnip plant	パースニップ
+parsnip plants	パースニップ
+parsnip leaf	パースニップの葉
+parsnip umbel	パースニップの花
+pea plant	エンドウ
+pea plants	エンドウ
+pea leaf	エンドウの葉
+pea flower	エンドウの花
+pea pod	エンドウのさや
+peanut plant	落花生
+peanut plants	落花生
+peanut leaf	落花生の葉
+peanut flower	落花生の花
+peanut pod	落花生のさや
+pepper plant	トウガラシ
+pepper plants	トウガラシ
+pepper leaf	トウガラシの葉
+pepper flower	トウガラシの花
+pepper	トウガラシ
+potato plant	ジャガイモ
+potato plants	ジャガイモ
+potato leaf	ジャガイモの葉
+potato flower	ジャガイモの花
+radish plant	ラディッシュ
+radish plants	ラディッシュ
+radish leaf	ラディッシュの葉
+radish raceme	ラディッシュの花房
+red bean vine	小豆のつる
+red bean vines	小豆のつる
+red bean leaf	小豆の葉
+red bean flower	小豆の花
+red bean pod	小豆のさや
+rhubarb	ルバーブ
+rhubarbs	ルバーブ
+rhubarb leaf	ルバーブの葉
+rhubarb inflorescence	ルバーブの花序
+soybean plant	大豆
+soybean plants	大豆
+soybean leaf	大豆の葉
+soybean flower	大豆の花
+soybean pod	大豆のさや
+spinach	ホウレンソウ
+spinach leaf	ホウレンソウの葉
+spinach flower	ホウレンソウの花
+squash vine	カボチャのつる
+squash vines	カボチャのつる
+squash leaf	カボチャの葉
+squash flower	カボチャの花
+squash	カボチャ
+sweet potato plant	サツマイモ
+sweet potato plants	サツマイモ
+sweet potato leaf	サツマイモの葉
+sweet potato flower	サツマイモの花
+taro	タロイモ
+taro leaf	タロイモの葉
+taro flower	タロイモの花
+tomato plant	トマト
+tomato plants	トマト
+tomato leaf	トマトの葉
+tomato flower	トマトの花
+tomato	トマト
+tomatillo plant	トマティーヨ
+tomatillo plants	トマティーヨ
+tomatillo leaf	トマティーヨの葉
+tomatillo flower	トマティーヨの花
+tomatillo	トマティーヨ
+turnip plant	カブ
+turnip plants	カブ
+turnip leaf	カブの葉
+turnip flower	カブの花
+urad bean plant	ケツルアズキ
+urad bean plants	ケツルアズキ
+urad bean leaf	ケツルアズキの葉
+urad bean flower	ケツルアズキの花
+urad bean pod	ケツルアズキのさや
+watermelon vine	スイカのつる
+watermelon vines	スイカのつる
+watermelon leaf	スイカの葉
+watermelon flower	スイカの花
+watermelon	スイカ
+winter melon vine	トウガンのつる
+winter melon vines	トウガンのつる
+winter melon leaf	トウガンの葉
+winter melon flower	トウガンの花
+winter melon	トウガン
+lesser yam plant	トゲドコロ
+lesser yam plants	トゲドコロ
+lesser yam leaf	トゲドコロの葉
+lesser yam flower	トゲドコロの花
+long yam plant	ナガイモ
+long yam plants	ナガイモ
+long yam leaf	ナガイモの葉
+long yam flower	ナガイモの花
+purple yam plant	ダイジョ
+purple yam plants	ダイジョ
+purple yam leaf	ダイジョの葉
+purple yam flower	ダイジョの花
+white yam plant	ホワイトヤム
+white yam plants	ホワイトヤム
+white yam leaf	ホワイトヤムの葉
+white yam flower	ホワイトヤムの花
+passion fruit vine	パッションフルーツのつる
+passion fruit vines	パッションフルーツのつる
+passion fruit leaf	パッションフルーツの葉
+passion fruit flower	パッションフルーツの花
+passion fruit	パッションフルーツ
+grape vine	ブドウのつる
+grape vines	ブドウのつる
+grape leaf	ブドウの葉
+grape inflorescence	ブドウの花序
+grape	ブドウ
+cranberry vine	クランベリーのつる
+cranberry vines	クランベリーのつる
+cranberry leaf	クランベリーの葉
+cranberry flower	クランベリーの花
+cranberry	クランベリー
+bilberry bush	ビルベリーの茂み
+bilberry bushes	ビルベリーの茂み
+bilberry leaf	ビルベリーの葉
+bilberry flower	ビルベリーの花
+bilberry	ビルベリー
+blueberry bush	ブルーベリーの茂み
+blueberry bushes	ブルーベリーの茂み
+blueberry leaf	ブルーベリーの葉
+blueberry flower	ブルーベリーの花
+blueberry	ブルーベリー
+blackberry bush	ブラックベリーの茂み
+blackberry bushes	ブラックベリーの茂み
+blackberry leaf	ブラックベリーの葉
+blackberry flower	ブラックベリーの花
+blackberry	ブラックベリー
+raspberry bush	ラズベリーの茂み
+raspberry bushes	ラズベリーの茂み
+raspberry leaf	ラズベリーの葉
+raspberry flower	ラズベリーの花
+raspberry	ラズベリー
+pineapple plant	パイナップル
+pineapple plants	パイナップル
+pineapple leaf	パイナップルの葉
+pineapple flower	パイナップルの花
+pineapple	パイナップル
+meadow-grass	イチゴツナギ
+hair grass	ヘアグラス
+bentgrass	ベントグラス
+ryegrass	ライグラス
+fescue grass	フェスク
+reedgrass	ノガリヤス
+knotgrass	ミチヤナギ
+zoysia	シバ
+dog's tooth grass	ギョウギシバ
+dallisgrass	ダリスグラス
+carpetgrass	カーペットグラス
+satintail	チガヤ
+grama	グラマ
+dropseed grass	ドロップシード
+needle grass	ニードルグラス
+baby toes succulent	五十鈴玉
+baby toes succulents	五十鈴玉
+baby toes succulent bud	五十鈴玉のつぼみ
+baby toes succulent flower	五十鈴玉の花
+pebble plant	ペブルプラント
+pebble plants	ペブルプラント
+pebble plant bud	ペブルプラントのつぼみ
+pebble plant flower	ペブルプラントの花
+blue sedge	ブルーセッジ
+field sedge	フィールドセッジ
+purple moor grass	ヌマガヤ
+velvet grass	シラゲガヤ
+meadowsweet	セイヨウナツユキソウ
+meadowsweet bud	メドウスイートのつぼみ
+meadowsweet flower	メドウスイートの花
+rush	イグサ
+rushes	イグサ
+rush bud	イグサのつぼみ
+rush flower	イグサの花
+marsh thistle	ヌマアザミ
+marsh thistles	ヌマアザミ
+marsh thistle bud	ヌマアザミのつぼみ
+marsh thistle flower	ヌマアザミの花
+common reed	ヨシ
+common reeds	ヨシ
+cattail	ガマ
+cattails	ガマ
+sawgrass	ヒトモトススキ
+cottongrass	ワタスゲ
+cottongrass bud	ワタスゲのつぼみ
+cottongrass tuft	ワタスゲの綿毛
+white mountain heather	イワヒゲ
+mountain avens	チョウノスケソウ
+mountain avens bud	チョウノスケソウのつぼみ
+mountain avens flower	チョウノスケソウの花
+cloudberry	クラウドベリー
+cloudberries	クラウドベリー
+cloudberry bud	クラウドベリーのつぼみ
+cloudberry flower	クラウドベリーの花
+wormy tendril	ワーミーテンドリル
+wormy tendrils	ワーミーテンドリル
+staring eyeball	見つめる目玉
+staring eyeballs	見つめる目玉
+bubble bulb	バブルバルブ
+bubble bulbs	バブルバルブ
+downy grass	ダウニーグラス
+cave moss	洞窟苔
+floor fungus	床菌
+floor fungi	床菌
+underlichen	地下地衣類
+arrow bamboo	ヤダケ
+golden bamboo	ホテイチク
+hedge bamboo	ホウライチク
+abaca tree	アバカの木
+abaca trees	アバカの木
+abaca leaf	アバカの葉
+abaca flower	アバカの花
+banana tree	バナナの木
+banana trees	バナナの木
+banana leaf	バナナの葉
+banana flower	バナナの花
+banana	バナナ
+carambola tree	スターフルーツの木
+carambola trees	スターフルーツの木
+carambola leaf	スターフルーツの葉
+carambola flower	スターフルーツの花
+carambola	スターフルーツ
+cashew tree	カシューの木
+cashew trees	カシューの木
+cashew leaf	カシューの葉
+cashew flower	カシューの花
+cashew apple	カシューアップル
+coffee tree	コーヒーノキ
+coffee trees	コーヒーノキ
+coffee leaf	コーヒーの葉
+coffee flower cluster	コーヒーの花房
+coffee cherry	コーヒーチェリー
+durian tree	ドリアンの木
+durian trees	ドリアンの木
+durian leaf	ドリアンの葉
+durian flower	ドリアンの花
+durian	ドリアン
+guava tree	グアバの木
+guava trees	グアバの木
+guava leaf	グアバの葉
+guava flower	グアバの花
+guava	グアバ
+papaya tree	パパイヤの木
+papaya trees	パパイヤの木
+papaya leaf	パパイヤの葉
+papaya flower	パパイヤの花
+papaya	パパイヤ
+paradise nut tree	パラダイスナッツの木
+paradise nut trees	パラダイスナッツの木
+paradise nut leaf	パラダイスナッツの葉
+paradise nut raceme	パラダイスナッツの花房
+paradise nut fruit	パラダイスナッツの実
+rambutan tree	ランブータンの木
+rambutan trees	ランブータンの木
+rambutan leaf	ランブータンの葉
+rambutan flower	ランブータンの花
+rambutan	ランブータン
+tea tree	茶の木
+tea trees	茶の木
+tea leaf	茶葉
+tea flower	茶の花
+tea tree capsule	茶の実
+avocado tree	アボカドの木
+avocado trees	アボカドの木
+avocado leaf	アボカドの葉
+avocado flower	アボカドの花
+avocado	アボカド
+lime tree	ライムの木
+lime trees	ライムの木
+lime leaf	ライムの葉
+lime flower	ライムの花
+lime	ライム
+pomelo tree	ブンタンの木
+pomelo trees	ブンタンの木
+pomelo leaf	ブンタンの葉
+pomelo flower	ブンタンの花
+pomelo	ブンタン
+citron tree	シトロンの木
+citron trees	シトロンの木
+citron leaf	シトロンの葉
+citron flower	シトロンの花
+citron	シトロン
+orange tree	オレンジの木
+orange trees	オレンジの木
+orange leaf	オレンジの葉
+orange flower	オレンジの花
+orange	オレンジ
+bitter orange tree	ダイダイの木
+bitter orange trees	ダイダイの木
+bitter orange leaf	ダイダイの葉
+bitter orange flower	ダイダイの花
+bitter orange	ダイダイ
+finger lime tree	フィンガーライムの木
+finger lime trees	フィンガーライムの木
+finger lime leaf	フィンガーライムの葉
+finger lime flower	フィンガーライムの花
+finger lime	フィンガーライム
+round lime tree	ラウンドライムの木
+round lime trees	ラウンドライムの木
+round lime leaf	ラウンドライムの葉
+round lime flower	ラウンドライムの花
+round lime	ラウンドライム
+desert lime tree	デザートライムの木
+desert lime trees	デザートライムの木
+desert lime leaf	デザートライムの葉
+desert lime flower	デザートライムの花
+desert lime	デザートライム
+kumquat tree	キンカンの木
+kumquat trees	キンカンの木
+kumquat leaf	キンカンの葉
+kumquat flower	キンカンの花
+kumquat	キンカン
+custard-apple tree	カスタードアップルの木
+custard-apple trees	カスタードアップルの木
+custard-apple leaf	カスタードアップルの葉
+custard-apple flower	カスタードアップルの花
+custard-apple	カスタードアップル
+date palm	ナツメヤシ
+date palms	ナツメヤシ
+date palm frond blade	ナツメヤシの葉
+date palm flower stalk	ナツメヤシの花茎
+date	デーツ
+lychee tree	ライチの木
+lychee trees	ライチの木
+lychee leaf	ライチの葉
+lychee flower	ライチの花
+lychee	ライチ
+macadamia tree	マカダミアの木
+macadamia trees	マカダミアの木
+macadamia leaf	マカダミアの葉
+macadamia raceme	マカダミアの花房
+macadamia nut	マカダミアナッツ
+olive tree	オリーブの木
+olive trees	オリーブの木
+olive leaf	オリーブの葉
+olive raceme	オリーブの花房
+olive	オリーブ
+pomegranate tree	ザクロの木
+pomegranate trees	ザクロの木
+pomegranate leaf	ザクロの葉
+pomegranate flower	ザクロの花
+pomegranate	ザクロ
+almond tree	アーモンドの木
+almond trees	アーモンドの木
+almond leaf	アーモンドの葉
+almond flower	アーモンドの花
+almond	アーモンド
+apple tree	リンゴの木
+apple trees	リンゴの木
+apple leaf	リンゴの葉
+apple flower	リンゴの花
+apple	リンゴ
+apricot tree	アンズの木
+apricot trees	アンズの木
+apricot leaf	アンズの葉
+apricot flower	アンズの花
+apricot	アンズ
+bayberry tree	ヤマモモの木
+bayberry trees	ヤマモモの木
+bayberry leaf	ヤマモモの葉
+bayberry pollen catkin	ヤマモモの雄花序
+bayberry seed catkin	ヤマモモの雌花穂
+bayberry	ヤマモモ
+cherry tree	桜の木
+cherry trees	桜の木
+cherry leaf	桜の葉
+cherry flower	桜の花
+cherry	サクランボ
+ginkgo tree	イチョウの木
+ginkgo trees	イチョウの木
+ginkgo leaf	イチョウの葉
+ginkgo pollen catkin	イチョウの雄花穂
+ginkgo seed	ギンナン
+hazel tree	ハシバミの木
+hazel trees	ハシバミの木
+hazel leaf	ハシバミの葉
+hazel pollen catkin	ハシバミの雄花穂
+hazel nut	ヘーゼルナッツ
+peach tree	桃の木
+peach trees	桃の木
+peach leaf	桃の葉
+peach flower	桃の花
+peach	桃
+pear tree	洋梨の木
+pear trees	洋梨の木
+pear leaf	洋梨の葉
+pear flower	洋梨の花
+pear	洋梨
+pecan tree	ペカンの木
+pecan trees	ペカンの木
+pecan leaf	ペカンの葉
+pecan pollen catkin	ペカンの雄花穂
+pecan	ペカン
+persimmon tree	柿の木
+persimmon trees	柿の木
+persimmon leaf	柿の葉
+persimmon flower	柿の花
+persimmon	柿
+plum tree	スモモの木
+plum trees	スモモの木
+plum leaf	スモモの葉
+plum flower	スモモの花
+plum	プラム
+sand pear tree	ナシの木
+sand pear trees	ナシの木
+sand pear leaf	ナシの葉
+sand pear flower	ナシの花
+sand pear	ナシ
+walnut tree	クルミの木
+walnut trees	クルミの木
+walnut leaf	クルミの葉
+walnut pollen catkin	クルミの雄花穂
+walnut flower cluster	クルミの花房
+walnut	クルミ
+plump helmet	プランプヘルメット
+plump helmets	プランプヘルメット
+pig tail	ピッグテイル
+pig tails	ピッグテイル
+cave wheat	洞窟小麦
+sweet pod	スイートポッド
+sweet pods	スイートポッド
+quarry bush	クァリーブッシュ
+quarry bushes	クァリーブッシュ
+quarry bush leaf	クァリーブッシュの葉
+muck root	マックルート
+muck roots	マックルート
+bloated tuber	ブローテッドチューバー
+bloated tubers	ブローテッドチューバー
+kobold bulb	コボルドバルブ
+kobold bulbs	コボルドバルブ
+prickle berry	プリクルベリー
+prickle berries	プリクルベリー
+strawberry plant	イチゴ
+strawberry plants	イチゴ
+strawberry	イチゴ
+Longland grass	ロングランド草
+valley herb	谷の薬草
+valley herbs	谷の薬草
+rat weed	ラットウィード
+fisher berry	フィッシャーベリー
+fisher berries	フィッシャーベリー
+rope reed	ロープリード
+rope reeds	ロープリード
+dimple cup	ディンプルカップ
+dimple cups	ディンプルカップ
+blade weed	ブレードウィード
+hide root	ハイドルート
+sliver barb	スリヴァーバーブ
+sliver barbs	スリヴァーバーブ
+sun berry	サンベリー
+sun berries	サンベリー
+whip vine	ウィップヴァイン
+whip vines	ウィップヴァイン
+mangrove	マングローブ
+mangroves	マングローブ
+mangrove leaf	マングローブの葉
+mangrove flower	マングローブの花
+mangrove fruit	マングローブの実
+saguaro	サワロ
+saguaros	サワロ
+saguaro flower	サワロの花
+saguaro fruit	サワロの実
+pine	松
+pines	松
+pine needle	松葉
+pine seed cone	松かさ
+pine pollen cone	松の雄花
+cedar	シーダー
+cedars	シーダー
+cedar scale-leaf	シーダーの鱗葉
+cedar seed cone	シーダーの球果
+cedar pollen cone	シーダーの雄花
+oak	オーク
+oaks	オーク
+oaken	オーク材
+oak leaf	オークの葉
+oak flower cluster	オークの花房
+acorn	どんぐり
+mahogany	マホガニー
+mahoganies	マホガニー
+mahogany leaf	マホガニーの葉
+mahogany flower	マホガニーの花
+mahogany fruit	マホガニーの実
+acacia	アカシア
+acacias	アカシア
+acacia leaf	アカシアの葉
+acacia flower	アカシアの花
+acacia seed pod	アカシアの莢
+kapok	カポック
+kapoks	カポック
+kapok leaf	カポックの葉
+kapok flower	カポックの花
+kapok fruit	カポックの実
+maple	カエデ
+maples	カエデ
+maple leaf	カエデの葉
+maple flower cluster	カエデの花房
+maple samara	カエデの翼果
+willow	ヤナギ
+willows	ヤナギ
+willow leaf	ヤナギの葉
+willow pollen catkin	ヤナギの雄花穂
+willow seed catkin	ヤナギの雌花穂
+willow fruit	ヤナギの実
+tower-cap	タワーキャップ
+tower-caps	タワーキャップ
+black-cap	ブラックキャップ
+black-caps	ブラックキャップ
+nether-cap	ネザーキャップ
+nether-caps	ネザーキャップ
+goblin-cap	ゴブリンキャップ
+goblin-caps	ゴブリンキャップ
+fungiwood	フンギウッド
+fungiwoods	フンギウッド
+tunnel tube	トンネルチューブ
+tunnel tubes	トンネルチューブ
+spore tree	胞子の木
+spore trees	胞子の木
+blood thorn	ブラッドソーン
+glumprong	グランプロング
+glumprongs	グランプロング
+feather tree	フェザーツリー
+feather trees	フェザーツリー
+feather tree down	フェザーツリーの綿毛
+feather tree egg	フェザーツリーの卵
+highwood	ハイウッド
+highwoods	ハイウッド
+highwood leaf	ハイウッドの葉
+highwood flower	ハイウッドの花
+larch	カラマツ
+larches	カラマツ
+larch needle	カラマツの針葉
+larch seed cone	カラマツの球果
+larch pollen cone	カラマツの雄花
+chestnut	栗
+chestnuts	栗
+chestnut leaf	栗の葉
+chestnut pollen catkin	栗の雄花穂
+chestnut seed catkin	栗の雌花穂
+chestnut burr	栗のいが
+alder	ハンノキ
+alders	ハンノキ
+alder leaf	ハンノキの葉
+alder pollen catkin	ハンノキの雄花序
+alder seed catkin	ハンノキの雌花序
+alder cone	ハンノキの球果
+birch	カバノキ
+birches	カバノキ
+birchen	カバノキ材
+birch leaf	カバノキの葉
+birch pollen catkin	カバノキの雄花穂
+birch seed catkin	カバノキの雌花穂
+ash	灰
+ashes	灰
+ashen	トネリコ
+ash leaf	トネリコの葉
+ash flower	トネリコの花
+ash samara	トネリコの翼果
+candlenut	ククイナッツ
+candlenuts	ククイナッツ
+candlenut leaf	ククイの葉
+candlenut flower	ククイの花
+mango tree	マンゴーの木
+mango trees	マンゴーの木
+mango leaf	マンゴーの葉
+mango flower	マンゴーの花
+mango	マンゴー
+rubber tree	ゴムノキ
+rubber trees	ゴムノキ
+rubber leaf	ゴムノキの葉
+cacao tree	カカオの木
+cacao trees	カカオの木
+cacao leaf	カカオの葉
+cacao flower	カカオの花
+cacao pod	カカオの実
+coconut palm	ココヤシ
+coconut palms	ココヤシ
+coconut palm frond blade	ココヤシの葉
+coconut palm spathe	ココヤシの仏炎苞
+coconut	ココナッツ
+toad	ヒキガエル
+toads	ヒキガエル
+toad man	ヒキガエル男
+toad men	ヒキガエル男
+toad woman	ヒキガエル女
+toad women	ヒキガエル女
+giant toad	巨大ヒキガエル
+giant toads	巨大ヒキガエル
+worm	ミミズ
+worms	ミミズ
+worm man	ミミズ男
+worm men	ミミズ男
+blue jay	アオカケス
+blue jays	アオカケス
+bluejay man	アオカケス男
+bluejay men	アオカケス男
+bluejay woman	アオカケス女
+bluejay women	アオカケス女
+giant bluejay	巨大アオカケス
+giant bluejays	巨大アオカケス
+cardinal	カーディナル
+cardinals	カーディナル
+cardinal man	カーディナル男
+cardinal men	カーディナル男
+cardinal woman	カーディナル女
+cardinal women	カーディナル女
+giant cardinal	巨大カーディナル
+giant cardinals	巨大カーディナル
+grackle	クロムクドリモドキ
+grackles	クロムクドリモドキ
+grackle man	クロムクドリモドキ男
+grackle men	クロムクドリモドキ男
+grackle woman	クロムクドリモドキ女
+grackle women	クロムクドリモドキ女
+giant grackle	巨大クロムクドリモドキ
+giant grackles	巨大クロムクドリモドキ
+oriole	コウライウグイス
+orioles	コウライウグイス
+oriole man	コウライウグイス男
+oriole men	コウライウグイス男
+oriole woman	コウライウグイス女
+oriole women	コウライウグイス女
+giant oriole	巨大コウライウグイス
+giant orioles	巨大コウライウグイス
+red-winged blackbird	ハゴロモガラス
+red-winged blackbirds	ハゴロモガラス
+red-winged blackbird man	ハゴロモガラス男
+red-winged blackbird men	ハゴロモガラス男
+red-winged blackbird woman	ハゴロモガラス女
+red-winged blackbird women	ハゴロモガラス女
+giant red-winged blackbird	巨大ハゴロモガラス
+giant red-winged blackbirds	巨大ハゴロモガラス
+penguin	ペンギン
+penguins	ペンギン
+little penguin	コガタペンギン
+little penguins	コガタペンギン
+emperor penguin	コウテイペンギン
+emperor penguins	コウテイペンギン
+penguin man	ペンギン男
+penguin men	ペンギン男
+penguin woman	ペンギン女
+penguin women	ペンギン女
+giant penguin	巨大ペンギン
+giant penguins	巨大ペンギン
+peregrine falcon	ハヤブサ
+peregrine falcons	ハヤブサ
+tiercel peregrine	ハヤブサ（雄）
+tiercel peregrines	ハヤブサ（雄）
+peregrine falcon man	ハヤブサ男
+peregrine falcon men	ハヤブサ男
+peregrine falcon woman	ハヤブサ女
+peregrine falcon women	ハヤブサ女
+giant peregrine falcon	巨大ハヤブサ
+giant peregrine falcons	巨大ハヤブサ
+giant tiercel peregrine	巨大ハヤブサ（雄）
+giant tiercel peregrines	巨大ハヤブサ（雄）
+kiwi	キーウィ
+kiwis	キーウィ
+kiwi hen	キーウィ（雌）
+kiwi hens	キーウィ（雌）
+kiwi cock	キーウィ（雄）
+kiwi cocks	キーウィ（雄）
+kiwi man	キーウィ男
+kiwi men	キーウィ男
+kiwi woman	キーウィ女
+kiwi women	キーウィ女
+giant kiwi	巨大キーウィ
+giant kiwis	巨大キーウィ
+giant kiwi hen	巨大キーウィ（雌）
+giant kiwi hens	巨大キーウィ（雌）
+giant kiwi cock	巨大キーウィ（雄）
+giant kiwi cocks	巨大キーウィ（雄）
+ostrich	ダチョウ
+ostriches	ダチョウ
+ostrich hen	ダチョウ（雌）
+ostrich hens	ダチョウ（雌）
+ostrich cock	ダチョウ（雄）
+ostrich cocks	ダチョウ（雄）
+ostrich man	ダチョウ男
+ostrich men	ダチョウ男
+ostrich woman	ダチョウ女
+ostrich women	ダチョウ女
+giant ostrich	巨大ダチョウ
+giant ostriches	巨大ダチョウ
+giant ostrich hen	巨大ダチョウ（雌）
+giant ostrich hens	巨大ダチョウ（雌）
+giant ostrich cock	巨大ダチョウ（雄）
+giant ostrich cocks	巨大ダチョウ（雄）
+crow	カラス
+crows	カラス
+crow man	カラス男
+crow men	カラス男
+crow woman	カラス女
+crow women	カラス女
+giant crow	巨大カラス
+giant crows	巨大カラス
+raven	ワタリガラス
+raven man	ワタリガラス男
+raven men	ワタリガラス男
+raven woman	ワタリガラス女
+raven women	ワタリガラス女
+giant raven	巨大ワタリガラス
+giant ravens	巨大ワタリガラス
+cassowary	ヒクイドリ
+cassowaries	ヒクイドリ
+cassowary man	ヒクイドリ男
+cassowary men	ヒクイドリ男
+cassowary woman	ヒクイドリ女
+cassowary women	ヒクイドリ女
+giant cassowary	巨大ヒクイドリ
+giant cassowaries	巨大ヒクイドリ
+kea man	ケア男
+kea men	ケア男
+kea woman	ケア女
+kea women	ケア女
+giant kea	巨大ケア
+snowy owl	シロフクロウ
+snowy owls	シロフクロウ
+snowy owl man	シロフクロウ男
+snowy owl men	シロフクロウ男
+snowy owl woman	シロフクロウ女
+snowy owl women	シロフクロウ女
+giant snowy owl	巨大シロフクロウ
+giant snowy owls	巨大シロフクロウ
+sparrow	スズメ
+sparrows	スズメ
+sparrow man	スズメ男
+sparrow men	スズメ男
+sparrow woman	スズメ女
+sparrow women	スズメ女
+giant sparrow	巨大スズメ
+giant sparrows	巨大スズメ
+white stork	シュバシコウ
+white storks	シュバシコウ
+white stork man	シュバシコウ男
+white stork men	シュバシコウ男
+white stork woman	シュバシコウ女
+white stork women	シュバシコウ女
+giant white stork	巨大シュバシコウ
+giant white storks	巨大シュバシコウ
+loon	アビ
+loons	アビ
+loon man	アビ男
+loon men	アビ男
+loon woman	アビ女
+loon women	アビ女
+giant loon	巨大アビ
+giant loons	巨大アビ
+barn owl	メンフクロウ
+barn owls	メンフクロウ
+barn owl man	メンフクロウ男
+barn owl men	メンフクロウ男
+barn owl woman	メンフクロウ女
+barn owl women	メンフクロウ女
+giant barn owl	巨大メンフクロウ
+giant barn owls	巨大メンフクロウ
+parakeet	セキセイインコ
+parakeets	セキセイインコ
+parakeet man	セキセイインコ男
+parakeet men	セキセイインコ男
+parakeet woman	セキセイインコ女
+parakeet women	セキセイインコ女
+giant parakeet	巨大セキセイインコ
+giant parakeets	巨大セキセイインコ
+kakapo	カカポ
+kakapo man	カカポ男
+kakapo men	カカポ男
+kakapo woman	カカポ女
+kakapo women	カカポ女
+giant kakapo	巨大カカポ
+grey parrot	ヨウム
+grey parrots	ヨウム
+grey parrot man	ヨウム男
+grey parrot men	ヨウム男
+grey parrot woman	ヨウム女
+grey parrot women	ヨウム女
+giant grey parrot	巨大ヨウム
+giant grey parrots	巨大ヨウム
+puffin	ツノメドリ
+puffins	ツノメドリ
+puffin man	ツノメドリ男
+puffin men	ツノメドリ男
+puffin woman	ツノメドリ女
+puffin women	ツノメドリ女
+giant puffin	巨大ツノメドリ
+giant puffins	巨大ツノメドリ
+swan	白鳥
+swans	白鳥
+pen swan	白鳥（雌）
+pen swans	白鳥（雌）
+cob swan	白鳥（雄）
+cob swans	白鳥（雄）
+swan man	白鳥男
+swan men	白鳥男
+swan woman	白鳥女
+swan women	白鳥女
+giant swan	巨大白鳥
+giant swans	巨大白鳥
+lorikeet	ヒインコ
+lorikeets	ヒインコ
+lorikeet man	ヒインコ男
+lorikeet men	ヒインコ男
+lorikeet woman	ヒインコ女
+lorikeet women	ヒインコ女
+giant lorikeet	巨大ヒインコ
+giant lorikeets	巨大ヒインコ
+wren	ミソサザイ
+wrens	ミソサザイ
+wren man	ミソサザイ男
+wren men	ミソサザイ男
+wren woman	ミソサザイ女
+wren women	ミソサザイ女
+giant wren	巨大ミソサザイ
+giant wrens	巨大ミソサザイ
+osprey	ミサゴ
+ospreys	ミサゴ
+osprey man	ミサゴ男
+osprey men	ミサゴ男
+osprey woman	ミサゴ女
+osprey women	ミサゴ女
+giant osprey	巨大ミサゴ
+giant ospreys	巨大ミサゴ
+emu	エミュー
+emus	エミュー
+emu man	エミュー男
+emu men	エミュー男
+emu woman	エミュー女
+emu women	エミュー女
+giant emu	巨大エミュー
+giant emus	巨大エミュー
+cockatiel	オカメインコ
+cockatiels	オカメインコ
+cockatiel man	オカメインコ男
+cockatiel men	オカメインコ男
+cockatiel woman	オカメインコ女
+cockatiel women	オカメインコ女
+giant cockatiel	巨大オカメインコ
+giant cockatiels	巨大オカメインコ
+peach-faced lovebird	コザクラインコ
+peach-faced lovebirds	コザクラインコ
+peach-faced lovebird man	コザクラインコ男
+peach-faced lovebird men	コザクラインコ男
+peach-faced lovebird woman	コザクラインコ女
+peach-faced lovebird women	コザクラインコ女
+giant peach-faced lovebird	巨大コザクラインコ
+giant peach-faced lovebirds	巨大コザクラインコ
+magpie	カササギ
+magpies	カササギ
+magpie man	カササギ男
+magpie men	カササギ男
+magpie woman	カササギ女
+magpie women	カササギ女
+giant magpie	巨大カササギ
+giant magpies	巨大カササギ
+kestrel	チョウゲンボウ
+kestrels	チョウゲンボウ
+kestrel man	チョウゲンボウ男
+kestrel men	チョウゲンボウ男
+kestrel woman	チョウゲンボウ女
+kestrel women	チョウゲンボウ女
+giant kestrel	巨大チョウゲンボウ
+giant kestrels	巨大チョウゲンボウ
+albatross	アホウドリ
+albatrosses	アホウドリ
+albatross man	アホウドリ男
+albatross men	アホウドリ男
+albatross woman	アホウドリ女
+albatross women	アホウドリ女
+giant albatross	巨大アホウドリ
+giant albatrosses	巨大アホウドリ
+great horned owl	アメリカワシミミズク
+great horned owls	アメリカワシミミズク
+great horned owl man	アメリカワシミミズク男
+great horned owl men	アメリカワシミミズク男
+great horned owl woman	アメリカワシミミズク女
+great horned owl women	アメリカワシミミズク女
+giant great horned owl	巨大アメリカワシミミズク
+giant great horned owls	巨大アメリカワシミミズク
+eagle	鷲
+eagles	鷲
+eagle man	鷲男
+eagle men	鷲男
+eagle woman	鷲女
+eagle women	鷲女
+giant eagle	巨大鷲
+giant eagles	巨大鷲
+hornbill	サイチョウ
+hornbills	サイチョウ
+hornbill man	サイチョウ男
+hornbill men	サイチョウ男
+hornbill woman	サイチョウ女
+hornbill women	サイチョウ女
+giant hornbill	巨大サイチョウ
+giant hornbills	巨大サイチョウ
+masked lovebird	キエリボタンインコ
+masked lovebirds	キエリボタンインコ
+masked lovebird man	キエリボタンインコ男
+masked lovebird men	キエリボタンインコ男
+masked lovebird woman	キエリボタンインコ女
+masked lovebird women	キエリボタンインコ女
+giant masked lovebird	巨大キエリボタンインコ
+giant masked lovebirds	巨大キエリボタンインコ
+bushtit	ヤブガラ
+bushtits	ヤブガラ
+bushtit man	ヤブガラ男
+bushtit men	ヤブガラ男
+bushtit woman	ヤブガラ女
+bushtit women	ヤブガラ女
+giant bushtit	巨大ヤブガラ
+giant bushtits	巨大ヤブガラ
+damselfly	イトトンボ
+damselflies	イトトンボ
+damselfly man	イトトンボ男
+damselfly men	イトトンボ男
+damselfly woman	イトトンボ女
+damselfly women	イトトンボ女
+giant damselfly	巨大イトトンボ
+giant damselflies	巨大イトトンボ
+moth	蛾
+moths	蛾
+moth man	蛾男
+moth men	蛾男
+moth woman	蛾女
+moth women	蛾女
+giant moth	巨大蛾
+giant moths	巨大蛾
+grasshopper	バッタ
+grasshoppers	バッタ
+grasshopper man	バッタ男
+grasshopper men	バッタ男
+grasshopper woman	バッタ女
+grasshopper women	バッタ女
+giant grasshopper	巨大バッタ
+giant grasshoppers	巨大バッタ
+bark scorpion	バークスコーピオン
+bark scorpions	バークスコーピオン
+bark scorpion man	バークスコーピオン男
+bark scorpion men	バークスコーピオン男
+bark scorpion woman	バークスコーピオン女
+bark scorpion women	バークスコーピオン女
+giant bark scorpion	巨大バークスコーピオン
+giant bark scorpions	巨大バークスコーピオン
+mantis	カマキリ
+mantises	カマキリ
+mantis man	カマキリ男
+mantis men	カマキリ男
+mantis woman	カマキリ女
+mantis women	カマキリ女
+giant mantis	巨大カマキリ
+giant mantises	巨大カマキリ
+tick	ダニ
+ticks	ダニ
+tick man	ダニ男
+tick men	ダニ男
+tick woman	ダニ女
+tick women	ダニ女
+giant tick	巨大ダニ
+giant ticks	巨大ダニ
+louse	シラミ
+lice	シラミ
+louse man	シラミ男
+louse men	シラミ男
+louse woman	シラミ女
+louse women	シラミ女
+giant louse	巨大シラミ
+giant lice	巨大シラミ
+thrips	アザミウマ
+thrips man	アザミウマ男
+thrips men	アザミウマ男
+thrips woman	アザミウマ女
+thrips women	アザミウマ女
+giant thrips	巨大アザミウマ
+slug	ナメクジ
+slugs	ナメクジ
+slug man	ナメクジ男
+slug men	ナメクジ男
+giant slug	巨大ナメクジ
+giant slugs	巨大ナメクジ
+mosquito	蚊
+mosquitos	蚊
+mosquito man	蚊男
+mosquito men	蚊男
+mosquito woman	蚊女
+mosquito women	蚊女
+giant mosquito	巨大蚊
+giant mosquitos	巨大蚊
+jumping spider	ハエトリグモ
+jumping spiders	ハエトリグモ
+jumping spider man	ハエトリグモ男
+jumping spider men	ハエトリグモ男
+jumping spider woman	ハエトリグモ女
+jumping spider women	ハエトリグモ女
+giant jumping spider	巨大ハエトリグモ
+giant jumping spiders	巨大ハエトリグモ
+termite	シロアリ
+termites	シロアリ
+worker termite	働きシロアリ
+worker termites	働きシロアリ
+soldier termite	兵隊シロアリ
+soldier termites	兵隊シロアリ
+king termite	王シロアリ
+king termites	王シロアリ
+queen termite	女王シロアリ
+queen termites	女王シロアリ
+moon snail	タマガイ
+moon snails	タマガイ
+moon snail man	タマガイ男
+moon snail men	タマガイ男
+moon snail woman	タマガイ女
+moon snail women	タマガイ女
+giant moon snail	巨大タマガイ
+giant moon snails	巨大タマガイ
+brown recluse spider	ドクイトグモ
+brown recluse spiders	ドクイトグモ
+brown recluse spider man	ドクイトグモ男
+brown recluse spider men	ドクイトグモ男
+brown recluse spider woman	ドクイトグモ女
+brown recluse spider women	ドクイトグモ女
+giant brown recluse spider	巨大ドクイトグモ
+giant brown recluse spiders	巨大ドクイトグモ
+snail	カタツムリ
+snails	カタツムリ
+snail man	カタツムリ男
+snail men	カタツムリ男
+giant snail	巨大カタツムリ
+giant snails	巨大カタツムリ
+leopard gecko	ヒョウモントカゲモドキ
+leopard geckos	ヒョウモントカゲモドキ
+leopard gecko man	ヒョウモントカゲモドキ男
+leopard gecko men	ヒョウモントカゲモドキ男
+leopard gecko woman	ヒョウモントカゲモドキ女
+leopard gecko women	ヒョウモントカゲモドキ女
+giant leopard gecko	巨大ヒョウモントカゲモドキ
+giant leopard geckos	巨大ヒョウモントカゲモドキ
+desert tortoise	サバクゴファーガメ
+desert tortoises	サバクゴファーガメ
+desert tortoise man	サバクゴファーガメ男
+desert tortoise men	サバクゴファーガメ男
+desert tortoise woman	サバクゴファーガメ女
+desert tortoise women	サバクゴファーガメ女
+giant desert tortoise	巨大サバクゴファーガメ
+giant desert tortoises	巨大サバクゴファーガメ
+gila monster	アメリカドクトカゲ
+gila monsters	アメリカドクトカゲ
+gila monster man	アメリカドクトカゲ男
+gila monster men	アメリカドクトカゲ男
+gila monster woman	アメリカドクトカゲ女
+gila monster women	アメリカドクトカゲ女
+giant gila monster	巨大アメリカドクトカゲ
+giant gila monsters	巨大アメリカドクトカゲ
+dog	犬
+canine	犬
+cat	猫
+feline	猫
+mule	ラバ
+mules	ラバ
+donkey	ロバ
+donkeys	ロバ
+asinine	ロバ
+horse	馬
+horses	馬
+equine	馬
+cow	雌牛
+bovine	牛
+bull	雄牛
+bulls	雄牛
+sheep	羊
+ovine	羊
+ewe	雌羊
+ewes	雌羊
+ram	雄羊
+rams	雄羊
+pig	豚
+porcine	豚
+sow	雌豚
+sows	雌豚
+boar	雄豚
+boars	雄豚
+goat	ヤギ
+goats	ヤギ
+hircine	ヤギ
+nanny goat	ヤギ（雌）
+nanny goats	ヤギ（雌）
+billy goat	ヤギ（雄）
+billy goats	ヤギ（雄）
+chicken	鶏
+chickens	鶏
+hen	雌鶏
+hens	雌鶏
+rooster	雄鶏
+roosters	雄鶏
+cavy	テンジクネズミ
+cavy sow	テンジクネズミ（雌）
+cavy sows	テンジクネズミ（雌）
+cavy boar	テンジクネズミ（雄）
+cavy boars	テンジクネズミ（雄）
+duck	アヒル
+ducks	アヒル
+drake	雄アヒル
+drakes	雄アヒル
+water buffalo	水牛
+water buffalos	水牛
+water buffalo cow	水牛（雌）
+water buffalo cows	水牛（雌）
+water buffalo bull	水牛（雄）
+water buffalo bulls	水牛（雄）
+reindeer cow	トナカイ（雌）
+reindeer cows	トナカイ（雌）
+reindeer bull	トナカイ（雄）
+reindeer bulls	トナカイ（雄）
+goose	ガチョウ
+gander	ガチョウ（雄）
+ganders	ガチョウ（雄）
+yak	ヤク
+yak cow	ヤク（雌）
+yak cows	ヤク（雌）
+yak bull	ヤク（雄）
+yak bulls	ヤク（雄）
+llama	ラマ
+llamas	ラマ
+alpaca	アルパカ
+alpacas	アルパカ
+guineafowl	ホロホロチョウ
+guineafowls	ホロホロチョウ
+guineahen	ホロホロチョウ（雌）
+guineahens	ホロホロチョウ（雌）
+guineacock	ホロホロチョウ（雄）
+guineacocks	ホロホロチョウ（雄）
+blue peafowl	インドクジャク
+blue peafowls	インドクジャク
+blue peahen	インドクジャク（雌）
+blue peahens	インドクジャク（雌）
+blue peacock	インドクジャク（雄）
+blue peacocks	インドクジャク（雄）
+turkey	七面鳥
+turkeys	七面鳥
+turkey hen	七面鳥（雌）
+turkey hens	七面鳥（雌）
+turkey gobbler	七面鳥（雄）
+turkey gobblers	七面鳥（雄）
+rabbit	兎
+rabbits	兎
+doe rabbit	雌兎
+doe rabbits	雌兎
+buck rabbit	雄兎
+buck rabbits	雄兎
+wagon	荷馬車
+wagons	荷馬車
+chimera	キメラ
+chimeras	キメラ
+chimeric	キメラ
+nothing	なし
+centaur	ケンタウロス
+centaurs	ケンタウロス
+centauress	女ケンタウロス
+centauresses	女ケンタウロス
+griffon	グリフォン
+griffons	グリフォン
+fly	飛行
+flies	ハエ
+fly man	ハエ男
+fly men	ハエ男
+fly woman	ハエ女
+fly women	ハエ女
+giant fly	巨大ハエ
+giant flies	巨大ハエ
+large roach	大ゴキブリ
+large roaches	大ゴキブリ
+roach man	ゴキブリ男
+roach men	ゴキブリ男
+roach woman	ゴキブリ女
+roach women	ゴキブリ女
+giant roach	巨大ゴキブリ
+giant roaches	巨大ゴキブリ
+beetle	甲虫
+beetles	甲虫
+beetle man	甲虫男
+beetle men	甲虫男
+beetle woman	甲虫女
+beetle women	甲虫女
+giant beetle	巨大甲虫
+giant beetles	巨大甲虫
+ant	アリ
+ants	アリ
+worker ant	働きアリ
+worker ants	働きアリ
+soldier ant	兵隊アリ
+soldier ants	兵隊アリ
+drone ant	雄アリ
+drone ants	雄アリ
+queen ant	女王アリ
+queen ants	女王アリ
+monarch butterfly	オオカバマダラ
+monarch butterflies	オオカバマダラ
+monarch butterfly man	オオカバマダラ男
+monarch butterfly men	オオカバマダラ男
+monarch butterfly woman	オオカバマダラ女
+monarch butterfly women	オオカバマダラ女
+giant monarch butterfly	巨大オオカバマダラ
+giant monarch butterflies	巨大オオカバマダラ
+firefly	ホタル
+fireflies	ホタル
+firefly man	ホタル男
+firefly men	ホタル男
+firefly woman	ホタル女
+firefly women	ホタル女
+giant firefly	巨大ホタル
+giant fireflies	巨大ホタル
+dragonfly	トンボ
+dragonflies	トンボ
+dragonfly man	トンボ男
+dragonfly men	トンボ男
+dragonfly woman	トンボ女
+dragonfly women	トンボ女
+giant dragonfly	巨大トンボ
+giant dragonflies	巨大トンボ
+honey bee	ミツバチ
+honey bees	ミツバチ
+honey bee worker	働き蜂
+honey bee workers	働き蜂
+honey bee drone	ミツバチ（雄）
+honey bee drones	ミツバチ（雄）
+honey bee queen	女王蜂
+honey bee queens	女王蜂
+bumblebee	マルハナバチ
+bumblebees	マルハナバチ
+bumblebee worker	マルハナバチの働き蜂
+bumblebee workers	マルハナバチの働き蜂
+bumblebee drone	マルハナバチ（雄）
+bumblebee drones	マルハナバチ（雄）
+bumblebee queen	マルハナバチの女王
+bumblebee queens	マルハナバチの女王
+mountain goat	シロイワヤギ
+mountain goats	シロイワヤギ
+mountain goat man	シロイワヤギ男
+mountain goat men	シロイワヤギ男
+mountain goat woman	シロイワヤギ女
+mountain goat women	シロイワヤギ女
+giant mountain goat	巨大シロイワヤギ
+giant mountain goats	巨大シロイワヤギ
+hoary marmot	シラガマーモット
+hoary marmots	シラガマーモット
+hoary marmot man	シラガマーモット男
+hoary marmot men	シラガマーモット男
+hoary marmot woman	シラガマーモット女
+hoary marmot women	シラガマーモット女
+giant hoary marmot	巨大シラガマーモット
+giant hoary marmots	巨大シラガマーモット
+mountain gnome	マウンテンノーム
+mountain gnomes	マウンテンノーム
+dark gnome	ダークノーム
+dark gnomes	ダークノーム
+walrus	セイウチ
+walruses	セイウチ
+walrus man	セイウチ男
+walrus men	セイウチ男
+walrus woman	セイウチ女
+walrus women	セイウチ女
+giant walrus	巨大セイウチ
+giant walruss	巨大セイウチ
+sea lamprey	ウミヤツメ
+sea lampreys	ウミヤツメ
+great white shark	ホホジロザメ
+great white sharks	ホホジロザメ
+frill shark	ラブカ
+frill sharks	ラブカ
+spiny dogfish	アブラツノザメ
+spotted wobbegong	オオセ
+spotted wobbegongs	オオセ
+whale shark	ジンベエザメ
+whale sharks	ジンベエザメ
+basking shark	ウバザメ
+basking sharks	ウバザメ
+nurse shark	コモリザメ
+nurse sharks	コモリザメ
+shortfin mako shark	アオザメ
+shortfin mako sharks	アオザメ
+longfin mako shark	バケアオザメ
+longfin mako sharks	バケアオザメ
+tiger shark	イタチザメ
+tiger sharks	イタチザメ
+bull shark	オオメジロザメ
+bull sharks	オオメジロザメ
+blacktip reef shark	ツマグロ
+blacktip reef sharks	ツマグロ
+whitetip reef shark	ネムリブカ
+whitetip reef sharks	ネムリブカ
+blue shark	ヨシキリザメ
+blue sharks	ヨシキリザメ
+hammerhead shark	シュモクザメ
+hammerhead sharks	シュモクザメ
+angelshark	カスザメ
+angelsharks	カスザメ
+common skate	ガンギエイ
+common skates	ガンギエイ
+manta ray	マンタ
+manta rays	マンタ
+stingray	アカエイ
+stingrays	アカエイ
+coelacanth	シーラカンス
+coelacanths	シーラカンス
+sturgeon	チョウザメ
+sturgeons	チョウザメ
+conger eel	アナゴ
+conger eels	アナゴ
+milkfish	サバヒー
+cod	タラ
+opah	アカマンボウ
+giant grouper	タマカイ
+giant groupers	タマカイ
+bluefish	アミキリ
+ocean sunfish	マンボウ
+swordfish	メカジキ
+marlin	カジキ
+marlins	カジキ
+halibut	オヒョウ
+great barracuda	オニカマス
+great barracudas	オニカマス
+bluefin tuna	クロマグロ
+narwhal	イッカク
+narwhals	イッカク
+narwhal man	イッカク男
+narwhal men	イッカク男
+narwhal woman	イッカク女
+narwhal women	イッカク女
+giant narwhal	巨大イッカク
+giant narwhals	巨大イッカク
+hippo	カバ
+hippos	カバ
+hippo man	カバ男
+hippo men	カバ男
+hippo woman	カバ女
+hippo women	カバ女
+giant hippo	巨大カバ
+giant hippos	巨大カバ
+longnose gar	ロングノーズガー
+longnose gars	ロングノーズガー
+carp	コイ
+tigerfish	タイガーフィッシュ
+pike	パイク
+platypus	カモノハシ
+platypuses	カモノハシ
+platypus man	カモノハシ男
+platypus men	カモノハシ男
+platypus woman	カモノハシ女
+platypus women	カモノハシ女
+giant platypus	巨大カモノハシ
+giant platypuses	巨大カモノハシ
+grizzly bear	ハイイログマ
+grizzly bears	ハイイログマ
+grizzly bear man	ハイイログマ男
+grizzly bear men	ハイイログマ男
+grizzly bear woman	ハイイログマ女
+grizzly bear women	ハイイログマ女
+giant grizzly bear	巨大ハイイログマ
+giant grizzly bears	巨大ハイイログマ
+black bear	クロクマ
+black bears	クロクマ
+black bear man	クロクマ男
+black bear men	クロクマ男
+black bear woman	クロクマ女
+black bear women	クロクマ女
+giant black bear	巨大クロクマ
+giant black bears	巨大クロクマ
+deer	鹿
+deer man	鹿男
+deer men	鹿男
+deer woman	鹿女
+deer women	鹿女
+giant deer	巨大鹿
+fox	キツネ
+foxes	キツネ
+fox man	キツネ男
+fox men	キツネ男
+fox woman	キツネ女
+fox women	キツネ女
+giant fox	巨大キツネ
+giant foxes	巨大キツネ
+raccoon	アライグマ
+raccoons	アライグマ
+raccoon man	アライグマ男
+raccoon men	アライグマ男
+raccoon woman	アライグマ女
+raccoon women	アライグマ女
+giant raccoon	巨大アライグマ
+giant raccoons	巨大アライグマ
+rhesus macaque	アカゲザル
+rhesus macaques	アカゲザル
+rhesus macaque man	アカゲザル男
+rhesus macaque men	アカゲザル男
+rhesus macaque woman	アカゲザル女
+rhesus macaque women	アカゲザル女
+giant rhesus macaque	巨大アカゲザル
+giant rhesus macaques	巨大アカゲザル
+cougar	ピューマ
+cougars	ピューマ
+cougar man	ピューマ男
+cougar men	ピューマ男
+cougar woman	ピューマ女
+cougar women	ピューマ女
+giant cougar	巨大ピューマ
+giant cougars	巨大ピューマ
+wolf	狼
+wolves	狼
+wolf man	狼男
+wolf men	狼男
+wolf woman	狼女
+wolf women	狼女
+giant wolf	巨大狼
+giant wolves	巨大狼
+groundhog	ウッドチャック
+groundhogs	ウッドチャック
+groundhog man	ウッドチャック男
+groundhog men	ウッドチャック男
+groundhog woman	ウッドチャック女
+groundhog women	ウッドチャック女
+giant groundhog	巨大ウッドチャック
+giant groundhogs	巨大ウッドチャック
+alligator	アリゲーター
+alligators	アリゲーター
+alligator man	アリゲーター男
+alligator men	アリゲーター男
+alligator woman	アリゲーター女
+alligator women	アリゲーター女
+giant alligator	巨大アリゲーター
+giant alligators	巨大アリゲーター
+buzzard	ノスリ
+buzzards	ノスリ
+buzzard man	ノスリ男
+buzzard men	ノスリ男
+buzzard woman	ノスリ女
+buzzard women	ノスリ女
+giant buzzard	巨大ノスリ
+giant buzzards	巨大ノスリ
+panda	パンダ
+pandas	パンダ
+gigantic panda	超巨大パンダ
+gigantic pandas	超巨大パンダ
+panda man	パンダ男
+panda men	パンダ男
+panda woman	パンダ女
+panda women	パンダ女
+capybara	カピバラ
+capybaras	カピバラ
+giant capybara	巨大カピバラ
+giant capybaras	巨大カピバラ
+capybara man	カピバラ男
+capybara men	カピバラ男
+capybara woman	カピバラ女
+capybara women	カピバラ女
+badger	アナグマ
+badgers	アナグマ
+badger sow	アナグマ（雌）
+badger sows	アナグマ（雌）
+badger boar	アナグマ（雄）
+badger boars	アナグマ（雄）
+badger man	アナグマ男
+badger men	アナグマ男
+badger woman	アナグマ女
+badger women	アナグマ女
+giant badger	巨大アナグマ
+giant badgers	巨大アナグマ
+giant badger sow	巨大アナグマ（雌）
+giant badger sows	巨大アナグマ（雌）
+giant badger boar	巨大アナグマ（雄）
+giant badger boars	巨大アナグマ（雄）
+moose	ヘラジカ
+cow moose	ヘラジカ（雌）
+bull moose	ヘラジカ（雄）
+moose man	ヘラジカ男
+moose men	ヘラジカ男
+moose woman	ヘラジカ女
+moose women	ヘラジカ女
+giant moose	巨大ヘラジカ
+giant moose cow	巨大ヘラジカ（雌）
+giant moose cows	巨大ヘラジカ（雌）
+giant moose bull	巨大ヘラジカ（雄）
+giant moose bulls	巨大ヘラジカ（雄）
+red panda	レッサーパンダ
+red pandas	レッサーパンダ
+red panda sow	レッサーパンダ（雌）
+red panda sows	レッサーパンダ（雌）
+red panda boar	レッサーパンダ（雄）
+red panda boars	レッサーパンダ（雄）
+red panda man	レッサーパンダ男
+red panda men	レッサーパンダ男
+red panda woman	レッサーパンダ女
+red panda women	レッサーパンダ女
+giant red panda	巨大レッサーパンダ
+giant red pandas	巨大レッサーパンダ
+giant red panda sow	巨大レッサーパンダ（雌）
+giant red panda sows	巨大レッサーパンダ（雌）
+giant red panda boar	巨大レッサーパンダ（雄）
+giant red panda boars	巨大レッサーパンダ（雄）
+elephant	ゾウ
+elephants	ゾウ
+elephant man	ゾウ男
+elephant men	ゾウ男
+elephant woman	ゾウ女
+elephant women	ゾウ女
+giant elephant	巨大ゾウ
+giant elephants	巨大ゾウ
+warthog	イボイノシシ
+warthogs	イボイノシシ
+warthog man	イボイノシシ男
+warthog men	イボイノシシ男
+warthog woman	イボイノシシ女
+warthog women	イボイノシシ女
+giant warthog	巨大イボイノシシ
+giant warthogs	巨大イボイノシシ
+lion	ライオン
+lions	ライオン
+lion man	ライオン男
+lion men	ライオン男
+lion woman	ライオン女
+lion women	ライオン女
+giant lion	巨大ライオン
+giant lions	巨大ライオン
+leopard	ヒョウ
+leopards	ヒョウ
+leopard man	ヒョウ男
+leopard men	ヒョウ男
+leopard woman	ヒョウ女
+leopard women	ヒョウ女
+giant leopard	巨大ヒョウ
+giant leopards	巨大ヒョウ
+jaguar	ジャガー
+jaguars	ジャガー
+jaguar man	ジャガー男
+jaguar men	ジャガー男
+jaguar woman	ジャガー女
+jaguar women	ジャガー女
+giant jaguar	巨大ジャガー
+giant jaguars	巨大ジャガー
+tiger	虎
+tiger man	虎男
+tiger men	虎男
+tiger woman	虎女
+tiger women	虎女
+giant tiger	巨大虎
+giant tigers	巨大虎
+cheetah	チーター
+cheetahs	チーター
+cheetah man	チーター男
+cheetah men	チーター男
+cheetah woman	チーター女
+cheetah women	チーター女
+giant cheetah	巨大チーター
+giant cheetahs	巨大チーター
+gazelle	ガゼル
+gazelles	ガゼル
+gazelle man	ガゼル男
+gazelle men	ガゼル男
+gazelle woman	ガゼル女
+gazelle women	ガゼル女
+giant gazelle	巨大ガゼル
+giant gazelles	巨大ガゼル
+mandrill	マンドリル
+mandrills	マンドリル
+mandrill man	マンドリル男
+mandrill men	マンドリル男
+mandrill woman	マンドリル女
+mandrill women	マンドリル女
+giant mandrill	巨大マンドリル
+giant mandrills	巨大マンドリル
+chimpanzee	チンパンジー
+chimpanzees	チンパンジー
+bonobo	ボノボ
+bonobos	ボノボ
+gorilla	ゴリラ
+gorillas	ゴリラ
+orangutan	オランウータン
+orangutans	オランウータン
+siamang	フクロテナガザル
+siamangs	フクロテナガザル
+white-handed gibbon	シロテテナガザル
+white-handed gibbons	シロテテナガザル
+black-handed gibbon	アジルテナガザル
+black-handed gibbons	アジルテナガザル
+gray gibbon	ミュラーテナガザル
+gray gibbons	ミュラーテナガザル
+silvery gibbon	ワウワウテナガザル
+silvery gibbons	ワウワウテナガザル
+pileated gibbon	ボウシテナガザル
+pileated gibbons	ボウシテナガザル
+bilou	クロステナガザル
+bilous	クロステナガザル
+white-browed gibbon	フーロックテナガザル
+white-browed gibbons	フーロックテナガザル
+black-crested gibbon	クロテナガザル
+black-crested gibbons	クロテナガザル
+one-humped camel	ヒトコブラクダ
+one-humped camels	ヒトコブラクダ
+one-humped camel man	ヒトコブラクダ男
+one-humped camel men	ヒトコブラクダ男
+one-humped camel woman	ヒトコブラクダ女
+one-humped camel women	ヒトコブラクダ女
+giant one-humped camel	巨大ヒトコブラクダ
+giant one-humped camels	巨大ヒトコブラクダ
+two-humped camel	フタコブラクダ
+two-humped camels	フタコブラクダ
+two-humped camel man	フタコブラクダ男
+two-humped camel men	フタコブラクダ男
+two-humped camel woman	フタコブラクダ女
+two-humped camel women	フタコブラクダ女
+giant two-humped camel	巨大フタコブラクダ
+giant two-humped camels	巨大フタコブラクダ
+saltwater crocodile	イリエワニ
+saltwater crocodiles	イリエワニ
+saltwater crocodile man	イリエワニ男
+saltwater crocodile men	イリエワニ男
+saltwater crocodile woman	イリエワニ女
+saltwater crocodile women	イリエワニ女
+giant saltwater crocodile	巨大イリエワニ
+giant saltwater crocodiles	巨大イリエワニ
+vulture	ハゲワシ
+vultures	ハゲワシ
+vulture man	ハゲワシ男
+vulture men	ハゲワシ男
+vulture woman	ハゲワシ女
+vulture women	ハゲワシ女
+giant vulture	巨大ハゲワシ
+giant vultures	巨大ハゲワシ
+rhinoceros	サイ
+rhinoceroses	サイ
+rhinoceros man	サイ男
+rhinoceros men	サイ男
+rhinoceros woman	サイ女
+rhinoceros women	サイ女
+giant rhinoceros	巨大サイ
+giant rhinoceroses	巨大サイ
+giraffe	キリン
+giraffes	キリン
+giraffe man	キリン男
+giraffe men	キリン男
+giraffe woman	キリン女
+giraffe women	キリン女
+giant giraffe	巨大キリン
+giant giraffes	巨大キリン
+honey badger	ラーテル
+honey badgers	ラーテル
+honey badger man	ラーテル男
+honey badger men	ラーテル男
+honey badger woman	ラーテル女
+honey badger women	ラーテル女
+giant honey badger	巨大ラーテル
+giant honey badgers	巨大ラーテル
+giant tortoise	ゾウガメ
+giant tortoises	ゾウガメ
+giant tortoise man	ゾウガメ男
+giant tortoise men	ゾウガメ男
+giant tortoise woman	ゾウガメ女
+giant tortoise women	ゾウガメ女
+gigantic tortoise	超巨大リクガメ
+gigantic tortoises	超巨大リクガメ
+armadillo	アルマジロ
+armadillos	アルマジロ
+armadillo sow	アルマジロ（雌）
+armadillo sows	アルマジロ（雌）
+armadillo boar	アルマジロ（雄）
+armadillo boars	アルマジロ（雄）
+armadillo man	アルマジロ男
+armadillo men	アルマジロ男
+armadillo woman	アルマジロ女
+armadillo women	アルマジロ女
+giant armadillo	巨大アルマジロ
+giant armadillos	巨大アルマジロ
+giant armadillo sow	巨大アルマジロ（雌）
+giant armadillo sows	巨大アルマジロ（雌）
+giant armadillo boar	巨大アルマジロ（雄）
+giant armadillo boars	巨大アルマジロ（雄）
+muskox	ジャコウウシ
+muskoxen	ジャコウウシ
+muskox man	ジャコウウシ男
+muskox men	ジャコウウシ男
+muskox woman	ジャコウウシ女
+muskox women	ジャコウウシ女
+giant muskox	巨大ジャコウウシ
+giant muskoxen	巨大ジャコウウシ
+elk	エルク
+elk man	エルク男
+elk men	エルク男
+elk woman	エルク女
+elk women	エルク女
+giant elk	巨大エルク
+polar bear	ホッキョクグマ
+polar bears	ホッキョクグマ
+polar bear man	ホッキョクグマ男
+polar bear men	ホッキョクグマ男
+polar bear woman	ホッキョクグマ女
+polar bear women	ホッキョクグマ女
+giant polar bear	巨大ホッキョクグマ
+giant polar bears	巨大ホッキョクグマ
+wolverine	クズリ
+wolverines	クズリ
+wolverine man	クズリ男
+wolverine men	クズリ男
+wolverine woman	クズリ女
+wolverine women	クズリ女
+giant wolverine	巨大クズリ
+giant wolverines	巨大クズリ
+chinchilla	チンチラ
+chinchillas	チンチラ
+chinchilla man	チンチラ男
+chinchilla men	チンチラ男
+chinchilla woman	チンチラ女
+chinchilla women	チンチラ女
+giant chinchilla	巨大チンチラ
+giant chinchillas	巨大チンチラ
+drunian	ドルーニアン
+drunians	ドルーニアン
+creeping eye	這い寄る目
+creeping eyes	這い寄る目
+voracious cave crawler	貪欲な洞窟這い
+voracious cave crawlers	貪欲な洞窟這い
+blind cave ogre	盲目の洞窟オーガ
+blind cave ogres	盲目の洞窟オーガ
+cap hopper	キャップホッパー
+cap hoppers	キャップホッパー
+magma crab	マグマガニ
+crundle	クランドル
+crundles	クランドル
+hungry head	飢えた頭
+hungry heads	飢えた頭
+flesh ball	肉塊
+flesh balls	肉塊
+elk bird	エルクバード
+elk birds	エルクバード
+helmet snake	ヘルメットスネーク
+helmet snakes	ヘルメットスネーク
+green devourer	グリーンデバウラー
+green devourers	グリーンデバウラー
+rutherer	ラザラー
+rutherers	ラザラー
+creepy crawler	クリーピークローラー
+creepy crawlers	クリーピークローラー
+draltha	ドラルサ
+dralthas	ドラルサ
+giant earthworm	巨大ミミズ
+giant earthworms	巨大ミミズ
+blood man	血男
+blood men	血男
+bugbat	バグバット
+bugbats	バグバット
+manera	マネラ
+maneras	マネラ
+molemarian	モールメリアン
+molemarians	モールメリアン
+jabberer	ジャバラー
+pond grabber	ポンドグラバー
+pond grabbers	ポンドグラバー
+blind cave bear	盲目の洞窟熊
+blind cave bears	盲目の洞窟熊
+cave dragon	洞窟竜
+cave dragons	洞窟竜
+cave draconic	洞窟竜
+reacher	リーチャー
+gabbro man	斑糲岩男
+gabbro men	斑糲岩男
+gorlak	ゴーラック
+gorlaks	ゴーラック
+cave floater	ケイヴフローター
+cave floaters	ケイヴフローター
+plump helmet man	プランプヘルメット男
+plump helmet men	プランプヘルメット男
+cave blob	洞窟ブロブ
+cave blobs	洞窟ブロブ
+amethyst man	アメジスト男
+amethyst men	アメジスト男
+octopus	タコ
+octopuses	タコ
+octopus man	タコ男
+octopus men	タコ男
+octopus woman	タコ女
+octopus women	タコ女
+giant octopus	巨大タコ
+giant octopuses	巨大タコ
+crab	カニ
+crabs	カニ
+crab man	カニ男
+crab men	カニ男
+crab woman	カニ女
+crab women	カニ女
+giant crab	巨大カニ
+giant crabs	巨大カニ
+leopard seal	ヒョウアザラシ
+leopard seals	ヒョウアザラシ
+leopard seal man	ヒョウアザラシ男
+leopard seal men	ヒョウアザラシ男
+leopard seal woman	ヒョウアザラシ女
+leopard seal women	ヒョウアザラシ女
+giant leopard seal	巨大ヒョウアザラシ
+giant leopard seals	巨大ヒョウアザラシ
+cuttlefish	コウイカ
+cuttlefish man	コウイカ男
+cuttlefish men	コウイカ男
+cuttlefish woman	コウイカ女
+cuttlefish women	コウイカ女
+giant cuttlefish	巨大コウイカ
+orca	シャチ
+orcas	シャチ
+orca man	シャチ男
+orca men	シャチ男
+orca woman	シャチ女
+orca women	シャチ女
+giant orca	巨大シャチ
+giant orcas	巨大シャチ
+sponge	海綿
+sponges	海綿
+sponge man	海綿男
+sponge men	海綿男
+giant sponge	巨大海綿
+giant sponges	巨大海綿
+horseshoe crab	カブトガニ
+horseshoe crabs	カブトガニ
+horseshoe crab man	カブトガニ男
+horseshoe crab men	カブトガニ男
+horseshoe crab woman	カブトガニ女
+horseshoe crab women	カブトガニ女
+giant horseshoe crab	巨大カブトガニ
+giant horseshoe crabs	巨大カブトガニ
+sperm whale	マッコウクジラ
+sperm whales	マッコウクジラ
+sperm whale man	マッコウクジラ男
+sperm whale men	マッコウクジラ男
+sperm whale woman	マッコウクジラ女
+sperm whale women	マッコウクジラ女
+giant sperm whale	巨大マッコウクジラ
+giant sperm whales	巨大マッコウクジラ
+elephant seal	ゾウアザラシ
+elephant seals	ゾウアザラシ
+elephant seal man	ゾウアザラシ男
+elephant seal men	ゾウアザラシ男
+elephant seal woman	ゾウアザラシ女
+elephant seal women	ゾウアザラシ女
+giant elephant seal	巨大ゾウアザラシ
+giant elephant seals	巨大ゾウアザラシ
+harp seal	タテゴトアザラシ
+harp seals	タテゴトアザラシ
+harp seal man	タテゴトアザラシ男
+harp seal men	タテゴトアザラシ男
+harp seal woman	タテゴトアザラシ女
+harp seal women	タテゴトアザラシ女
+giant harp seal	巨大タテゴトアザラシ
+giant harp seals	巨大タテゴトアザラシ
+nautilus	オウムガイ
+nautiluses	オウムガイ
+nautilus man	オウムガイ男
+nautilus men	オウムガイ男
+nautilus woman	オウムガイ女
+nautilus women	オウムガイ女
+giant nautilus	巨大オウムガイ
+giant nautiluses	巨大オウムガイ
+fox squirrel	キツネリス
+fox squirrels	キツネリス
+moghopper	モグホッパー
+moghoppers	モグホッパー
+demon rat	悪魔鼠
+demon rats	悪魔鼠
+fluffy wambler	フラッフィーワンブラー
+fluffy wamblers	フラッフィーワンブラー
+two-legged rhino lizard	二足サイトカゲ
+two-legged rhino lizards	二足サイトカゲ
+knuckle worm	ナックルワーム
+knuckle worms	ナックルワーム
+phantom spider	ファントムスパイダー
+phantom spiders	ファントムスパイダー
+acorn fly	ドングリバエ
+acorn flies	ドングリバエ
+blood gnat	血ブヨ
+blood gnats	血ブヨ
+lizard	トカゲ
+lizards	トカゲ
+lizard man	トカゲ男
+lizard men	トカゲ男
+lizard woman	トカゲ女
+lizard women	トカゲ女
+giant lizard	巨大トカゲ
+giant lizards	巨大トカゲ
+skink	トカゲ（スキンク）
+skinks	トカゲ（スキンク）
+skink man	トカゲ（スキンク）男
+skink men	トカゲ（スキンク）男
+skink woman	トカゲ（スキンク）女
+skink women	トカゲ（スキンク）女
+giant skink	巨大トカゲ（スキンク）
+giant skinks	巨大トカゲ（スキンク）
+chameleon	カメレオン
+chameleons	カメレオン
+chameleon man	カメレオン男
+chameleon men	カメレオン男
+chameleon woman	カメレオン女
+chameleon women	カメレオン女
+giant chameleon	巨大カメレオン
+giant chameleons	巨大カメレオン
+anole	アノール
+anoles	アノール
+anole man	アノール男
+anole men	アノール男
+anole woman	アノール女
+anole women	アノール女
+giant anole	巨大アノール
+giant anoles	巨大アノール
+iguana	イグアナ
+iguanas	イグアナ
+iguana man	イグアナ男
+iguana men	イグアナ男
+iguana woman	イグアナ女
+iguana women	イグアナ女
+giant iguana	巨大イグアナ
+giant iguanas	巨大イグアナ
+river otter	カワウソ
+river otters	カワウソ
+sea otter	ラッコ
+sea otters	ラッコ
+otter man	カワウソ男
+otter men	カワウソ男
+otter woman	カワウソ女
+otter women	カワウソ女
+giant otter	オオカワウソ
+giant otters	オオカワウソ
+common snapping turtle	カミツキガメ
+common snapping turtles	カミツキガメ
+alligator snapping turtle	ワニガメ
+alligator snapping turtles	ワニガメ
+snapping turtle man	カミツキガメ男
+snapping turtle men	カミツキガメ男
+snapping turtle woman	カミツキガメ女
+snapping turtle women	カミツキガメ女
+giant snapping turtle	巨大カミツキガメ
+giant snapping turtles	巨大カミツキガメ
+beaver	ビーバー
+beavers	ビーバー
+beaver man	ビーバー男
+beaver men	ビーバー男
+beaver woman	ビーバー女
+beaver women	ビーバー女
+giant beaver	巨大ビーバー
+giant beavers	巨大ビーバー
+leech	ヒル
+leeches	ヒル
+leech man	ヒル男
+leech men	ヒル男
+giant leech	巨大ヒル
+giant leeches	巨大ヒル
+axolotl	アホロートル
+axolotls	アホロートル
+axolotl man	アホロートル男
+axolotl men	アホロートル男
+axolotl woman	アホロートル女
+axolotl women	アホロートル女
+giant axolotl	巨大アホロートル
+giant axolotls	巨大アホロートル
+mink	ミンク
+minks	ミンク
+mink man	ミンク男
+mink men	ミンク男
+mink woman	ミンク女
+mink women	ミンク女
+giant mink	巨大ミンク
+giant minks	巨大ミンク
+pond turtle	ヨーロッパヌマガメ
+pond turtles	ヨーロッパヌマガメ
+pond turtle man	ヨーロッパヌマガメ男
+pond turtle men	ヨーロッパヌマガメ男
+pond turtle woman	ヨーロッパヌマガメ女
+pond turtle women	ヨーロッパヌマガメ女
+giant pond turtle	巨大ヨーロッパヌマガメ
+giant pond turtles	巨大ヨーロッパヌマガメ
+rat	鼠
+rats	鼠
+rat man	鼠男
+rat men	鼠男
+rat woman	鼠女
+rat women	鼠女
+gray squirrel	ハイイロリス
+gray squirrels	ハイイロリス
+gray squirrel man	ハイイロリス男
+gray squirrel men	ハイイロリス男
+gray squirrel woman	ハイイロリス女
+gray squirrel women	ハイイロリス女
+giant gray squirrel	巨大ハイイロリス
+giant gray squirrels	巨大ハイイロリス
+red squirrel	キタリス
+red squirrels	キタリス
+red squirrel man	キタリス男
+red squirrel men	キタリス男
+red squirrel woman	キタリス女
+red squirrel women	キタリス女
+giant red squirrel	巨大キタリス
+giant red squirrels	巨大キタリス
+chipmunk	シマリス
+chipmunks	シマリス
+chipmunk man	シマリス男
+chipmunk men	シマリス男
+chipmunk woman	シマリス女
+chipmunk women	シマリス女
+giant chipmunk	巨大シマリス
+giant chipmunks	巨大シマリス
+hamster	ハムスター
+hamsters	ハムスター
+hamster man	ハムスター男
+hamster men	ハムスター男
+hamster woman	ハムスター女
+hamster women	ハムスター女
+giant hamster	巨大ハムスター
+giant hamsters	巨大ハムスター
+hedgehog	ハリネズミ
+hedgehogs	ハリネズミ
+hedgehog man	ハリネズミ男
+hedgehog men	ハリネズミ男
+hedgehog woman	ハリネズミ女
+hedgehog women	ハリネズミ女
+giant hedgehog	巨大ハリネズミ
+giant hedgehogs	巨大ハリネズミ
+flying squirrel	モモンガ
+flying squirrels	モモンガ
+flying squirrel man	モモンガ男
+flying squirrel men	モモンガ男
+flying squirrel woman	モモンガ女
+flying squirrel women	モモンガ女
+giant flying squirrel	巨大モモンガ
+giant flying squirrels	巨大モモンガ
+mussel	ムール貝
+mussels	ムール貝
+oyster	牡蠣
+oysters	牡蠣
+salmon	サケ
+clownfish	クマノミ
+hagfish	ヌタウナギ
+brook lamprey	スナヤツメ
+brook lampreys	スナヤツメ
+bat ray	バットレイ
+bat rays	バットレイ
+thornback ray	ソーンバックレイ
+thornback rays	ソーンバックレイ
+spotted ratfish	スポッテッドラットフィッシュ
+herring	ニシン
+herrings	ニシン
+shad	シャッド
+shads	シャッド
+anchovy	アンチョビ
+anchovies	アンチョビ
+steelhead trout	スチールヘッド
+hake	メルルーサ
+seahorse	タツノオトシゴ
+seahorses	タツノオトシゴ
+glasseye	ホウセキキントキ
+white-spotted puffer	サザナミフグ
+white-spotted puffers	サザナミフグ
+sole	シタビラメ
+flounder	ヒラメ
+flounders	ヒラメ
+mackerel	サバ
+sea nettle jellyfish	シーネットル
+squid	イカ
+squids	イカ
+squid man	イカ男
+squid men	イカ男
+squid woman	イカ女
+squid women	イカ女
+gigantic squid	ダイオウイカ
+gigantic squids	ダイオウイカ
+lungfish	ハイギョ
+clown loach	クラウンローチ
+clown loaches	クラウンローチ
+brown bullhead	ブラウンブルヘッド
+brown bullheads	ブラウンブルヘッド
+yellow bullhead	イエローブルヘッド
+yellow bullheads	イエローブルヘッド
+black bullhead	ブラックブルヘッド
+black bullheads	ブラックブルヘッド
+banded knifefish	バンデッドナイフフィッシュ
+char	イワナ
+rainbow trout	ニジマス
+sailfin molly	セイルフィンモーリー
+sailfin mollies	セイルフィンモーリー
+guppy	グッピー
+guppies	グッピー
+perch	パーチ
+dwarf	ドワーフ
+dwarven	ドワーフ
+human	人間
+humans	人間
+elf	エルフ
+elves	エルフ
+elven	エルフ
+goblin	ゴブリン
+goblins	ゴブリン
+kobold	コボルド
+kobolds	コボルド
+gremlin	グレムリン
+gremlins	グレムリン
+troll	トロール
+ogre	オーガ
+ogres	オーガ
+ogress	オーガ
+ogresses	オーガ
+unicorn	ユニコーン
+unicorns	ユニコーン
+dragon	ドラゴン
+dragons	ドラゴン
+draconic	ドラゴン
+satyr	サテュロス
+satyrs	サテュロス
+bronze colossus	青銅の巨像
+bronze colossuses	青銅の巨像
+giant	巨人
+giants	巨人
+giantess	女巨人
+giantesses	女巨人
+cyclops	サイクロプス
+cyclopes	サイクロプス
+ettin	エティン
+ettins	エティン
+minotaur	ミノタウロス
+minotaurs	ミノタウロス
+yeti	イエティ
+yetis	イエティ
+sasquatch	サスカッチ
+sasquatches	サスカッチ
+blizzard man	吹雪男
+blizzard men	吹雪男
+ice wolf	氷狼
+ice wolves	氷狼
+fairy	妖精
+fairies	妖精
+pixie	ピクシー
+pixies	ピクシー
+beak dog	ビークドッグ
+beak dogs	ビークドッグ
+grimeling	グライムリング
+grimelings	グライムリング
+foul blendec	穢れたブレンデック
+foul blendecs	穢れたブレンデック
+strangler	ストラングラー
+stranglers	ストラングラー
+nightwing	ナイトウィング
+nightwings	ナイトウィング
+harpy	ハーピー
+harpies	ハーピー
+hydra	ヒドラ
+hydras	ヒドラ
+merperson	人魚
+merpeople	人魚
+mermaid	人魚（雌）
+mermaids	人魚（雌）
+merman	人魚（雄）
+mermen	人魚（雄）
+sea serpent	シーサーペント
+sea serpents	シーサーペント
+sea monster	海の怪物
+sea monsters	海の怪物
+roc	ロック鳥
+rocs	ロック鳥
+cave crocodile	洞窟ワニ
+cave crocodiles	洞窟ワニ
+giant cave toad	巨大洞窟ヒキガエル
+giant cave toads	巨大洞窟ヒキガエル
+giant olm	巨大ホライモリ
+giant bat	巨大コウモリ
+giant bats	巨大コウモリ
+giant rat	巨大鼠
+giant rats	巨大鼠
+large rat	大鼠
+large rats	大鼠
+naked mole dog	ハダカモグラ犬
+naked mole dogs	ハダカモグラ犬
+troglodyte	トログロダイト
+giant mole	巨大モグラ
+giant moles	巨大モグラ
+fire imp	ファイアインプ
+giant cave spider	巨大洞窟グモ
+cave spider	洞窟グモ
+cave spiders	洞窟グモ
+cave fish	洞窟魚
+cave fish man	洞窟魚男
+cave fish men	洞窟魚男
+cave fish woman	洞窟魚女
+cave fish women	洞窟魚女
+cave lobster	洞窟ロブスター
+cave lobsters	洞窟ロブスター
+fire snake	火蛇
+fire snakes	火蛇
+olm	ホライモリ
+olms	ホライモリ
+olm man	ホライモリ男
+olm men	ホライモリ男
+olm woman	ホライモリ女
+olm women	ホライモリ女
+bat	コウモリ
+bats	コウモリ
+bat man	コウモリ男
+bat men	コウモリ男
+bat woman	コウモリ女
+bat women	コウモリ女
+purring maggot	ゴロゴロウジ
+purring maggots	ゴロゴロウジ
+fire man	炎男
+fire men	炎男
+magma man	マグマ男
+magma men	マグマ男
+iron man	鉄男
+iron men	鉄男
+mud man	泥男
+mud men	泥男
+cave swallow	ドウクツツバメ
+cave swallows	ドウクツツバメ
+cave swallow man	ドウクツツバメ男
+cave swallow men	ドウクツツバメ男
+cave swallow woman	ドウクツツバメ女
+cave swallow women	ドウクツツバメ女
+giant cave swallow	巨大ドウクツツバメ
+giant cave swallows	巨大ドウクツツバメ
+amphibian man	両生類男
+amphibian men	両生類男
+amphibian woman	両生類女
+amphibian women	両生類女
+reptile man	爬虫類男
+reptile men	爬虫類男
+reptile woman	爬虫類女
+reptile women	爬虫類女
+serpent man	蛇男
+serpent men	蛇男
+serpent woman	蛇女
+serpent women	蛇女
+antman	アリ男
+worker ant woman	働きアリ女
+worker ant women	働きアリ女
+soldier ant woman	兵隊アリ女
+soldier ant women	兵隊アリ女
+drone ant man	雄アリ男
+drone ant men	雄アリ男
+queen ant woman	女王アリ女
+queen ant women	女王アリ女
+rodent man	齧歯類男
+rodent men	齧歯類男
+rodent woman	齧歯類女
+rodent women	齧歯類女
+wild boar	猪
+wild boars	猪
+wild boar sow	猪（雌）
+wild boar sows	猪（雌）
+wild boar man	猪男
+wild boar men	猪男
+wild boar woman	猪女
+wild boar women	猪女
+giant wild boar	巨大猪
+giant wild boars	巨大猪
+coyote	コヨーテ
+coyotes	コヨーテ
+coyote man	コヨーテ男
+coyote men	コヨーテ男
+coyote woman	コヨーテ女
+coyote women	コヨーテ女
+giant coyote	巨大コヨーテ
+giant coyotes	巨大コヨーテ
+kangaroo	カンガルー
+kangaroo doe	カンガルー（雌）
+kangaroo does	カンガルー（雌）
+kangaroo buck	カンガルー（雄）
+kangaroo bucks	カンガルー（雄）
+kangaroo man	カンガルー男
+kangaroo men	カンガルー男
+kangaroo woman	カンガルー女
+kangaroo women	カンガルー女
+giant kangaroo	巨大カンガルー
+giant kangaroos	巨大カンガルー
+koala	コアラ
+koalas	コアラ
+koala man	コアラ男
+koala men	コアラ男
+koala woman	コアラ女
+koala women	コアラ女
+giant koala	巨大コアラ
+giant koalas	巨大コアラ
+adder	クサリヘビ
+adders	クサリヘビ
+adder man	クサリヘビ男
+adder men	クサリヘビ男
+adder woman	クサリヘビ女
+adder women	クサリヘビ女
+giant adder	巨大クサリヘビ
+giant adders	巨大クサリヘビ
+echidna	ハリモグラ
+echidnas	ハリモグラ
+echidna man	ハリモグラ男
+echidna men	ハリモグラ男
+echidna woman	ハリモグラ女
+echidna women	ハリモグラ女
+giant echidna	巨大ハリモグラ
+giant echidnas	巨大ハリモグラ
+porcupine	ヤマアラシ
+porcupines	ヤマアラシ
+porcupine man	ヤマアラシ男
+porcupine men	ヤマアラシ男
+porcupine woman	ヤマアラシ女
+porcupine women	ヤマアラシ女
+giant porcupine	巨大ヤマアラシ
+giant porcupines	巨大ヤマアラシ
+kingsnake	キングヘビ
+kingsnakes	キングヘビ
+kingsnake man	キングヘビ男
+kingsnake men	キングヘビ男
+kingsnake woman	キングヘビ女
+kingsnake women	キングヘビ女
+giant kingsnake	巨大キングヘビ
+giant kingsnakes	巨大キングヘビ
+gray langur	ハヌマンラングール
+gray langurs	ハヌマンラングール
+gray langur man	ハヌマンラングール男
+gray langur men	ハヌマンラングール男
+gray langur woman	ハヌマンラングール女
+gray langur women	ハヌマンラングール女
+giant gray langur	巨大ハヌマンラングール
+giant gray langurs	巨大ハヌマンラングール
+bobcat	ボブキャット
+bobcats	ボブキャット
+bobcat man	ボブキャット男
+bobcat men	ボブキャット男
+bobcat woman	ボブキャット女
+bobcat women	ボブキャット女
+giant bobcat	巨大ボブキャット
+giant bobcats	巨大ボブキャット
+skunk	スカンク
+skunks	スカンク
+skunk man	スカンク男
+skunk men	スカンク男
+skunk woman	スカンク女
+skunk women	スカンク女
+giant skunk	巨大スカンク
+giant skunks	巨大スカンク
+green tree frog	アメリカアマガエル
+green tree frogs	アメリカアマガエル
+green tree frog man	アメリカアマガエル男
+green tree frog men	アメリカアマガエル男
+green tree frog woman	アメリカアマガエル女
+green tree frog women	アメリカアマガエル女
+giant green tree frog	巨大アメリカアマガエル
+giant green tree frogs	巨大アメリカアマガエル
+hare	野兎
+hares	野兎
+doe hare	野兎（雌）
+doe hares	野兎（雌）
+buck hare	野兎（雄）
+buck hares	野兎（雄）
+hare man	野兎男
+hare men	野兎男
+hare woman	野兎女
+hare women	野兎女
+giant hare	巨大野兎
+giant hares	巨大野兎
+rattlesnake	ガラガラヘビ
+rattlesnakes	ガラガラヘビ
+rattlesnake man	ガラガラヘビ男
+rattlesnake men	ガラガラヘビ男
+rattlesnake woman	ガラガラヘビ女
+rattlesnake women	ガラガラヘビ女
+giant rattlesnake	巨大ガラガラヘビ
+giant rattlesnakes	巨大ガラガラヘビ
+weasel	イタチ
+weasels	イタチ
+weasel man	イタチ男
+weasel men	イタチ男
+weasel woman	イタチ女
+weasel women	イタチ女
+giant weasel	巨大イタチ
+giant weasels	巨大イタチ
+copperhead snake	アメリカマムシ
+copperhead snakes	アメリカマムシ
+copperhead snake man	アメリカマムシ男
+copperhead snake men	アメリカマムシ男
+copperhead snake woman	アメリカマムシ女
+copperhead snake women	アメリカマムシ女
+giant copperhead snake	巨大アメリカマムシ
+giant copperhead snakes	巨大アメリカマムシ
+ibex	アイベックス
+ibexes	アイベックス
+ibex man	アイベックス男
+ibex men	アイベックス男
+ibex woman	アイベックス女
+ibex women	アイベックス女
+giant ibex	巨大アイベックス
+giant ibexes	巨大アイベックス
+wombat	ウォンバット
+wombats	ウォンバット
+wombat man	ウォンバット男
+wombat men	ウォンバット男
+wombat woman	ウォンバット女
+wombat women	ウォンバット女
+giant wombat	巨大ウォンバット
+giant wombats	巨大ウォンバット
+dingo	ディンゴ
+dingoes	ディンゴ
+dingo man	ディンゴ男
+dingo men	ディンゴ男
+dingo woman	ディンゴ女
+dingo women	ディンゴ女
+giant dingo	巨大ディンゴ
+giant dingoes	巨大ディンゴ
+coati	ハナグマ
+coatis	ハナグマ
+coati man	ハナグマ男
+coati men	ハナグマ男
+coati woman	ハナグマ女
+coati women	ハナグマ女
+giant coati	巨大ハナグマ
+giant coatis	巨大ハナグマ
+opossum	オポッサム
+opossum man	オポッサム男
+opossum men	オポッサム男
+opossum woman	オポッサム女
+opossum women	オポッサム女
+giant opossum	巨大オポッサム
+giant opossums	巨大オポッサム
+mongoose	マングース
+mongooses	マングース
+mongoose man	マングース男
+mongoose men	マングース男
+mongoose woman	マングース女
+mongoose women	マングース女
+giant mongoose	巨大マングース
+giant mongooses	巨大マングース
+hyena	ハイエナ
+hyenas	ハイエナ
+hyena man	ハイエナ男
+hyena men	ハイエナ男
+hyena woman	ハイエナ女
+hyena women	ハイエナ女
+giant hyena	巨大ハイエナ
+giant hyenas	巨大ハイエナ
+anaconda	アナコンダ
+anacondas	アナコンダ
+anaconda man	アナコンダ男
+anaconda men	アナコンダ男
+anaconda woman	アナコンダ女
+anaconda women	アナコンダ女
+giant anaconda	巨大アナコンダ
+giant anacondas	巨大アナコンダ
+monitor lizard	オオトカゲ
+monitor lizards	オオトカゲ
+monitor lizard man	オオトカゲ男
+monitor lizard men	オオトカゲ男
+monitor lizard woman	オオトカゲ女
+monitor lizard women	オオトカゲ女
+giant monitor lizard	巨大オオトカゲ
+giant monitor lizards	巨大オオトカゲ
+king cobra	キングコブラ
+king cobras	キングコブラ
+king cobra man	キングコブラ男
+king cobra men	キングコブラ男
+king cobra woman	キングコブラ女
+king cobra women	キングコブラ女
+giant king cobra	巨大キングコブラ
+giant king cobras	巨大キングコブラ
+ocelot	オセロット
+ocelots	オセロット
+ocelot man	オセロット男
+ocelot men	オセロット男
+ocelot woman	オセロット女
+ocelot women	オセロット女
+giant ocelot	巨大オセロット
+giant ocelots	巨大オセロット
+jackal	ジャッカル
+jackals	ジャッカル
+jackal man	ジャッカル男
+jackal men	ジャッカル男
+jackal woman	ジャッカル女
+jackal women	ジャッカル女
+giant jackal	巨大ジャッカル
+giant jackals	巨大ジャッカル
+capuchin	オマキザル
+capuchins	オマキザル
+capuchin man	オマキザル男
+capuchin men	オマキザル男
+capuchin woman	オマキザル女
+capuchin women	オマキザル女
+giant capuchin	巨大オマキザル
+giant capuchins	巨大オマキザル
+sloth	ナマケモノ
+sloths	ナマケモノ
+sloth man	ナマケモノ男
+sloth men	ナマケモノ男
+sloth woman	ナマケモノ女
+sloth women	ナマケモノ女
+giant sloth	巨大ナマケモノ
+giant sloths	巨大ナマケモノ
+spider monkey	クモザル
+spider monkeys	クモザル
+spider monkey man	クモザル男
+spider monkey men	クモザル男
+spider monkey woman	クモザル女
+spider monkey women	クモザル女
+giant spider monkey	巨大クモザル
+giant spider monkeys	巨大クモザル
+pangolin	センザンコウ
+pangolins	センザンコウ
+pangolin man	センザンコウ男
+pangolin men	センザンコウ男
+pangolin woman	センザンコウ女
+pangolin women	センザンコウ女
+giant pangolin	巨大センザンコウ
+giant pangolins	巨大センザンコウ
+black mamba	ブラックマンバ
+black mambas	ブラックマンバ
+black mamba man	ブラックマンバ男
+black mamba men	ブラックマンバ男
+black mamba woman	ブラックマンバ女
+black mamba women	ブラックマンバ女
+giant black mamba	巨大ブラックマンバ
+giant black mambas	巨大ブラックマンバ
+sloth bear	ナマケグマ
+sloth bears	ナマケグマ
+sloth bear man	ナマケグマ男
+sloth bear men	ナマケグマ男
+sloth bear woman	ナマケグマ女
+sloth bear women	ナマケグマ女
+giant sloth bear	巨大ナマケグマ
+giant sloth bears	巨大ナマケグマ
+aye-aye	アイアイ
+aye-ayes	アイアイ
+aye-aye man	アイアイ男
+aye-aye men	アイアイ男
+aye-aye woman	アイアイ女
+aye-aye women	アイアイ女
+giant aye-aye	巨大アイアイ
+giant aye-ayes	巨大アイアイ
+bushmaster	ブッシュマスター
+bushmasters	ブッシュマスター
+bushmaster man	ブッシュマスター男
+bushmaster men	ブッシュマスター男
+bushmaster woman	ブッシュマスター女
+bushmaster women	ブッシュマスター女
+giant bushmaster	巨大ブッシュマスター
+giant bushmasters	巨大ブッシュマスター
+python	ニシキヘビ
+pythons	ニシキヘビ
+python man	ニシキヘビ男
+python men	ニシキヘビ男
+python woman	ニシキヘビ女
+python women	ニシキヘビ女
+giant python	巨大ニシキヘビ
+giant pythons	巨大ニシキヘビ
+tapir	バク
+tapirs	バク
+tapir man	バク男
+tapir men	バク男
+tapir woman	バク女
+tapir women	バク女
+giant tapir	巨大バク
+giant tapirs	巨大バク
+impala	インパラ
+impalas	インパラ
+impala man	インパラ男
+impala men	インパラ男
+impala woman	インパラ女
+impala women	インパラ女
+giant impala	巨大インパラ
+giant impalas	巨大インパラ
+aardvark	ツチブタ
+aardvarks	ツチブタ
+aardvark man	ツチブタ男
+aardvark men	ツチブタ男
+aardvark woman	ツチブタ女
+aardvark women	ツチブタ女
+giant aardvark	巨大ツチブタ
+giant aardvarks	巨大ツチブタ
+lion tamarin	ライオンタマリン
+lion tamarins	ライオンタマリン
+lion tamarin man	ライオンタマリン男
+lion tamarin men	ライオンタマリン男
+lion tamarin woman	ライオンタマリン女
+lion tamarin women	ライオンタマリン女
+giant lion tamarin	巨大ライオンタマリン
+giant lion tamarins	巨大ライオンタマリン
+stoat	オコジョ
+stoats	オコジョ
+stoat jill	オコジョ（雌）
+stoat jills	オコジョ（雌）
+stoat jack	オコジョ（雄）
+stoat jacks	オコジョ（雄）
+stoat man	オコジョ男
+stoat men	オコジョ男
+stoat woman	オコジョ女
+stoat women	オコジョ女
+giant stoat	巨大オコジョ
+giant stoats	巨大オコジョ
+lynx	オオヤマネコ
+lynx man	オオヤマネコ男
+lynx men	オオヤマネコ男
+lynx woman	オオヤマネコ女
+lynx women	オオヤマネコ女
+giant lynx	巨大オオヤマネコ
+hallucigenia	ハルキゲニア
+hallucigenia man	ハルキゲニア男
+hallucigenia men	ハルキゲニア男
+hallucigenia woman	ハルキゲニア女
+hallucigenia women	ハルキゲニア女
+haikouichthys	ハイコウイクチス
+haikouichthys man	ハイコウイクチス男
+haikouichthys men	ハイコウイクチス男
+haikouichthys woman	ハイコウイクチス女
+haikouichthys women	ハイコウイクチス女
+opabinia	オパビニア
+opabinia man	オパビニア男
+opabinia men	オパビニア男
+opabinia woman	オパビニア女
+opabinia women	オパビニア女
+anomalocaris	アノマロカリス
+anomalocaris man	アノマロカリス男
+anomalocaris men	アノマロカリス男
+anomalocaris woman	アノマロカリス女
+anomalocaris women	アノマロカリス女
+trilobite	三葉虫
+trilobites	三葉虫
+trilobite man	三葉虫男
+trilobite men	三葉虫男
+trilobite woman	三葉虫女
+trilobite women	三葉虫女
+wiwaxia	ウィワクシア
+wiwaxia man	ウィワクシア男
+wiwaxia men	ウィワクシア男
+wiwaxia woman	ウィワクシア女
+wiwaxia women	ウィワクシア女
+oestocephalus	オエストケファルス
+oestocephalus man	オエストケファルス男
+oestocephalus men	オエストケファルス男
+oestocephalus woman	オエストケファルス女
+oestocephalus women	オエストケファルス女
+tullimonstrum	ツリモンストラム
+tullimonstrum man	ツリモンストラム男
+tullimonstrum men	ツリモンストラム男
+tullimonstrum woman	ツリモンストラム女
+tullimonstrum women	ツリモンストラム女
+arthropleura	アースロプレウラ
+arthropleura man	アースロプレウラ男
+arthropleura men	アースロプレウラ男
+arthropleura woman	アースロプレウラ女
+arthropleura women	アースロプレウラ女
+meganeura	メガネウラ
+meganeura man	メガネウラ男
+meganeura men	メガネウラ男
+meganeura woman	メガネウラ女
+meganeura women	メガネウラ女
+deinotherium	デイノテリウム
+deinotheriums	デイノテリウム
+deinotherium man	デイノテリウム男
+deinotherium men	デイノテリウム男
+deinotherium woman	デイノテリウム女
+deinotherium women	デイノテリウム女
+smilodon	スミロドン
+smilodons	スミロドン
+smilodon man	スミロドン男
+smilodon men	スミロドン男
+smilodon woman	スミロドン女
+smilodon women	スミロドン女
+pygmy mammoth	コビトマンモス
+pygmy mammoths	コビトマンモス
+pygmy mammoth man	コビトマンモス男
+pygmy mammoth men	コビトマンモス男
+pygmy mammoth woman	コビトマンモス女
+pygmy mammoth women	コビトマンモス女
+megatherium	メガテリウム
+megatheriums	メガテリウム
+megatherium man	メガテリウム男
+megatherium men	メガテリウム男
+megatherium woman	メガテリウム女
+megatherium women	メガテリウム女
+thylacine	フクロオオカミ
+thylacines	フクロオオカミ
+thylacine man	フクロオオカミ男
+thylacine men	フクロオオカミ男
+thylacine woman	フクロオオカミ女
+thylacine women	フクロオオカミ女
+andrewsarchus	アンドリューサルクス
+andrewsarchus man	アンドリューサルクス男
+andrewsarchus men	アンドリューサルクス男
+andrewsarchus woman	アンドリューサルクス女
+andrewsarchus women	アンドリューサルクス女
+woolly rhinoceros	ケサイ
+woolly rhinoceroses	ケサイ
+woolly rhinoceros man	ケサイ男
+woolly rhinoceros men	ケサイ男
+woolly rhinoceros woman	ケサイ女
+woolly rhinoceros women	ケサイ女
+miohippus	ミオヒップス
+miohippus man	ミオヒップス男
+miohippus men	ミオヒップス男
+miohippus woman	ミオヒップス女
+miohippus women	ミオヒップス女
+glyptodon	グリプトドン
+glyptodons	グリプトドン
+glyptodon sow	グリプトドン（雌）
+glyptodon sows	グリプトドン（雌）
+glyptodon boar	グリプトドン（雄）
+glyptodon boars	グリプトドン（雄）
+glyptodon man	グリプトドン男
+glyptodon men	グリプトドン男
+glyptodon woman	グリプトドン女
+glyptodon women	グリプトドン女
+woolly mammoth	ケナガマンモス
+woolly mammoths	ケナガマンモス
+woolly mammoth man	ケナガマンモス男
+woolly mammoth men	ケナガマンモス男
+woolly mammoth woman	ケナガマンモス女
+woolly mammoth women	ケナガマンモス女
+paraceratherium	パラケラテリウム
+paraceratheriums	パラケラテリウム
+paraceratherium man	パラケラテリウム男
+paraceratherium men	パラケラテリウム男
+paraceratherium woman	パラケラテリウム女
+paraceratherium women	パラケラテリウム女
+dodo	ドードー
+dodos	ドードー
+dodo hen	ドードー（雌）
+dodo hens	ドードー（雌）
+dodo cock	ドードー（雄）
+dodo cocks	ドードー（雄）
+dodo man	ドードー男
+dodo men	ドードー男
+dodo woman	ドードー女
+dodo women	ドードー女
+kelenken	ケレンケン
+kelenkens	ケレンケン
+kelenken hen	ケレンケン（雌）
+kelenken hens	ケレンケン（雌）
+kelenken cock	ケレンケン（雄）
+kelenken cocks	ケレンケン（雄）
+kelenken man	ケレンケン男
+kelenken men	ケレンケン男
+kelenken woman	ケレンケン女
+kelenken women	ケレンケン女
+moa	モア
+moas	モア
+moa hen	モア（雌）
+moa hens	モア（雌）
+moa cock	モア（雄）
+moa cocks	モア（雄）
+moa man	モア男
+moa men	モア男
+moa woman	モア女
+moa women	モア女
+megalodon	メガロドン
+megalodons	メガロドン
+megalodon man	メガロドン男
+megalodon men	メガロドン男
+megalodon woman	メガロドン女
+megalodon women	メガロドン女
+megalania	メガラニア
+megalania man	メガラニア男
+megalania men	メガラニア男
+megalania woman	メガラニア女
+megalania women	メガラニア女
+titanoboa	ティタノボア
+titanoboas	ティタノボア
+titanoboa man	ティタノボア男
+titanoboa men	ティタノボア男
+titanoboa woman	ティタノボア女
+titanoboa women	ティタノボア女
+platybelodon	プラティベロドン
+platybelodons	プラティベロドン
+platybelodon man	プラティベロドン男
+platybelodon men	プラティベロドン男
+platybelodon woman	プラティベロドン女
+platybelodon women	プラティベロドン女
+entelodon	エンテロドン
+entelodons	エンテロドン
+entelodon man	エンテロドン男
+entelodon men	エンテロドン男
+entelodon woman	エンテロドン女
+entelodon women	エンテロドン女
+megacerops	メガケロプス
+megacerops man	メガケロプス男
+megacerops men	メガケロプス男
+megacerops woman	メガケロプス女
+megacerops women	メガケロプス女
+ammonite	アンモナイト
+ammonite man	アンモナイト男
+ammonite men	アンモナイト男
+ammonite woman	アンモナイト女
+ammonite women	アンモナイト女
+archelon	アーケロン
+archelon man	アーケロン男
+archelon men	アーケロン男
+archelon woman	アーケロン女
+archelon women	アーケロン女
+velociraptor	ヴェロキラプトル
+velociraptor man	ヴェロキラプトル男
+velociraptor men	ヴェロキラプトル男
+velociraptor woman	ヴェロキラプトル女
+velociraptor women	ヴェロキラプトル女
+mononykus	モノニクス
+mononykus man	モノニクス男
+mononykus men	モノニクス男
+mononykus woman	モノニクス女
+mononykus women	モノニクス女
+linhenykus	リンヘニクス
+linhenykus man	リンヘニクス男
+linhenykus men	リンヘニクス男
+linhenykus woman	リンヘニクス女
+linhenykus women	リンヘニクス女
+buitreraptor	ブイトレラプトル
+buitreraptor man	ブイトレラプトル男
+buitreraptor men	ブイトレラプトル男
+buitreraptor woman	ブイトレラプトル女
+buitreraptor women	ブイトレラプトル女
+deinonychus	デイノニクス
+deinonychus man	デイノニクス男
+deinonychus men	デイノニクス男
+deinonychus woman	デイノニクス女
+deinonychus women	デイノニクス女
+utahraptor	ユタラプトル
+utahraptor man	ユタラプトル男
+utahraptor men	ユタラプトル男
+utahraptor woman	ユタラプトル女
+utahraptor women	ユタラプトル女
+mosasaurus	モササウルス
+mosasaurus man	モササウルス男
+mosasaurus men	モササウルス男
+mosasaurus woman	モササウルス女
+mosasaurus women	モササウルス女
+parasaurolophus	パラサウロロフス
+parasaurolophus man	パラサウロロフス男
+parasaurolophus men	パラサウロロフス男
+parasaurolophus woman	パラサウロロフス女
+parasaurolophus women	パラサウロロフス女
+iguanodon	イグアノドン
+iguanodon man	イグアノドン男
+iguanodon men	イグアノドン男
+iguanodon woman	イグアノドン女
+iguanodon women	イグアノドン女
+triceratops	トリケラトプス
+triceratops man	トリケラトプス男
+triceratops men	トリケラトプス男
+triceratops woman	トリケラトプス女
+triceratops women	トリケラトプス女
+kosmoceratops	コスモケラトプス
+kosmoceratops man	コスモケラトプス男
+kosmoceratops men	コスモケラトプス男
+kosmoceratops woman	コスモケラトプス女
+kosmoceratops women	コスモケラトプス女
+microceratus	ミクロケラトゥス
+microceratus man	ミクロケラトゥス男
+microceratus men	ミクロケラトゥス男
+microceratus woman	ミクロケラトゥス女
+microceratus women	ミクロケラトゥス女
+ankylosaurus	アンキロサウルス
+ankylosaurus man	アンキロサウルス男
+ankylosaurus men	アンキロサウルス男
+ankylosaurus woman	アンキロサウルス女
+ankylosaurus women	アンキロサウルス女
+pachycephalosaurus	パキケファロサウルス
+pachycephalosaurus man	パキケファロサウルス男
+pachycephalosaurus men	パキケファロサウルス男
+pachycephalosaurus woman	パキケファロサウルス女
+pachycephalosaurus women	パキケファロサウルス女
+quetzalcoatlus	ケツァルコアトルス
+quetzalcoatlus man	ケツァルコアトルス男
+quetzalcoatlus men	ケツァルコアトルス男
+quetzalcoatlus woman	ケツァルコアトルス女
+quetzalcoatlus women	ケツァルコアトルス女
+colepiocephale	コレピオケファレ
+colepiocephale man	コレピオケファレ男
+colepiocephale men	コレピオケファレ男
+colepiocephale woman	コレピオケファレ女
+colepiocephale women	コレピオケファレ女
+tsintaosaurus	チンタオサウルス
+tsintaosaurus man	チンタオサウルス男
+tsintaosaurus men	チンタオサウルス男
+tsintaosaurus woman	チンタオサウルス女
+tsintaosaurus women	チンタオサウルス女
+therizinosaurus	テリジノサウルス
+therizinosaurus man	テリジノサウルス男
+therizinosaurus men	テリジノサウルス男
+therizinosaurus woman	テリジノサウルス女
+therizinosaurus women	テリジノサウルス女
+suzhousaurus	スゾウサウルス
+suzhousaurus man	スゾウサウルス男
+suzhousaurus men	スゾウサウルス男
+suzhousaurus woman	スゾウサウルス女
+suzhousaurus women	スゾウサウルス女
+nothronychus	ノスロニクス
+nothronychus man	ノスロニクス男
+nothronychus men	ノスロニクス男
+nothronychus woman	ノスロニクス女
+nothronychus women	ノスロニクス女
+carnotaurus	カルノタウルス
+carnotaurus man	カルノタウルス男
+carnotaurus men	カルノタウルス男
+carnotaurus woman	カルノタウルス女
+carnotaurus women	カルノタウルス女
+spinosaurus aegyptiacus	スピノサウルス・エジプティアクス
+spinosaurus aegyptiacus man	スピノサウルス・エジプティアクス男
+spinosaurus aegyptiacus men	スピノサウルス・エジプティアクス男
+spinosaurus aegyptiacus woman	スピノサウルス・エジプティアクス女
+spinosaurus aegyptiacus women	スピノサウルス・エジプティアクス女
+tyrannosaurus	ティラノサウルス
+tyrannosaurus man	ティラノサウルス男
+tyrannosaurus men	ティラノサウルス男
+tyrannosaurus woman	ティラノサウルス女
+tyrannosaurus women	ティラノサウルス女
+amargasaurus	アマルガサウルス
+amargasaurus man	アマルガサウルス男
+amargasaurus men	アマルガサウルス男
+amargasaurus woman	アマルガサウルス女
+amargasaurus women	アマルガサウルス女
+oviraptor	オヴィラプトル
+oviraptor man	オヴィラプトル男
+oviraptor men	オヴィラプトル男
+oviraptor woman	オヴィラプトル女
+oviraptor women	オヴィラプトル女
+sinopterus	シノプテルス
+sinopterus man	シノプテルス男
+sinopterus men	シノプテルス男
+sinopterus woman	シノプテルス女
+sinopterus women	シノプテルス女
+spinosaurus mirabilis	スピノサウルス・ミラビリス
+spinosaurus mirabilis man	スピノサウルス・ミラビリス男
+spinosaurus mirabilis men	スピノサウルス・ミラビリス男
+spinosaurus mirabilis woman	スピノサウルス・ミラビリス女
+spinosaurus mirabilis women	スピノサウルス・ミラビリス女
+hypsilophodon	ヒプシロフォドン
+hypsilophodon man	ヒプシロフォドン男
+hypsilophodon men	ヒプシロフォドン男
+hypsilophodon woman	ヒプシロフォドン女
+hypsilophodon women	ヒプシロフォドン女
+nodosaurus	ノドサウルス
+nodosaurus man	ノドサウルス男
+nodosaurus men	ノドサウルス男
+nodosaurus woman	ノドサウルス女
+nodosaurus women	ノドサウルス女
+dunkleosteus	ダンクルオステウス
+dunkleosteus man	ダンクルオステウス男
+dunkleosteus men	ダンクルオステウス男
+dunkleosteus woman	ダンクルオステウス女
+dunkleosteus women	ダンクルオステウス女
+tiktaalik	ティクターリク
+tiktaalik man	ティクターリク男
+tiktaalik men	ティクターリク男
+tiktaalik woman	ティクターリク女
+tiktaalik women	ティクターリク女
+hibbertopterus scouleri	ヒベルトプテルス・スコウレリ
+hibbertopterus scouleri man	ヒベルトプテルス・スコウレリ男
+hibbertopterus scouleri men	ヒベルトプテルス・スコウレリ男
+hibbertopterus scouleri woman	ヒベルトプテルス・スコウレリ女
+hibbertopterus scouleri women	ヒベルトプテルス・スコウレリ女
+hibbertopterus peachi	ヒベルトプテルス・ピーチ
+hibbertopterus peachi man	ヒベルトプテルス・ピーチ男
+hibbertopterus peachi men	ヒベルトプテルス・ピーチ男
+hibbertopterus peachi woman	ヒベルトプテルス・ピーチ女
+hibbertopterus peachi women	ヒベルトプテルス・ピーチ女
+drepanopterus	ドレパノプテルス
+drepanopterus man	ドレパノプテルス男
+drepanopterus men	ドレパノプテルス男
+drepanopterus woman	ドレパノプテルス女
+drepanopterus women	ドレパノプテルス女
+mimetaster	ミメタスター
+mimetaster man	ミメタスター男
+mimetaster men	ミメタスター男
+mimetaster woman	ミメタスター女
+mimetaster women	ミメタスター女
+ichthyosaurus	イクチオサウルス
+ichthyosaurus man	イクチオサウルス男
+ichthyosaurus men	イクチオサウルス男
+ichthyosaurus woman	イクチオサウルス女
+ichthyosaurus women	イクチオサウルス女
+torvosaurus	トルヴォサウルス
+torvosaurus man	トルヴォサウルス男
+torvosaurus men	トルヴォサウルス男
+torvosaurus woman	トルヴォサウルス女
+torvosaurus women	トルヴォサウルス女
+archaeopteryx	始祖鳥
+archaeopteryx man	始祖鳥男
+archaeopteryx men	始祖鳥男
+archaeopteryx woman	始祖鳥女
+archaeopteryx women	始祖鳥女
+plesiosaurus	プレシオサウルス
+plesiosaurus man	プレシオサウルス男
+plesiosaurus men	プレシオサウルス男
+plesiosaurus woman	プレシオサウルス女
+plesiosaurus women	プレシオサウルス女
+stegosaurus	ステゴサウルス
+stegosaurus man	ステゴサウルス男
+stegosaurus men	ステゴサウルス男
+stegosaurus woman	ステゴサウルス女
+stegosaurus women	ステゴサウルス女
+kentrosaurus	ケントロサウルス
+kentrosaurus man	ケントロサウルス男
+kentrosaurus men	ケントロサウルス男
+kentrosaurus woman	ケントロサウルス女
+kentrosaurus women	ケントロサウルス女
+pterodactylus	プテロダクティルス
+pterodactylus man	プテロダクティルス男
+pterodactylus men	プテロダクティルス男
+pterodactylus woman	プテロダクティルス女
+pterodactylus women	プテロダクティルス女
+jeholopterus	ジェホロプテルス
+jeholopterus man	ジェホロプテルス男
+jeholopterus men	ジェホロプテルス男
+jeholopterus woman	ジェホロプテルス女
+jeholopterus women	ジェホロプテルス女
+dilophosaurus	ディロフォサウルス
+dilophosaurus man	ディロフォサウルス男
+dilophosaurus men	ディロフォサウルス男
+dilophosaurus woman	ディロフォサウルス女
+dilophosaurus women	ディロフォサウルス女
+ceratosaurus	ケラトサウルス
+ceratosaurus man	ケラトサウルス男
+ceratosaurus men	ケラトサウルス男
+ceratosaurus woman	ケラトサウルス女
+ceratosaurus women	ケラトサウルス女
+europasaurus	エウロパサウルス
+europasaurus man	エウロパサウルス男
+europasaurus men	エウロパサウルス男
+europasaurus woman	エウロパサウルス女
+europasaurus women	エウロパサウルス女
+brachiosaurus	ブラキオサウルス
+brachiosaurus man	ブラキオサウルス男
+brachiosaurus men	ブラキオサウルス男
+brachiosaurus woman	ブラキオサウルス女
+brachiosaurus women	ブラキオサウルス女
+diplodocus	ディプロドクス
+diplodocus man	ディプロドクス男
+diplodocus men	ディプロドクス男
+diplodocus woman	ディプロドクス女
+diplodocus women	ディプロドクス女
+brontosaurus	ブロントサウルス
+brontosaurus man	ブロントサウルス男
+brontosaurus men	ブロントサウルス男
+brontosaurus woman	ブロントサウルス女
+brontosaurus women	ブロントサウルス女
+allosaurus	アロサウルス
+allosaurus man	アロサウルス男
+allosaurus men	アロサウルス男
+allosaurus woman	アロサウルス女
+allosaurus women	アロサウルス女
+afrovenator	アフロヴェナトル
+afrovenator man	アフロヴェナトル男
+afrovenator men	アフロヴェナトル男
+afrovenator woman	アフロヴェナトル女
+afrovenator women	アフロヴェナトル女
+rhamphorhynchus	ランフォリンクス
+rhamphorhynchus man	ランフォリンクス男
+rhamphorhynchus men	ランフォリンクス男
+rhamphorhynchus woman	ランフォリンクス女
+rhamphorhynchus women	ランフォリンクス女
+ostenocaris	オステノカリス
+ostenocaris man	オステノカリス男
+ostenocaris men	オステノカリス男
+ostenocaris woman	オステノカリス女
+ostenocaris women	オステノカリス女
+aegirocassis	エーギロカシス
+aegirocassis man	エーギロカシス男
+aegirocassis men	エーギロカシス男
+aegirocassis woman	エーギロカシス女
+aegirocassis women	エーギロカシス女
+diplocaulus	ディプロカウルス
+diplocaulus man	ディプロカウルス男
+diplocaulus men	ディプロカウルス男
+diplocaulus woman	ディプロカウルス女
+diplocaulus women	ディプロカウルス女
+eryops	エリオプス
+eryops man	エリオプス男
+eryops men	エリオプス男
+eryops woman	エリオプス女
+eryops women	エリオプス女
+helicoprion	ヘリコプリオン
+helicoprion man	ヘリコプリオン男
+helicoprion men	ヘリコプリオン男
+helicoprion woman	ヘリコプリオン女
+helicoprion women	ヘリコプリオン女
+dimetrodon	ディメトロドン
+dimetrodon man	ディメトロドン男
+dimetrodon men	ディメトロドン男
+dimetrodon woman	ディメトロドン女
+dimetrodon women	ディメトロドン女
+diadectes	ディアデクテス
+diadectes man	ディアデクテス男
+diadectes men	ディアデクテス男
+diadectes woman	ディアデクテス女
+diadectes women	ディアデクテス女
+anteosaurus	アンテオサウルス
+anteosaurus man	アンテオサウルス男
+anteosaurus men	アンテオサウルス男
+anteosaurus woman	アンテオサウルス女
+anteosaurus women	アンテオサウルス女
+lystrosaurus	リストロサウルス
+lystrosaurus man	リストロサウルス男
+lystrosaurus men	リストロサウルス男
+lystrosaurus woman	リストロサウルス女
+lystrosaurus women	リストロサウルス女
+jaekelopterus	イェーケロプテルス
+jaekelopterus man	イェーケロプテルス男
+jaekelopterus men	イェーケロプテルス男
+jaekelopterus woman	イェーケロプテルス女
+jaekelopterus women	イェーケロプテルス女
+gerrothorax	ゲロトラックス
+gerrothorax man	ゲロトラックス男
+gerrothorax men	ゲロトラックス男
+gerrothorax woman	ゲロトラックス女
+gerrothorax women	ゲロトラックス女
+eoraptor	エオラプトル
+eoraptor man	エオラプトル男
+eoraptor men	エオラプトル男
+eoraptor woman	エオラプトル女
+eoraptor women	エオラプトル女
+sharovipteryx	シャロビプテリクス
+sharovipteryx man	シャロビプテリクス男
+sharovipteryx men	シャロビプテリクス男
+sharovipteryx woman	シャロビプテリクス女
+sharovipteryx women	シャロビプテリクス女
+psephoderma	プセフォデルマ
+psephoderma man	プセフォデルマ男
+psephoderma men	プセフォデルマ男
+psephoderma woman	プセフォデルマ女
+psephoderma women	プセフォデルマ女
+procompsognathus	プロコンプソグナトゥス
+procompsognathus man	プロコンプソグナトゥス男
+procompsognathus men	プロコンプソグナトゥス男
+procompsognathus woman	プロコンプソグナトゥス女
+procompsognathus women	プロコンプソグナトゥス女
+drepanosaurus	ドレパノサウルス
+drepanosaurus man	ドレパノサウルス男
+drepanosaurus men	ドレパノサウルス男
+drepanosaurus woman	ドレパノサウルス女
+drepanosaurus women	ドレパノサウルス女
+forgotten beast	忘れられし獣
+forgotten beasts	忘れられし獣
+brush titan	低木地のタイタン
+brush titans	低木地の巨人
+brush-titan	低木地の巨人
+blizzard haunt	吹雪の怨霊
+blizzard haunts	吹雪の怨霊
+haunt	怨霊
+banshee of steam	蒸気のバンシー
+banshees of steam	蒸気のバンシー
+ghost of embers	残り火の幽霊
+ghosts of embers	残り火の幽霊
+fire haunt	火の怨霊
+fire haunts	火の怨霊
+fire	火
+lizard devil	トカゲの魔物
+lizard devils	トカゲの魔物
+lizard devilish	トカゲの魔物
+lizard fiend	トカゲの悪鬼
+lizard fiends	トカゲの悪鬼
+lizard fiendish	トカゲの悪鬼
+coati fiend	ハナグマの悪鬼
+coati fiends	ハナグマの悪鬼
+coati fiendish	ハナグマの悪鬼
+tortoise monster	亀の怪物
+tortoise monsters	亀の怪物
+sheep monster	羊の怪物
+llama devil	ラマの魔物
+llama devils	ラマの魔物
+llama devilish	ラマの魔物
+buffalo devil	バッファローの魔物
+buffalo devils	バッファローの魔物
+buffalo devilish	バッファローの魔物
+blue monster	青の怪物
+blue monsters	青の怪物
+monster	怪物
+monitor brute	モニターの獣鬼
+monitor brutes	モニターの獣鬼
+monitor brutish	モニターの野獣
+pterosaur fiend	翼竜の悪鬼
+pterosaur fiends	翼竜の悪鬼
+pterosaur fiendish	翼竜の悪鬼
+orchid pink devil	オーキッドピンクの魔物
+orchid pink devils	オーキッドピンクの魔物
+devilish	魔物
+scorpion fiend	サソリの悪鬼
+scorpion fiends	サソリの悪鬼
+scorpion fiendish	サソリの悪鬼
+inferno brute	業火の獣鬼
+inferno brutes	業火の獣鬼
+brutish	野獣
+midnight blue demon	ミッドナイトブルーの悪魔
+midnight blue demons	ミッドナイトブルーの悪魔
+demonic	悪魔
+one-eyed monster	隻眼の怪物
+one-eyed monsters	隻眼の怪物
+fern green fiend	ファーングリーンの悪鬼
+fern green fiends	ファーングリーンの悪鬼
+fiendish	悪鬼
+bleak monster	荒涼たる怪物
+bleak monsters	荒涼たる怪物
+bleak monster bride	荒涼たる怪物の花嫁
+bleak monster brides	荒涼たる怪物の花嫁
+moon creature	月の生き物
+moon creatures	月の生き物
+bride of the moon creature	月の生き物の花嫁
+brides of the moon creature	月の生き物の花嫁
+man of shadow	影の男
+men of shadow	影の男
+man mate of shadow	影の男の連れ合い
+man mates of shadow	影の男の連れ合い
+wicked troll	悪辣なトロル
+wicked trolls	悪辣なトロル
+groom of the wicked troll	悪辣なトロルの花婿
+grooms of the wicked troll	悪辣なトロルの花婿
+wicked horror	悪辣な恐怖
+wicked horrors	悪辣な恐怖
+spouse of the wicked horror	悪辣な恐怖の配偶者
+spouses of the wicked horror	悪辣な恐怖の配偶者
+troll of twilight	薄明のトロル
+trolls of twilight	薄明のトロル
+troll mate of twilight	薄明のトロルの連れ合い
+troll mates of twilight	薄明のトロルの連れ合い
+shadow monster	影の怪物
+shadow monsters	影の怪物
+shadow monster mate	影の怪物の連れ合い
+shadow monster mates	影の怪物の連れ合い
+emaciated freak	痩せこけた異形
+consort of the emaciated freak	痩せこけた異形の配偶者
+consorts of the emaciated freak	痩せこけた異形の配偶者
+shrieking monster	金切り声の怪物
+shrieking monsters	金切り声の怪物
+shrieking monster husband	金切り声の怪物の夫
+shrieking monster husbands	金切り声の怪物の夫
+brooding woman	陰気な女
+brooding women	陰気な女性
+bridegroom of the brooding woman	陰気な女の花婿
+bridegrooms of the brooding woman	陰気な女の花婿
+bogeyman	ブギーマン
+bogeymen	ブギーマン
+nightmare	悪夢
+nightmares	悪夢
+wereraccoon	ワーアライグマ
+wereraccoons	ワーアライグマ
+wereloris	ワーロリス
+wereloriss	ワーロリス
+weregila monster	ワーアメリカドクトカゲ
+weregila monsters	ワーアメリカドクトカゲ
+werehyena	ワーハイエナ
+werehyenas	ワーハイエナ
+werelizard	ワートカゲ
+werelizards	ワートカゲ
+wereanteater	ワーアリクイ
+wereanteaters	ワーアリクイ
+werehorse	ワー馬
+werehorses	ワー馬
+wereopossum	ワーオポッサム
+wereopossums	ワーオポッサム
+werekoala	ワーコアラ
+werekoalas	ワーコアラ
+weregecko	ワーヤモリ
+weregeckos	ワーヤモリ
+deformity Messenger	奇形の伝令
+deformity Messengers	奇形の伝令
+deformity messenger	奇形の伝令
+deformed Assistant	奇形の補佐役
+deformed Assistants	奇形の補佐役
+deformed assistant	奇形の補佐役
+deformed Beast	奇形の獣
+deformed Beasts	奇形の獣
+deformed beast	奇形の獣

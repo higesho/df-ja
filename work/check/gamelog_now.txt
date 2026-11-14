@@ -1,0 +1,885 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 11333335
+Seed: SnGr7h0FwDXinRn4uRFH
+History Seed: vfd2yXTsQMe110XewUMP
+Name Seed: PCebLUJDGjXI4GrLywKc
+Creature Seed: kreUDafxxeN8tzpQb99X
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tiristidrom, "Rimshort".  [C:2:0:1]Strike the earth![C:7:0:0]
+** Starting New Outpost **
+Seed: 80ZwReAzZhRitsbChFiO
+History Seed: kX8xW1tBb9IFQHIFZmZJ
+Name Seed: BhMftaxflMZqbDL6G27F
+Creature Seed: 78XoafZuKJZzJxexCa8g
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the carnotaurus get hungry. [B]A new chapter of dwarven history begins here at this place, Lulârtobul, "Rootedcanyon".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tosidråsh, "Armordies".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Duthaldegël, "Worthgalleys".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Libashlist, "Axegaze".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Dakosttun, "Floordoors".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Orstistvutok, "Reclusefigure".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Alåthstibmer, "Boltshore".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Zanossibrek, "Hopesalves".  [C:2:0:1]Strike the earth![C:7:0:0]
+There is nothing to catch in the central swamps.
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Koganakmam, "Boatsink".  [C:2:0:1]Strike the earth![C:7:0:0]
+The kea attacks the stray dog but She jumps away!
+The stray dog scratches the kea in the second toe, right foot, but the attack glances away!
+The kea snatches at the stray dog in the left front paw with his first toe, left foot, denting the skin!
+The stray dog misses the kea!
+The kea snatches at the stray dog in the left front leg with his first toe, right foot, denting the skin and bruising the muscle!
+The stray dog attacks the kea but He jumps away!
+The kea grabs the stray dog by the fourth right rear toe with her left wing!
+The stray dog breaks the grip of the kea's left wing on The stray dog's fourth right rear toe.
+The stray dog bites the kea in the upper body, tearing the muscle and bruising the right lung!
+The kea bites the stray dog in the left front leg, denting the skin and bruising the fat!
+The kea snatches at the stray dog in the left front paw with her first toe, left foot, tearing the fat and bruising the muscle!
+The force bends the left front leg!
+The stray dog attacks the kea but She jumps away!
+The kea bites the stray dog in the left rear paw, denting the skin and bruising the fat!
+The kea attacks the expedition leader but She jumps away!
+The kea snatches at the stray dog in the fourth left front toe with her first toe, right foot, but the attack glances away!
+The force pulls the left front paw!
+The expedition leader attacks the kea but He jumps away!
+The kea misses the expedition leader!
+The expedition leader misses the kea!
+The stray dog bites the kea in the left foot, tearing apart the skin!
+The kea snatches at the expedition leader in the left upper arm with his first toe, right foot, bruising the muscle through the (cave spider silk dress)!
+The expedition leader punches the kea in the right wing with her right hand, but the attack glances away!
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the left kidney!
+The kea is propelled away by the force of the blow!
+The expedition leader grabs the kea by the first toe, left foot with her right hand, but the attack glances away!
+The kea bites the stray dog in the lower body, denting the skin and bruising the fat!
+The expedition leader punches the kea in the left foot with her right hand, bruising the skin!
+The kea snatches at the stray dog in the tail with her first toe, left foot, tearing the fat!
+The kea's left wing skids along the ground, bruising the muscle!
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the guts!
+The kea looks sick!
+The stray dog bites the kea in the left upper leg, tearing apart the skin!
+The stonecrafter punches the kea in the upper body with her left hand, bruising the muscle and bruising the left lung!
+The expedition leader punches the kea in the upper body with her right hand, bruising the muscle and shattering the right false ribs!
+The kea slams into an obstacle!
+The fisherdwarf punches the kea in the right upper leg with his left hand and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The force bends the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The kea gives in to pain.
+The kea bites the stray dog in the fourth left rear toe, but the attack glances away!
+The kea latches on firmly!
+The stonecrafter grabs the kea by the third toe, right foot with her left lower arm!
+The kea vomits.
+The expedition leader punches the kea in the head with her left hand and the injured part collapses into a lump of gore!
+The stray dog charges at the kea!
+The stray dog collides with the kea!
+The kea is knocked over and tumbles backward!
+The kea stands up.
+The kea misses the stray dog!
+The fisherdwarf attacks the kea but She jumps away!
+The kea snatches at the fisherdwarf in the lower body with her first toe, right foot, bruising the muscle and bruising the left kidney through the (alpaca wool tunic)!
+The fisherdwarf charges at the expedition leader!
+The fisherdwarf collides with the expedition leader!
+The fisherdwarf bounces backward!
+The fisherdwarf misses the kea!
+The expedition leader punches the kea in the lower body with her left hand, bruising the fat!
+The kea has become enraged!
+The kea misses the fisherdwarf!
+The fisherdwarf grabs the kea by the left lower leg with his left upper arm!
+The expedition leader grabs the kea by the second toe, right foot with her right lower arm!
+The kea snatches at the fisherdwarf in the left lower leg with her first toe, right foot, bruising the fat through the (giant cave spider silk trousers)!
+The fisherdwarf punches the kea in the neck with his left hand, bruising the fat!
+The expedition leader throws the kea by the second toe, right foot with The expedition leader's right lower arm!
+The expedition leader punches the kea in the head with her left hand and the injured part explodes into gore!
+The kea has been knocked unconscious!
+The fisherdwarf jumps out of the kea's flight path!
+The kea's head skids along the ground, bruising the muscle, bruising the skull!
+The kea's left wing skids along the ground, bruising the bone!
+The fisherdwarf is no longer stunned.
+The kea's upper body skids along the ground, bruising the muscle and bruising the liver!
+The fisherdwarf stands up.
+The stonecrafter stands up.
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Åbleludib, "Bustsyrup".  [C:2:0:1]Strike the earth![C:7:0:0]
+A snow storm has come.
+It has started raining.
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Rigòthbomrek, "Craftswhip".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Ducimgomath, "Worklegend".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Kilrudustir, "Bronzecrow".  [C:2:0:1]Strike the earth![C:7:0:0]
+The weather has cleared.
+An animal has grown to become a Stray Yak Bull.
+It is now summer.
+Some migrants have arrived.
+Autumn has come.
+The outpost liaison Datan Mörulamud from Zasit Vudthar has arrived.
+Although it is a grim reminder of the winter hardships to come, the supply caravan from The Knives of Ransacking is a welcome sight. Their eyes are alight with the anticipation of inspecting the splendid products of your industrious craftsdwarves. [B]Take careful stock of your own stores. What these merchants offer might very well be the difference between a prosperous future and a slow and meaningless death.
+The merchants need a trade depot to unload their goods.
+** Loading Fortress **
+You've finally got your equipment together, such as it is.  Now it's time for action and adventure!  In the rush of excitement, you've forgotten where you were going to go.  Perhaps some of your friends here can remind you.
+** Starting Adventure **
+You: Hello Nomal.
+The farmer Nomal Koganusen: Hello.  It is good to see you.
+The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.
+The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.
+You: Hello Momuz.  This servant of labor greets you.
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): Greetings.  My name is Dastot Dyerose.
+The farmer Momuz Mengrab: Hello.  It is good to see you.
+The farmer Geshud Zontögum (to the farmer Dastot Atírlocun): Ah, hello.  I'm Geshud Helmverse.
+You: Let's trade.
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): ... and the goblins said, "Are you going to eat that?"
+The farmer Momuz Mengrab: You should probably try a shopkeeper.
+You: Here's something you might be interested in...
+The farmer Kogan Lelumingish: Really?  Please come closer.
+The farmer Kogan Lelumingish: Really?  Alright.
+You attack the farmer Avuz Duthalid but She jumps away!
+You hack the animal caretaker Unib Adilgim in the upper body with your iron battle axe, tearing apart the muscle and tearing apart the liver through the xwater buffalo leather tunicx!
+The animal caretaker Unib Adilgim: I must withdraw!
+The herbalist Sigun Borlonerib: There's fighting!  I feel very uneasy.
+You: How have things been?
+The animal caretaker Unib Adilgim: How fleeting life is...  Begone fear!
+The herbalist Sigun Borlonerib: Well, let's see...
+You: Tell me about the local ruler.
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): Greetings.  My name is Kosoth Vesseltalk.
+The farmer Bëmbul Mengber: It was raining on me.  It's annoying.
+The hunter Thîkut Samamustuth: The Trussed Armor rules Plaittome.  I don't care one way or another.
+You attack the hunter Thîkut Samamustuth but He jumps away!
+The farmer Kosoth Eralmasos: I was out in the rain.  That's very annoying.
+The farmer Bëmbul Mengber (to the farmer Kosoth Eralmasos): Ah, hello.  I'm Bëmbul Lashearths.
+You bash the hunter Thîkut Samamustuth in the upper body from behind with your iron mace, bruising the muscle and bruising the right lung through the pig tail tunic!
+The hunter Thîkut Samamustuth is having trouble breathing!
+The hunter Thîkut Samamustuth: Help!  Save me!
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): I've been rained on.  That's very annoying.
+The farmer Bëmbul Mengber: There's fighting!  I feel very uneasy.
+The hunter Thîkut Samamustuth: Has the tide turned?  I am not scared!
+The mayor Naco Ciraathe: A battle!  I feel very uneasy.
+The hunter Thîkut Samamustuth: Can it all end so quickly?  Begone fear!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and bruising the right lung through the llama wool tunic!
+The mayor Naco Ciraathe misses you!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the fat through the llama wool tunic!
+The hunter Thîkut Samamustuth: A battle!  I feel very uneasy.
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle, jamming the left false ribs through the left lung and tearing the left lung!
+The mayor Naco Ciraathe is having trouble breathing!
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and shattering the left floating ribs through the llama wool tunic!
+The mayor Naco Ciraathe: Stop!  This isn't happening!
+You: I've defeated many fearsome opponents!
+The gem setter Kosoth Isethdeler: The Rhythmic Boat rules Painthame.  It's for the best.
+You: Do they have a firm grip on these lands?
+The gem setter Kosoth Isethdeler: They do not feel challenged at all.
+You: Where are their forces?  Are there patrols or guards?
+The gem setter Kosoth Isethdeler: You sound like a troublemaker.
+The bowyer Imec Gicthosmsana: The Councils of Knowing rules Echobrand.  Engdul Jackjumped is lord.  I don't care one way or another.
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Mengomet, "Lashedflukes".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the black bears get hungry. [B]A new chapter of dwarven history begins here at this place, Bomreksedur, "Whipemerald".  [C:2:0:1]Strike the earth![C:7:0:0]
+There is nothing to catch in the northwestern swamps.
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the black bears get hungry. [B]A new chapter of dwarven history begins here at this place, Nakuthmelbil, "Braidedtome".  [C:2:0:1]Strike the earth![C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the jaguars get hungry. [B]A new chapter of dwarven history begins here at this place, Gikutinod, "Dabblegate".  [C:2:0:1]Strike the earth![C:7:0:0]
+Reg Monangkeskal "Drillshot", Woodworker is taken by a fey mood!
+Merchants have arrived and are unloading their goods.
+Stray Yak Cow (Tame) has given birth to a yak calf.
+An animal has grown to become a Stray Reindeer Bull.
+The merchants from Zasit Vudthar will be leaving soon.
+The merchants from Zasit Vudthar have embarked on their journey.
+A diplomat could not complete a meeting and has left unhappy.
+The kea bites the stray dog in the lower body, denting the skin and bruising the muscle and bruising the right kidney!
+The kea snatches at the stray dog in the right rear paw with his first toe, right foot, denting the skin!
+The kea snatches at the stray dog in the tail with her first toe, left foot, denting the skin and bruising the muscle!
+The stray dog bites the kea in the third toe, left foot, shattering the talon!
+The force twists the left foot, tearing apart the muscle and bruising the bone and tearing apart the left ankle's muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+A ligament in the left ankle has been torn and a tendon has been torn!
+The stray dog breaks the grip of The kea's beak on the stray dog's lower body.
+The kea falls over.
+The stray dog attacks the kea but She scrambles away!
+The kea bites the stray dog in the right rear paw, denting the skin and bruising the muscle!
+The stray dog bites the kea in the right wing, tearing apart the fat!
+The kea bites the stray dog in the lower body, denting the skin and bruising the muscle and bruising the stomach!
+The stray dog scratches the kea in the second toe, left foot, shattering the talon!
+The force twists the left foot, bruising the muscle and the bone and bruising the left ankle's muscle and the bone!
+A ligament has been bruised and a tendon has been bruised!
+A ligament in the left ankle has been bruised and a tendon has been bruised!
+The kea snatches at the stray dog in the left rear leg with her first toe, right foot, denting the skin and bruising the muscle!
+The kea snatches at the stray dog in the right front paw with his first toe, left foot, tearing the fat and bruising the muscle!
+The engraver punches the kea in the neck with her left hand, but the attack glances away!
+Olon Ungòbcatten, Engraver: In the midst of conflict...  I laugh in the face of death!
+The kea attacks the engraver but She jumps away!
+The stray dog bites the kea in the right lower leg, tearing apart the skin!
+The engraver grabs the kea by the lower body with her right lower arm!
+The kea misses the engraver!
+The engraver releases the grip of The engraver's right lower arm on the kea's lower body.
+The kea bites the engraver in the left foot, bruising the muscle through the (pig tail shoe)!
+The engraver grabs the kea by the upper body with her right upper arm!
+The engraver releases the grip of The engraver's right upper arm on the kea's upper body.
+The engraver attacks the kea but She scrambles away!
+The stray dog scratches the kea in the right upper leg, tearing the fat and bruising the muscle!
+The stray dog bites the kea in the right foot, tearing apart the skin!
+The engraver grabs the kea by the left wing with her left lower arm!
+The engraver releases the grip of The engraver's left lower arm on the kea's left wing.
+The engraver grabs the kea by the tongue with her left lower arm!
+The kea snatches at the engraver in the right upper arm with her first toe, right foot, bruising the fat through the (pig tail dress)!
+The engraver releases the grip of The engraver's left lower arm on the kea's tongue.
+The stray dog bites the kea in the lower body, tearing the muscle and bruising the guts!
+The stray dog latches on firmly!
+The engraver grabs the kea by the fourth toe, right foot with her right upper arm!
+The engraver releases the grip of The engraver's right upper arm on the kea's fourth toe, right foot.
+The stray dog shakes the kea around by the lower body, tearing apart the lower body's muscle and spilling her guts!
+An artery in the lower body has been opened by the attack!
+The shearer punches the kea in the lower body with his right hand, bruising the skin!
+The engraver stands up.
+Ral Gusgashathel, Shearer: I made friends with Kadol Rockslabors.  I'm very fond.
+Olon Ungòbcatten, Engraver: I yelled at somebody in charge.  That was satisfying.
+Reg Monangkeskal, Woodworker cancels Strange mood: Went insane.
+Reg Monangkeskal, Woodworker has gone berserk!
+The woodworker attacks the blacksmith but He jumps away!
+The blacksmith punches the woodworker in the upper body with his left hand, bruising the muscle through the (kangaroo leather dress)!
+The blacksmith punches the woodworker in the left upper leg with his left hand, bruising the fat through the (kangaroo leather dress)!
+The blacksmith bites the woodworker in the left hand, tearing the fat and bruising the muscle through the x(sheep wool left glove)x!
+The blacksmith latches on firmly!
+The woodworker hacks the blacksmith in the right hand with her (copper battle axe), tearing apart the fat through the x(donkey leather right glove)x!
+The (copper battle axe) has lodged firmly in the wound!
+The woodworker breaks the grip of The blacksmith's upper front teeth on the woodworker's left hand.
+The blacksmith punches the woodworker in the left lower leg with his left hand, bruising the fat through the (kangaroo leather dress)!
+The woodworker pulls on the embedded (copper battle axe).
+The woodworker gains possession of the (copper battle axe).
+The blacksmith punches the woodworker in the right lower leg with his left hand, bruising the fat through the (kangaroo leather dress)!
+The blacksmith punches the woodworker in the right lower arm with his right hand, bruising the muscle through the (kangaroo leather dress)!
+The woodworker misses the blacksmith!
+The blacksmith punches the woodworker in the left upper leg with his left hand, bruising the muscle through the (kangaroo leather dress)!
+The woodworker hacks the blacksmith in the right foot with her (copper battle axe), tearing apart the skin through the x(pig tail shoe)x!
+The blacksmith punches the woodworker in the left foot with his right hand, bruising the muscle through the (pig tail shoe)!
+The force bends the left ankle!
+The blacksmith punches the woodworker in the head with his left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The blacksmith grabs the woodworker by the upper left back teeth with his left upper arm!
+The woodworker hacks the blacksmith in the left lower arm with her (copper battle axe), tearing apart the fat!
+The blacksmith punches the woodworker in the right foot with his left hand, bruising the muscle through the (pig tail shoe)!
+The force bends the right ankle!
+The woodworker hacks the blacksmith in the left hand with her (copper battle axe), tearing apart the muscle through the x(donkey leather left glove)x!
+Many nerves have been severed!
+The blacksmith has become enraged!
+The blacksmith bites the woodworker in the head, tearing the fat and bruising the muscle!
+The woodworker has been knocked unconscious!
+The force twists the neck, tearing apart the skin!
+The woodworker falls over.
+The blacksmith punches the woodworker in the head with his right hand, bruising the muscle!
+The blacksmith releases the grip of The blacksmith's left upper arm from The woodworker's upper left back teeth.
+The force pulls the neck, tearing apart the skin!
+Atír Urdimushul, Blacksmith: I've been wounded.  That's very annoying.
+The blacksmith grabs the woodworker by the left upper leg with his right hand!
+The blacksmith locks the woodworker's left hip with The blacksmith's right hand!
+The blacksmith bends the woodworker's left upper leg with The blacksmith's right hand and the left hip collapses!
+A ligament in the left hip has been torn and a tendon has been torn!
+The blacksmith releases the joint lock of The blacksmith's right hand on the woodworker's left upper leg.
+The woodworker regains consciousness.
+The woodworker breaks the grip of the blacksmith's right hand on The woodworker's left upper leg.
+The blacksmith punches the woodworker in the right upper leg with his right hand, bruising the muscle through the (kangaroo leather dress)!
+The force pulls the right hip!
+The woodworker kicks the blacksmith in the left foot with her right foot, bruising the muscle through the (pig tail shoe)!
+Reg Monangkeskal, Woodworker: I've been injured badly.  There is no hope!
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the (kangaroo leather dress)!
+The woodworker punches the blacksmith in the left upper arm with her right hand, bruising the skin!
+The blacksmith bites the woodworker in the lower body, tearing the fat and bruising the muscle and bruising the stomach through the x(kangaroo leather dress)x!
+The woodworker punches the blacksmith in the left lower leg with her left hand, bruising the fat through the (pig tail trousers)!
+Atír Urdimushul, Blacksmith: I cannot just stand by.  This might require an answer.
+The woodworker breaks the grip of The blacksmith's upper front teeth on the woodworker's lower body.
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the x(kangaroo leather dress)x!
+The force bends the left knee, bruising the muscle and bruising the muscle!
+The blacksmith punches the woodworker in the left upper arm with his right hand, bruising the bone through the x(kangaroo leather dress)x!
+The force pulls the left shoulder!
+The expedition leader scratches the woodworker in the right foot, tearing the fat and bruising the muscle through the x(pig tail shoe)x!
+The force pulls the right ankle!
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the x(kangaroo leather dress)x!
+The force bends the left knee!
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the right lung through the x(kangaroo leather dress)x!
+The woodworker is having trouble breathing!
+Nish Zasitnakas, expedition leader: I must withdraw!
+The blacksmith punches the woodworker in the right lower arm with his right hand, bruising the muscle through the x(kangaroo leather dress)x!
+The force twists the right elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The mason punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the lower spine's bone through the x(kangaroo leather dress)x!
+The mason grabs the woodworker by the second toe, left foot with his right upper arm!
+The blacksmith grabs the woodworker by the fourth toe, left foot with his right lower arm!
+The blacksmith punches the woodworker in the right lower leg with his right hand, bruising the muscle through the x(kangaroo leather dress)x!
+The force twists the right knee, tearing apart the muscle and tearing apart the muscle!
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the spleen through the x(kangaroo leather dress)x!
+The woodworker is no longer stunned.
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the stomach through the x(kangaroo leather dress)x!
+The woodworker breaks the grip of the blacksmith's right lower arm on The woodworker's fourth toe, left foot.
+Reg Monangkeskal, Woodworker: I have improved my fighting.  That was satisfying.
+The woodworker misses the mason!
+The blacksmith bites the woodworker in the left upper arm, tearing the fat and bruising the muscle through the X(kangaroo leather dress)X!
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the left lung through the X(kangaroo leather dress)X!
+The woodworker is having more trouble breathing!
+The woodworker has become enraged!
+The mason punches the woodworker in the left hand with his right hand, bruising the muscle through the x(sheep wool left glove)x!
+The force bends the left wrist!
+The woodworker breaks the grip of The blacksmith's upper front teeth on the woodworker's left upper arm.
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the X(kangaroo leather dress)X!
+The mason punches the woodworker in the right lower leg with his left hand, bruising the muscle through the X(kangaroo leather dress)X!
+The woodworker punches the mason in the left foot with her left hand, bruising the fat through the (cave spider silk shoe)!
+The blacksmith punches the woodworker in the left foot with his right hand, bruising the bone through the (pig tail shoe)!
+The force bends the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+Atír Urdimushul, Blacksmith: I have improved my fighting.  That was satisfying.
+The mason punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the X(kangaroo leather dress)X!
+The blacksmith punches the woodworker in the left upper arm with his right hand, bruising the bone through the X(kangaroo leather dress)X!
+The mason punches the woodworker in the right lower arm with his left hand, bruising the muscle through the X(kangaroo leather dress)X!
+The force pulls the right elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The woodworker looks sick!
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the heart through the X(kangaroo leather dress)X!
+The woodworker breaks the grip of the mason's right upper arm on The woodworker's second toe, left foot.
+The woodworker punches the blacksmith in the upper body with her left hand, bruising the fat through the (sheep wool tunic)!
+The blacksmith bites the woodworker in the left upper leg, tearing the fat and bruising the muscle through the XX(kangaroo leather dress)XX!
+The mason punches the woodworker in the right lower arm with his left hand, bruising the muscle through the XX(kangaroo leather dress)XX!
+The force bends the right elbow, tearing apart the muscle and tearing apart the muscle!
+The woodworker passes out from exhaustion.
+Atír Urdimushul, Blacksmith is no longer enraged.
+The mason punches the woodworker in the head with his left hand, bruising the muscle!
+The blacksmith shakes the woodworker around by the left upper leg, tearing apart the left upper leg's fat and bruising the bone and tearing apart the lower spine's nervous tissue!
+A tendon in the left upper leg has been bruised!
+A tendon in the lower spine has been torn!
+The mason punches the woodworker in the head with his right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The mason grabs the woodworker by the x(pig tail shoe)x with his right upper arm!
+The mason releases the grip of The mason's right upper arm on the woodworker's x(pig tail shoe)x.
+The blacksmith grabs the woodworker by the lower left back teeth with his left lower arm!
+The force twists the neck, tearing apart the skin and bruising the fat!
+ùshrir Eturthob, Mason: I must withdraw!
+The blacksmith releases the grip of The blacksmith's left lower arm on the woodworker's lower left back teeth.
+Nish Zasitnakas, expedition leader: Help!  Save me!
+The blacksmith grabs the woodworker by the lower front teeth with his left upper arm!
+The blacksmith releases the grip of The blacksmith's left upper arm on the woodworker's lower front teeth.
+The blacksmith grabs the woodworker by the fourth finger, left hand with his right hand!
+The blacksmith releases the grip of The blacksmith's right hand on the woodworker's fourth finger, left hand.
+The blacksmith collapses and falls to the ground from over-exertion.
+The blacksmith stands up.
+The woodworker punches the blacksmith in the right upper arm with her left hand, bruising the muscle!
+The woodworker attacks the blacksmith but He scrambles away!
+The blacksmith punches the woodworker in the left upper arm with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the fat through the XX(kangaroo leather dress)XX!
+The woodworker punches the blacksmith in the left lower leg with her left hand, bruising the muscle through the (pig tail trousers)!
+The force bends the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The blacksmith kicks the woodworker in the upper body with his right foot, bruising the muscle and bruising the liver through the XX(kangaroo leather dress)XX!
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the XX(kangaroo leather dress)XX!
+The woodworker punches the blacksmith in the right upper leg with her left hand, bruising the skin through the (sheep wool tunic)!
+The blacksmith punches the woodworker in the right upper arm with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!
+The force pulls the right shoulder!
+The woodworker punches the blacksmith in the left lower arm with her left hand, bruising the muscle!
+The force bends the left elbow!
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the right lung through the XX(kangaroo leather dress)XX!
+The woodworker grabs the blacksmith by the fifth toe, left foot with her right upper arm!
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!
+The force pulls the left knee, bruising the muscle and bruising the muscle!
+The woodworker punches the blacksmith in the right lower leg with her left hand, bruising the muscle through the (pig tail trousers)!
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the left lung through the XX(kangaroo leather dress)XX!
+The woodworker punches the blacksmith in the left upper leg with her left hand, bruising the muscle through the (sheep wool tunic)!
+The blacksmith struggles in vain against the grip of the woodworker's right upper arm on The blacksmith's fifth toe, left foot.
+Atír Urdimushul, Blacksmith: I've been injured badly.  This leaves me so shaken.
+The blacksmith scratches the woodworker in the right foot, tearing the fat and bruising the muscle through the X(pig tail shoe)X!
+The force twists the right ankle, bruising the muscle and bruising the muscle!
+The woodworker punches the blacksmith in the right upper arm with her left hand, bruising the skin!
+The blacksmith punches the woodworker in the neck with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!
+The woodworker punches the blacksmith in the head with her left hand, bruising the muscle!
+The blacksmith punches the woodworker in the right lower arm with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!
+The force twists the right elbow!
+The woodworker punches the blacksmith in the upper body with her left hand, bruising the skin through the (sheep wool tunic)!
+The blacksmith punches the woodworker in the left lower arm with his right hand, bruising the bone through the XX(kangaroo leather dress)XX!
+The force bends the left elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The woodworker scratches the blacksmith in the left upper leg, tearing the fat through the x(sheep wool tunic)x!
+The blacksmith punches the woodworker in the left hand with his right hand, bruising the bone through the x(sheep wool left glove)x!
+The force twists the left wrist, bruising the muscle and bruising the muscle!
+The woodworker scratches the blacksmith in the right foot, tearing the fat through the X(pig tail shoe)X!
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the middle spine's bone through the XX(kangaroo leather dress)XX!
+The woodworker scratches the blacksmith in the right upper leg, tearing the skin through the X(sheep wool tunic)X!
+The woodworker scratches the blacksmith in the left upper arm, tearing the fat!
+The blacksmith scratches the woodworker in the lower left back teeth and the severed part sails off in an arc!
+The XX(kangaroo leather dress)XX breaks!
+The blacksmith punches the woodworker in the right lower leg with his right hand, bruising the muscle through the X(cave spider silk trousers)X!
+The force pulls the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The woodworker bites the blacksmith in the lower body, tearing the fat through the XX(sheep wool tunic)XX!
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the X(cave spider silk trousers)X!
+The woodworker scratches the blacksmith in the upper body, tearing the fat and bruising the muscle and bruising the liver through the XX(sheep wool tunic)XX!
+The XX(sheep wool tunic)XX is ripped to shreds!
+The blacksmith scratches the woodworker in the left upper arm, tearing the fat and bruising the muscle!
+The woodworker releases the grip of The woodworker's right upper arm on the blacksmith's fifth toe, left foot.
+The woodworker scratches the blacksmith in the right upper leg, tearing the fat and bruising the muscle through the XX(pig tail trousers)XX!
+The XX(pig tail trousers)XX is ripped to shreds!
+The blacksmith punches the woodworker in the left lower arm with his right hand, bruising the muscle!
+The force twists the left elbow, bruising the muscle and bruising the muscle!
+The woodworker scratches the blacksmith in the left upper arm, tearing the skin!
+The blacksmith passes out from exhaustion.
+The woodworker scratches the blacksmith in the head, tearing the muscle!
+Reg Monangkeskal, Woodworker is no longer enraged.
+The woodworker grabs the blacksmith by the head with her left upper arm!
+The woodworker bites the blacksmith in the head, tearing the muscle!
+The woodworker latches on firmly!
+Kadol Idèrith, Miner cancels Eat: Interrupted by a woodworker.
+The woodworker shakes the blacksmith around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The woodworker bites the blacksmith in the head, tearing apart the muscle!
+The woodworker shakes the blacksmith around by the head, tearing apart the head's muscle!
+A tendon in the skull has been torn!
+The woodworker scratches the blacksmith in the head, tearing apart the muscle!
+The miner punches the woodworker in the upper body with his left hand, bruising the muscle, jamming the right true ribs through the left lung and tearing the left lung!
+The woodworker misses the miner!
+Kadol Idèrith, Miner: Atír Towerrealms is dead.  I feel somewhat sad.
+Reg Monangkeskal, Woodworker: Reg Drillshot killed Atír Towerrealms.  I'm very angry.
+The miner punches the woodworker in the left upper arm with his left hand, bruising the bone!
+The mason punches the woodworker in the left upper arm with his right hand, bruising the muscle!
+Atír Urdimushul, Blacksmith has been found dead.
+The miner punches the woodworker in the left foot with his right hand, fracturing the bone through the (pig tail shoe)!
+Stodir Shamebrigòth, Mason: This is a fight!  I must press on!
+Kadol Idèrith, Miner: Death is all around us.  This cannot horrify me.
+Reg Monangkeskal, Woodworker: Atír Towerrealms is dead.  I am not feeling sad right now.
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the right lung!
+The miner punches the woodworker in the right lower arm with his right hand, bruising the muscle!
+The kea attacks the stray yak cow but She jumps away!
+The stray dog bites the woodworker in the upper body, tearing the fat and bruising the muscle and bruising the liver!
+The woodworker breaks the grip of the stray dog's teeth on The woodworker's upper body.
+The mason grabs the woodworker by the nose with his right lower arm!
+Stodir Shamebrigòth, Mason: Atír Towerrealms is really dead.  I must let grief pass me by.
+The stray dog bites the woodworker in the right upper arm, tearing the fat and bruising the muscle!
+The miner scratches the woodworker in the right lower leg, tearing the fat and bruising the muscle through the XX(cave spider silk trousers)XX!
+The force pulls the right knee!
+The mason punches the woodworker in the left lower leg with his left hand, bruising the bone through the XX(cave spider silk trousers)XX!
+The force pulls the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+Kadol Idèrith, Miner: Gruesome wounds!  This doesn't scare me.
+The shearer punches the woodworker in the head with his left hand, bruising the muscle!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's right upper arm.
+The stray dog bites the woodworker in the upper body, tearing the fat and bruising the muscle!
+The shearer punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the liver!
+The miner punches the woodworker in the right hand with his right hand, bruising the bone through the (sheep wool right glove)!
+The force twists the right wrist!
+The stray dog bites the woodworker in the right lower leg, tearing the fat and bruising the muscle through the XX(cave spider silk trousers)XX!
+The XX(cave spider silk trousers)XX is ripped to shreds!
+The woodworker struggles in vain against the grip of the mason's right lower arm on The woodworker's nose.
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the guts!
+Stodir Shamebrigòth, Mason: Our time in The Realms of Myth is so brief...  This doesn't scare me.
+The stray dog bites the woodworker in the right hand, tearing the fat and bruising the muscle through the x(sheep wool right glove)x!
+The force pulls the right wrist!
+Kadol Idèrith, Miner: This is my fight too.  This might require an answer.
+The shearer punches the woodworker in the right foot with his left hand, bruising the bone through the X(pig tail shoe)X!
+The force twists the right ankle, tearing apart the muscle and tearing apart the muscle!
+The miner punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the stomach!
+Reg Monangkeskal, Woodworker: I have improved my wrestling.  That was satisfying.
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's right lower leg.
+The stray dog bites the woodworker in the lower body, tearing the fat!
+The mason punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!
+The shearer punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!
+Ral Gusgashathel, Shearer: This is a fight!  I feel no terror.
+The miner punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the left lung!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's lower body.
+The woodcrafter punches the woodworker in the left hand with her left hand, bruising the bone through the x(sheep wool left glove)x!
+The force twists the left wrist, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The stonecrafter punches the woodworker in the right lower leg with his left hand, bruising the muscle!
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the pancreas!
+The shearer punches the woodworker in the left foot with his left hand and the injured part collapses into a lump of gore!
+The force twists the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+Ingish Atulstâkud, Woodcrafter: This is my fight too.  There is no need to feel vengeful.
+Stodir Shamebrigòth, Mason: I cannot just stand by.  This might require an answer.
+The stray dog bites the woodworker in the left lower leg, tearing the fat and bruising the muscle!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's upper body.
+The miner punches the woodworker in the right lower leg with his left hand, bruising the muscle!
+The force bends the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+Kadol Idèrith, Miner: I cannot just stand by.  This might require an answer.
+The woodcrafter punches the woodworker in the upper body with her left hand, bruising the muscle and shattering the right true ribs!
+Lorbam Bomrekmostib, Stonecrafter: Our time in The Realms of Myth is so brief...  This doesn't scare me.
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the spleen!
+The stonecrafter punches the woodworker in the upper body with his right hand, bruising the muscle!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's left lower leg.
+The stray dog bites the woodworker in the head, tearing the fat and bruising the muscle!
+The force pulls the right knee, tearing apart the muscle and tearing apart the muscle!
+The shearer punches the woodworker in the left lower arm with his left hand, bruising the bone!
+The force twists the left elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The woodcrafter punches the woodworker in the upper body with her left hand, bruising the muscle and bruising the liver!
+Ingish Atulstâkud, Woodcrafter: I have a part in this.  There is no need to feel vengeful.
+Stodir Shamebrigòth, Mason: I have a part in this.  This might require an answer.
+The stray dog scratches the woodworker in the left lower arm, tearing the fat and bruising the muscle!
+The force pulls the left elbow!
+Reg Monangkeskal, Woodworker: I have improved my dodging.  That was satisfying.
+The mason punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the liver!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's head.
+The miner grabs the woodworker by the fourth finger, left hand with his right lower arm!
+The stonecrafter punches the woodworker in the right upper arm with his right hand, bruising the bone!
+The stray dog scratches the woodworker in the upper body, tearing the fat and bruising the muscle and bruising the liver!
+The miner punches the woodworker in the right foot with his right hand and the injured part explodes into gore!
+The woodcrafter punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the left kidney!
+The mason punches the woodworker in the right foot with his right hand, bruising the muscle through the X(pig tail shoe)X!
+The force twists the right ankle!
+The shearer punches the woodworker in the right lower arm with his right hand, bruising the muscle!
+The stray dog scratches the woodworker in the left hand, bruising the bone through the X(sheep wool left glove)X!
+The force pulls the left wrist!
+The stonecrafter punches the woodworker in the right lower arm with his left hand, bruising the muscle!
+The force twists the right elbow, bruising the muscle and bruising the muscle!
+The stray dog bites the woodworker in the left hand, tearing the fat and bruising the muscle through the XX(sheep wool left glove)XX!
+Ral Gusgashathel, Shearer: This is my fight too.  This might require an answer.
+Lorbam Bomrekmostib, Stonecrafter: I cannot just stand by.  This might require an answer.
+The miner punches the woodworker in the right upper leg with his left hand, bruising the muscle!
+The force bends the right hip, tearing apart the muscle and tearing apart the muscle!
+The woodcrafter grabs the woodworker by the right lower arm with her right lower arm!
+The stonecrafter grabs the woodworker by the upper front teeth with his right lower arm!
+Reg Monangkeskal, Woodworker: I have improved my striking.  That was satisfying.
+The shearer bites the woodworker in the right lower leg, tearing the fat and bruising the muscle!
+The shearer latches on firmly!
+The mason punches the woodworker in the right lower arm with his left hand, bruising the muscle!
+The woodcrafter punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the guts!
+The stonecrafter punches the woodworker in the left upper leg with his right hand, bruising the bone!
+The force twists the left hip, tearing apart the muscle and tearing apart the muscle!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's left hand.
+The kea attacks the stray yak calf but She jumps away!
+The stray dog bites the woodworker in the neck, tearing the fat and bruising the muscle!
+The shearer shakes the woodworker around by the right lower leg, tearing apart the right lower leg's skin and bruising the bone and tearing apart the right hip's muscle and bruising the bone!
+A ligament in the right lower leg has been bruised and a tendon has been bruised!
+A ligament in the right hip has been torn and a tendon has been torn!
+The engraver kicks the woodworker in the upper body with her left foot, bruising the muscle and bruising the middle spine's bone!
+The woodcrafter punches the woodworker in the right upper arm with her right hand, bruising the muscle!
+The force bends the right shoulder!
+The mason punches the woodworker in the left foot with his right hand, bruising the bone through the (pig tail shoe)!
+The miner punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the left kidney!
+The stonecrafter punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!
+The kea snatches at the stray yak calf in the left rear leg with her first toe, right foot, denting the skin!
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's neck.
+The woodcrafter locks the woodworker's right elbow with The woodcrafter's right lower arm!
+The stray dog scratches the woodworker in the lower body, tearing the fat and bruising the muscle and bruising the left kidney!
+Kadol Idèrith, Miner: I have a part in this.  This might require an answer.
+The shearer punches the woodworker in the left lower leg with his right hand, bruising the muscle!
+Olon Ungòbcatten, Engraver: I cannot just stand by.  This might require an answer.
+The stray dog bites the woodworker in the upper body, tearing the fat!
+The woodcrafter bends the woodworker's right lower arm with The woodcrafter's right lower arm and the right elbow collapses!
+A ligament in the right elbow has been torn and a tendon has been torn!
+The engraver punches the woodworker in the lower body with her right hand, bruising the muscle and bruising the left kidney!
+The woodworker struggles in vain against the grip of the stonecrafter's right lower arm on The woodworker's upper front teeth.
+The woodcrafter releases the joint lock of The woodcrafter's right lower arm on the woodworker's right lower arm.
+The kea bites the stray yak calf in the left front leg, denting the skin and bruising the muscle!
+The mason bites the woodworker in the right upper leg, tearing the fat and bruising the muscle!
+The mason latches on firmly!
+The planter punches the woodworker in the left foot with his right hand, bruising the muscle through the (pig tail shoe)!
+The shearer punches the woodworker in the upper body with his left hand, bruising the muscle!
+The woodcrafter punches the woodworker in the lower body with her right hand, bruising the muscle and bruising the spleen!
+Lorbam Bomrekmostib, Stonecrafter: I have a part in this.  This might require an answer.
+The woodworker has been stunned!
+The stonecrafter punches the woodworker in the right lower leg with his right hand, bruising the bone!
+The force twists the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The stray dog bites the woodworker in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The mason shakes the woodworker around by the right upper leg, tearing apart the right upper leg's fat and bruising the bone and tearing apart the lower spine's nervous tissue!
+A tendon in the right upper leg has been torn!
+The miner punches the woodworker in the head with his right hand, bruising the muscle!
+The engraver punches the woodworker in the upper body with her right hand, bruising the muscle and bruising the liver!
+The planter punches the woodworker in the head with his right hand, bruising the muscle!
+The stray dog shakes the woodworker around by the lower body, tearing apart the lower body's skin and tearing apart the lower spine's nervous tissue!
+Ral Gusgashathel, Shearer: I cannot just stand by.  This might require an answer.
+Olon Ungòbcatten, Engraver: This is my fight too.  This might require an answer.
+The stray dog shakes the woodworker around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The miner punches the woodworker in the head with his left hand, bruising the muscle!
+The woodcrafter punches the woodworker in the head with her right hand, bruising the muscle!
+The stonecrafter punches the woodworker in the head with his right hand, bruising the muscle!
+Melbil Aludamost, Planter: I have a part in this.  There is no need to feel vengeful.
+The mason releases the grip of The mason's right lower arm on the woodworker's nose.
+The stray dog bites the woodworker in the head, tearing the muscle!
+The stray dog shakes the woodworker around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+The engraver punches the woodworker in the head with her left hand, bruising the muscle!
+The woodcrafter punches the woodworker in the head with her left hand, bruising the muscle!
+The engraver punches the woodworker in the head with her right hand, bruising the muscle!
+The stonecrafter punches the woodworker in the head with his left hand, bruising the muscle!
+The planter punches the woodworker in the head with his left hand, bruising the muscle!
+The shearer punches the woodworker in the head with his right hand, bruising the muscle!
+Ral Gusgashathel, Shearer: I have a part in this.  This might require an answer.
+Melbil Aludamost, Planter: I cannot just stand by.  There is no need to feel vengeful.
+The miner strikes the woodworker in the head with his (iron pick) and the severed part sails off in an arc!
+Reg Monangkeskal, Woodworker has been struck down.
+Imush Melbilsulus, Miner: This is my fight too.  This might require an answer.
+Melbil Aludamost, Planter: Death...  This is truly horrifying.
+Ingish Atulstâkud, Woodcrafter: Death...  This is truly horrifying.
+Kadol Idèrith, Miner: Death is all around us.  This is truly horrifying.
+Imush Melbilsulus, Miner: Death...  This is truly horrifying.
+Olon Ungòbcatten, Engraver: Death...  This is truly horrifying.
+Ingish Atulstâkud, Woodcrafter: Reg Drillshot is really dead.  I cannot give in to sadness.
+The woodcrafter stands up.
+The stray dog stands up.
+Stodir Shamebrigòth, Mason: Reg Drillshot is really dead.  It is done.
+Ral Gusgashathel, Shearer: Death is all around us.  This is truly horrifying.
+Lorbam Bomrekmostib, Stonecrafter: This is my fight too.  This might require an answer.
+The miner stands up.
+Imush Melbilsulus, Miner: Imush Tomescraters killed Reg Drillshot.  This is great!
+Melbil Aludamost, Planter: Reg Drillshot is dead.  It is done.
+Kadol Idèrith, Miner: Reg Drillshot is dead.  It is done.
+Stodir Shamebrigòth, Mason: Death...  This is truly horrifying.
+Ral Gusgashathel, Shearer: Reg Drillshot is dead.  It is done.
+Imush Melbilsulus, Miner: Reg Drillshot is really dead.  It is done.
+The mason stands up.
+Imush Melbilsulus, Miner: I cannot just stand by.  This might require an answer.
+Melbil Aludamost, Planter: This is my fight too.  There is no need to feel vengeful.
+The shearer stands up.
+The planter stands up.
+The kea attacks the shearer but He jumps away!
+The kea snatches at the shearer in the right upper arm with her first toe, right foot, denting the skin and bruising the muscle!
+Ral Gusgashathel, Shearer: I must withdraw!
+The kea bites the stray dog in the left front paw, denting the skin and bruising the muscle!
+The kea bites the shearer in the right lower leg, bruising the fat through the (mountain goat leather trousers)!
+Imush Melbilsulus, Miner cancels Give water: No water source.
+Melbil Aludamost, Planter cancels Give water: No water source.
+Sigun Aranolin, Metalcrafter cancels Give water: No water source.
+Udil Nokimzuglar, Fisherdwarf cancels Give water: No water source.
+Stodir Shamebrigòth, Mason cancels Give water: No water source.
+Your fortress is out of food!  Consider placing a farmplot on some underground soil and planting seeds.  Try building a butcher's shop and slaughtering some livestock.  Perhaps you can gather plants, fruit, or go fishing.
+Winter is upon you.
+An animal has grown to become a Stray Cat.
+Ral Gusgashathel, Shearer cancels Give water: No water source.
+Olon Ungòbcatten, Engraver cancels Give water: No water source.
+Ingish Atulstâkud, Woodcrafter cancels Give water: No water source.
+ùshrir Letmosidräth, Dwarven Child cancels Give water: No water source.
+Kadol Idèrith, Miner cancels Give water: No water source.
+Lorbam Bomrekmostib, Stonecrafter cancels Give water: No water source.
+Olon Ungòbcatten, Engraver cancels Give water: Need empty bucket.
+Ral Gusgashathel, Shearer has been found dead, dehydrated.
+Olon Ungòbcatten, Engraver has been found dead, dehydrated.
+ùshrir Eturthob, Mason cancels Give water: No water source.
+Ingish Atulstâkud, Woodcrafter has been found dead, dehydrated.
+Kadol Idèrith, Miner has been found dead, dehydrated.
+Imush Melbilsulus, Miner has been found dead, dehydrated.
+Nish Zasitnakas, expedition leader cancels Give water: Hunting vermin for food.
+Udil Nokimzuglar, Fisherdwarf cancels Give water: Hunting vermin for food.
+Stodir Shamebrigòth, Mason has been found dead, dehydrated.
+Melbil Aludamost, Planter has been found dead, dehydrated.
+Nish Zasitnakas, Administrator has been found dead, dehydrated.
+Sigun Sculpttongs has assumed the position of expedition leader of The Whip of Tops.
+Imush Melbilsulus "Tomescraters", Miner withdraws from society...
+Sigun Aranolin, expedition leader cancels Hunt for small creature: Interrupted by a woodworker.
+Udil Nokimzuglar, Fisherdwarf cancels Hunt for small creature: Interrupted by a woodworker.
+The woodworker attacks the administrator but He jumps away!
+The blacksmith misses the woodworker!
+The stray dog bites the woodworker in the left foot, tearing the fat and bruising the muscle!
+A human caravan from Iclopesor has arrived.  Overall trade sentiments are terrible.
+A caravan from Zasit Vudthar has arrived.  Overall trade sentiments are lukewarm.
+Atír Urdimushul, Blacksmith: This is my fight too.  This might require an answer.
+The mason misses the woodworker!
+The blacksmith punches the woodworker in the right lower leg with his left hand, bruising the fat!
+The dwarven child misses the woodworker!
+Nish Zasitnakas, Administrator: This is my fight too.  This might require an answer.
+ùshrir Letmosidräth, Dwarven Child: This is a fight!  I feel no terror.
+The administrator misses the woodworker!
+The stray dog misses the woodworker!
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the fat!
+The woodworker attacks the mason but He jumps away!
+The administrator punches the woodworker in the left upper arm with his right hand, bruising the fat!
+The stray dog bites the woodworker in the left hand, tearing the fat!
+The stray dog bites the woodworker in the left upper leg, tearing the fat!
+The dwarven child punches the woodworker in the right upper leg with her left hand, bruising the muscle!
+The blacksmith punches the woodworker in the right hand with his right hand, bruising the fat!
+Stodir Shamebrigòth, Mason: This is my fight too.  This might require an answer.
+Atír Urdimushul, Blacksmith: I have a part in this.  This might require an answer.
+ùshrir Letmosidräth, Dwarven Child: This is my fight too.  This might require an answer.
+The stray dog bites the woodworker in the left upper leg, tearing the fat and bruising the muscle!
+The force twists the left hip!
+The dwarven child punches the woodworker in the first finger, left hand with her left hand and the injured part collapses!
+The force bends the left hand, tearing apart the skin!
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the fat!
+The stray dog bites the woodworker in the left foot, tearing the fat!
+The stray dog bites the woodworker in the right hand, tearing the skin!
+The dwarven child punches the woodworker in the lower body with her left hand, bruising the fat!
+The stray dog bites the woodworker in the head, tearing the fat!
+The stonecrafter punches the woodworker in the left lower arm with his left hand, bruising the muscle!
+The woodworker punches the mason in the left upper arm with her left hand, bruising the fat!
+The stray dog bites the woodworker in the upper lip and the injured part is torn apart!
+The blacksmith punches the woodworker in the upper body with his left hand, bruising the muscle!
+The dwarven child punches the woodworker in the head with her left hand, bruising the fat!
+The stonecrafter punches the woodworker in the left hand with his right hand, bruising the muscle!
+The woodworker punches the stray dog in the lower body with her left hand, bruising the fat!
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle, bruising the left floating ribs!
+The mason charges at the woodworker!
+The mason collides with the woodworker!
+They tangle together and tumble forward!
+The administrator punches the woodworker in the right upper leg with his left hand, bruising the muscle!
+The force twists the right hip!
+Nish Zasitnakas, Administrator: I cannot just stand by.  This might require an answer.
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!
+The woodworker misses the stonecrafter!
+The stonecrafter punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the right kidney!
+The force bends the right hip!
+The woodworker punches the mason in the right lower arm with her right hand, bruising the muscle!
+The shearer grabs the woodworker by the fifth toe, right foot with his left lower arm!
+The blacksmith grabs the woodworker by the left lower arm with his left hand!
+The administrator grabs the woodworker by the fifth toe, right foot with his left hand!
+The shearer releases the grip of The shearer's left lower arm on the woodworker's fifth toe, right foot.
+The engraver punches the woodworker in the thumb, right hand with her left hand and the injured part collapses into a lump of gore!
+The force bends the right hand, tearing apart the skin and tearing apart the right elbow's muscle and bruising the bone!
+A ligament in the right elbow has been bruised and a tendon has been bruised!
+ùshrir Letmosidräth, Dwarven Child: I have a part in this.  This might require an answer.
+The blacksmith punches the woodworker in the left foot with his right hand, bruising the muscle!
+The force bends the left ankle, tearing apart the muscle and tearing apart the muscle!
+The expedition leader punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the guts!
+The dwarven child kicks the woodworker in the right lower arm with her left foot, bruising the muscle!
+Sigun Aranolin, expedition leader: This is my fight too.  This might require an answer.
+The administrator punches the woodworker in the upper body with his left hand, bruising the muscle and shattering the right false ribs!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The woodworker misses the administrator!
+The shearer punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the right kidney!
+The mason kicks the woodworker in the upper body with his right foot, bruising the muscle and shattering the left true ribs!
+The blacksmith punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the guts!
+The woodworker looks even more sick!
+The engraver punches the woodworker in the left upper arm with her left hand, bruising the muscle!
+The dwarven child punches the woodworker in the fourth finger, right hand with her left hand, tearing apart the skin and bruising the muscle!
+The force bends the right hand, tearing apart the skin and bruising the right elbow's muscle!
+The administrator kicks the woodworker in the left upper leg with his left foot, bruising the muscle!
+The stonecrafter punches the woodworker in the left lower leg with his right hand, bruising the bone!
+The force twists the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The expedition leader punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the stomach!
+The engraver punches the woodworker in the throat with her left hand and the injured part explodes into gore!
+A major artery has been opened by the attack!
+The mason grabs the woodworker by the tongue with his left upper arm!
+The blacksmith adjusts the grip of The blacksmith's left hand on the woodworker's left lower arm.
+The woodworker has been stunned again!
+Reg Monangkeskal, Woodworker: I have improved my armor.  That was satisfying.
+The administrator punches the woodworker in the left lower leg with his left hand, bruising the muscle!
+The miner punches the woodworker in the right upper arm with his left hand, bruising the bone!
+The force twists the right shoulder, bruising the muscle and bruising the muscle!
+The shearer punches the woodworker in the left hand with his right hand, bruising the bone!
+The force pulls the left wrist, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The blacksmith punches the woodworker in the upper body with his left hand, bruising the muscle, jamming the right true ribs through the left lung and tearing the left lung!
+The woodworker vomits.
+The woodworker gives in to pain.
+Stodir Shamebrigòth, Mason: I have improved my observation.  That was satisfying.
+The mason punches the woodworker in the right foot with his left hand, bruising the bone!
+The force bends the right ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+The expedition leader scratches the woodworker in the right foot, tearing the fat and bruising the muscle!
+The dwarven child kicks the woodworker in the right upper leg with her left foot, bruising the muscle!
+ùshrir Eturthob, Mason: I cannot just stand by.  This might require an answer.
+The stonecrafter grabs the woodworker by the upper right back teeth with his right upper arm!
+The administrator releases the grip of The administrator's left hand on the woodworker's fifth toe, right foot.
+The expedition leader punches the woodworker in the head with her left hand, bruising the muscle!
+The mason is no longer stunned.
+The dwarven child punches the woodworker in the head with her right hand, bruising the muscle!
+The administrator punches the woodworker in the head with his left hand, bruising the muscle!
+Ral Gusgashathel, Shearer: I have improved my observation.  That was satisfying.
+ùshrir Eturthob, Mason: I have a part in this.  This might require an answer.
+The expedition leader punches the woodworker in the head with her right hand, bruising the muscle!
+The woodworker retches.
+The administrator punches the woodworker in the head with his right hand, bruising the muscle!
+ùshrir Eturthob, Mason: This is my fight too.  This might require an answer.
+The dwarven child punches the woodworker in the head with her left hand, bruising the muscle!
+Lorbam Bomrekmostib, Stonecrafter: I have improved my observation.  That was satisfying.
+Olon Ungòbcatten, Engraver: I have a part in this.  This might require an answer.
+The fisherdwarf punches the woodworker in the head with his right hand, bruising the muscle!
+Kadol Idèrith, Miner: I have improved my observation.  That was not satisfying.
+Nish Zasitnakas, Administrator: I have a part in this.  This might require an answer.
+The fisherdwarf punches the woodworker in the head with his left hand, bruising the muscle!
+The engraver grabs the woodworker by the left hand with her left lower arm!
+The mason releases the grip of The mason's left upper arm on the woodworker's tongue.
+Olon Ungòbcatten, Engraver: I have improved my observation.  That was satisfying.
+The miner grabs the woodworker by the second finger, right hand with his left hand!
+Reg Monangkeskal, Woodworker has bled to death.
+Atír Urdimushul, Blacksmith: Atír Towerrealms, slayer of Reg Drillshot.  I'm a little angry.
+Nish Zasitnakas, Administrator: This is my fight too.  There is no need to feel vengeful.
+ùshrir Eturthob, Mason: I have improved my observation.  That was not satisfying.
+Lorbam Bomrekmostib, Stonecrafter: I cannot just stand by.  There is no need to feel vengeful.
+ùshrir Letmosidräth, Dwarven Child: I cannot just stand by.  There is no need to feel vengeful.
+Atír Urdimushul, Blacksmith: I have improved my striking.  That was satisfying.
+Nish Zasitnakas, Administrator: I have a part in this.  There is no need to feel vengeful.
+Atír Urdimushul, Blacksmith: I have improved my observation.  That was not satisfying.
+ùshrir Eturthob, Mason: This is my fight too.  There is no need to feel vengeful.
+Atír Urdimushul, Blacksmith: Reg Drillshot is really dead.  I am not feeling sad right now.
+ùshrir Eturthob, Mason: I have a part in this.  There is no need to feel vengeful.
+Lorbam Bomrekmostib, Stonecrafter: This is my fight too.  There is no need to feel vengeful.
+Lorbam Bomrekmostib, Stonecrafter: I have a part in this.  There is no need to feel vengeful.
+Atír Urdimushul, Blacksmith: I've been injured badly.  I can keep it together.
+The administrator stands up.
+The stray dog attacks the kangaroo buck but He jumps away!
+The stray dog bites the kangaroo buck in the lower body, tearing the fat!
+The stray dog bites the kangaroo buck in the left hand, tearing the muscle!
+The stray dog bites the kangaroo buck in the head, tearing the fat and bruising the muscle!
+The kangaroo buck has been stunned!
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's head.
+The stray dog bites the kangaroo buck in the right lower leg, tearing the fat and bruising the muscle!
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's right lower leg.
+The stray dog bites the kangaroo buck in the lower body, tearing the fat and bruising the muscle and bruising the stomach!
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's lower body.
+The stray dog scratches the kangaroo buck in the right upper leg, tearing the fat and bruising the muscle!
+The stray dog bites the kangaroo buck in the lower body, tearing the fat and bruising the muscle!
+The kangaroo buck breaks the grip of The stray dog's teeth from The kangaroo buck's lower body!
+The stray dog bites the kangaroo buck in the left lower arm, tearing the fat and bruising the muscle!
+The force twists the left upper arm!
+The stray dog bites the kangaroo buck in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The stray dog bites the kangaroo buck in the upper body, tearing the fat and bruising the muscle!
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's upper body.
+The stray dog bites the kangaroo buck in the right foot, tearing the muscle!
+The kangaroo buck is no longer stunned.
+The kangaroo buck collapses and falls to the ground from over-exertion.
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's left lower arm.
+The stray dog bites the kangaroo buck in the left upper leg, tearing the skin!
+The stray dog scratches the kangaroo buck in the lower body, tearing the fat and bruising the muscle and bruising the stomach!
+The stray dog bites the kangaroo buck in the left lower leg, tearing the fat and bruising the muscle!
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's left lower leg.
+The stray dog bites the kangaroo buck in the right hand, tearing the fat!
+The stray dog bites the kangaroo buck in the upper body, tearing the fat and bruising the muscle and bruising the left lung!
+The stray dog scratches the kangaroo buck in the right lower leg, tearing the fat and bruising the muscle!
+The force bends the right upper leg!
+The stray dog scratches the kangaroo buck in the left lower arm, tearing the muscle!
+The force bends the left upper arm!
+The stray dog scratches the kangaroo buck in the left upper leg, tearing the fat and bruising the muscle!
+The stray dog bites the kangaroo buck in the right upper leg, tearing the fat and bruising the muscle!
+The kangaroo buck misses the stray dog!
+The kangaroo buck breaks the grip of The stray dog's teeth on the kangaroo buck's right upper leg.
+The stray dog scratches the kangaroo buck in the left hand, tearing the muscle!
+The force bends the left lower arm!
+The stray dog scratches the kangaroo buck in the upper body, tearing the fat and bruising the muscle and bruising the right lung!
+The kangaroo buck is having trouble breathing!
+The stray dog scratches the kangaroo buck in the right lower arm, tearing the fat and bruising the muscle!
+The force pulls the right upper arm!
+The stray dog bites the kangaroo buck in the upper body, tearing the fat!
+The kangaroo buck passes out from exhaustion.
+The stray dog shakes the kangaroo buck around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+The stray dog bites the kangaroo buck in the head, tearing the muscle!
+The stray dog shakes the kangaroo buck around by the head, tearing apart the head's fat!
+The kangaroo buck regains consciousness.
+The kangaroo buck gives in to pain.
+The stray dog bites the kangaroo buck in the head, tearing apart the muscle!
+The stray dog collapses and falls to the ground from over-exertion.
+The merchants from Iclopesor will be leaving soon.
+The merchants from Iclopesor have embarked on their journey.
+The kea attacks the raven but She jumps away!
+The kea grabs the raven by the first toe, right foot with her left wing!
+The raven is unable to break the grip of The kea's left wing on The raven's first toe, right foot!
+The raven snatches at the kea in the lower body with her first toe, right foot, denting the skin and bruising the muscle and bruising the pancreas!
+The kea bites the raven in the left wing, denting the skin and bruising the fat!
+The raven misses the kea!
+The kea snatches at the raven in the left upper leg with her first toe, right foot, tearing the fat and bruising the muscle!
+The raven bites the kea in the right lower leg, denting the skin!
+The raven bites the kea in the upper body, denting the skin and bruising the muscle and bruising the gizzard!
+The raven latches on firmly!
+The kea bites the raven in the left lower leg, denting the skin and bruising the muscle!
+The raven shakes the kea around by the upper body, tearing apart the upper body's fat!
+The raven struggles in vain against the grip of the kea's beak on The raven's left lower leg.
+The kea breaks the grip of the raven's beak on The kea's upper body.
+The kea shakes the raven around by the left lower leg, tearing apart the left lower leg's muscle and bruising the bone and tearing apart the left hip's muscle and bruising the bone!
+An artery in the left lower leg has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The kea releases the grip of The kea's left wing on the raven's first toe, right foot.
+The kea bites the raven in the left wing, denting the skin and bruising the muscle!
+The kea shakes the raven around by the left wing, tearing apart the left wing's muscle and bruising the bone!
+An artery in the left wing has been opened by the attack, many nerves have been severed and a tendon has been torn!
+The raven attacks the kea but She jumps away!
+The raven slams into an obstacle!
+The raven's neck takes the full force of the impact, bruising the skin!
+The raven's upper body takes the full force of the impact, bruising the muscle and shattering the middle spine's bone and denting the nervous tissue!
+The raven's lower body takes the full force of the impact, bruising the muscle and bruising the spleen!
+The kea attacks the stray reindeer bull but He jumps away!
+The kea attacks the metalcrafter but She jumps away!
+Sigun Aranolin, Metalcrafter: I must withdraw!
+The kea misses the shearer!
+The kea misses the planter!
+The kea snatches at the planter in the lower body with her first toe, right foot, bruising the muscle and bruising the stomach through the (giant cave spider silk tunic)!
+Melbil Aludamost, Planter: I must withdraw!
+The kea snatches at the shearer in the upper body with her first toe, left foot, bruising the fat through the (pig tail tunic)!
+The kea bites the shearer in the lower body, bruising the fat through the (pig tail tunic)!
+The kea snatches at the shearer in the lower body with her first toe, left foot, bruising the fat through the x(pig tail tunic)x!
+The kea snatches at the shearer in the right lower leg with her first toe, left foot, bruising the muscle through the (mountain goat leather trousers)!
+The miner strikes the kea in the left upper leg with his (iron pick), tearing apart the fat!
+The (iron pick) has lodged firmly in the wound!
+The kea snatches at the miner in the left hand with her first toe, left foot, bruising the fat through the (sheep wool left glove)!
+The miner pulls on the embedded (iron pick).
+The miner gains possession of the (iron pick).
+The engraver punches the kea in the head with her right hand and the injured part explodes into gore!
+A elven caravan from Ola Cili has arrived.  Overall trade sentiments are cautious.
+Asob Saziratol, Stray Cat (Tame) has adopted Ingish Atulstâkud, Woodcrafter.
+The merchants from Ola Cili will be leaving soon.
+The merchants from Ola Cili have embarked on their journey.
+Imush Melbilsulus, Miner cancels Construct building: Needs 3 building material non-economic items.
+The dwarves were unable to complete the Trade Depot.
+Kivish Asënkodor "Graveldawn", Metalsmith is taken by a fey mood!
+Kivish Asënkodor has claimed a Metalsmith's Forge.
+Kivish Asënkodor has begun a mysterious construction!
+Kivish Asënkodor, Metalsmith has created Enolrilem, a copper door!  He claims it as a family heirloom.
+Kivish Asënkodor has become a Blacksmith.
+Spring has arrived!

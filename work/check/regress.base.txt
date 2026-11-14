@@ -1,0 +1,105 @@
+[LPAGE:SITE:1]Realmsechoes[/LPAGE] was a cave.	[LPAGE:SITE:1]Realmsechoes[/LPAGE]は洞窟だった。
+In 1, [LPAGE:ENT:16]Jrilmus[/LPAGE] of [LPAGE:ENT:15]Chlififikulmis[/LPAGE] constructed [LPAGE:AB:1:0]Kakakalrulder[/LPAGE] in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:ENT:15]Chlififikulmis[/LPAGE]の[LPAGE:ENT:16]Jrilmus[/LPAGE]が[LPAGE:SITE:1]Realmsechoes[/LPAGE]に[LPAGE:AB:1:0]Kakakalrulder[/LPAGE]を建設した。
+In 1, [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] decided to become a thief, operating out of [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:65]コボルドのDrabapaymer[/LPAGE]は盗賊として[LPAGE:SITE:1]Realmsechoes[/LPAGE]から活動することにした。
+In 1, [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] decided to become a thief, operating out of [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:63]コボルドのBridiblidis[/LPAGE]は盗賊として[LPAGE:SITE:1]Realmsechoes[/LPAGE]から活動することにした。
+In 1, [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] decided to become a thief, operating out of [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:59]コボルドのChadagralgis[/LPAGE]は盗賊として[LPAGE:SITE:1]Realmsechoes[/LPAGE]から活動することにした。
+In 1, [LPAGE:HF:56]the kobold Chriliborber[/LPAGE] became a trapper in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:56]コボルドのChriliborber[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で罠師になった。
+In 1, [LPAGE:HF:57]the kobold Lrofinkus[/LPAGE] became a ranger in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:57]コボルドのLrofinkus[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]でレンジャーになった。
+In 1, [LPAGE:HF:58]the kobold Stlulger[/LPAGE] became a miner in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:58]コボルドのStlulger[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で鉱夫になった。
+In 1, [LPAGE:HF:60]the kobold Strodlankis[/LPAGE] became a animal dissector in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:60]コボルドのStrodlankis[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で動物解剖者になった。
+In 1, [LPAGE:HF:61]the kobold Bubus[/LPAGE] became a animal dissector in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:61]コボルドのBubus[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で動物解剖者になった。
+In 1, [LPAGE:HF:62]the kobold Trukudutrilis[/LPAGE] became a animal dissector in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:62]コボルドのTrukudutrilis[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で動物解剖者になった。
+In 1, [LPAGE:HF:64]the kobold Frostrarsnin[/LPAGE] became a hunter in [LPAGE:SITE:1]Realmsechoes[/LPAGE].	1年、[LPAGE:HF:64]コボルドのFrostrarsnin[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で狩人になった。
+In 2, a gold crown was stolen from [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] during The Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	2年、Rampageruthlessでの窃盗の際に[LPAGE:HF:59]コボルドのChadagralgis[/LPAGE]が[LPAGE:SITE:8]Rampageruthless[/LPAGE]から金の王冠を盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 2, a rutherer bone amulet was stolen from [LPAGE:AB:8:0]The Palace of Trials[/LPAGE] in [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] during The Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	2年、Rampageruthlessでの窃盗の際に[LPAGE:HF:65]コボルドのDrabapaymer[/LPAGE]が[LPAGE:SITE:8]Rampageruthless[/LPAGE]の[LPAGE:AB:8:0]The Palace of Trials[/LPAGE]からラザラーの骨の首飾りを盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 2, a native gold earring was stolen from [LPAGE:SITE:5]Glovespin[/LPAGE] by [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] during The Theft at Glovespin and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	2年、Glovespinでの窃盗の際に[LPAGE:HF:63]コボルドのBridiblidis[/LPAGE]が[LPAGE:SITE:5]Glovespin[/LPAGE]から自然金の耳飾りを盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:61]the kobold Bubus[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:61]コボルドのBubus[/LPAGE]を襲った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:61]the kobold Bubus[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:61]コボルドのBubus[/LPAGE]と戦った。
+While defeated, the latter escaped unscathed.	敗れはしたものの、後者は無傷で逃れた。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:60]the kobold Strodlankis[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:60]コボルドのStrodlankis[/LPAGE]を襲った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:60]the kobold Strodlankis[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:60]コボルドのStrodlankis[/LPAGE]と戦った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:62]the kobold Trukudutrilis[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:62]コボルドのTrukudutrilis[/LPAGE]を襲った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:62]the kobold Trukudutrilis[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:62]コボルドのTrukudutrilis[/LPAGE]と戦った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:58]the kobold Stlulger[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:58]コボルドのStlulger[/LPAGE]を襲った。
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:58]the kobold Stlulger[/LPAGE].	2年の晩秋、[LPAGE:HF:16]陰気な女のVesh Diedfates[/LPAGE]は[LPAGE:HF:58]コボルドのStlulger[/LPAGE]と戦った。
+In 3, a large carnelian was stolen from [LPAGE:SITE:12]Plungepadded[/LPAGE] by [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] during The Theft at Plungepadded and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	3年、Plungepaddedでの窃盗の際に[LPAGE:HF:59]コボルドのChadagralgis[/LPAGE]が[LPAGE:SITE:12]Plungepadded[/LPAGE]から大きな紅玉髄を盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 3, a large peridot was stolen from [LPAGE:SITE:12]Plungepadded[/LPAGE] by [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] during The Theft at Plungepadded and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	3年、Plungepaddedでの窃盗の際に[LPAGE:HF:65]コボルドのDrabapaymer[/LPAGE]が[LPAGE:SITE:12]Plungepadded[/LPAGE]から大きなペリドットを盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 3, a groundhog bone bracelet was stolen from [LPAGE:SITE:11]Dungeonskull[/LPAGE] by [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] during The Theft at Dungeonskull and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	3年、Dungeonskullでの窃盗の際に[LPAGE:HF:63]コボルドのBridiblidis[/LPAGE]が[LPAGE:SITE:11]Dungeonskull[/LPAGE]からウッドチャックの骨の腕輪を盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 4, a kentrosaurus man horn bracelet was stolen from [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] during The Second Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	4年、Rampageruthlessでの二度目の窃盗の際に[LPAGE:HF:59]コボルドのChadagralgis[/LPAGE]が[LPAGE:SITE:8]Rampageruthless[/LPAGE]からケントロサウルス男の角の腕輪を盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 4, a lizard man bone ring was stolen from [LPAGE:AB:8:1]The God-forsaken Onion[/LPAGE] in [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] during The Second Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	4年、Rampageruthlessでの二度目の窃盗の際に[LPAGE:HF:65]コボルドのDrabapaymer[/LPAGE]が[LPAGE:SITE:8]Rampageruthless[/LPAGE]の[LPAGE:AB:8:1]The God-forsaken Onion[/LPAGE]からトカゲ男の骨の指輪を盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In 4, a parakeet man bone ring was stolen from [LPAGE:AB:8:0]The Palace of Trials[/LPAGE] in [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] during The Second Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].	4年、Rampageruthlessでの二度目の窃盗の際に[LPAGE:HF:63]コボルドのBridiblidis[/LPAGE]が[LPAGE:SITE:8]Rampageruthless[/LPAGE]の[LPAGE:AB:8:0]The Palace of Trials[/LPAGE]からセキセイインコ男の骨の指輪を盗み、[LPAGE:SITE:1]Realmsechoes[/LPAGE]へ持ち去った。
+In the midwinter of 4, [LPAGE:HF:118]the gorlak Nimu Sourmurder[/LPAGE] settled in [LPAGE:SITE:1]Realmsechoes[/LPAGE].Realmsechoes was a cave.	4年の仲冬、[LPAGE:HF:118]ゴーラックのNimu Sourmurder[/LPAGE]は[LPAGE:SITE:1]Realmsechoes[/LPAGE]で定住した。Realmsechoesは洞窟だった。
+In 1, Jrilmus of Chlififikulmis constructed Kakakalrulder in Realmsechoes.	1年、ChlififikulmisのJrilmusがRealmsechoesにKakakalrulderを建設した。
+In 1, the kobold Drabapaymer decided to become a thief, operating out of Realmsechoes.	1年、コボルドのDrabapaymerは盗賊としてRealmsechoesから活動することにした。
+In 1, the kobold Bridiblidis decided to become a thief, operating out of Realmsechoes.	1年、コボルドのBridiblidisは盗賊としてRealmsechoesから活動することにした。
+In 1, the kobold Chadagralgis decided to become a thief, operating out of Realmsechoes.	1年、コボルドのChadagralgisは盗賊としてRealmsechoesから活動することにした。
+In 1, the kobold Chriliborber became a trapper in Realmsechoes.	1年、コボルドのChriliborberはRealmsechoesで罠師になった。
+In 1, the kobold Lrofinkus became a ranger in Realmsechoes.	1年、コボルドのLrofinkusはRealmsechoesでレンジャーになった。
+In 1, the kobold Stlulger became a miner in Realmsechoes.	1年、コボルドのStlulgerはRealmsechoesで鉱夫になった。
+In 1, the kobold Strodlankis became a animal dissector in Realmsechoes.	1年、コボルドのStrodlankisはRealmsechoesで動物解剖者になった。
+In 1, the kobold Bubus became a animal dissector in Realmsechoes.	1年、コボルドのBubusはRealmsechoesで動物解剖者になった。
+In 1, the kobold Trukudutrilis became a animal dissector in Realmsechoes.	1年、コボルドのTrukudutrilisはRealmsechoesで動物解剖者になった。
+In 1, the kobold Frostrarsnin became a hunter in Realmsechoes.	1年、コボルドのFrostrarsninはRealmsechoesで狩人になった。
+In 2, a gold crown was stolen from Rampageruthless by the kobold Chadagralgis during The Theft at Rampageruthless and brought to Realmsechoes.	2年、Rampageruthlessでの窃盗の際にコボルドのChadagralgisがRampageruthlessから金の王冠を盗み、Realmsechoesへ持ち去った。
+In 2, a rutherer bone amulet was stolen from The Palace of Trials in Rampageruthless by the kobold Drabapaymer during The Theft at Rampageruthless and brought to Realmsechoes.	2年、Rampageruthlessでの窃盗の際にコボルドのDrabapaymerがRampageruthlessのThe Palace of Trialsからラザラーの骨の首飾りを盗み、Realmsechoesへ持ち去った。
+In 2, a native gold earring was stolen from Glovespin by the kobold Bridiblidis during The Theft at Glovespin and brought to Realmsechoes.	2年、Glovespinでの窃盗の際にコボルドのBridiblidisがGlovespinから自然金の耳飾りを盗み、Realmsechoesへ持ち去った。
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Bubus.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのBubusを襲った。
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Bubus.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのBubusと戦った。
+While defeated, the latter escaped unscathed.	敗れはしたものの、後者は無傷で逃れた。
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Strodlankis.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのStrodlankisを襲った。
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Strodlankis.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのStrodlankisと戦った。
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Trukudutrilis.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのTrukudutrilisを襲った。
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Trukudutrilis.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのTrukudutrilisと戦った。
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Stlulger.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのStlulgerを襲った。
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Stlulger.	2年の晩秋、陰気な女のVesh DiedfatesはコボルドのStlulgerと戦った。
+In 3, a large carnelian was stolen from Plungepadded by the kobold Chadagralgis during The Theft at Plungepadded and brought to Realmsechoes.	3年、Plungepaddedでの窃盗の際にコボルドのChadagralgisがPlungepaddedから大きな紅玉髄を盗み、Realmsechoesへ持ち去った。
+In 3, a large peridot was stolen from Plungepadded by the kobold Drabapaymer during The Theft at Plungepadded and brought to Realmsechoes.	3年、Plungepaddedでの窃盗の際にコボルドのDrabapaymerがPlungepaddedから大きなペリドットを盗み、Realmsechoesへ持ち去った。
+In 3, a groundhog bone bracelet was stolen from Dungeonskull by the kobold Bridiblidis during The Theft at Dungeonskull and brought to Realmsechoes.	3年、Dungeonskullでの窃盗の際にコボルドのBridiblidisがDungeonskullからウッドチャックの骨の腕輪を盗み、Realmsechoesへ持ち去った。
+In 4, a kentrosaurus man horn bracelet was stolen from Rampageruthless by the kobold Chadagralgis during The Second Theft at Rampageruthless and brought to Realmsechoes.	4年、Rampageruthlessでの二度目の窃盗の際にコボルドのChadagralgisがRampageruthlessからケントロサウルス男の角の腕輪を盗み、Realmsechoesへ持ち去った。
+In 4, a lizard man bone ring was stolen from The God-forsaken Onion in Rampageruthless by the kobold Drabapaymer during The Second Theft at Rampageruthless and brought to Realmsechoes.	4年、Rampageruthlessでの二度目の窃盗の際にコボルドのDrabapaymerがRampageruthlessのThe God-forsaken Onionからトカゲ男の骨の指輪を盗み、Realmsechoesへ持ち去った。
+In 4, a parakeet man bone ring was stolen from The Palace of Trials in Rampageruthless by the kobold Bridiblidis during The Second Theft at Rampageruthless and brought to Realmsechoes.	4年、Rampageruthlessでの二度目の窃盗の際にコボルドのBridiblidisがRampageruthlessのThe Palace of Trialsからセキセイインコ男の骨の指輪を盗み、Realmsechoesへ持ち去った。
+In the midwinter of 4, the gorlak Nimu Sourmurder settled in Realmsechoes.	4年の仲冬、ゴーラックのNimu SourmurderはRealmsechoesで定住した。
+The Murk of Rivers could be found within The Realms of Myth.	The Murk of RiversはThe Realms of Mythの中に見られた。
+In 1, the minotaur Stekug settled in The Murk of Rivers.	1年、ミノタウロスのStekugはThe Murk of Riversで定住した。
+In 1, the forgotten beast Uxzo began wandering the depths of the world.	1年、忘れられし獣のUxzoはtheの世界の深淵で放浪を始めた。
+The Knives of Ransacking was a dwarven civilization of the Realms of Myth.	The Knives of Ransackingはthe Realms of Mythのドワーフの文明だった。
+In 1, the dwarf Logem Freckleattics became the general of The Knives of Ransacking.	1年、ドワーフのLogem FreckleatticsはThe Knives of Ransackingの一般となった。
+In 1, the dwarf Datan Pagethunders became the outpost liaison of The Knives of Ransacking.	1年、ドワーフのDatan PagethundersはThe Knives of Ransackingの前哨連絡係となった。
+In 1, the dwarf Rovod Mythchambers became the diplomat of The Knives of Ransacking.	1年、ドワーフのRovod MythchambersはThe Knives of Ransackingの外交官となった。
+In 1, the dwarf Thîkut Trustshot became the king of The Knives of Ransacking.	1年、ドワーフのThîkut TrustshotはThe Knives of Ransackingの国王となった。
+In 1, The Town of Entrancing of The Knives of Ransacking founded Glovespin.	1年、Entrancing of The Knives of Ransackingの町がGlovespinを創設した。
+In 1, The Late Sword of The Knives of Ransacking founded Wiltabbeys.	1年、The Knives of RansackingのThe Late SwordがWiltabbeysを創設した。
+In the early winter of 1, The Knives of Ransacking held a performance of The Mirthful Aquamarine in Glovespin as part of The Copper Celebration.	1年の初冬、The Knives of RansackingはThe Copper Celebrationの一環としてGlovespinでThe Mirthful Aquamarineの上演を催した。
+In the early winter of 1, The Knives of Ransacking held a ceremony in Glovespin as part of The Copper Celebration.	1年の初冬、The Knives of RansackingはThe Copper Celebrationの一環としてGlovespinで式典を催した。
+The event featured a telling of the story of the ascension of the dwarf Thîkut Trustshot to the position of king of The Knives of Ransacking in 1, a performance of The Euphoria of Blossoms, incense burning, banners and images.	催しには1年のドワーフのThîkut TrustshotのThe Knives of Ransackingの国王への就任の物語の語り、The Euphoria of Blossomsの上演、香焚き、旗、像があった。
+In the early winter of 1, The Knives of Ransacking held a foot race in Glovespin as part of The Copper Celebration.	1年の初冬、The Knives of RansackingはThe Copper Celebrationの一環としてGlovespinで徒競走を催した。
+Competing were the goblin Ber Wraithmerged, the goblin Ngokang Praiseddemons and the goblin Ngokang Queststeals.	競技者はゴブリンのBer Wraithmerged、ゴブリンのNgokang Praiseddemons、ゴブリンのNgokang Queststealsだった。
+The goblin Ngokang Praiseddemons was the victor.	ゴブリンのNgokang Praiseddemonsが勝者だった。
+In the early winter of 1, The Knives of Ransacking held the story of the ascension of the dwarf Thîkut Trustshot to the position of king of The Knives of Ransacking in 1 in Glovespin as part of The Copper Celebration.	1年の初冬、The Knives of RansackingはThe Copper Celebrationの一環としてGlovespinで、1年のドワーフのThîkut TrustshotのThe Knives of Ransackingの国王への就任の物語を語り聞かせた。
+In the early winter of 1, The Knives of Ransacking held a procession in Glovespin as part of The Copper Celebration.	1年の初冬、The Knives of RansackingはThe Copper Celebrationの一環としてGlovespinで行列を催した。
+The event featured criers in front, incense burning, acrobats, a performance of The Lavender Luxury and costumes.	催しには先触れ、香焚き、軽業師、The Lavender Luxuryの上演、衣装があった。
+In the early winter of 1, The Knives of Ransacking held a mace throwing competition in Glovespin as part of The Copper Celebration.	1年の初冬、The Knives of RansackingはThe Copper Celebrationの一環としてGlovespinでメイス投げ競技を催した。
+There were 7 competitors.	参加者は7人だった。
+The dwarf Cerol Inkwall was the victor.	ドワーフのCerol Inkwallが勝者だった。
+The event featured a telling of the story of the ascension of the dwarf Thîkut Trustshot to the position of king of The Knives of Ransacking in 1, incense burning, costumes, acrobats and images.	催しには1年のドワーフのThîkut TrustshotのThe Knives of Ransackingの国王への就任の物語の語り、香焚き、衣装、軽業師、像があった。
+In 2, the dwarf Atîs Quakeferal became a baron of The Knives of Ransacking.	2年、ドワーフのAtîs QuakeferalはThe Knives of Ransackingの男爵となった。
+In 2, The Rhythmic Boat of The Knives of Ransacking founded Painthame.	2年、The Knives of RansackingのThe Rhythmic BoatがPainthameを創設した。
+In the early spring of 2, The Knives of Ransacking swore to support The Howls of Worship in war if the latter did likewise.	2年の初春、The Knives of Ransackingは、The Howls of Worshipも同様にするなら戦争でThe Howls of Worshipを支援すると誓った。
+In the early summer of 2, The Knives of Ransacking attacked The Coastal League of The Scoured Confederacy at Plungepadded.	2年の初夏、The Knives of RansackingはPlungepaddedでThe Scoured ConfederacyのThe Coastal Leagueを襲った。
+The dwarf Logem Freckleattics led the attack, and the defenders were led by the human Thuthu Scarletway.	ドワーフのLogem Freckleatticsが攻撃を率い、守備側は人間のThuthu Scarletwayが率いた。
+In the early summer of 2, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Plungepadded.	2年の初夏、The Knives of RansackingはThe Scoured Confederacyを破り、Plungepaddedを略奪した。
+In the early autumn of 2, The Knives of Ransacking attacked The Councils of Knowing of The Scoured Confederacy at Echobrand.	2年の初秋、The Knives of RansackingはEchobrandでKnowing of The Scoured ConfederacyのThe Councilsを襲った。
+The dwarf Logem Freckleattics led the attack.	ドワーフのLogem Freckleatticsが攻撃を率いた。
+In the early autumn of 2, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Echobrand.	2年の初秋、The Knives of RansackingはThe Scoured Confederacyを破り、Echobrandを略奪した。
+In 3, the dwarf Zulban Judgedkeys became the queen of The Knives of Ransacking.	3年、ドワーフのZulban JudgedkeysはThe Knives of Ransackingの女王となった。
+In the early summer of 3, The Knives of Ransacking attacked The Coastal League of The Scoured Confederacy at Plungepadded.	3年の初夏、The Knives of RansackingはPlungepaddedでThe Scoured ConfederacyのThe Coastal Leagueを襲った。
+The dwarf Logem Freckleattics led the attack, and the defenders were led by the human Iral Stillbottle.	ドワーフのLogem Freckleatticsが攻撃を率い、守備側は人間のIral Stillbottleが率いた。
+In the early summer of 3, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Plungepadded.	3年の初夏、The Knives of RansackingはThe Scoured Confederacyを破り、Plungepaddedを略奪した。
+In the early autumn of 3, The Knives of Ransacking attacked The Councils of Knowing of The Scoured Confederacy at Echobrand.	3年の初秋、The Knives of RansackingはEchobrandでKnowing of The Scoured ConfederacyのThe Councilsを襲った。
+In the early autumn of 3, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Echobrand.	3年の初秋、The Knives of RansackingはThe Scoured Confederacyを破り、Echobrandを略奪した。
+In the early winter of 3, the moon creature Anan Tombburials became an enemy of The Knives of Ransacking.	3年の初冬、月の生き物のAnan TombburialsはThe Knives of Ransackingの敵となった。
+In the early summer of 4, The Knives of Ransacking attacked The Coastal League of The Scoured Confederacy at Plungepadded.	4年の初夏、The Knives of RansackingはPlungepaddedでThe Scoured ConfederacyのThe Coastal Leagueを襲った。
+The dwarf Logem Freckleattics led the attack, and the defenders were led by the human On Playfulice.	ドワーフのLogem Freckleatticsが攻撃を率い、守備側は人間のOn Playfuliceが率いた。
+In the early summer of 4, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Plungepadded.	4年の初夏、The Knives of RansackingはThe Scoured Confederacyを破り、Plungepaddedを略奪した。
+In the early autumn of 4, The Knives of Ransacking attacked The Councils of Knowing of The Scoured Confederacy at Echobrand.	4年の初秋、The Knives of RansackingはEchobrandでKnowing of The Scoured ConfederacyのThe Councilsを襲った。
+In the early autumn of 4, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Echobrand.	4年の初秋、The Knives of RansackingはThe Scoured Confederacyを破り、Echobrandを略奪した。

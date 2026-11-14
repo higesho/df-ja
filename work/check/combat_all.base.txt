@@ -1,0 +1,46 @@
+The expedition leader attacks the kea but He jumps away!	遠征隊長はケアに攻撃したが、かわされた！
+The expedition leader misses the kea!	遠征隊長の攻撃はケアに外れた！
+The expedition leader punches the kea in the head with her left hand and the injured part collapses into a lump of gore!	遠征隊長は左手でケアの頭を殴った（負傷した部位が血肉の塊になった）！
+The expedition leader punches the kea in the head with her left hand and the injured part explodes into gore!	遠征隊長は左手でケアの頭を殴った（負傷した部位が血肉となって飛び散った）！
+The expedition leader punches the kea in the left foot with her right hand, bruising the skin!	遠征隊長は右手でケアの左足を殴った（肌に打撲）！
+The expedition leader punches the kea in the lower body with her left hand, bruising the fat!	遠征隊長は左手でケアの下半身を殴った（脂肪に打撲）！
+The expedition leader punches the kea in the right wing with her right hand, but the attack glances away!	遠征隊長は右手でケアの右翼を殴ったが、攻撃はそれた！
+The expedition leader punches the kea in the upper body with her right hand, bruising the muscle and shattering the right false ribs!	遠征隊長は右手でケアの上半身を殴った（筋肉に打撲、右の偽肋を粉砕）！
+The fisherdwarf attacks the kea but She jumps away!	漁師はケアに攻撃したが、かわされた！
+The fisherdwarf misses the kea!	漁師の攻撃はケアに外れた！
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the guts!	漁師は左手でケアの下半身を殴った（筋肉に打撲、腸に打撲）！
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the left kidney!	漁師は左手でケアの下半身を殴った（筋肉に打撲、左腎臓に打撲）！
+The fisherdwarf punches the kea in the neck with his left hand, bruising the fat!	漁師は左手でケアの首を殴った（脂肪に打撲）！
+The fisherdwarf punches the kea in the right upper leg with his left hand and the injured part is smashed into the body, an unrecognizable mass!	漁師は左手でケアの右上脚を殴った（負傷した部位が体にめり込み、原形をとどめない）！
+The kea attacks the expedition leader but She jumps away!	ケアは遠征隊長に攻撃したが、かわされた！
+The kea attacks the stray dog but She jumps away!	ケアは野良犬に攻撃したが、かわされた！
+The kea bites the stray dog in the fourth left rear toe, but the attack glances away!	ケアは野良犬の左の第4後足指に噛みついたが、攻撃はそれた！
+The kea bites the stray dog in the left front leg, denting the skin and bruising the fat!	ケアは野良犬の左前脚に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea bites the stray dog in the left rear paw, denting the skin and bruising the fat!	ケアは野良犬の左後足に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea bites the stray dog in the lower body, denting the skin and bruising the fat!	ケアは野良犬の下半身に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea misses the expedition leader!	ケアの攻撃は遠征隊長に外れた！
+The kea misses the fisherdwarf!	ケアの攻撃は漁師に外れた！
+The kea misses the stray dog!	ケアの攻撃は野良犬に外れた！
+The kea snatches at the expedition leader in the left upper arm with his first toe, right foot, bruising the muscle through the (cave spider silk dress)!	ケアは第1足指（右足）で遠征隊長の左上腕につかみかかった（洞窟グモの絹のドレス越しに筋肉に打撲）！
+The kea snatches at the fisherdwarf in the left lower leg with her first toe, right foot, bruising the fat through the (giant cave spider silk trousers)!	ケアは第1足指（右足）で漁師の左下脚につかみかかった（巨大洞窟グモの絹のズボン越しに脂肪に打撲）！
+The kea snatches at the fisherdwarf in the lower body with her first toe, right foot, bruising the muscle and bruising the left kidney through the (alpaca wool tunic)!	ケアは第1足指（右足）で漁師の下半身につかみかかった（筋肉に打撲、アルパカの羊毛のチュニック越しに左腎臓に打撲）！
+The kea snatches at the stray dog in the fourth left front toe with her first toe, right foot, but the attack glances away!	ケアは第1足指（右足）で野良犬の左の第4前足指につかみかかったが、攻撃はそれた！
+The kea snatches at the stray dog in the left front leg with his first toe, right foot, denting the skin and bruising the muscle!	ケアは第1足指（右足）で野良犬の左前脚につかみかかった（肌にへこみ、筋肉に打撲）！
+The kea snatches at the stray dog in the left front paw with her first toe, left foot, tearing the fat and bruising the muscle!	ケアは第1足指（左足）で野良犬の左前足につかみかかった（脂肪に裂傷、筋肉に打撲）！
+The kea snatches at the stray dog in the left front paw with his first toe, left foot, denting the skin!	ケアは第1足指（左足）で野良犬の左前足につかみかかった（肌にへこみ）！
+The kea snatches at the stray dog in the tail with her first toe, left foot, tearing the fat!	ケアは第1足指（左足）で野良犬の尾につかみかかった（脂肪に裂傷）！
+The stonecrafter punches the kea in the upper body with her left hand, bruising the muscle and bruising the left lung!	石細工師は左手でケアの上半身を殴った（筋肉に打撲、左肺に打撲）！
+The stray dog attacks the kea but He jumps away!	野良犬はケアに攻撃したが、かわされた！
+The stray dog attacks the kea but She jumps away!	野良犬はケアに攻撃したが、かわされた！
+The stray dog bites the kea in the left foot, tearing apart the skin!	野良犬はケアの左足に噛みついた（肌がずたずたに）！
+The stray dog bites the kea in the left upper leg, tearing apart the skin!	野良犬はケアの左上脚に噛みついた（肌がずたずたに）！
+The stray dog bites the kea in the upper body, tearing the muscle and bruising the right lung!	野良犬はケアの上半身に噛みついた（筋肉に裂傷、右肺に打撲）！
+The stray dog misses the kea!	野良犬の攻撃はケアに外れた！
+The stray dog scratches the kea in the second toe, right foot, but the attack glances away!	野良犬はケアの第2足指、右足を引っかいたが、攻撃はそれた！
+There is nothing to catch in the central swamps.	中央の湿地には獲れるものが何もない。
+You attack the farmer Avuz Duthalid but She jumps away!	あなたは農家のAvuz Duthalidに攻撃したが、かわされた！
+The goblin stabs you in the head from behind with his iron dagger, tearing the muscle and fracturing the skull!	ゴブリンは背後から鉄のダガーであなたの頭を刺した（筋肉に裂傷、頭蓋骨を骨折）！
+You hack the goblin in the left upper arm from the side with your iron battle axe and the severed part sails off in an arc!	あなたは横から鉄の戦斧でゴブリンの左上腕を叩き斬った（切断された部位が弧を描いて飛んだ）！
+The goblin blocks the flying copper bolt with his wooden shield!	ゴブリンは飛んできた銅のボルトを木製の盾で防いだ！
+The goblin has been knocked unconscious!	ゴブリンは気絶した！
+You bash the goblin in the upper body with your iron mace, but the attack is deflected by the goblin's iron breastplate!	あなたは鉄のメイスでゴブリンの上半身を殴りつけたが、ゴブリンの鉄の胸当てに防がれた！

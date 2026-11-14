@@ -1,0 +1,77 @@
+# 欲求タブの文「{主語} is {状態} after {欲求}.」の部品（tools/build.py が全組み合わせを辞書に足す）。
+# 実行ファイルの "after being away from people" などの一覧（0x165b980 付近）から取った。
+# state: 状態、need: after の後ろ（訳は「〜して」「〜ず」などの連用の形）、overall: 全体の様子
+state	not distracted	気が散っていない
+state	unfocused	集中を欠いている
+state	distracted	気が散っている
+state	badly distracted	ひどく気が散っている
+state	untroubled	落ち着いている
+state	unfettered	解き放たれた気分だ
+state	level-headed	冷静だ
+need	after not learning anything	何も学べておらず
+need	after being with family	家族と過ごせて
+need	after being away from family	家族と離れていて
+need	after being with friends	友人と過ごせて
+need	after being away from friends	友人と離れていて
+need	after doing nothing creative	何も創作できておらず
+need	after doing something creative	創作ができて
+need	after doing something exciting	刺激的なことができて
+need	after leading an unexciting life	刺激のない暮らしが続いて
+need	after learning something	何かを学べて
+need	after being unoccupied	することがなくて
+need	after staying occupied	忙しく過ごせて
+need	after admiring art	芸術を鑑賞できて
+need	after being unable to admire art	芸術を鑑賞できず
+need	after meditation	瞑想できて
+need	after being unable to pray	祈れず
+need	after spending time with people	人と過ごせて
+need	after being away from people	人から離れていて
+need	after drinking	酒を飲めて
+need	after being kept from alcohol	酒を断たれていて
+need	after being unable to fight	戦えず
+need	after fighting	戦えて
+need	after causing trouble	騒ぎを起こせて
+need	after a lack of trouble-making	騒ぎを起こせず
+need	after arguing	言い争えて
+need	after being unable to argue	言い争えず
+need	after being unable to acquire something	何も手に入れられず
+need	after acquiring something	何かを手に入れられて
+need	after eating a good meal	良い食事ができて
+need	after a lack of decent meals	まともな食事ができず
+need	after being away from animals	動物から離れていて
+need	after seeing animals	動物を見られて
+need	after seeing a great beast	巨獣を見られて
+need	after being away from great beasts	巨獣から離れていて
+need	after being unable to take it easy	くつろげず
+need	after taking it easy	くつろげて
+need	after making romance	恋愛ができて
+need	after being unable to make romance	恋愛ができず
+need	after practicing a martial art	武術を鍛錬できて
+need	after being unable to practice a martial art	武術を鍛錬できず
+need	after practicing a skill	技能を磨けて
+need	after being unable to practice a skill	技能を磨けず
+need	after making merry	浮かれ騒げて
+need	after being unable to make merry	浮かれ騒げず
+need	after practicing a craft	ものづくりができて
+need	after being unable to practice a craft	ものづくりができず
+need	after upholding tradition	伝統を守れて
+need	after being away from traditions	伝統から離れていて
+need	after self-examination	内省できて
+need	after a lack of introspection	内省できず
+need	after hearing eloquent speech	雄弁な話を聞けて
+need	after being unable to hear eloquent speech	雄弁な話を聞けず
+need	after thinking abstractly	抽象的に考えられて
+need	after a lack of abstract thinking	抽象的に考えられず
+need	after wandering	放浪できて
+need	after being unable to wander	放浪できず
+need	after helping somebody	誰かを助けられて
+need	after being unable to help anybody	誰も助けられず
+need	after being extravagant	贅沢ができて
+need	after being unable to be extravagant	贅沢ができず
+overall	very focused with satisfied needs	欲求が満たされ、とても集中している
+overall	quite focused with satisfied needs	欲求が満たされ、かなり集中している
+overall	somewhat focused with satisfied needs	欲求が満たされ、ある程度集中している
+overall	untroubled by unmet needs	満たされない欲求にも動じていない
+overall	unfocused by unmet needs	満たされない欲求のせいで集中を欠いている
+overall	distracted by unmet needs	満たされない欲求のせいで気が散っている
+overall	badly distracted by unmet needs	満たされない欲求のせいでひどく気が散っている

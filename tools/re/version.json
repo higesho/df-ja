@@ -1,0 +1,23 @@
+{
+  "version": "53.17 (Steam, Windows)",
+  "_note": "RVA（イメージ先頭からの相対アドレス, 16進）。ゲームの更新で変わる。docs/architecture.md の手順で探し直す",
+  "string_ops": {
+    "new": "69780",
+    "set": "70bb0",
+    "append": [
+      "70b90",
+      "71040"
+    ]
+  },
+  "markup_process_string": "d69ba0",
+  "markup_format": "d69970",
+  "slot_functions": {
+    "baa300": "年（数字）",
+    "baabd0": "人物・生き物の名前",
+    "bab5f0": "場所の名前",
+    "bacb90": "生き物の種族名",
+    "bb340": "品物などの語句"
+  },
+  "addcoloredst": "af3230",
+  "wrap_lines": "900dc0"
+}

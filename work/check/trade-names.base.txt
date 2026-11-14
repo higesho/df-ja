@@ -1,0 +1,263 @@
+({giant cave spider silk trousers})	({巨大洞窟グモの絹のズボン})
+({groundhog leather tunic})	({ウッドチャックの革のチュニック})
+({mountain goat leather left glove})	({シロイワヤギの革の左の手袋})
+({mountain goat leather right glove})	({シロイワヤギの革の右の手袋})
+({pig tail sock})	({ピッグテイルの靴下})
+({giant cave spider silk shoe})	({巨大洞窟グモの絹の靴})
+({goat leather trousers})	({ヤギの革のズボン})
+({llama wool dress})	({ラマの羊毛のドレス})
+({black bear leather left glove})	({クロクマの革の左の手袋})
+({black bear leather right glove})	({クロクマの革の右の手袋})
+({sheep wool sock})	({羊の羊毛の靴下})
+({groundhog leather shoe})	({ウッドチャックの革の靴})
+microcline	微斜長石
+(rock nuts Bag (sheep wool))	(ロックナッツの袋（羊の羊毛）)
+(-porcupine leather bag-)	(-ヤマアラシの革の袋-)
+(«-iron buckler-»)	(«-鉄のバックラー-»)
+(prepared bat brain [5])	(調理済みのコウモリの脳 [5])
+(cave fish, ♂ [5])	(洞窟魚, ♂ [5])
+(plump helmets [5])	(プランプヘルメット [5])
+(pig iron bars)	(銑鉄の延べ棒)
+(yak cheese [5])	(ヤクチーズ [5])
+(-«spore tree crutch»-)	(-«胞子の木の松葉杖»-)
+(bilberries [5])	(ビルベリー [5])
+(«-purring maggot leather quiver-»)	(«-ゴロゴロウジの革の矢筒-»)
+(sweet pod seeds Bag (cave spider silk))	(スイートポッド種の袋（洞窟グモの絹）)
+(dwarven wine Barrel (pine))	(ドワーフのワインの樽（松）)
+(fire clay)	(耐火粘土)
+(sheep wool yarn)	(羊の羊毛の毛糸)
+(dwarven beer Barrel (tower-cap))	(ドワーフのビールの樽（タワーキャップ）)
+(reindeer parchment sheet)	(トナカイの羊皮紙の紙)
+(alpaca wool yarn)	(アルパカの羊毛の毛糸)
+(+«cave spider silk bag»+)	(+«洞窟グモの絹の袋»+)
+(+large, serrated bronze disc+)	(+大型の鋸状の青銅の円盤+)
+(cave lobster, ♂ [5])	(洞窟ロブスター, ♂ [5])
+(copper shield)	(銅の盾)
+(giant mole leather backpack)	(巨大モグラの革の背嚢)
+(pig tail thread)	(豚の尾の糸)
+(black sand Bag (cave spider silk))	(黒砂の袋（洞窟グモの絹）)
+(bismuth bronze chain leggings)	(ビスマス青銅の鎖のレギンス)
+(pig tail rope)	(ピッグテイルのロープ)
+(billon bars)	(ビロンの延べ棒)
+(raccoon leather backpack)	(アライグマの革の背嚢)
+(pig tail bag)	(ピッグテイルの袋)
+(single cut prase opals)	(シングルカットのプレーズオパール)
+(copper helm)	(銅の兜)
+(almond wood barrel)	(アーモンド材の樽)
+(chicken leather quiver)	(鶏の革の矢筒)
+(persimmon wood barrel)	(柿材の樽)
+(rock nuts Bag (cave spider silk))	(ロックナッツの袋（洞窟グモの絹）)
+(blueberries [5])	(ブルーベリー [5])
+(Cloth Bin (blood thorn))	(布の収納箱（ブラッドソーン）)
+(«pig tail left mitten»)	(«ピッグテイルの左のミトン»)
+(«pig tail right mitten»)	(«ピッグテイルの右のミトン»)
+(bronze cap)	(青銅の帽子)
+(-pig tail rope-)	(-ピッグテイルのロープ-)
+(lay pewter bars)	(並ピューターの延べ棒)
+(-«-alpaca wool rope-»-)	(-«-アルパカの羊毛のロープ-»-)
+(clay)	(粘土)
+(iron anvil)	(鉄の金床)
+(-pig tail robe-)	(-ピッグテイルのローブ-)
+(-pig tail tunic-)	(-ピッグテイルのチュニック-)
+(Cloth Bin (black-cap))	(布の収納箱（ブラックキャップ）)
+(«*wombat leather left mitten*»)	(«*ウォンバットの革の左のミトン*»)
+(«*wombat leather right mitten*»)	(«*ウォンバットの革の右のミトン*»)
+(-«-black-cap bucket-»-)	(-«-ブラックキャップのバケツ-»-)
+(prepared horse spleen [5])	(調理済みの馬の脾臓 [5])
+(trillion cut yellow grossulars)	(トリリアントカットの黄グロッシュラー)
+(-goblin-cap bucket-)	(-ゴブリンキャップのバケツ-)
+(-alpaca wool sock-)	(-アルパカの羊毛の靴下-)
+(bismuth bronze mail shirt)	(ビスマス青銅の鎖帷子)
+(Cloth Bin (birchen))	(布の収納箱（カバノキ材）)
+(pig tail cloak)	(ピッグテイルの外套)
+(-«-cave spider silk rope-»-)	(-«-洞窟グモの絹のロープ-»-)
+(giant cave swallow meat [5])	(巨大ドウクツツバメの肉 [5])
+(platinum bars)	(白金の延べ棒)
+(«+spore tree barrel+»)	(«+胞子の木の樽+»)
+(+alpaca wool rope+)	(+アルパカの羊毛のロープ+)
+(dolomite blocks)	(苦灰岩のブロック)
+(+copper helm+)	(+銅の兜+)
+(steel anvil)	(鋼の金床)
+(-dingo leather waterskin-)	(-ディンゴの革の水袋-)
+(Cloth Bin (bayberry wood))	(布の収納箱（ヤマモモ材）)
+(copper bars)	(銅の延べ棒)
+(black bear leather quiver)	(クロクマの革の矢筒)
+(dwarven rum Barrel (persimmon wood))	(ドワーフのラム酒の樽（柿材）)
+(«-large cushion cut kunzite-»)	(«-大きなクッションカットのクンツァイト-»)
+(-bismuth bronze low boot-)	(-ビスマス青銅のローブーツ-)
+(-«bronze cap»-)	(-«青銅の帽子»-)
+(alpaca cheese [5])	(アルパカチーズ [5])
+(-apple wood training axe-)	(-リンゴ材の訓練用斧-)
+(-llama wool rope-)	(-ラマの羊毛のロープ-)
+(cave fish, ♀ [5])	(洞窟魚, ♀ [5])
+(sheep tripe [5])	(羊の胃袋 [5])
+(+bismuth bronze toy boat+)	(+ビスマス青銅のおもちゃの船+)
+(-bismuth bronze pick-)	(-ビスマス青銅のつるはし-)
+(«-blood thorn crutch-»)	(«-ブラッドソーンの松葉杖-»)
+(raw crystal glass)	(生の水晶ガラス)
+(«-pine barrel-»)	(«-松の樽-»)
+(giant cave spider silk cloak)	(巨大洞窟グモの絹の外套)
+(giant cave spider silk sock)	(巨大洞窟グモの絹の靴下)
+(-«giant cave spider silk vest»-)	(-«巨大洞窟グモの絹のベスト»-)
+(-bismuth bronze high boot-)	(-ビスマス青銅のハイブーツ-)
+(white sand Bag (alpaca wool))	(白砂の袋（アルパカの羊毛）)
+(-«bronze crossbow»-)	(-«青銅のクロスボウ»-)
+(pond grabber leather waterskin)	(ポンドグラバーの革の水袋)
+(prepared dingo kidney [5])	(調理済みのディンゴの腎臓 [5])
+(bronze crossbow)	(青銅のクロスボウ)
+(*steel pick*)	(*鋼のつるはし*)
+(+«-llama wool sock-»+)	(+«-ラマの羊毛の靴下-»+)
+(cave lobster, ♀ [5])	(洞窟ロブスター, ♀ [5])
+(-cave spider silk shoe-)	(-洞窟グモの絹の靴-)
+(steel greaves)	(鋼のすね当て)
+(pig tail dress)	(ピッグテイルのドレス)
+(«menacing copper spike»)	(«威嚇する銅のスパイク»)
+(-«-mule leather quiver-»-)	(-«-ラバの革の矢筒-»-)
+(-«bismuth bronze puzzlebox»-)	(-«ビスマス青銅のパズル箱»-)
+(«-green glass rintor-»)	(«-green glass rintor-»)
+(-«ginkgo wood chest»-)	(-«イチョウ材の宝箱»-)
+(-bronze crossbow-)	(-青銅のクロスボウ-)
+(Cloth Bin (almond wood))	(布の収納箱（アーモンド材）)
+(+copper cap+)	(+銅の帽子+)
+(goblin-cap)	(ゴブリンキャップ)
+(pine)	(松)
+(alpaca leather backpack)	(アルパカの革の背嚢)
+(silty clay)	(シルト質粘土)
+(+cougar leather bag+)	(+ピューマの革の袋+)
+(table cut bone opals)	(テーブルカットのボーンオパール)
+(-peach wood bucket-)	(-桃材のバケツ-)
+(-«almond wood training sword»-)	(-«アーモンド材の訓練用短剣»-)
+(chopped giant olm liver [5])	(刻んだ巨大ホライモリのレバー [5])
+(-«giant cave spider silk rope»-)	(-«巨大洞窟グモの絹のロープ»-)
+(+tin cage+)	(+錫の檻+)
+(cave spider silk thread)	(洞窟グモの絹の糸)
+(donkey cheese [5])	(ロバチーズ [5])
+(-nether-cap crutch-)	(-ネザーキャップの松葉杖-)
+(-«-bismuth bronze short sword-»-)	(-«-ビスマス青銅の短剣-»-)
+(drunian sweetbread [5])	(ドルーニアンの胸腺 [5])
+(quarry bush leaves [5])	(クァリーブッシュ葉 [5])
+(blood thorn)	(ブラッドソーン)
+(peach wood)	(桃材)
+(almond wood)	(アーモンド材)
+(«large rat leather backpack»)	(«大鼠の革の背嚢»)
+(lettuce leaves [5])	(レタス葉 [5])
+(goose parchment sheet)	(ガチョウの羊皮紙の紙)
+(white sand Bag (sheep wool))	(白砂の袋（羊の羊毛）)
+(«alpaca wool tunic»)	(«アルパカの羊毛のチュニック»)
+(prepared crundle lung [5])	(調理済みのクランドルの肺 [5])
+(black bronze bars)	(黒青銅の延べ棒)
+(+«-bronze buckler-»+)	(+«-青銅のバックラー-»+)
+(chert blocks)	(チャートのブロック)
+(willow)	(ヤナギ)
+(plum wood)	(スモモ材)
+(fungiwood)	(フンギウッド)
+(pond grabber parchment sheet)	(ポンドグラバーの羊皮紙の紙)
+(llama wool bag)	(ラマの羊毛の袋)
+(-«pig tail bag»-)	(-«ピッグテイルの袋»-)
+(*zinc cage*)	(*亜鉛の檻*)
+(-alpaca wool loincloth-)	(-アルパカの羊毛の腰布-)
+(bitter vetch leaves [5])	(ビターベッチ葉 [5])
+(-crystal glass rintor-)	(-crystal glass rintor-)
+(persimmon wood)	(柿材)
+(spore tree)	(胞子の木)
+(horse cheese [5])	(馬のチーズ [5])
+(apple wood)	(リンゴ材)
+(anhydrite blocks)	(硬石膏のブロック)
+(muskmelons [5])	(マスクメロン [5])
+(+pig tail left glove+)	(+ピッグテイルの左の手袋+)
+(+pig tail right glove+)	(+ピッグテイルの右の手袋+)
+(llama wool yarn)	(ラマの羊毛の毛糸)
+(prepared water buffalo kidney [5])	(調理済みの水牛の腎臓 [5])
+(pond turtle, ♀ [5])	(ヨーロッパヌマガメ, ♀ [5])
+(prepared elk bird spleen [5])	(調理済みのエルクバードの脾臓 [5])
+(raspberries [5])	(ラズベリー [5])
+(prepared giant earthworm intestines [5])	(調理済みの巨大ミミズの腸 [5])
+(garden cress leaves [5])	(ガーデンクレス葉 [5])
+There is nothing to catch in the central swamps.	中央の湿地には獲れるものが何もない。
+The weather has cleared.	天気が回復しました。
+It has started raining.	雨が降り始めた。
+An animal has grown to become a Stray Yak Bull.	動物が成長して野良ヤク（雄）になった。
+It is now summer.	夏になった。
+Some migrants have arrived.	移民が到着しました。
+Autumn has come.	秋が来ました。
+A human caravan from Iclopesor has arrived.  Overall trade sentiments are terrible.	Iclopesorからの人間のキャラバンが到着した。交易の雰囲気は全体として最悪だ。
+The outpost liaison Datan Mörulamud from Zasit Vudthar has arrived.	Zasit Vudtharの前哨地連絡官Datan Mörulamudが到着した。
+The merchants need a trade depot to unload their goods.	商人が荷物を降ろすには交易所が必要です。
+Stray Yak Cow (Tame) has given birth to a yak calf.	Stray Yak Cow (Tame)がヤクの子を産んだ。
+An animal has grown to become a Stray Reindeer Bull.	動物が成長して野良トナカイ（雄）になった。
+The merchants from Iclopesor will be leaving soon.	Iclopesorの商人たちはまもなく発つ。
+The merchants from Zasit Vudthar will be leaving soon.	Zasit Vudtharの商人たちはまもなく発つ。
+A diplomat could not complete a meeting and has left unhappy.	外交官は会談を終えられず、不満を抱いて去りました。
+The merchants from Iclopesor have embarked on their journey.	Iclopesorの商人たちは帰路についた。
+The merchants from Zasit Vudthar have embarked on their journey.	Zasit Vudtharの商人たちは帰路についた。
+A caravan from Zasit Vudthar has arrived.  Overall trade sentiments are lukewarm.	Zasit Vudtharからのキャラバンが到着した。交易の雰囲気は全体として生ぬるい。
+A elven caravan from Ola Cili has arrived.  Overall trade sentiments are cautious.	Ola Ciliからのエルフのキャラバンが到着した。交易の雰囲気は全体として慎重だ。
+Asob Saziratol, Stray Cat (Tame) has adopted Ingish Atulstâkud, Woodcrafter.	Asob Saziratol, Stray Cat (Tame)がIngish Atulstâkud、木工職人になついた。
+A snow storm has come.	吹雪がやって来た。
+Winter is upon you.	冬が訪れました。
+The merchants from Ola Cili will be leaving soon.	Ola Ciliの商人たちはまもなく発つ。
+The merchants from Ola Cili have embarked on their journey.	Ola Ciliの商人たちは帰路についた。
+Imush Melbilsulus, Miner cancels Construct building: Needs 3 building material non-economic items.	Imush Melbilsulus、鉱夫が「建物を建設」を取り消し:建材になる品物が3個必要。
+The dwarves were unable to complete the Trade Depot.	ドワーフたちは交易所を完成させられなかった。
+An animal has grown to become a Stray Cat.	動物が成長して野良猫になった。
+Merchants have arrived and are unloading their goods.	商人が到着し、荷を降ろしています。
+Kivish Asënkodor "Graveldawn", Metalsmith is taken by a fey mood!	Kivish Asënkodor "Graveldawn"、鍛冶屋は妖精の気分に囚われた！
+Kivish Asënkodor has claimed a Metalsmith's Forge.	Kivish Asënkodorが鍛冶場を占有した。
+Kivish Asënkodor has begun a mysterious construction!	Kivish Asënkodorが謎めいた建造を始めた！
+Kivish Asënkodor, Metalsmith has created Enolrilem, a copper door!  He claims it as a family heirloom.	Kivish Asënkodor、鍛冶屋が銅の扉のEnolrilemを作り上げた！彼はそれを家宝として主張した。
+Kivish Asënkodor has become a Blacksmith.	Kivish Asënkodorは鍛冶師になった。
+Chair	椅子
+Bed	ベッド
+Table	テーブル
+Coffin	棺桶
+FarmPlot	FarmPlot
+Furnace	炉
+TradeDepot	TradeDepot
+Shop	店
+Door	扉
+Floodgate	水門
+Box	箱
+Weaponrack	Weaponrack
+Armorstand	Armorstand
+Workshop	工房
+Cabinet	キャビネット
+Statue	彫像
+WindowGlass	WindowGlass
+WindowGem	WindowGem
+Well	井戸
+Bridge	橋
+RoadDirt	RoadDirt
+RoadPaved	RoadPaved
+SiegeEngine	SiegeEngine
+Trap	罠
+AnimalTrap	AnimalTrap
+Support	支柱
+ArcheryTarget	ArcheryTarget
+Chain	鎖
+Cage	檻
+Stockpile	倉庫
+Civzone	Civzone
+Weapon	武器
+Wagon	荷馬車
+ScrewPump	ScrewPump
+Construction	建設
+Hatch	ハッチ
+GrateWall	GrateWall
+GrateFloor	GrateFloor
+BarsVertical	BarsVertical
+BarsFloor	BarsFloor
+GearAssembly	GearAssembly
+AxleHorizontal	AxleHorizontal
+AxleVertical	AxleVertical
+WaterWheel	WaterWheel
+Windmill	風車
+TractionBench	TractionBench
+Slab	平板
+Nest	巣
+NestBox	NestBox
+Hive	巣箱
+Rollers	ローラー
+Instrument	楽器
+Bookcase	本棚
+DisplayFurniture	DisplayFurniture
+OfferingPlace	OfferingPlace

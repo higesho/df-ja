@@ -1,0 +1,170 @@
+# 邪神の信徒の称号を飾る語（mythical.lua の mythical_adjectives）。英語<TAB>位置<TAB>日本語
+# 位置は before（称号の前）か after（称号の後ろ）。日本語はどちらも「{語}の{称号}」に組み立てる
+bark	before	樹皮
+below	after	下界
+blue	before	青
+bone	before	骨
+bright	before	光輝
+brine	before	塩水
+bronze	before	青銅
+cave	before	洞穴
+cavern	before	洞窟
+chaos	before	混沌
+cloud	before	雲
+crescent	before	三日月
+crystal	before	水晶
+dark	before	暗闇
+dawn	before	夜明け
+day	before	日
+death	before	死
+deep	before	深淵
+dread	before	戦慄
+dream	before	夢
+earth	before	大地
+fear	before	恐怖
+fire	before	火
+flame	before	炎
+flowing	before	流水
+foam	before	泡
+fog	before	霧
+forest	before	森
+gale	before	疾風
+gem	before	宝石
+golden	before	黄金
+grass	before	草
+grave	before	墓
+hidden	before	秘密
+hurricane	before	暴風
+ice	before	氷
+inferno	before	業火
+iron	before	鉄
+jewel	before	宝石
+lava	before	溶岩
+leaf	before	葉
+light	before	光
+lightning	before	稲妻
+lunar	before	太陰
+maelstrom	before	渦潮
+magma	before	マグマ
+marsh	before	湿地
+metal	before	金属
+mist	before	霧
+moon	before	月
+morning	before	朝
+mountain	before	山
+muck	before	泥
+mud	after	泥
+nightmare	before	悪夢
+noon	before	正午
+ocean	before	海洋
+of bark	after	樹皮
+of bones	after	骨
+of branches	after	枝
+of brine	after	塩水
+of bronze	after	青銅
+of change	after	変化
+of chaos	after	混沌
+of clouds	after	雲
+of crystal	after	水晶
+of crystals	after	水晶
+of darkness	after	闇
+of dawn	after	夜明け
+of death	after	死
+of dread	after	戦慄
+of dreams	after	夢
+of earth	after	大地
+of eruptions	after	噴火
+of fear	after	恐怖
+of fire	after	火
+of flames	after	炎
+of foam	after	泡
+of fog	after	霧
+of forests	after	森
+of gales	after	疾風
+of gems	after	宝石
+of gold	after	金
+of grasses	after	草
+of ice	after	氷
+of iron	after	鉄
+of jewels	after	宝石
+of lava	after	溶岩
+of leaves	after	葉
+of light	after	光
+of lightning	after	稲妻
+of magma	after	マグマ
+of metal	after	金属
+of mist	after	霧
+of nightmares	after	悪夢
+of noon	after	正午
+of oceans	after	海洋
+of rains	after	雨
+of root	after	根
+of salt	after	塩
+of seas	after	海
+of shadow	after	影
+of silver	after	銀
+of sleep	after	眠り
+of stars	after	星
+of steel	after	鋼
+of stone	after	石
+of storms	after	嵐
+of terror	after	恐怖
+of the clouds	after	雲
+of the dawn	after	夜明け
+of the eclipse	after	日食
+of the forest	after	森
+of the gale	after	疾風
+of the grave	after	墓
+of the heights	after	高峰
+of the marsh	after	湿地
+of the moon	after	月
+of the mountain	after	山
+of the mud	after	泥
+of the noon	after	正午
+of the ocean	after	海洋
+of the peak	after	山頂
+of the rain	after	雨
+of the sea	after	海
+of the sky	after	空
+of the stars	after	星
+of the storm	after	嵐
+of the sun	after	太陽
+of the swamp	after	沼
+of the tide	after	潮
+of the trees	after	木
+of the waters	after	水
+of the wind	after	風
+of tides	after	潮
+of trees	after	木
+of volcanoes	after	火山
+of water	after	水
+of wind	after	風
+peak	before	山頂
+rain	before	雨
+ridge	before	尾根
+root	before	根
+salt	before	塩
+sea	before	海
+shadow	before	影
+shining	before	輝き
+shrouded	before	幽玄
+silver	before	銀
+sky	before	空
+sleeping	before	眠り
+star	before	星
+steel	before	鋼
+stone	before	石
+storm	before	嵐
+summit	before	山頂
+sun	before	太陽
+swamp	before	沼
+terror	before	恐怖
+tidal	before	潮汐
+tornado	before	竜巻
+tree	before	木
+tunnel	before	坑道
+under	before	地下
+verdant	before	緑
+volcano	before	火山
+water	before	水
+wind	before	風

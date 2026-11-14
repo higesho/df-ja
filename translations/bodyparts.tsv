@@ -1,0 +1,620 @@
+# 体の部位の名前（raw の [BP:..:名前:複数形]）
+abdomen	腹部
+Abdomen	腹部
+beak	くちばし
+Beak	くちばし
+bill	くちばし
+Bill	くちばし
+casque	かぶと状突起
+Casque	かぶと状突起
+center eye	中央の目
+Center eye	中央の目
+center eyelid	中央のまぶた
+Center eyelid	中央のまぶた
+center tail	中央の尾
+Center tail	中央の尾
+cephalothorax	頭胸部
+Cephalothorax	頭胸部
+dorsal fin	背びれ
+Dorsal fin	背びれ
+eighth arm	第8の腕
+Eighth arm	第8の腕
+eye	目
+Eye	目
+eyelid	まぶた
+Eyelid	まぶた
+fifth arm	第5の腕
+Fifth arm	第5の腕
+fifth eye	第5の目
+Fifth eye	第5の目
+fifth finger	第5指
+Fifth finger	第5指
+fifth head	第5の頭
+Fifth head	第5の頭
+fifth left finger	左の第5指
+Fifth left finger	左の第5指
+fifth left front toe	左の第5前足指
+Fifth left front toe	左の第5前足指
+fifth left rear toe	左の第5後足指
+Fifth left rear toe	左の第5後足指
+fifth left toe	左の第5足指
+Fifth left toe	左の第5足指
+fifth neck	第5の首
+Fifth neck	第5の首
+fifth right finger	右の第5指
+Fifth right finger	右の第5指
+fifth right front toe	右の第5前足指
+Fifth right front toe	右の第5前足指
+fifth right rear toe	右の第5後足指
+Fifth right rear toe	右の第5後足指
+fifth right toe	右の第5足指
+Fifth right toe	右の第5足指
+fifth toe	第5足指
+Fifth toe	第5足指
+finger	指
+Finger	指
+first arm	第1の腕
+First arm	第1の腕
+first eye	第1の目
+First eye	第1の目
+first finger	第1指
+First finger	第1指
+first head	第1の頭
+First head	第1の頭
+first horn	第1の角
+First horn	第1の角
+first left finger	左の第1指
+First left finger	左の第1指
+first left front toe	左の第1前足指
+First left front toe	左の第1前足指
+first left hand	左の第1手
+First left hand	左の第1手
+first left lower arm	左の第1前腕
+First left lower arm	左の第1前腕
+first left rear toe	左の第1後足指
+First left rear toe	左の第1後足指
+first left toe	左の第1足指
+First left toe	左の第1足指
+first left upper arm	左の第1上腕
+First left upper arm	左の第1上腕
+first neck	第1の首
+First neck	第1の首
+first right finger	右の第1指
+First right finger	右の第1指
+first right front toe	右の第1前足指
+First right front toe	右の第1前足指
+first right hand	右の第1手
+First right hand	右の第1手
+first right lower arm	右の第1前腕
+First right lower arm	右の第1前腕
+first right rear toe	右の第1後足指
+First right rear toe	右の第1後足指
+first right toe	右の第1足指
+First right toe	右の第1足指
+first right upper arm	右の第1上腕
+First right upper arm	右の第1上腕
+first toe	第1足指
+First toe	第1足指
+forked tongue	二股の舌
+Forked tongue	二股の舌
+fourth arm	第4の腕
+Fourth arm	第4の腕
+fourth eye	第4の目
+Fourth eye	第4の目
+fourth finger	第4指
+Fourth finger	第4指
+fourth head	第4の頭
+Fourth head	第4の頭
+fourth horn	第4の角
+Fourth horn	第4の角
+fourth left finger	左の第4指
+Fourth left finger	左の第4指
+fourth left front toe	左の第4前足指
+Fourth left front toe	左の第4前足指
+fourth left rear toe	左の第4後足指
+Fourth left rear toe	左の第4後足指
+fourth left toe	左の第4足指
+Fourth left toe	左の第4足指
+fourth neck	第4の首
+Fourth neck	第4の首
+fourth right finger	右の第4指
+Fourth right finger	右の第4指
+fourth right front toe	右の第4前足指
+Fourth right front toe	右の第4前足指
+fourth right rear toe	右の第4後足指
+Fourth right rear toe	右の第4後足指
+fourth right toe	右の第4足指
+Fourth right toe	右の第4足指
+fourth toe	第4足指
+Fourth toe	第4足指
+front	前部
+Front	前部
+front horn	前の角
+Front horn	前の角
+front hump	前のこぶ
+Front hump	前のこぶ
+gizzard	砂嚢
+Gizzard	砂嚢
+head sclerite	頭部硬化板
+Head sclerite	頭部硬化板
+heart	心臓
+Heart	心臓
+left ankle	左足首
+Left ankle	左足首
+left antenna	左触角
+Left antenna	左触角
+left antler	左枝角
+Left antler	左枝角
+left arm	左腕
+Left arm	左腕
+left cheek	左頬
+Left cheek	左頬
+left claw	左爪
+Left claw	左爪
+left ear	左耳
+Left ear	左耳
+left elbow	左肘
+Left elbow	左肘
+left eye	左目
+Left eye	左目
+left eye tooth	左の犬歯
+Left eye tooth	左の犬歯
+left eyelid	左のまぶた
+Left eyelid	左のまぶた
+left eyestalk	左の眼柄
+Left eyestalk	左の眼柄
+left false rib	左の偽肋
+Left false rib	左の偽肋
+left fang	左の毒牙
+Left fang	左の毒牙
+left fifth foot	左の第5足
+Left fifth foot	左の第5足
+left fifth leg	左の第5脚
+Left fifth leg	左の第5脚
+left fin	左ひれ
+Left fin	左ひれ
+left first foot	左の第1足
+Left first foot	左の第1足
+left first leg	左の第1脚
+Left first leg	左の第1脚
+left flipper	左鰭状肢
+Left flipper	左鰭状肢
+left floating rib	左の浮遊肋
+Left floating rib	左の浮遊肋
+left foot	左足
+Left foot	左足
+left forefoot	左前足
+Left forefoot	左前足
+left fourth foot	左の第4足
+Left fourth foot	左の第4足
+left fourth leg	左の第4脚
+Left fourth leg	左の第4脚
+left front fin	左前びれ
+Left front fin	左前びれ
+left front flipper	左前鰭状肢
+Left front flipper	左前鰭状肢
+left front foot	左前足
+Left front foot	左前足
+left front hoof	左前蹄
+Left front hoof	左前蹄
+left front leg	左前脚
+Left front leg	左前脚
+left front wheel	左前輪
+Left front wheel	左前輪
+left frontal appendage	左の前付属肢
+Left frontal appendage	左の前付属肢
+left frontal endite	左の前内肢
+Left frontal endite	左の前内肢
+left hand	左手
+Left hand	左手
+left head	左の頭
+Left head	左の頭
+left hip	左腰
+Left hip	左腰
+left hoof	左蹄
+Left hoof	左蹄
+left horn	左角
+Left horn	左角
+left kidney	左腎臓
+Left kidney	左腎臓
+left knee	左膝
+Left knee	左膝
+left leg	左脚
+Left leg	左脚
+left lower arm	左前腕
+Left lower arm	左前腕
+left lower claw	左下爪
+Left lower claw	左下爪
+left lower foreleg	左下前脚
+Left lower foreleg	左下前脚
+left lower horn	左下の角
+Left lower horn	左下の角
+left lower incisor	左下の門歯
+Left lower incisor	左下の門歯
+left lower leg	左下脚
+Left lower leg	左下脚
+left lower tentacle	左下の触手
+Left lower tentacle	左下の触手
+left lung	左肺
+Left lung	左肺
+left mandible	左の大顎
+Left mandible	左の大顎
+left middle claw	左中央爪
+Left middle claw	左中央爪
+left middle tentacle	左中央の触手
+Left middle tentacle	左中央の触手
+left neck	左の首
+Left neck	左の首
+left pincer	左のはさみ
+Left pincer	左のはさみ
+left rear fin	左後びれ
+Left rear fin	左後びれ
+left rear flipper	左後鰭状肢
+Left rear flipper	左後鰭状肢
+left rear foot	左後足
+Left rear foot	左後足
+left rear hoof	左後蹄
+Left rear hoof	左後蹄
+left rear leg	左後脚
+Left rear leg	左後脚
+left rear wheel	左後輪
+Left rear wheel	左後輪
+left second foot	左の第2足
+Left second foot	左の第2足
+left second leg	左の第2脚
+Left second leg	左の第2脚
+left shoulder spine	左の肩棘
+Left shoulder spine	左の肩棘
+left tail	左尾
+Left tail	左尾
+left tentacle	左触手
+Left tentacle	左触手
+left tentacle club	左の触棍
+Left tentacle club	左の触棍
+left third foot	左の第3足
+Left third foot	左の第3足
+left third leg	左の第3脚
+Left third leg	左の第3脚
+left tooth	左の歯
+Left tooth	左の歯
+left true rib	左の真肋
+Left true rib	左の真肋
+left tusk	左の牙
+Left tusk	左の牙
+left upper arm	左上腕
+Left upper arm	左上腕
+left upper claw	左上爪
+Left upper claw	左上爪
+left upper foreleg	左上前脚
+Left upper foreleg	左上前脚
+left upper horn	左上の角
+Left upper horn	左上の角
+left upper incisor	左上の門歯
+Left upper incisor	左上の門歯
+left upper leg	左上脚
+Left upper leg	左上脚
+left upper tentacle	左上の触手
+Left upper tentacle	左上の触手
+left wing	左翼
+Left wing	左翼
+left wrist	左手首
+Left wrist	左手首
+liver	肝臓
+Liver	肝臓
+lower body	下半身
+Lower body	下半身
+lower carapace	下甲
+Lower carapace	下甲
+lower front tooth	下の前歯
+Lower front tooth	下の前歯
+lower left back tooth	左下の奥歯
+Lower left back tooth	左下の奥歯
+lower lip	下唇
+Lower lip	下唇
+lower right back tooth	右下の奥歯
+Lower right back tooth	右下の奥歯
+lower spine	下部脊椎
+Lower spine	下部脊椎
+middle spine	中部脊椎
+Middle spine	中部脊椎
+mouth	口
+Mouth	口
+neck	首
+Neck	首
+pancreas	膵臓
+Pancreas	膵臓
+proboscis	吻
+Proboscis	吻
+rear hump	後ろのこぶ
+Rear hump	後ろのこぶ
+right ankle	右足首
+Right ankle	右足首
+right antenna	右触角
+Right antenna	右触角
+right antler	右枝角
+Right antler	右枝角
+right arm	右腕
+Right arm	右腕
+right cheek	右頬
+Right cheek	右頬
+right claw	右爪
+Right claw	右爪
+right ear	右耳
+Right ear	右耳
+right elbow	右肘
+Right elbow	右肘
+right eye	右目
+Right eye	右目
+right eye tooth	右の犬歯
+Right eye tooth	右の犬歯
+right eyelid	右のまぶた
+Right eyelid	右のまぶた
+right eyestalk	右の眼柄
+Right eyestalk	右の眼柄
+right false rib	右の偽肋
+Right false rib	右の偽肋
+right fang	右の毒牙
+Right fang	右の毒牙
+right fifth foot	右の第5足
+Right fifth foot	右の第5足
+right fifth leg	右の第5脚
+Right fifth leg	右の第5脚
+right fin	右ひれ
+Right fin	右ひれ
+right first foot	右の第1足
+Right first foot	右の第1足
+right first leg	右の第1脚
+Right first leg	右の第1脚
+right flipper	右鰭状肢
+Right flipper	右鰭状肢
+right floating rib	右の浮遊肋
+Right floating rib	右の浮遊肋
+right foot	右足
+Right foot	右足
+right forefoot	右前足
+Right forefoot	右前足
+right fourth foot	右の第4足
+Right fourth foot	右の第4足
+right fourth leg	右の第4脚
+Right fourth leg	右の第4脚
+right front fin	右前びれ
+Right front fin	右前びれ
+right front flipper	右前鰭状肢
+Right front flipper	右前鰭状肢
+right front foot	右前足
+Right front foot	右前足
+right front hoof	右前蹄
+Right front hoof	右前蹄
+right front leg	右前脚
+Right front leg	右前脚
+right front wheel	右前輪
+Right front wheel	右前輪
+right frontal appendage	右の前付属肢
+Right frontal appendage	右の前付属肢
+right frontal endite	右の前内肢
+Right frontal endite	右の前内肢
+right hand	右手
+Right hand	右手
+right head	右の頭
+Right head	右の頭
+right hip	右腰
+Right hip	右腰
+right hoof	右蹄
+Right hoof	右蹄
+right horn	右角
+Right horn	右角
+right kidney	右腎臓
+Right kidney	右腎臓
+right knee	右膝
+Right knee	右膝
+right leg	右脚
+Right leg	右脚
+right lower arm	右前腕
+Right lower arm	右前腕
+right lower claw	右下爪
+Right lower claw	右下爪
+right lower foreleg	右下前脚
+Right lower foreleg	右下前脚
+right lower horn	右下の角
+Right lower horn	右下の角
+right lower incisor	右下の門歯
+Right lower incisor	右下の門歯
+right lower leg	右下脚
+Right lower leg	右下脚
+right lower tentacle	右下の触手
+Right lower tentacle	右下の触手
+right lung	右肺
+Right lung	右肺
+right mandible	右の大顎
+Right mandible	右の大顎
+right middle claw	右中央爪
+Right middle claw	右中央爪
+right middle tentacle	右中央の触手
+Right middle tentacle	右中央の触手
+right neck	右の首
+Right neck	右の首
+right pincer	右のはさみ
+Right pincer	右のはさみ
+right rear fin	右後びれ
+Right rear fin	右後びれ
+right rear flipper	右後鰭状肢
+Right rear flipper	右後鰭状肢
+right rear foot	右後足
+Right rear foot	右後足
+right rear hoof	右後蹄
+Right rear hoof	右後蹄
+right rear leg	右後脚
+Right rear leg	右後脚
+right rear wheel	右後輪
+Right rear wheel	右後輪
+right second foot	右の第2足
+Right second foot	右の第2足
+right second leg	右の第2脚
+Right second leg	右の第2脚
+right shoulder spine	右の肩棘
+Right shoulder spine	右の肩棘
+right tail	右尾
+Right tail	右尾
+right tentacle	右触手
+Right tentacle	右触手
+right tentacle club	右の触棍
+Right tentacle club	右の触棍
+right third foot	右の第3足
+Right third foot	右の第3足
+right third leg	右の第3脚
+Right third leg	右の第3脚
+right tooth	右の歯
+Right tooth	右の歯
+right true rib	右の真肋
+Right true rib	右の真肋
+right tusk	右の牙
+Right tusk	右の牙
+right upper arm	右上腕
+Right upper arm	右上腕
+right upper claw	右上爪
+Right upper claw	右上爪
+right upper foreleg	右上前脚
+Right upper foreleg	右上前脚
+right upper horn	右上の角
+Right upper horn	右上の角
+right upper incisor	右上の門歯
+Right upper incisor	右上の門歯
+right upper leg	右上脚
+Right upper leg	右上脚
+right upper tentacle	右上の触手
+Right upper tentacle	右上の触手
+right wing	右翼
+Right wing	右翼
+right wrist	右手首
+Right wrist	右手首
+second arm	第2の腕
+Second arm	第2の腕
+second eye	第2の目
+Second eye	第2の目
+second finger	第2指
+Second finger	第2指
+second head	第2の頭
+Second head	第2の頭
+second horn	第2の角
+Second horn	第2の角
+second left finger	左の第2指
+Second left finger	左の第2指
+second left front toe	左の第2前足指
+Second left front toe	左の第2前足指
+second left hand	左の第2手
+Second left hand	左の第2手
+second left lower arm	左の第2前腕
+Second left lower arm	左の第2前腕
+second left rear toe	左の第2後足指
+Second left rear toe	左の第2後足指
+second left toe	左の第2足指
+Second left toe	左の第2足指
+second left upper arm	左の第2上腕
+Second left upper arm	左の第2上腕
+second neck	第2の首
+Second neck	第2の首
+second right finger	右の第2指
+Second right finger	右の第2指
+second right front toe	右の第2前足指
+Second right front toe	右の第2前足指
+second right hand	右の第2手
+Second right hand	右の第2手
+second right lower arm	右の第2前腕
+Second right lower arm	右の第2前腕
+second right rear toe	右の第2後足指
+Second right rear toe	右の第2後足指
+second right toe	右の第2足指
+Second right toe	右の第2足指
+second right upper arm	右の第2上腕
+Second right upper arm	右の第2上腕
+second toe	第2足指
+Second toe	第2足指
+seventh arm	第7の腕
+Seventh arm	第7の腕
+seventh head	第7の頭
+Seventh head	第7の頭
+seventh neck	第7の首
+Seventh neck	第7の首
+sixth arm	第6の腕
+Sixth arm	第6の腕
+sixth head	第6の頭
+Sixth head	第6の頭
+sixth neck	第6の首
+Sixth neck	第6の首
+spleen	脾臓
+Spleen	脾臓
+stomach	胃
+Stomach	胃
+tail	尾
+Tail	尾
+thagomizer	尾棘群
+Thagomizer	尾棘群
+third arm	第3の腕
+Third arm	第3の腕
+third eye	第3の目
+Third eye	第3の目
+third finger	第3指
+Third finger	第3指
+third head	第3の頭
+Third head	第3の頭
+third horn	第3の角
+Third horn	第3の角
+third left finger	左の第3指
+Third left finger	左の第3指
+third left front toe	左の第3前足指
+Third left front toe	左の第3前足指
+third left hand	左の第3手
+Third left hand	左の第3手
+third left lower arm	左の第3前腕
+Third left lower arm	左の第3前腕
+third left rear toe	左の第3後足指
+Third left rear toe	左の第3後足指
+third left toe	左の第3足指
+Third left toe	左の第3足指
+third left upper arm	左の第3上腕
+Third left upper arm	左の第3上腕
+third neck	第3の首
+Third neck	第3の首
+third right finger	右の第3指
+Third right finger	右の第3指
+third right front toe	右の第3前足指
+Third right front toe	右の第3前足指
+third right hand	右の第3手
+Third right hand	右の第3手
+third right lower arm	右の第3前腕
+Third right lower arm	右の第3前腕
+third right rear toe	右の第3後足指
+Third right rear toe	右の第3後足指
+third right toe	右の第3足指
+Third right toe	右の第3足指
+third right upper arm	右の第3上腕
+Third right upper arm	右の第3上腕
+third toe	第3足指
+Third toe	第3足指
+thorax	胸部
+Thorax	胸部
+throat	喉
+Throat	喉
+thumb	親指
+Thumb	親指
+tongue	舌
+Tongue	舌
+trunk	鼻
+Trunk	鼻
+tusk	牙
+Tusk	牙
+upper body	上半身
+Upper body	上半身
+upper carapace	上甲
+Upper carapace	上甲
+upper front tooth	上の前歯
+Upper front tooth	上の前歯
+upper left back tooth	左上の奥歯
+Upper left back tooth	左上の奥歯
+upper lip	上唇
+Upper lip	上唇
+upper right back tooth	右上の奥歯
+Upper right back tooth	右上の奥歯
+upper spine	上部脊椎
+Upper spine	上部脊椎
+Head	頭

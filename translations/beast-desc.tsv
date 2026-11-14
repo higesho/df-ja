@@ -1,0 +1,414 @@
+# 怪物の見た目の説明文の文テンプレート（tools/beast_desc_templates.py が作る）
+manual	core	A {1} composed of {2}.	{2}でできた{1}。
+manual	core	A {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ{1}。
+manual	core	A {1} with lidless eyes.	まぶたのない目を持つ{1}。
+manual	core	A {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ{1}。
+manual	core	A {1} with external ribs.	外に露出した肋骨を持つ{1}。
+manual	core	A {1} in humanoid form composed of {2}.	{2}でできた人の形をした{1}。
+manual	core	A {1} in humanoid form.	人の形をした{1}。
+manual	core	A {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした{1}。
+manual	core	A {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした{1}。
+manual	core	A {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした{1}。
+manual	core	A {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした{1}。
+manual	core	A {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした{1}。
+manual	core	A {1} twisted into humanoid form.	歪んだ人の姿をした{1}。
+manual	core	A {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした{1}。
+manual	core	A {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした{1}。
+manual	core	A {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした{1}。
+manual	core	A {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした{1}。
+manual	core	A great {1} composed of {2}.	{2}でできた巨大な{1}。
+manual	core	A great {1}.	巨大な{1}。
+manual	core	A great {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ巨大な{1}。
+manual	core	A great {1} with lidless eyes.	まぶたのない目を持つ巨大な{1}。
+manual	core	A great {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ巨大な{1}。
+manual	core	A great {1} with external ribs.	外に露出した肋骨を持つ巨大な{1}。
+manual	core	A great {1} in humanoid form composed of {2}.	{2}でできた人の形をした巨大な{1}。
+manual	core	A great {1} in humanoid form.	人の形をした巨大な{1}。
+manual	core	A great {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした巨大な{1}。
+manual	core	A great {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした巨大な{1}。
+manual	core	A great {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした巨大な{1}。
+manual	core	A great {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした巨大な{1}。
+manual	core	A great {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした巨大な{1}。
+manual	core	A great {1} twisted into humanoid form.	歪んだ人の姿をした巨大な{1}。
+manual	core	A great {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A great {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A great {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A great {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A gigantic {1} composed of {2}.	{2}でできた途方もなく巨大な{1}。
+manual	core	A gigantic {1}.	途方もなく巨大な{1}。
+manual	core	A gigantic {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ途方もなく巨大な{1}。
+manual	core	A gigantic {1} with lidless eyes.	まぶたのない目を持つ途方もなく巨大な{1}。
+manual	core	A gigantic {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ途方もなく巨大な{1}。
+manual	core	A gigantic {1} with external ribs.	外に露出した肋骨を持つ途方もなく巨大な{1}。
+manual	core	A gigantic {1} in humanoid form composed of {2}.	{2}でできた人の形をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} in humanoid form.	人の形をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} twisted into humanoid form.	歪んだ人の姿をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした途方もなく巨大な{1}。
+manual	core	A gigantic {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした途方もなく巨大な{1}。
+manual	core	A towering {1} composed of {2}.	{2}でできたそびえ立つような{1}。
+manual	core	A towering {1}.	そびえ立つような{1}。
+manual	core	A towering {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つそびえ立つような{1}。
+manual	core	A towering {1} with lidless eyes.	まぶたのない目を持つそびえ立つような{1}。
+manual	core	A towering {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つそびえ立つような{1}。
+manual	core	A towering {1} with external ribs.	外に露出した肋骨を持つそびえ立つような{1}。
+manual	core	A towering {1} in humanoid form composed of {2}.	{2}でできた人の形をしたそびえ立つような{1}。
+manual	core	A towering {1} in humanoid form.	人の形をしたそびえ立つような{1}。
+manual	core	A towering {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をしたそびえ立つような{1}。
+manual	core	A towering {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をしたそびえ立つような{1}。
+manual	core	A towering {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をしたそびえ立つような{1}。
+manual	core	A towering {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をしたそびえ立つような{1}。
+manual	core	A towering {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をしたそびえ立つような{1}。
+manual	core	A towering {1} twisted into humanoid form.	歪んだ人の姿をしたそびえ立つような{1}。
+manual	core	A towering {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をしたそびえ立つような{1}。
+manual	core	A towering {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をしたそびえ立つような{1}。
+manual	core	A towering {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をしたそびえ立つような{1}。
+manual	core	A towering {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をしたそびえ立つような{1}。
+manual	core	An enormous {1} composed of {2}.	{2}でできた途方もなく大きな{1}。
+manual	core	An enormous {1}.	途方もなく大きな{1}。
+manual	core	An enormous {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ途方もなく大きな{1}。
+manual	core	An enormous {1} with lidless eyes.	まぶたのない目を持つ途方もなく大きな{1}。
+manual	core	An enormous {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ途方もなく大きな{1}。
+manual	core	An enormous {1} with external ribs.	外に露出した肋骨を持つ途方もなく大きな{1}。
+manual	core	An enormous {1} in humanoid form composed of {2}.	{2}でできた人の形をした途方もなく大きな{1}。
+manual	core	An enormous {1} in humanoid form.	人の形をした途方もなく大きな{1}。
+manual	core	An enormous {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした途方もなく大きな{1}。
+manual	core	An enormous {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした途方もなく大きな{1}。
+manual	core	An enormous {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした途方もなく大きな{1}。
+manual	core	An enormous {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした途方もなく大きな{1}。
+manual	core	An enormous {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした途方もなく大きな{1}。
+manual	core	An enormous {1} twisted into humanoid form.	歪んだ人の姿をした途方もなく大きな{1}。
+manual	core	An enormous {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした途方もなく大きな{1}。
+manual	core	An enormous {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした途方もなく大きな{1}。
+manual	core	An enormous {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした途方もなく大きな{1}。
+manual	core	An enormous {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした途方もなく大きな{1}。
+manual	core	A huge {1} composed of {2}.	{2}でできた巨大な{1}。
+manual	core	A huge {1}.	巨大な{1}。
+manual	core	A huge {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ巨大な{1}。
+manual	core	A huge {1} with lidless eyes.	まぶたのない目を持つ巨大な{1}。
+manual	core	A huge {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ巨大な{1}。
+manual	core	A huge {1} with external ribs.	外に露出した肋骨を持つ巨大な{1}。
+manual	core	A huge {1} in humanoid form composed of {2}.	{2}でできた人の形をした巨大な{1}。
+manual	core	A huge {1} in humanoid form.	人の形をした巨大な{1}。
+manual	core	A huge {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした巨大な{1}。
+manual	core	A huge {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした巨大な{1}。
+manual	core	A huge {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした巨大な{1}。
+manual	core	A huge {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした巨大な{1}。
+manual	core	A huge {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした巨大な{1}。
+manual	core	A huge {1} twisted into humanoid form.	歪んだ人の姿をした巨大な{1}。
+manual	core	A huge {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A huge {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A huge {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A huge {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした巨大な{1}。
+manual	core	A very large {1} composed of {2}.	{2}でできたとても大きな{1}。
+manual	core	A very large {1}.	とても大きな{1}。
+manual	core	A very large {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つとても大きな{1}。
+manual	core	A very large {1} with lidless eyes.	まぶたのない目を持つとても大きな{1}。
+manual	core	A very large {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つとても大きな{1}。
+manual	core	A very large {1} with external ribs.	外に露出した肋骨を持つとても大きな{1}。
+manual	core	A very large {1} in humanoid form composed of {2}.	{2}でできた人の形をしたとても大きな{1}。
+manual	core	A very large {1} in humanoid form.	人の形をしたとても大きな{1}。
+manual	core	A very large {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をしたとても大きな{1}。
+manual	core	A very large {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をしたとても大きな{1}。
+manual	core	A very large {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をしたとても大きな{1}。
+manual	core	A very large {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をしたとても大きな{1}。
+manual	core	A very large {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をしたとても大きな{1}。
+manual	core	A very large {1} twisted into humanoid form.	歪んだ人の姿をしたとても大きな{1}。
+manual	core	A very large {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をしたとても大きな{1}。
+manual	core	A very large {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をしたとても大きな{1}。
+manual	core	A very large {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をしたとても大きな{1}。
+manual	core	A very large {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をしたとても大きな{1}。
+manual	core	A large {1} composed of {2}.	{2}でできた大きな{1}。
+manual	core	A large {1}.	大きな{1}。
+manual	core	A large {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ大きな{1}。
+manual	core	A large {1} with lidless eyes.	まぶたのない目を持つ大きな{1}。
+manual	core	A large {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ大きな{1}。
+manual	core	A large {1} with external ribs.	外に露出した肋骨を持つ大きな{1}。
+manual	core	A large {1} in humanoid form composed of {2}.	{2}でできた人の形をした大きな{1}。
+manual	core	A large {1} in humanoid form.	人の形をした大きな{1}。
+manual	core	A large {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした大きな{1}。
+manual	core	A large {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした大きな{1}。
+manual	core	A large {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした大きな{1}。
+manual	core	A large {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした大きな{1}。
+manual	core	A large {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした大きな{1}。
+manual	core	A large {1} twisted into humanoid form.	歪んだ人の姿をした大きな{1}。
+manual	core	A large {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした大きな{1}。
+manual	core	A large {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした大きな{1}。
+manual	core	A large {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした大きな{1}。
+manual	core	A large {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした大きな{1}。
+manual	core	A very small {1} composed of {2}.	{2}でできたごく小さな{1}。
+manual	core	A very small {1}.	ごく小さな{1}。
+manual	core	A very small {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つごく小さな{1}。
+manual	core	A very small {1} with lidless eyes.	まぶたのない目を持つごく小さな{1}。
+manual	core	A very small {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つごく小さな{1}。
+manual	core	A very small {1} with external ribs.	外に露出した肋骨を持つごく小さな{1}。
+manual	core	A very small {1} in humanoid form composed of {2}.	{2}でできた人の形をしたごく小さな{1}。
+manual	core	A very small {1} in humanoid form.	人の形をしたごく小さな{1}。
+manual	core	A very small {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をしたごく小さな{1}。
+manual	core	A very small {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をしたごく小さな{1}。
+manual	core	A very small {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をしたごく小さな{1}。
+manual	core	A very small {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をしたごく小さな{1}。
+manual	core	A very small {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をしたごく小さな{1}。
+manual	core	A very small {1} twisted into humanoid form.	歪んだ人の姿をしたごく小さな{1}。
+manual	core	A very small {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をしたごく小さな{1}。
+manual	core	A very small {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をしたごく小さな{1}。
+manual	core	A very small {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をしたごく小さな{1}。
+manual	core	A very small {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をしたごく小さな{1}。
+manual	core	A small {1} composed of {2}.	{2}でできた小さな{1}。
+manual	core	A small {1}.	小さな{1}。
+manual	core	A small {1} with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ小さな{1}。
+manual	core	A small {1} with lidless eyes.	まぶたのない目を持つ小さな{1}。
+manual	core	A small {1} with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ小さな{1}。
+manual	core	A small {1} with external ribs.	外に露出した肋骨を持つ小さな{1}。
+manual	core	A small {1} in humanoid form composed of {2}.	{2}でできた人の形をした小さな{1}。
+manual	core	A small {1} in humanoid form.	人の形をした小さな{1}。
+manual	core	A small {1} in humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ人の形をした小さな{1}。
+manual	core	A small {1} in humanoid form with lidless eyes.	まぶたのない目を持つ人の形をした小さな{1}。
+manual	core	A small {1} in humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ人の形をした小さな{1}。
+manual	core	A small {1} in humanoid form with external ribs.	外に露出した肋骨を持つ人の形をした小さな{1}。
+manual	core	A small {1} twisted into humanoid form composed of {2}.	{2}でできた歪んだ人の姿をした小さな{1}。
+manual	core	A small {1} twisted into humanoid form.	歪んだ人の姿をした小さな{1}。
+manual	core	A small {1} twisted into humanoid form with lidless eyes composed of {2}.	{2}でできたまぶたのない目を持つ歪んだ人の姿をした小さな{1}。
+manual	core	A small {1} twisted into humanoid form with lidless eyes.	まぶたのない目を持つ歪んだ人の姿をした小さな{1}。
+manual	core	A small {1} twisted into humanoid form with external ribs composed of {2}.	{2}でできた外に露出した肋骨を持つ歪んだ人の姿をした小さな{1}。
+manual	core	A small {1} twisted into humanoid form with external ribs.	外に露出した肋骨を持つ歪んだ人の姿をした小さな{1}。
+manual	core	It has a proboscis and {1}.	長い口吻があり、{1}。
+manual	core	It has a long, swinging trunk and {1}.	長く揺れる鼻があり、{1}。
+manual	core	It has a short trunk and {1}.	短い鼻があり、{1}。
+manual	core	It has a fat, bulging trunk and {1}.	太く膨らんだ鼻があり、{1}。
+manual	core	It has a twisting, jointed trunk and {1}.	ねじれて節のある鼻があり、{1}。
+manual	core	It has a curling trunk and {1}.	巻き上がった鼻があり、{1}。
+manual	core	It has a knobby trunk and {1}.	こぶだらけの鼻があり、{1}。
+manual	core	It has a round shell and {1}.	丸い甲羅があり、{1}。
+manual	core	It has a spiral shell and {1}.	螺旋状の甲羅があり、{1}。
+manual	core	It has a square shell and {1}.	四角い甲羅があり、{1}。
+manual	core	It has a knobby shell and {1}.	こぶだらけの甲羅があり、{1}。
+manual	core	It has an enormous shell and {1}.	途方もなく大きな甲羅があり、{1}。
+manual	core	It has a broad shell and {1}.	幅広の甲羅があり、{1}。
+manual	core	It has a pair of long antennae and {1}.	一対の長い触角があり、{1}。
+manual	core	It has a pair of fan-like antennae and {1}.	一対の扇状の触角があり、{1}。
+manual	core	It has a pair of spindly antennae and {1}.	一対のひょろ長い触角があり、{1}。
+manual	core	It has a pair of squat antennae and {1}.	一対のずんぐりした触角があり、{1}。
+manual	core	It has a pair of branching antennae and {1}.	一対の枝分かれした触角があり、{1}。
+manual	core	It has a pair of knobby antennae and {1}.	一対のこぶだらけの触角があり、{1}。
+manual	core	It has large mandibles and {1}.	大きな顎があり、{1}。
+manual	core	It has thin wings of stretched skin and {1}.	薄く引き伸ばされた皮膜の翼があり、{1}。
+manual	core	It has wings and {1}.	翼があり、{1}。
+manual	core	It has feathered wings and {1}.	羽毛の生えた翼があり、{1}。
+manual	core	It has lacy wings and {1}.	レースのような翅があり、{1}。
+manual	core	It has two long, spiral  horns and {1}.	二長く螺旋状の角があり、{1}。
+manual	core	It has two long, spiral  horn and {1}.	二長く螺旋状の角があり、{1}。
+manual	core	It has two long, curving  horns and {1}.	二長く湾曲した角があり、{1}。
+manual	core	It has two long, curving  horn and {1}.	二長く湾曲した角があり、{1}。
+manual	core	It has two short  horns and {1}.	二短い角があり、{1}。
+manual	core	It has two short  horn and {1}.	二短い角があり、{1}。
+manual	core	It has two stubby  horns and {1}.	二短く太い角があり、{1}。
+manual	core	It has two stubby  horn and {1}.	二短く太い角があり、{1}。
+manual	core	It has two broad  horns and {1}.	二幅広い角があり、{1}。
+manual	core	It has two broad  horn and {1}.	二幅広い角があり、{1}。
+manual	core	It has two long, straight  horns and {1}.	二長くまっすぐな角があり、{1}。
+manual	core	It has two long, straight  horn and {1}.	二長くまっすぐな角があり、{1}。
+manual	core	It has three long, spiral  horns and {1}.	三長く螺旋状の角があり、{1}。
+manual	core	It has three long, spiral  horn and {1}.	三長く螺旋状の角があり、{1}。
+manual	core	It has three long, curving  horns and {1}.	三長く湾曲した角があり、{1}。
+manual	core	It has three long, curving  horn and {1}.	三長く湾曲した角があり、{1}。
+manual	core	It has three short  horns and {1}.	三短い角があり、{1}。
+manual	core	It has three short  horn and {1}.	三短い角があり、{1}。
+manual	core	It has three stubby  horns and {1}.	三短く太い角があり、{1}。
+manual	core	It has three stubby  horn and {1}.	三短く太い角があり、{1}。
+manual	core	It has three broad  horns and {1}.	三幅広い角があり、{1}。
+manual	core	It has three broad  horn and {1}.	三幅広い角があり、{1}。
+manual	core	It has three long, straight  horns and {1}.	三長くまっすぐな角があり、{1}。
+manual	core	It has three long, straight  horn and {1}.	三長くまっすぐな角があり、{1}。
+manual	core	It has four long, spiral  horns and {1}.	四長く螺旋状の角があり、{1}。
+manual	core	It has four long, spiral  horn and {1}.	四長く螺旋状の角があり、{1}。
+manual	core	It has four long, curving  horns and {1}.	四長く湾曲した角があり、{1}。
+manual	core	It has four long, curving  horn and {1}.	四長く湾曲した角があり、{1}。
+manual	core	It has four short  horns and {1}.	四短い角があり、{1}。
+manual	core	It has four short  horn and {1}.	四短い角があり、{1}。
+manual	core	It has four stubby  horns and {1}.	四短く太い角があり、{1}。
+manual	core	It has four stubby  horn and {1}.	四短く太い角があり、{1}。
+manual	core	It has four broad  horns and {1}.	四幅広い角があり、{1}。
+manual	core	It has four broad  horn and {1}.	四幅広い角があり、{1}。
+manual	core	It has four long, straight  horns and {1}.	四長くまっすぐな角があり、{1}。
+manual	core	It has four long, straight  horn and {1}.	四長くまっすぐな角があり、{1}。
+manual	core	It has a long, spiral  horns and {1}.	一本の長く螺旋状の角があり、{1}。
+manual	core	It has a long, spiral  horn and {1}.	一本の長く螺旋状の角があり、{1}。
+manual	core	It has a long, curving  horns and {1}.	一本の長く湾曲した角があり、{1}。
+manual	core	It has a long, curving  horn and {1}.	一本の長く湾曲した角があり、{1}。
+manual	core	It has a short  horns and {1}.	一本の短い角があり、{1}。
+manual	core	It has a short  horn and {1}.	一本の短い角があり、{1}。
+manual	core	It has a stubby  horns and {1}.	一本の短く太い角があり、{1}。
+manual	core	It has a stubby  horn and {1}.	一本の短く太い角があり、{1}。
+manual	core	It has a broad  horns and {1}.	一本の幅広い角があり、{1}。
+manual	core	It has a broad  horn and {1}.	一本の幅広い角があり、{1}。
+manual	core	It has a long, straight  horns and {1}.	一本の長くまっすぐな角があり、{1}。
+manual	core	It has a long, straight  horn and {1}.	一本の長くまっすぐな角があり、{1}。
+manual	core	It has two long, hanging  tails and {1}.	二長く垂れ下がった尾があり、{1}。
+manual	core	It has two long, hanging  tail and {1}.	二長く垂れ下がった尾があり、{1}。
+manual	core	It has two long, straight  tails and {1}.	二長くまっすぐな尾があり、{1}。
+manual	core	It has two long, straight  tail and {1}.	二長くまっすぐな尾があり、{1}。
+manual	core	It has two long, curly  tails and {1}.	二長く巻き毛の尾があり、{1}。
+manual	core	It has two long, curly  tail and {1}.	二長く巻き毛の尾があり、{1}。
+manual	core	It has two short  tails and {1}.	二短い尾があり、{1}。
+manual	core	It has two short  tail and {1}.	二短い尾があり、{1}。
+manual	core	It has two stubby  tails and {1}.	二短く太い尾があり、{1}。
+manual	core	It has two stubby  tail and {1}.	二短く太い尾があり、{1}。
+manual	core	It has two narrow  tails and {1}.	二細い尾があり、{1}。
+manual	core	It has two narrow  tail and {1}.	二細い尾があり、{1}。
+manual	core	It has three long, hanging  tails and {1}.	三長く垂れ下がった尾があり、{1}。
+manual	core	It has three long, hanging  tail and {1}.	三長く垂れ下がった尾があり、{1}。
+manual	core	It has three long, straight  tails and {1}.	三長くまっすぐな尾があり、{1}。
+manual	core	It has three long, straight  tail and {1}.	三長くまっすぐな尾があり、{1}。
+manual	core	It has three long, curly  tails and {1}.	三長く巻き毛の尾があり、{1}。
+manual	core	It has three long, curly  tail and {1}.	三長く巻き毛の尾があり、{1}。
+manual	core	It has three short  tails and {1}.	三短い尾があり、{1}。
+manual	core	It has three short  tail and {1}.	三短い尾があり、{1}。
+manual	core	It has three stubby  tails and {1}.	三短く太い尾があり、{1}。
+manual	core	It has three stubby  tail and {1}.	三短く太い尾があり、{1}。
+manual	core	It has three narrow  tails and {1}.	三細い尾があり、{1}。
+manual	core	It has three narrow  tail and {1}.	三細い尾があり、{1}。
+manual	core	It has a long, hanging  tails and {1}.	一本の長く垂れ下がった尾があり、{1}。
+manual	core	It has a long, hanging  tail and {1}.	一本の長く垂れ下がった尾があり、{1}。
+manual	core	It has a long, straight  tails and {1}.	一本の長くまっすぐな尾があり、{1}。
+manual	core	It has a long, straight  tail and {1}.	一本の長くまっすぐな尾があり、{1}。
+manual	core	It has a long, curly  tails and {1}.	一本の長く巻き毛の尾があり、{1}。
+manual	core	It has a long, curly  tail and {1}.	一本の長く巻き毛の尾があり、{1}。
+manual	core	It has a short  tails and {1}.	一本の短い尾があり、{1}。
+manual	core	It has a short  tail and {1}.	一本の短い尾があり、{1}。
+manual	core	It has a stubby  tails and {1}.	一本の短く太い尾があり、{1}。
+manual	core	It has a stubby  tail and {1}.	一本の短く太い尾があり、{1}。
+manual	core	It has a narrow  tails and {1}.	一本の細い尾があり、{1}。
+manual	core	It has a narrow  tail and {1}.	一本の細い尾があり、{1}。
+manual	core	Its {1} hair is {2}.	その毛は{1}色で、{2}。
+manual	core	Its {1} feathers are {2}.	その羽は{1}色で、{2}。
+manual	core	Its {1} scales are {2}.	その鱗は{1}色で、{2}。
+manual	core	Its {1} skin is {2}.	その肌は{1}色で、{2}。
+manual	core	Its {1} exoskeleton is {2}.	その外骨格は{1}色で、{2}。
+manual	core	Beware its {1}!	{1}に気をつけろ！
+manual	core	This night creature was first created by the {1} through the fiend's terrifying power in the year {2}.	この夜の生き物は、{2}年、{1}が魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's terrifying power in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's terrifying power unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's terrifying power unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's terrifying power on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's terrifying power on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's twisted power in the year {2}.	この夜の生き物は、{2}年、{1}が魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's twisted power in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's twisted power unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's twisted power unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's twisted power on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's twisted power on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's chaotic power in the year {2}.	この夜の生き物は、{2}年、{1}が魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's chaotic power in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's chaotic power unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's chaotic power unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's chaotic power on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} through the fiend's chaotic power on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments in the year {2}.	この夜の生き物は、{2}年、{1}が恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments gone wrong in the year {2}.	この夜の生き物は、{2}年、{1}が恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments gone wrong in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments gone wrong unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments gone wrong unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments gone wrong on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} after horrible experiments gone wrong on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's terrifying power in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's terrifying power in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's terrifying power unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's terrifying power unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's terrifying power on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's terrifying power on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の恐ろしい力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's twisted power in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's twisted power in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's twisted power unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's twisted power unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's twisted power on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's twisted power on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の歪んだ力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's chaotic power in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's chaotic power in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's chaotic power unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's chaotic power unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's chaotic power on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} through the fiend's chaotic power on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の混沌の力によって作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験の末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments gone wrong in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments gone wrong in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments gone wrong unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments gone wrong unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments gone wrong on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created by the {1} of {2} after horrible experiments gone wrong on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's terrifying power in the year {2}.	この夜の生き物は、{2}年、{1}が魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's terrifying power in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's terrifying power unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's terrifying power unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's terrifying power on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's terrifying power on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's twisted power in the year {2}.	この夜の生き物は、{2}年、{1}が魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's twisted power in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's twisted power unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's twisted power unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's twisted power on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's twisted power on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's chaotic power in the year {2}.	この夜の生き物は、{2}年、{1}が魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's chaotic power in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's chaotic power unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's chaotic power unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's chaotic power on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} through the fiend's chaotic power on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments in the year {2}.	この夜の生き物は、{2}年、{1}が恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments gone wrong in the year {2}.	この夜の生き物は、{2}年、{1}が恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments gone wrong in {2} in the year {3}.	この夜の生き物は、{3}年、{2}にて、{1}が恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments gone wrong unleashed upon {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments gone wrong unleashed upon {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments gone wrong on {2} in the year {3}.	この夜の生き物は、{3}年、{1}が{2}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} after horrible experiments gone wrong on {2} in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{1}が{2}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's terrifying power in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's terrifying power in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's terrifying power unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's terrifying power unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's terrifying power on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's terrifying power on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の恐ろしい力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's twisted power in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's twisted power in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's twisted power unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's twisted power unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's twisted power on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's twisted power on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の歪んだ力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's chaotic power in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's chaotic power in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's chaotic power unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's chaotic power unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's chaotic power on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} through the fiend's chaotic power on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、魔王の混沌の力によって偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験の末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments gone wrong in the year {3}.	この夜の生き物は、{3}年、{2}の{1}が恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments gone wrong in {3} in the year {4}.	この夜の生き物は、{4}年、{3}にて、{2}の{1}が恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments gone wrong unleashed upon {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments gone wrong unleashed upon {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments gone wrong on {3} in the year {4}.	この夜の生き物は、{4}年、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に偶然に作り出した。
+manual	core	This night creature was first created accidentally by the {1} of {2} after horrible experiments gone wrong on {3} in {4} in the year {5}.	この夜の生き物は、{5}年、{4}にて、{2}の{1}が{3}に対し、恐ろしい実験が失敗した末に偶然に作り出した。

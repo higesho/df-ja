@@ -1,0 +1,491 @@
+# 宝石の名前（raw の [IS_GEM:名前:複数形]）。大きな宝石・カットした宝石の形も入れる
+alexandrite	アレキサンドライト
+large alexandrite	大きなアレキサンドライト
+alexandrites	アレキサンドライト
+large alexandrites	大きなアレキサンドライト
+almandine	アルマンディン
+large almandine	大きなアルマンディン
+almandines	アルマンディン
+large almandines	大きなアルマンディン
+amber opal	琥珀オパール
+large amber opal	大きな琥珀オパール
+amber opals	琥珀オパール
+large amber opals	大きな琥珀オパール
+aventurine	アベンチュリン
+large aventurine	大きなアベンチュリン
+aventurines	アベンチュリン
+large aventurines	大きなアベンチュリン
+banded agate	縞瑪瑙
+large banded agate	大きな縞瑪瑙
+banded agates	縞瑪瑙
+large banded agates	大きな縞瑪瑙
+bandfire opal	バンドファイアオパール
+large bandfire opal	大きなバンドファイアオパール
+bandfire opals	バンドファイアオパール
+large bandfire opals	大きなバンドファイアオパール
+black diamond	ブラックダイヤモンド
+large black diamond	大きなブラックダイヤモンド
+black diamonds	ブラックダイヤモンド
+large black diamonds	大きなブラックダイヤモンド
+black opal	ブラックオパール
+large black opal	大きなブラックオパール
+black opals	ブラックオパール
+large black opals	大きなブラックオパール
+black pyrope	黒パイロープ
+large black pyrope	大きな黒パイロープ
+black pyropes	黒パイロープ
+large black pyropes	大きな黒パイロープ
+black zircon	黒ジルコン
+large black zircon	大きな黒ジルコン
+black zircons	黒ジルコン
+large black zircons	大きな黒ジルコン
+bloodstone	ブラッドストーン
+large bloodstone	大きなブラッドストーン
+bloodstones	ブラッドストーン
+large bloodstones	大きなブラッドストーン
+blue diamond	ブルーダイヤモンド
+large blue diamond	大きなブルーダイヤモンド
+blue diamonds	ブルーダイヤモンド
+large blue diamonds	大きなブルーダイヤモンド
+blue garnet	青ガーネット
+large blue garnet	大きな青ガーネット
+blue garnets	青ガーネット
+large blue garnets	大きな青ガーネット
+blue jade	青翡翠
+large blue jade	大きな青翡翠
+blue jades	青翡翠
+large blue jades	大きな青翡翠
+bone opal	ボーンオパール
+large bone opal	大きなボーンオパール
+bone opals	ボーンオパール
+large bone opals	大きなボーンオパール
+brown jasper	茶碧玉
+large brown jasper	大きな茶碧玉
+brown jaspers	茶碧玉
+large brown jaspers	大きな茶碧玉
+brown zircon	茶ジルコン
+large brown zircon	大きな茶ジルコン
+brown zircons	茶ジルコン
+large brown zircons	大きな茶ジルコン
+carnelian	紅玉髄
+large carnelian	大きな紅玉髄
+carnelians	紅玉髄
+large carnelians	大きな紅玉髄
+cat's eye	キャッツアイ
+large cat's eye	大きなキャッツアイ
+cat's eyes	キャッツアイ
+large cat's eyes	大きなキャッツアイ
+cherry opal	チェリーオパール
+large cherry opal	大きなチェリーオパール
+cherry opals	チェリーオパール
+large cherry opals	大きなチェリーオパール
+chrysoberyl	クリソベリル
+large chrysoberyl	大きなクリソベリル
+chrysoberyls	クリソベリル
+large chrysoberyls	大きなクリソベリル
+chrysocolla	珪孔雀石
+large chrysocolla	大きな珪孔雀石
+chrysocollas	珪孔雀石
+large chrysocollas	大きな珪孔雀石
+chrysoprase	緑玉髄
+large chrysoprase	大きな緑玉髄
+chrysoprases	緑玉髄
+large chrysoprases	大きな緑玉髄
+cinnamon grossular	シナモングロッシュラー
+large cinnamon grossular	大きなシナモングロッシュラー
+cinnamon grossulars	シナモングロッシュラー
+large cinnamon grossulars	大きなシナモングロッシュラー
+citrine	シトリン
+large citrine	大きなシトリン
+citrines	シトリン
+large citrines	大きなシトリン
+claro opal	クラロオパール
+large claro opal	大きなクラロオパール
+claro opals	クラロオパール
+large claro opals	大きなクラロオパール
+clear diamond	無色ダイヤモンド
+large clear diamond	大きな無色ダイヤモンド
+clear diamonds	無色ダイヤモンド
+large clear diamonds	大きな無色ダイヤモンド
+clear garnet	無色ガーネット
+large clear garnet	大きな無色ガーネット
+clear garnets	無色ガーネット
+large clear garnets	大きな無色ガーネット
+clear tourmaline	無色トルマリン
+large clear tourmaline	大きな無色トルマリン
+clear tourmalines	無色トルマリン
+large clear tourmalines	大きな無色トルマリン
+clear zircon	無色ジルコン
+large clear zircon	大きな無色ジルコン
+clear zircons	無色ジルコン
+large clear zircons	大きな無色ジルコン
+crystal opal	クリスタルオパール
+large crystal opal	大きなクリスタルオパール
+crystal opals	クリスタルオパール
+large crystal opals	大きなクリスタルオパール
+demantoid	デマントイド
+large demantoid	大きなデマントイド
+demantoids	デマントイド
+large demantoids	大きなデマントイド
+dendritic agate	樹枝状瑪瑙
+large dendritic agate	大きな樹枝状瑪瑙
+dendritic agates	樹枝状瑪瑙
+large dendritic agates	大きな樹枝状瑪瑙
+faint yellow diamond	淡黄色ダイヤモンド
+large faint yellow diamond	大きな淡黄色ダイヤモンド
+faint yellow diamonds	淡黄色ダイヤモンド
+large faint yellow diamonds	大きな淡黄色ダイヤモンド
+fire agate	ファイアアゲート
+large fire agate	大きなファイアアゲート
+fire agates	ファイアアゲート
+large fire agates	大きなファイアアゲート
+fire opal	ファイアオパール
+large fire opal	大きなファイアオパール
+fire opals	ファイアオパール
+large fire opals	大きなファイアオパール
+fortification agate	城砦瑪瑙
+large fortification agate	大きな城砦瑪瑙
+fortification agates	城砦瑪瑙
+large fortification agates	大きな城砦瑪瑙
+gold opal	ゴールドオパール
+large gold opal	大きなゴールドオパール
+gold opals	ゴールドオパール
+large gold opals	大きなゴールドオパール
+golden beryl	ゴールデンベリル
+large golden beryl	大きなゴールデンベリル
+golden beryls	ゴールデンベリル
+large golden beryls	大きなゴールデンベリル
+goshenite	ゴシェナイト
+large goshenite	大きなゴシェナイト
+goshenites	ゴシェナイト
+large goshenites	大きなゴシェナイト
+gray chalcedonies	灰玉髄
+large gray chalcedonies	大きな灰玉髄
+gray chalcedony	灰玉髄
+large gray chalcedony	大きな灰玉髄
+green diamond	グリーンダイヤモンド
+large green diamond	大きなグリーンダイヤモンド
+green diamonds	グリーンダイヤモンド
+large green diamonds	大きなグリーンダイヤモンド
+green jade	緑翡翠
+large green jade	大きな緑翡翠
+green jades	緑翡翠
+large green jades	大きな緑翡翠
+green tourmaline	緑トルマリン
+large green tourmaline	大きな緑トルマリン
+green tourmalines	緑トルマリン
+large green tourmalines	大きな緑トルマリン
+green zircon	緑ジルコン
+large green zircon	大きな緑ジルコン
+green zircons	緑ジルコン
+large green zircons	大きな緑ジルコン
+harlequin opal	ハーレクインオパール
+large harlequin opal	大きなハーレクインオパール
+harlequin opals	ハーレクインオパール
+large harlequin opals	大きなハーレクインオパール
+heliodor	ヘリオドール
+large heliodor	大きなヘリオドール
+heliodors	ヘリオドール
+large heliodors	大きなヘリオドール
+honey yellow beryl	蜂蜜色ベリル
+large honey yellow beryl	大きな蜂蜜色ベリル
+honey yellow beryls	蜂蜜色ベリル
+large honey yellow beryls	大きな蜂蜜色ベリル
+indigo tourmaline	藍トルマリン
+large indigo tourmaline	大きな藍トルマリン
+indigo tourmalines	藍トルマリン
+large indigo tourmalines	大きな藍トルマリン
+jasper opal	ジャスパーオパール
+large jasper opal	大きなジャスパーオパール
+jasper opals	ジャスパーオパール
+large jasper opals	大きなジャスパーオパール
+jelly opal	ゼリーオパール
+large jelly opal	大きなゼリーオパール
+jelly opals	ゼリーオパール
+large jelly opals	大きなゼリーオパール
+kunzite	クンツァイト
+large kunzite	大きなクンツァイト
+kunzites	クンツァイト
+large kunzites	大きなクンツァイト
+lace agate	レース瑪瑙
+large lace agate	大きなレース瑪瑙
+lace agates	レース瑪瑙
+large lace agates	大きなレース瑪瑙
+lapis lazuli	ラピスラズリ
+large lapis lazuli	大きなラピスラズリ
+lapis lazulis	ラピスラズリ
+large lapis lazulis	大きなラピスラズリ
+lavender jade	ラベンダー翡翠
+large lavender jade	大きなラベンダー翡翠
+lavender jades	ラベンダー翡翠
+large lavender jades	大きなラベンダー翡翠
+levin opal	レビンオパール
+large levin opal	大きなレビンオパール
+levin opals	レビンオパール
+large levin opals	大きなレビンオパール
+light yellow diamond	淡黄ダイヤモンド
+large light yellow diamond	大きな淡黄ダイヤモンド
+light yellow diamonds	淡黄ダイヤモンド
+large light yellow diamonds	大きな淡黄ダイヤモンド
+melanite	メラナイト
+large melanite	大きなメラナイト
+melanites	メラナイト
+large melanites	大きなメラナイト
+milk opal	ミルクオパール
+large milk opal	大きなミルクオパール
+milk opals	ミルクオパール
+large milk opals	大きなミルクオパール
+milk quartz	乳石英
+large milk quartz	大きな乳石英
+milk quartzes	乳石英
+large milk quartzes	大きな乳石英
+morganite	モルガナイト
+large morganite	大きなモルガナイト
+morganites	モルガナイト
+large morganites	大きなモルガナイト
+morion	黒水晶
+large morion	大きな黒水晶
+morions	黒水晶
+large morions	大きな黒水晶
+moss agate	苔瑪瑙
+large moss agate	大きな苔瑪瑙
+moss agates	苔瑪瑙
+large moss agates	大きな苔瑪瑙
+moss opal	モスオパール
+large moss opal	大きなモスオパール
+moss opals	モスオパール
+large moss opals	大きなモスオパール
+onyx	オニキス
+large onyx	大きなオニキス
+onyxes	オニキス
+large onyxes	大きなオニキス
+onyx opal	オニキスオパール
+large onyx opal	大きなオニキスオパール
+onyx opals	オニキスオパール
+large onyx opals	大きなオニキスオパール
+peridot	ペリドット
+large peridot	大きなペリドット
+peridots	ペリドット
+large peridots	大きなペリドット
+picture jasper	ピクチャージャスパー
+large picture jasper	大きなピクチャージャスパー
+picture jaspers	ピクチャージャスパー
+large picture jaspers	大きなピクチャージャスパー
+pineapple opal	パイナップルオパール
+large pineapple opal	大きなパイナップルオパール
+pineapple opals	パイナップルオパール
+large pineapple opals	大きなパイナップルオパール
+pinfire opal	ピンファイアオパール
+large pinfire opal	大きなピンファイアオパール
+pinfire opals	ピンファイアオパール
+large pinfire opals	大きなピンファイアオパール
+pink garnet	ピンクガーネット
+large pink garnet	大きなピンクガーネット
+pink garnets	ピンクガーネット
+large pink garnets	大きなピンクガーネット
+pink jade	ピンク翡翠
+large pink jade	大きなピンク翡翠
+pink jades	ピンク翡翠
+large pink jades	大きなピンク翡翠
+pink tourmaline	ピンクトルマリン
+large pink tourmaline	大きなピンクトルマリン
+pink tourmalines	ピンクトルマリン
+large pink tourmalines	大きなピンクトルマリン
+pipe opal	パイプオパール
+large pipe opal	大きなパイプオパール
+pipe opals	パイプオパール
+large pipe opals	大きなパイプオパール
+plume agate	羽毛瑪瑙
+large plume agate	大きな羽毛瑪瑙
+plume agates	羽毛瑪瑙
+large plume agates	大きな羽毛瑪瑙
+prase	プレーズ
+large prase	大きなプレーズ
+prases	プレーズ
+large prases	大きなプレーズ
+prase opal	プレーズオパール
+large prase opal	大きなプレーズオパール
+prase opals	プレーズオパール
+large prase opals	大きなプレーズオパール
+precious fire opal	プレシャスファイアオパール
+large precious fire opal	大きなプレシャスファイアオパール
+precious fire opals	プレシャスファイアオパール
+large precious fire opals	大きなプレシャスファイアオパール
+purple spinel	紫スピネル
+large purple spinel	大きな紫スピネル
+purple spinels	紫スピネル
+large purple spinels	大きな紫スピネル
+pyrite	黄鉄鉱
+large pyrite	大きな黄鉄鉱
+pyrites	黄鉄鉱
+large pyrites	大きな黄鉄鉱
+red beryl	レッドベリル
+large red beryl	大きなレッドベリル
+red beryls	レッドベリル
+large red beryls	大きなレッドベリル
+red diamond	レッドダイヤモンド
+large red diamond	大きなレッドダイヤモンド
+red diamonds	レッドダイヤモンド
+large red diamonds	大きなレッドダイヤモンド
+red flash opal	レッドフラッシュオパール
+large red flash opal	大きなレッドフラッシュオパール
+red flash opals	レッドフラッシュオパール
+large red flash opals	大きなレッドフラッシュオパール
+red grossular	赤グロッシュラー
+large red grossular	大きな赤グロッシュラー
+red grossulars	赤グロッシュラー
+large red grossulars	大きな赤グロッシュラー
+red pyrope	赤パイロープ
+large red pyrope	大きな赤パイロープ
+red pyropes	赤パイロープ
+large red pyropes	大きな赤パイロープ
+red spinel	赤スピネル
+large red spinel	大きな赤スピネル
+red spinels	赤スピネル
+large red spinels	大きな赤スピネル
+red tourmaline	赤トルマリン
+large red tourmaline	大きな赤トルマリン
+red tourmalines	赤トルマリン
+large red tourmalines	大きな赤トルマリン
+red zircon	赤ジルコン
+large red zircon	大きな赤ジルコン
+red zircons	赤ジルコン
+large red zircons	大きな赤ジルコン
+resin opal	樹脂オパール
+large resin opal	大きな樹脂オパール
+resin opals	樹脂オパール
+large resin opals	大きな樹脂オパール
+rhodolite	ロードライト
+large rhodolite	大きなロードライト
+rhodolites	ロードライト
+large rhodolites	大きなロードライト
+rock crystal	水晶
+large rock crystal	大きな水晶
+rock crystals	水晶
+large rock crystals	大きな水晶
+rose quartz	紅水晶
+large rose quartz	大きな紅水晶
+rose quartzes	紅水晶
+large rose quartzes	大きな紅水晶
+rubicelle	ルビセル
+large rubicelle	大きなルビセル
+rubicelles	ルビセル
+large rubicelles	大きなルビセル
+rubies	ルビー
+large rubies	大きなルビー
+ruby	ルビー
+large ruby	大きなルビー
+sard	サード
+large sard	大きなサード
+sards	サード
+large sards	大きなサード
+sardonyx	紅縞瑪瑙
+large sardonyx	大きな紅縞瑪瑙
+sardonyxes	紅縞瑪瑙
+large sardonyxes	大きな紅縞瑪瑙
+schorl	ショール
+large schorl	大きなショール
+schorls	ショール
+large schorls	大きなショール
+shell opal	シェルオパール
+large shell opal	大きなシェルオパール
+shell opals	シェルオパール
+large shell opals	大きなシェルオパール
+smoky quartz	煙水晶
+large smoky quartz	大きな煙水晶
+smoky quartzes	煙水晶
+large smoky quartzes	大きな煙水晶
+star rubies	スタールビー
+large star rubies	大きなスタールビー
+star ruby	スタールビー
+large star ruby	大きなスタールビー
+star sapphire	スターサファイア
+large star sapphire	大きなスターサファイア
+star sapphires	スターサファイア
+large star sapphires	大きなスターサファイア
+sunstone	サンストーン
+large sunstone	大きなサンストーン
+sunstones	サンストーン
+large sunstones	大きなサンストーン
+tanzanite	タンザナイト
+large tanzanite	大きなタンザナイト
+tanzanites	タンザナイト
+large tanzanites	大きなタンザナイト
+tiger iron	タイガーアイアン
+large tiger iron	大きなタイガーアイアン
+tiger irons	タイガーアイアン
+large tiger irons	大きなタイガーアイアン
+tigereye	虎目石
+large tigereye	大きな虎目石
+tigereyes	虎目石
+large tigereyes	大きな虎目石
+topaz	トパーズ
+large topaz	大きなトパーズ
+topazes	トパーズ
+large topazes	大きなトパーズ
+topazolite	トパゾライト
+large topazolite	大きなトパゾライト
+topazolites	トパゾライト
+large topazolites	大きなトパゾライト
+tsavorite	ツァボライト
+large tsavorite	大きなツァボライト
+tsavorites	ツァボライト
+large tsavorites	大きなツァボライト
+tube agate	管状瑪瑙
+large tube agate	大きな管状瑪瑙
+tube agates	管状瑪瑙
+large tube agates	大きな管状瑪瑙
+variscite	バリサイト
+large variscite	大きなバリサイト
+variscites	バリサイト
+large variscites	大きなバリサイト
+violet spessartine	紫スペサルティン
+large violet spessartine	大きな紫スペサルティン
+violet spessartines	紫スペサルティン
+large violet spessartines	大きな紫スペサルティン
+wax opal	ワックスオパール
+large wax opal	大きなワックスオパール
+wax opals	ワックスオパール
+large wax opals	大きなワックスオパール
+white chalcedonies	白玉髄
+large white chalcedonies	大きな白玉髄
+white chalcedony	白玉髄
+large white chalcedony	大きな白玉髄
+white jade	白翡翠
+large white jade	大きな白翡翠
+white jades	白翡翠
+large white jades	大きな白翡翠
+white opal	ホワイトオパール
+large white opal	大きなホワイトオパール
+white opals	ホワイトオパール
+large white opals	大きなホワイトオパール
+wood opal	ウッドオパール
+large wood opal	大きなウッドオパール
+wood opals	ウッドオパール
+large wood opals	大きなウッドオパール
+yellow diamond	イエローダイヤモンド
+large yellow diamond	大きなイエローダイヤモンド
+yellow diamonds	イエローダイヤモンド
+large yellow diamonds	大きなイエローダイヤモンド
+yellow grossular	黄グロッシュラー
+large yellow grossular	大きな黄グロッシュラー
+yellow grossulars	黄グロッシュラー
+large yellow grossulars	大きな黄グロッシュラー
+yellow jasper	黄碧玉
+large yellow jasper	大きな黄碧玉
+yellow jaspers	黄碧玉
+large yellow jaspers	大きな黄碧玉
+yellow spessartine	黄スペサルティン
+large yellow spessartine	大きな黄スペサルティン
+yellow spessartines	黄スペサルティン
+large yellow spessartines	大きな黄スペサルティン
+yellow zircon	黄ジルコン
+large yellow zircon	大きな黄ジルコン
+yellow zircons	黄ジルコン
+large yellow zircons	大きな黄ジルコン
+large amethyst	大きなアメジスト
+large aquamarine	大きなアクアマリン
+large emerald	大きなエメラルド
+large moonstone	大きなムーンストーン
+large sapphire	大きなサファイア
+large turquoise	大きなトルコ石

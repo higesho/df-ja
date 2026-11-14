@@ -1,0 +1,9 @@
+# 差し込み関数（呼び出し先 RVA）<TAB>差し込まれる語句の種類（分かっているもの）
+fbaa300	年（数字）
+fbaabd0	人物・生き物の名前（例: "the dwarf Urist Bomrekmosus", "Urist"）
+fbab5f0	場所の名前（例: "Lulartobul", "the forest Tree of Sorrow"）
+fbacb90	生き物の種族名（例: "dragon", "goblin"）
+fbb340	品物などの語句（例: "a steel battle axe"）
+str71040	組み立て済みの語句
+str70b90	組み立て済みの語句
+fWORD	可変の語（感情・性質などの1語。辞書で訳される。例: "gleeful"）

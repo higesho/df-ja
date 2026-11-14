@@ -1,0 +1,263 @@
+({giant cave spider silk trousers})
+({groundhog leather tunic})
+({mountain goat leather left glove})
+({mountain goat leather right glove})
+({pig tail sock})
+({giant cave spider silk shoe})
+({goat leather trousers})
+({llama wool dress})
+({black bear leather left glove})
+({black bear leather right glove})
+({sheep wool sock})
+({groundhog leather shoe})
+microcline
+(rock nuts Bag (sheep wool))
+(-porcupine leather bag-)
+(«-iron buckler-»)
+(prepared bat brain [5])
+(cave fish, ♂ [5])
+(plump helmets [5])
+(pig iron bars)
+(yak cheese [5])
+(-«spore tree crutch»-)
+(bilberries [5])
+(«-purring maggot leather quiver-»)
+(sweet pod seeds Bag (cave spider silk))
+(dwarven wine Barrel (pine))
+(fire clay)
+(sheep wool yarn)
+(dwarven beer Barrel (tower-cap))
+(reindeer parchment sheet)
+(alpaca wool yarn)
+(+«cave spider silk bag»+)
+(+large, serrated bronze disc+)
+(cave lobster, ♂ [5])
+(copper shield)
+(giant mole leather backpack)
+(pig tail thread)
+(black sand Bag (cave spider silk))
+(bismuth bronze chain leggings)
+(pig tail rope)
+(billon bars)
+(raccoon leather backpack)
+(pig tail bag)
+(single cut prase opals)
+(copper helm)
+(almond wood barrel)
+(chicken leather quiver)
+(persimmon wood barrel)
+(rock nuts Bag (cave spider silk))
+(blueberries [5])
+(Cloth Bin (blood thorn))
+(«pig tail left mitten»)
+(«pig tail right mitten»)
+(bronze cap)
+(-pig tail rope-)
+(lay pewter bars)
+(-«-alpaca wool rope-»-)
+(clay)
+(iron anvil)
+(-pig tail robe-)
+(-pig tail tunic-)
+(Cloth Bin (black-cap))
+(«*wombat leather left mitten*»)
+(«*wombat leather right mitten*»)
+(-«-black-cap bucket-»-)
+(prepared horse spleen [5])
+(trillion cut yellow grossulars)
+(-goblin-cap bucket-)
+(-alpaca wool sock-)
+(bismuth bronze mail shirt)
+(Cloth Bin (birchen))
+(pig tail cloak)
+(-«-cave spider silk rope-»-)
+(giant cave swallow meat [5])
+(platinum bars)
+(«+spore tree barrel+»)
+(+alpaca wool rope+)
+(dolomite blocks)
+(+copper helm+)
+(steel anvil)
+(-dingo leather waterskin-)
+(Cloth Bin (bayberry wood))
+(copper bars)
+(black bear leather quiver)
+(dwarven rum Barrel (persimmon wood))
+(«-large cushion cut kunzite-»)
+(-bismuth bronze low boot-)
+(-«bronze cap»-)
+(alpaca cheese [5])
+(-apple wood training axe-)
+(-llama wool rope-)
+(cave fish, ♀ [5])
+(sheep tripe [5])
+(+bismuth bronze toy boat+)
+(-bismuth bronze pick-)
+(«-blood thorn crutch-»)
+(raw crystal glass)
+(«-pine barrel-»)
+(giant cave spider silk cloak)
+(giant cave spider silk sock)
+(-«giant cave spider silk vest»-)
+(-bismuth bronze high boot-)
+(white sand Bag (alpaca wool))
+(-«bronze crossbow»-)
+(pond grabber leather waterskin)
+(prepared dingo kidney [5])
+(bronze crossbow)
+(*steel pick*)
+(+«-llama wool sock-»+)
+(cave lobster, ♀ [5])
+(-cave spider silk shoe-)
+(steel greaves)
+(pig tail dress)
+(«menacing copper spike»)
+(-«-mule leather quiver-»-)
+(-«bismuth bronze puzzlebox»-)
+(«-green glass rintor-»)
+(-«ginkgo wood chest»-)
+(-bronze crossbow-)
+(Cloth Bin (almond wood))
+(+copper cap+)
+(goblin-cap)
+(pine)
+(alpaca leather backpack)
+(silty clay)
+(+cougar leather bag+)
+(table cut bone opals)
+(-peach wood bucket-)
+(-«almond wood training sword»-)
+(chopped giant olm liver [5])
+(-«giant cave spider silk rope»-)
+(+tin cage+)
+(cave spider silk thread)
+(donkey cheese [5])
+(-nether-cap crutch-)
+(-«-bismuth bronze short sword-»-)
+(drunian sweetbread [5])
+(quarry bush leaves [5])
+(blood thorn)
+(peach wood)
+(almond wood)
+(«large rat leather backpack»)
+(lettuce leaves [5])
+(goose parchment sheet)
+(white sand Bag (sheep wool))
+(«alpaca wool tunic»)
+(prepared crundle lung [5])
+(black bronze bars)
+(+«-bronze buckler-»+)
+(chert blocks)
+(willow)
+(plum wood)
+(fungiwood)
+(pond grabber parchment sheet)
+(llama wool bag)
+(-«pig tail bag»-)
+(*zinc cage*)
+(-alpaca wool loincloth-)
+(bitter vetch leaves [5])
+(-crystal glass rintor-)
+(persimmon wood)
+(spore tree)
+(horse cheese [5])
+(apple wood)
+(anhydrite blocks)
+(muskmelons [5])
+(+pig tail left glove+)
+(+pig tail right glove+)
+(llama wool yarn)
+(prepared water buffalo kidney [5])
+(pond turtle, ♀ [5])
+(prepared elk bird spleen [5])
+(raspberries [5])
+(prepared giant earthworm intestines [5])
+(garden cress leaves [5])
+There is nothing to catch in the central swamps.
+The weather has cleared.
+It has started raining.
+An animal has grown to become a Stray Yak Bull.
+It is now summer.
+Some migrants have arrived.
+Autumn has come.
+A human caravan from Iclopesor has arrived.  Overall trade sentiments are terrible.
+The outpost liaison Datan Mörulamud from Zasit Vudthar has arrived.
+The merchants need a trade depot to unload their goods.
+Stray Yak Cow (Tame) has given birth to a yak calf.
+An animal has grown to become a Stray Reindeer Bull.
+The merchants from Iclopesor will be leaving soon.
+The merchants from Zasit Vudthar will be leaving soon.
+A diplomat could not complete a meeting and has left unhappy.
+The merchants from Iclopesor have embarked on their journey.
+The merchants from Zasit Vudthar have embarked on their journey.
+A caravan from Zasit Vudthar has arrived.  Overall trade sentiments are lukewarm.
+A elven caravan from Ola Cili has arrived.  Overall trade sentiments are cautious.
+Asob Saziratol, Stray Cat (Tame) has adopted Ingish Atulstâkud, Woodcrafter.
+A snow storm has come.
+Winter is upon you.
+The merchants from Ola Cili will be leaving soon.
+The merchants from Ola Cili have embarked on their journey.
+Imush Melbilsulus, Miner cancels Construct building: Needs 3 building material non-economic items.
+The dwarves were unable to complete the Trade Depot.
+An animal has grown to become a Stray Cat.
+Merchants have arrived and are unloading their goods.
+Kivish Asënkodor "Graveldawn", Metalsmith is taken by a fey mood!
+Kivish Asënkodor has claimed a Metalsmith's Forge.
+Kivish Asënkodor has begun a mysterious construction!
+Kivish Asënkodor, Metalsmith has created Enolrilem, a copper door!  He claims it as a family heirloom.
+Kivish Asënkodor has become a Blacksmith.
+Chair
+Bed
+Table
+Coffin
+FarmPlot
+Furnace
+TradeDepot
+Shop
+Door
+Floodgate
+Box
+Weaponrack
+Armorstand
+Workshop
+Cabinet
+Statue
+WindowGlass
+WindowGem
+Well
+Bridge
+RoadDirt
+RoadPaved
+SiegeEngine
+Trap
+AnimalTrap
+Support
+ArcheryTarget
+Chain
+Cage
+Stockpile
+Civzone
+Weapon
+Wagon
+ScrewPump
+Construction
+Hatch
+GrateWall
+GrateFloor
+BarsVertical
+BarsFloor
+GearAssembly
+AxleHorizontal
+AxleVertical
+WaterWheel
+Windmill
+TractionBench
+Slab
+Nest
+NestBox
+Hive
+Rollers
+Instrument
+Bookcase
+DisplayFurniture
+OfferingPlace

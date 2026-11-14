@@ -1,0 +1,885 @@
+*** STARTING NEW GAME ***	*** 新しいゲームを開始 ***
+Generating world using parameter set CREATE WORLD NOW = 11333335	設定「CREATE WORLD NOW = 11333335」で世界を生成しています
+Seed: SnGr7h0FwDXinRn4uRFH	シード: SnGr7h0FwDXinRn4uRFH
+History Seed: vfd2yXTsQMe110XewUMP	歴史のシード: vfd2yXTsQMe110XewUMP
+Name Seed: PCebLUJDGjXI4GrLywKc	名前のシード: PCebLUJDGjXI4GrLywKc
+Creature Seed: kreUDafxxeN8tzpQb99X	生き物のシード: kreUDafxxeN8tzpQb99X
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tiristidrom, "Rimshort".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここTiristidrom「Rimshort」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+** Starting New Outpost **	** 新しい前哨地を開始 **
+Seed: 80ZwReAzZhRitsbChFiO	シード: 80ZwReAzZhRitsbChFiO
+History Seed: kX8xW1tBb9IFQHIFZmZJ	歴史のシード: kX8xW1tBb9IFQHIFZmZJ
+Name Seed: BhMftaxflMZqbDL6G27F	名前のシード: BhMftaxflMZqbDL6G27F
+Creature Seed: 78XoafZuKJZzJxexCa8g	生き物のシード: 78XoafZuKJZzJxexCa8g
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the carnotaurus get hungry. [B]A new chapter of dwarven history begins here at this place, Lulârtobul, "Rootedcanyon".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。カルノタウルスが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここLulârtobul「Rootedcanyon」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Tosidråsh, "Armordies".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここTosidråsh「Armordies」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Duthaldegël, "Worthgalleys".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここDuthaldegël「Worthgalleys」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Libashlist, "Axegaze".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここLibashlist「Axegaze」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Dakosttun, "Floordoors".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここDakosttun「Floordoors」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Orstistvutok, "Reclusefigure".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここOrstistvutok「Reclusefigure」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Alåthstibmer, "Boltshore".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここAlåthstibmer「Boltshore」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Zanossibrek, "Hopesalves".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここZanossibrek「Hopesalves」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+There is nothing to catch in the central swamps.	中央の湿地には獲れるものが何もない。
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Koganakmam, "Boatsink".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここKoganakmam「Boatsink」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+The kea attacks the stray dog but She jumps away!	ケアは野良犬に攻撃したが、かわされた！
+The stray dog scratches the kea in the second toe, right foot, but the attack glances away!	野良犬はケアの第2足指、右足を引っかいたが、攻撃はそれた！
+The kea snatches at the stray dog in the left front paw with his first toe, left foot, denting the skin!	ケアは第1足指（左足）で野良犬の左前足につかみかかった（肌にへこみ）！
+The stray dog misses the kea!	野良犬の攻撃はケアに外れた！
+The kea snatches at the stray dog in the left front leg with his first toe, right foot, denting the skin and bruising the muscle!	ケアは第1足指（右足）で野良犬の左前脚につかみかかった（肌にへこみ、筋肉に打撲）！
+The stray dog attacks the kea but He jumps away!	野良犬はケアに攻撃したが、かわされた！
+The kea grabs the stray dog by the fourth right rear toe with her left wing!	ケアは左翼で野良犬の右の第4後足指をつかんだ！
+The stray dog breaks the grip of the kea's left wing on The stray dog's fourth right rear toe.	野良犬は野良犬の右の第4後足指をつかんでいたケアの左翼を振りほどいた。
+The stray dog bites the kea in the upper body, tearing the muscle and bruising the right lung!	野良犬はケアの上半身に噛みついた（筋肉に裂傷、右肺に打撲）！
+The kea bites the stray dog in the left front leg, denting the skin and bruising the fat!	ケアは野良犬の左前脚に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea snatches at the stray dog in the left front paw with her first toe, left foot, tearing the fat and bruising the muscle!	ケアは第1足指（左足）で野良犬の左前足につかみかかった（脂肪に裂傷、筋肉に打撲）！
+The force bends the left front leg!	衝撃で左前脚が曲がった！
+The stray dog attacks the kea but She jumps away!	野良犬はケアに攻撃したが、かわされた！
+The kea bites the stray dog in the left rear paw, denting the skin and bruising the fat!	ケアは野良犬の左後足に噛みついた（肌にへこみ、脂肪に打撲）！
+The kea attacks the expedition leader but She jumps away!	ケアは遠征隊長に攻撃したが、かわされた！
+The kea snatches at the stray dog in the fourth left front toe with her first toe, right foot, but the attack glances away!	ケアは第1足指（右足）で野良犬の左の第4前足指につかみかかったが、攻撃はそれた！
+The force pulls the left front paw!	衝撃で左前足が引っ張られた！
+The expedition leader attacks the kea but He jumps away!	遠征隊長はケアに攻撃したが、かわされた！
+The kea misses the expedition leader!	ケアの攻撃は遠征隊長に外れた！
+The expedition leader misses the kea!	遠征隊長の攻撃はケアに外れた！
+The stray dog bites the kea in the left foot, tearing apart the skin!	野良犬はケアの左足に噛みついた（肌がずたずたに）！
+The kea snatches at the expedition leader in the left upper arm with his first toe, right foot, bruising the muscle through the (cave spider silk dress)!	ケアは第1足指（右足）で遠征隊長の左上腕につかみかかった（洞窟グモの絹のドレス越しに筋肉に打撲）！
+The expedition leader punches the kea in the right wing with her right hand, but the attack glances away!	遠征隊長は右手でケアの右翼を殴ったが、攻撃はそれた！
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the left kidney!	漁師は左手でケアの下半身を殴った（筋肉に打撲、左腎臓に打撲）！
+The kea is propelled away by the force of the blow!	ケアは打撃の勢いで吹き飛ばされた！
+The expedition leader grabs the kea by the first toe, left foot with her right hand, but the attack glances away!	遠征隊長は右手でケアの第1足指、左足をつかもうとしたが、それた！
+The kea bites the stray dog in the lower body, denting the skin and bruising the fat!	ケアは野良犬の下半身に噛みついた（肌にへこみ、脂肪に打撲）！
+The expedition leader punches the kea in the left foot with her right hand, bruising the skin!	遠征隊長は右手でケアの左足を殴った（肌に打撲）！
+The kea snatches at the stray dog in the tail with her first toe, left foot, tearing the fat!	ケアは第1足指（左足）で野良犬の尾につかみかかった（脂肪に裂傷）！
+The kea's left wing skids along the ground, bruising the muscle!	ケアの左翼は地面を滑った（筋肉に打撲）！
+The fisherdwarf punches the kea in the lower body with his left hand, bruising the muscle and bruising the guts!	漁師は左手でケアの下半身を殴った（筋肉に打撲、腸に打撲）！
+The kea looks sick!	ケアは具合が悪そうだ！
+The stray dog bites the kea in the left upper leg, tearing apart the skin!	野良犬はケアの左上脚に噛みついた（肌がずたずたに）！
+The stonecrafter punches the kea in the upper body with her left hand, bruising the muscle and bruising the left lung!	石細工師は左手でケアの上半身を殴った（筋肉に打撲、左肺に打撲）！
+The expedition leader punches the kea in the upper body with her right hand, bruising the muscle and shattering the right false ribs!	遠征隊長は右手でケアの上半身を殴った（筋肉に打撲、右の偽肋を粉砕）！
+The kea slams into an obstacle!	ケアは障害物に激突した！
+The fisherdwarf punches the kea in the right upper leg with his left hand and the injured part is smashed into the body, an unrecognizable mass!	漁師は左手でケアの右上脚を殴った（負傷した部位が体にめり込み、原形をとどめない）！
+An artery has been opened by the attack!	動脈が裂けた！
+The force bends the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右腰が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+A ligament has been torn and a tendon has been torn!	靭帯と腱が切れた！
+The kea gives in to pain.	ケアは痛みに屈した。
+The kea bites the stray dog in the fourth left rear toe, but the attack glances away!	ケアは野良犬の左の第4後足指に噛みついたが、攻撃はそれた！
+The kea latches on firmly!	ケアはしっかりと食らいついた！
+The stonecrafter grabs the kea by the third toe, right foot with her left lower arm!	石細工師は左前腕でケアの第3足指、右足をつかんだ！
+The kea vomits.	ケアは嘔吐した。
+The expedition leader punches the kea in the head with her left hand and the injured part collapses into a lump of gore!	遠征隊長は左手でケアの頭を殴った（負傷した部位が血肉の塊になった）！
+The stray dog charges at the kea!	野良犬はケアに突撃する！
+The stray dog collides with the kea!	野良犬はケアにぶつかった！
+The kea is knocked over and tumbles backward!	ケアは倒されて後ろに転がった！
+The kea stands up.	ケアは立ち上がった。
+The kea misses the stray dog!	ケアの攻撃は野良犬に外れた！
+The fisherdwarf attacks the kea but She jumps away!	漁師はケアに攻撃したが、かわされた！
+The kea snatches at the fisherdwarf in the lower body with her first toe, right foot, bruising the muscle and bruising the left kidney through the (alpaca wool tunic)!	ケアは第1足指（右足）で漁師の下半身につかみかかった（筋肉に打撲、アルパカの羊毛のチュニック越しに左腎臓に打撲）！
+The fisherdwarf charges at the expedition leader!	漁師は遠征隊長に突撃する！
+The fisherdwarf collides with the expedition leader!	漁師は遠征隊長にぶつかった！
+The fisherdwarf bounces backward!	漁師は後ろに跳ね返された！
+The fisherdwarf misses the kea!	漁師の攻撃はケアに外れた！
+The expedition leader punches the kea in the lower body with her left hand, bruising the fat!	遠征隊長は左手でケアの下半身を殴った（脂肪に打撲）！
+The kea has become enraged!	ケアは激怒した！
+The kea misses the fisherdwarf!	ケアの攻撃は漁師に外れた！
+The fisherdwarf grabs the kea by the left lower leg with his left upper arm!	漁師は左上腕でケアの左下脚をつかんだ！
+The expedition leader grabs the kea by the second toe, right foot with her right lower arm!	遠征隊長は右前腕でケアの第2足指、右足をつかんだ！
+The kea snatches at the fisherdwarf in the left lower leg with her first toe, right foot, bruising the fat through the (giant cave spider silk trousers)!	ケアは第1足指（右足）で漁師の左下脚につかみかかった（巨大洞窟グモの絹のズボン越しに脂肪に打撲）！
+The fisherdwarf punches the kea in the neck with his left hand, bruising the fat!	漁師は左手でケアの首を殴った（脂肪に打撲）！
+The expedition leader throws the kea by the second toe, right foot with The expedition leader's right lower arm!	遠征隊長はTheでケアを第2足指、右足を掴んで投げ飛ばす遠征隊長の右前腕！
+The expedition leader punches the kea in the head with her left hand and the injured part explodes into gore!	遠征隊長は左手でケアの頭を殴った（負傷した部位が血肉となって飛び散った）！
+The kea has been knocked unconscious!	ケアは気絶した！
+The fisherdwarf jumps out of the kea's flight path!	漁師は飛んでくるケアをよけた！
+The kea's head skids along the ground, bruising the muscle, bruising the skull!	ケアの頭は地面を滑った（筋肉に打撲、頭蓋骨に打撲）！
+The kea's left wing skids along the ground, bruising the bone!	ケアの左翼は地面を滑った（骨に打撲）！
+The fisherdwarf is no longer stunned.	漁師の朦朧状態が解けた。
+The kea's upper body skids along the ground, bruising the muscle and bruising the liver!	ケアの上半身は地面を滑った（筋肉に打撲、肝臓に打撲）！
+The fisherdwarf stands up.	漁師は立ち上がった。
+The stonecrafter stands up.	石細工師は立ち上がった。
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Åbleludib, "Bustsyrup".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここÅbleludib「Bustsyrup」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+A snow storm has come.	吹雪がやって来た。
+It has started raining.	雨が降り始めた。
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Rigòthbomrek, "Craftswhip".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここRigòthbomrek「Craftswhip」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the dingoes get hungry. [B]A new chapter of dwarven history begins here at this place, Ducimgomath, "Worklegend".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ディンゴが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここDucimgomath「Worklegend」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Zasit Vudthar.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the cougars get hungry. [B]A new chapter of dwarven history begins here at this place, Kilrudustir, "Bronzecrow".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Zasit Vudthar全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ピューマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここKilrudustir「Bronzecrow」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+The weather has cleared.	天気が回復しました。
+An animal has grown to become a Stray Yak Bull.	動物が成長して野良ヤク（雄）になった。
+It is now summer.	夏になった。
+Some migrants have arrived.	移民が到着しました。
+Autumn has come.	秋が来ました。
+The outpost liaison Datan Mörulamud from Zasit Vudthar has arrived.	Zasit Vudtharの前哨地連絡官Datan Mörulamudが到着した。
+Although it is a grim reminder of the winter hardships to come, the supply caravan from The Knives of Ransacking is a welcome sight. Their eyes are alight with the anticipation of inspecting the splendid products of your industrious craftsdwarves. [B]Take careful stock of your own stores. What these merchants offer might very well be the difference between a prosperous future and a slow and meaningless death.	来たる冬の厳しさを思い起こさせるものではあるが、The Knives of Ransackingからの補給のキャラバンはありがたい光景だ。彼らの目は、勤勉な職人ドワーフたちの見事な品々を見られる期待に輝いている。[B]自分の備蓄をよく確認してください。これらの商人が提供するものは、繁栄する未来と、緩慢で無意味な死との違いになるかもしれない。
+The merchants need a trade depot to unload their goods.	商人が荷物を降ろすには交易所が必要です。
+** Loading Fortress **	** 要塞を読み込み中 **
+You've finally got your equipment together, such as it is.  Now it's time for action and adventure!  In the rush of excitement, you've forgotten where you were going to go.  Perhaps some of your friends here can remind you.	ひとまず装備は揃いました。さあ、行動と冒険の時です！興奮のあまり、どこへ向かうつもりだったのか忘れてしまいました。ここにいる仲間の中には、思い出させてくれる者もいるかもしれません。
+** Starting Adventure **	** 冒険を開始 **
+You: Hello Nomal.	あなた「こんにちは、Nomal」
+The farmer Nomal Koganusen: Hello.  It is good to see you.	農家のNomal Koganusen「こんにちは。会えて嬉しいぞ」
+The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.	宝石細工師のKosoth Isethdeler（農家のKogan Lelumingishへ）「よう。わしの名はKosoth Queststeelだ」
+The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.	農家のKogan Lelumingish（宝石細工師のKosoth Isethdelerへ）「ああ、こんにちは。Kogan Wanebodiceだ」
+You: Hello Momuz.  This servant of labor greets you.	あなた「こんにちは、Momuz。労働に仕える者が挨拶する」
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): Greetings.  My name is Dastot Dyerose.	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「よう。わしの名はDastot Dyeroseだ」
+The farmer Momuz Mengrab: Hello.  It is good to see you.	農家のMomuz Mengrab「こんにちは。会えて嬉しいぞ」
+The farmer Geshud Zontögum (to the farmer Dastot Atírlocun): Ah, hello.  I'm Geshud Helmverse.	農家のGeshud Zontögum（農家のDastot Atírlocunへ）「ああ、こんにちは。Geshud Helmverseだ」
+You: Let's trade.	あなた「取引しよう」
+The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): ... and the goblins said, "Are you going to eat that?"	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「…するとゴブリンが『それ、食べないの？』と言ったのさ」
+The farmer Momuz Mengrab: You should probably try a shopkeeper.	農家のMomuz Mengrab「店主に当たってみるといいだろう」
+You: Here's something you might be interested in...	あなた「興味がありそうな話があるんだが……」
+The farmer Kogan Lelumingish: Really?  Please come closer.	農家のKogan Lelumingish「本当か？　もっと近くに来てくれ」
+The farmer Kogan Lelumingish: Really?  Alright.	農家のKogan Lelumingish「本当か？わかった」
+You attack the farmer Avuz Duthalid but She jumps away!	あなたは農家のAvuz Duthalidに攻撃したが、かわされた！
+You hack the animal caretaker Unib Adilgim in the upper body with your iron battle axe, tearing apart the muscle and tearing apart the liver through the xwater buffalo leather tunicx!	あなたは鉄の戦斧で動物の世話係のUnib Adilgimの上半身を叩き斬った（筋肉がずたずたに、x水牛の革のチュニックx越しに肝臓がずたずたに）！
+The animal caretaker Unib Adilgim: I must withdraw!	動物の世話係のUnib Adilgim「退かなければ！」
+The herbalist Sigun Borlonerib: There's fighting!  I feel very uneasy.	薬草師のSigun Borlonerib「戦ってるぞ！ひどく落ち着かない」
+You: How have things been?	あなた「調子はどうだい？」
+The animal caretaker Unib Adilgim: How fleeting life is...  Begone fear!	動物の世話係のUnib Adilgim「命とはなんとはかないんだ……恐れなど消えろ！」
+The herbalist Sigun Borlonerib: Well, let's see...	薬草師のSigun Borlonerib「さて、どうかな……」
+You: Tell me about the local ruler.	あなた「ここの支配者について教えてくれ」
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): Greetings.  My name is Kosoth Vesseltalk.	農家のKosoth Eralmasos（農家のBëmbul Mengberへ）「よう。わしの名はKosoth Vesseltalkだ」
+The farmer Bëmbul Mengber: It was raining on me.  It's annoying.	農家のBëmbul Mengber「雨に降られていた。うっとうしいことだ」
+The hunter Thîkut Samamustuth: The Trussed Armor rules Plaittome.  I don't care one way or another.	狩人のThîkut Samamustuth「PlaittomeはThe Trussed Armorが治めている。どっちでも構わない」
+You attack the hunter Thîkut Samamustuth but He jumps away!	あなたは狩人のThîkut Samamustuthに攻撃したが、かわされた！
+The farmer Kosoth Eralmasos: I was out in the rain.  That's very annoying.	農家のKosoth Eralmasos「雨の中に出ていた。まったく腹立たしい」
+The farmer Bëmbul Mengber (to the farmer Kosoth Eralmasos): Ah, hello.  I'm Bëmbul Lashearths.	農家のBëmbul Mengber（農家のKosoth Eralmasosへ）「ああ、こんにちは。Bëmbul Lashearthsだ」
+You bash the hunter Thîkut Samamustuth in the upper body from behind with your iron mace, bruising the muscle and bruising the right lung through the pig tail tunic!	あなたは背後から鉄のメイスで狩人のThîkut Samamustuthの上半身を殴りつけた（筋肉に打撲、ピッグテイルのチュニック越しに右肺に打撲）！
+The hunter Thîkut Samamustuth is having trouble breathing!	狩人のThîkut Samamustuthは息が苦しそうだ！
+The hunter Thîkut Samamustuth: Help!  Save me!	狩人のThîkut Samamustuth「助けて！誰か！」
+The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): I've been rained on.  That's very annoying.	農家のKosoth Eralmasos（農家のBëmbul Mengberへ）「雨に降られた。まったく腹立たしい」
+The farmer Bëmbul Mengber: There's fighting!  I feel very uneasy.	農家のBëmbul Mengber「戦ってるぞ！ひどく落ち着かない」
+The hunter Thîkut Samamustuth: Has the tide turned?  I am not scared!	狩人のThîkut Samamustuth「流れは変わったか？怖くなんかない！」
+The mayor Naco Ciraathe: A battle!  I feel very uneasy.	市長のNaco Ciraathe「戦いだ！ひどく落ち着かない」
+The hunter Thîkut Samamustuth: Can it all end so quickly?  Begone fear!	狩人のThîkut Samamustuth「全部こんなに早く終わるのか？恐れなど消えろ！」
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and bruising the right lung through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、ラマの羊毛のチュニック越しに右肺に打撲）！
+The mayor Naco Ciraathe misses you!	市長のNaco Ciraatheの攻撃はあなたに外れた！
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the fat through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（ラマの羊毛のチュニック越しに脂肪に打撲）！
+The hunter Thîkut Samamustuth: A battle!  I feel very uneasy.	狩人のThîkut Samamustuth「戦いだ！ひどく落ち着かない」
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle, jamming the left false ribs through the left lung and tearing the left lung!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、左の偽肋が左肺を貫く、左肺に裂傷）！
+The mayor Naco Ciraathe is having trouble breathing!	市長のNaco Ciraatheは息が苦しそうだ！
+You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and shattering the left floating ribs through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、ラマの羊毛のチュニック越しに左の浮遊肋を粉砕）！
+The mayor Naco Ciraathe: Stop!  This isn't happening!	市長のNaco Ciraathe「やめろ！　こんなこと、あり得ない！」
+You: I've defeated many fearsome opponents!	あなた「多くの恐ろしい敵を倒してきた！」
+The gem setter Kosoth Isethdeler: The Rhythmic Boat rules Painthame.  It's for the best.	宝石細工師のKosoth Isethdeler「PainthameはThe Rhythmic Boatが治めている。それが一番いいんだ」
+You: Do they have a firm grip on these lands?	あなた「彼らはこの土地をしっかり掌握しているのか？」
+The gem setter Kosoth Isethdeler: They do not feel challenged at all.	宝石細工師のKosoth Isethdeler「彼らは全く手応えを感じていない」
+You: Where are their forces?  Are there patrols or guards?	あなた「奴らの兵力はどこだ？巡回や見張りはいるのか？」
+The gem setter Kosoth Isethdeler: You sound like a troublemaker.	宝石細工師のKosoth Isethdeler「厄介者みたいだな」
+The bowyer Imec Gicthosmsana: The Councils of Knowing rules Echobrand.  Engdul Jackjumped is lord.  I don't care one way or another.	弓職人のImec Gicthosmsana「EchobrandはThe Councils of Knowingが治めている。領主はEngdul Jackjumpedだ。どっちでも構わない」
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Mengomet, "Lashedflukes".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここMengomet「Lashedflukes」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the black bears get hungry. [B]A new chapter of dwarven history begins here at this place, Bomreksedur, "Whipemerald".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。クロクマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここBomreksedur「Whipemerald」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+There is nothing to catch in the northwestern swamps.	北西の湿地には獲れるものが何もない。
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the black bears get hungry. [B]A new chapter of dwarven history begins here at this place, Nakuthmelbil, "Braidedtome".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。クロクマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここNakuthmelbil「Braidedtome」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the jaguars get hungry. [B]A new chapter of dwarven history begins here at this place, Gikutinod, "Dabblegate".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。ジャガーが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここGikutinod「Dabblegate」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
+Reg Monangkeskal "Drillshot", Woodworker is taken by a fey mood!	Reg Monangkeskal "Drillshot"、木工職人は妖精の気分に囚われた！
+Merchants have arrived and are unloading their goods.	商人が到着し、荷を降ろしています。
+Stray Yak Cow (Tame) has given birth to a yak calf.	Stray Yak Cow (Tame)がヤクの子を産んだ。
+An animal has grown to become a Stray Reindeer Bull.	動物が成長して野良トナカイ（雄）になった。
+The merchants from Zasit Vudthar will be leaving soon.	Zasit Vudtharの商人たちはまもなく発つ。
+The merchants from Zasit Vudthar have embarked on their journey.	Zasit Vudtharの商人たちは帰路についた。
+A diplomat could not complete a meeting and has left unhappy.	外交官は会談を終えられず、不満を抱いて去りました。
+The kea bites the stray dog in the lower body, denting the skin and bruising the muscle and bruising the right kidney!	ケアは野良犬の下半身に噛みついた（肌にへこみ、筋肉に打撲、右腎臓に打撲）！
+The kea snatches at the stray dog in the right rear paw with his first toe, right foot, denting the skin!	ケアは第1足指（右足）で野良犬の右後足につかみかかった（肌にへこみ）！
+The kea snatches at the stray dog in the tail with her first toe, left foot, denting the skin and bruising the muscle!	ケアは第1足指（左足）で野良犬の尾につかみかかった（肌にへこみ、筋肉に打撲）！
+The stray dog bites the kea in the third toe, left foot, shattering the talon!	野良犬はケアの第3足指に噛みついた（左足、鋭爪を粉砕）！
+The force twists the left foot, tearing apart the muscle and bruising the bone and tearing apart the left ankle's muscle and bruising the bone!	衝撃で左足がねじれた（筋肉がずたずたに、骨に打撲、左足首の筋肉がずたずたに、骨に打撲）！
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!	動脈が切り裂かれ、多くの神経が切断された、靭帯が裂けた、腱が裂けた！
+A ligament in the left ankle has been torn and a tendon has been torn!	左足首の靭帯が切れた、腱が切れた！
+The stray dog breaks the grip of The kea's beak on the stray dog's lower body.	野良犬は野良犬の下半身をつかんでいたケアのくちばしを振りほどいた。
+The kea falls over.	ケアは倒れた。
+The stray dog attacks the kea but She scrambles away!	野良犬はケアに攻撃したが、逃げられた！
+The kea bites the stray dog in the right rear paw, denting the skin and bruising the muscle!	ケアは野良犬の右後足に噛みついた（肌にへこみ、筋肉に打撲）！
+The stray dog bites the kea in the right wing, tearing apart the fat!	野良犬はケアの右翼に噛みついた（脂肪がずたずたに）！
+The kea bites the stray dog in the lower body, denting the skin and bruising the muscle and bruising the stomach!	ケアは野良犬の下半身に噛みついた（肌にへこみ、筋肉に打撲、胃に打撲）！
+The stray dog scratches the kea in the second toe, left foot, shattering the talon!	野良犬はケアの第2足指を引っかいた（左足、鋭爪を粉砕）！
+The force twists the left foot, bruising the muscle and the bone and bruising the left ankle's muscle and the bone!	衝撃で左足がねじれた（筋肉、骨に打撲、左足首の筋肉に打撲、骨）！
+A ligament has been bruised and a tendon has been bruised!	靭帯に打撲、腱に打撲！
+A ligament in the left ankle has been bruised and a tendon has been bruised!	左足首の靭帯に打撲、腱に打撲！
+The kea snatches at the stray dog in the left rear leg with her first toe, right foot, denting the skin and bruising the muscle!	ケアは第1足指（右足）で野良犬の左後脚につかみかかった（肌にへこみ、筋肉に打撲）！
+The kea snatches at the stray dog in the right front paw with his first toe, left foot, tearing the fat and bruising the muscle!	ケアは第1足指（左足）で野良犬の右前足につかみかかった（脂肪に裂傷、筋肉に打撲）！
+The engraver punches the kea in the neck with her left hand, but the attack glances away!	彫刻師は左手でケアの首を殴ったが、攻撃はそれた！
+Olon Ungòbcatten, Engraver: In the midst of conflict...  I laugh in the face of death!	Olon Ungòbcatten、彫刻師「争いのただ中で……死など笑い飛ばしてやる！」
+The kea attacks the engraver but She jumps away!	ケアは彫刻師に攻撃したが、かわされた！
+The stray dog bites the kea in the right lower leg, tearing apart the skin!	野良犬はケアの右下脚に噛みついた（肌がずたずたに）！
+The engraver grabs the kea by the lower body with her right lower arm!	彫刻師は右前腕でケアの下半身をつかんだ！
+The kea misses the engraver!	ケアの攻撃は彫刻師に外れた！
+The engraver releases the grip of The engraver's right lower arm on the kea's lower body.	彫刻師はケアの下半身をつかんでいた彫刻師の右前腕を放した。
+The kea bites the engraver in the left foot, bruising the muscle through the (pig tail shoe)!	ケアは彫刻師の左足に噛みついた（ピッグテイルの靴越しに筋肉に打撲）！
+The engraver grabs the kea by the upper body with her right upper arm!	彫刻師は右上腕でケアの上半身をつかんだ！
+The engraver releases the grip of The engraver's right upper arm on the kea's upper body.	彫刻師はケアの上半身をつかんでいた彫刻師の右上腕を放した。
+The engraver attacks the kea but She scrambles away!	彫刻師はケアに攻撃したが、逃げられた！
+The stray dog scratches the kea in the right upper leg, tearing the fat and bruising the muscle!	野良犬はケアの右上脚を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The stray dog bites the kea in the right foot, tearing apart the skin!	野良犬はケアの右足に噛みついた（肌がずたずたに）！
+The engraver grabs the kea by the left wing with her left lower arm!	彫刻師は左前腕でケアの左翼をつかんだ！
+The engraver releases the grip of The engraver's left lower arm on the kea's left wing.	彫刻師はケアの左翼をつかんでいた彫刻師の左前腕を放した。
+The engraver grabs the kea by the tongue with her left lower arm!	彫刻師は左前腕でケアの舌をつかんだ！
+The kea snatches at the engraver in the right upper arm with her first toe, right foot, bruising the fat through the (pig tail dress)!	ケアは第1足指（右足）で彫刻師の右上腕につかみかかった（ピッグテイルのドレス越しに脂肪に打撲）！
+The engraver releases the grip of The engraver's left lower arm on the kea's tongue.	彫刻師はケアの舌をつかんでいた彫刻師の左前腕を放した。
+The stray dog bites the kea in the lower body, tearing the muscle and bruising the guts!	野良犬はケアの下半身に噛みついた（筋肉に裂傷、腸に打撲）！
+The stray dog latches on firmly!	野良犬はしっかりと食らいついた！
+The engraver grabs the kea by the fourth toe, right foot with her right upper arm!	彫刻師は右上腕でケアの第4足指、右足をつかんだ！
+The engraver releases the grip of The engraver's right upper arm on the kea's fourth toe, right foot.	彫刻師はケアの第4足指、右足をつかんでいた彫刻師の右上腕を放した。
+The stray dog shakes the kea around by the lower body, tearing apart the lower body's muscle and spilling her guts!	野良犬はケアの下半身をつかんで振り回した（下半身の筋肉がずたずたに、はらわたが飛び出した）！
+An artery in the lower body has been opened by the attack!	下半身の動脈が裂けた！
+The shearer punches the kea in the lower body with his right hand, bruising the skin!	毛刈り職人は右手でケアの下半身を殴った（肌に打撲）！
+The engraver stands up.	彫刻師は立ち上がった。
+Ral Gusgashathel, Shearer: I made friends with Kadol Rockslabors.  I'm very fond.	Ral Gusgashathel、毛刈り職人「Kadol Rockslaborsと友達になった。とても好きだ」
+Olon Ungòbcatten, Engraver: I yelled at somebody in charge.  That was satisfying.	Olon Ungòbcatten、彫刻師「責任者に怒鳴りつけた。満たされた」
+Reg Monangkeskal, Woodworker cancels Strange mood: Went insane.	Reg Monangkeskal、木工職人が「奇妙な気分」を取り消し:狂気に陥った。
+Reg Monangkeskal, Woodworker has gone berserk!	Reg Monangkeskal、木工職人が錯乱した！
+The woodworker attacks the blacksmith but He jumps away!	木工職人は鍛冶師に攻撃したが、かわされた！
+The blacksmith punches the woodworker in the upper body with his left hand, bruising the muscle through the (kangaroo leather dress)!	鍛冶師は左手で木工職人の上半身を殴った（カンガルーの革のドレス越しに筋肉に打撲）！
+The blacksmith punches the woodworker in the left upper leg with his left hand, bruising the fat through the (kangaroo leather dress)!	鍛冶師は左手で木工職人の左上脚を殴った（カンガルーの革のドレス越しに脂肪に打撲）！
+The blacksmith bites the woodworker in the left hand, tearing the fat and bruising the muscle through the x(sheep wool left glove)x!	鍛冶師は木工職人の左手に噛みついた（脂肪に裂傷、x(羊の羊毛の左の手袋)x越しに筋肉に打撲）！
+The blacksmith latches on firmly!	鍛冶師はしっかりと食らいついた！
+The woodworker hacks the blacksmith in the right hand with her (copper battle axe), tearing apart the fat through the x(donkey leather right glove)x!	木工職人は(銅の戦斧)で鍛冶師の右手を叩き斬った（x(ロバの革の右の手袋)x越しに脂肪がずたずたに）！
+The (copper battle axe) has lodged firmly in the wound!	(銅の戦斧)が傷口にしっかり刺さった！
+The woodworker breaks the grip of The blacksmith's upper front teeth on the woodworker's left hand.	木工職人は木工職人の左手をつかんでいた鍛冶師の上前歯を振りほどいた。
+The blacksmith punches the woodworker in the left lower leg with his left hand, bruising the fat through the (kangaroo leather dress)!	鍛冶師は左手で木工職人の左下脚を殴った（カンガルーの革のドレス越しに脂肪に打撲）！
+The woodworker pulls on the embedded (copper battle axe).	木工職人は突き刺さった(銅の戦斧)を引き抜こうとした。
+The woodworker gains possession of the (copper battle axe).	木工職人は(銅の戦斧)を手にした。
+The blacksmith punches the woodworker in the right lower leg with his left hand, bruising the fat through the (kangaroo leather dress)!	鍛冶師は左手で木工職人の右下脚を殴った（カンガルーの革のドレス越しに脂肪に打撲）！
+The blacksmith punches the woodworker in the right lower arm with his right hand, bruising the muscle through the (kangaroo leather dress)!	鍛冶師は右手で木工職人の右前腕を殴った（カンガルーの革のドレス越しに筋肉に打撲）！
+The woodworker misses the blacksmith!	木工職人の攻撃は鍛冶師に外れた！
+The blacksmith punches the woodworker in the left upper leg with his left hand, bruising the muscle through the (kangaroo leather dress)!	鍛冶師は左手で木工職人の左上脚を殴った（カンガルーの革のドレス越しに筋肉に打撲）！
+The woodworker hacks the blacksmith in the right foot with her (copper battle axe), tearing apart the skin through the x(pig tail shoe)x!	木工職人は(銅の戦斧)で鍛冶師の右足を叩き斬った（x(ピッグテイルの靴)x越しに肌がずたずたに）！
+The blacksmith punches the woodworker in the left foot with his right hand, bruising the muscle through the (pig tail shoe)!	鍛冶師は右手で木工職人の左足を殴った（ピッグテイルの靴越しに筋肉に打撲）！
+The force bends the left ankle!	衝撃で左足首が曲がった！
+The blacksmith punches the woodworker in the head with his left hand, bruising the muscle!	鍛冶師は左手で木工職人の頭を殴った（筋肉に打撲）！
+The force bends the neck, tearing apart the skin!	衝撃で首が曲がった（肌がずたずたに）！
+The blacksmith grabs the woodworker by the upper left back teeth with his left upper arm!	鍛冶師は左上腕で木工職人の左上奥歯をつかんだ！
+The woodworker hacks the blacksmith in the left lower arm with her (copper battle axe), tearing apart the fat!	木工職人は(銅の戦斧)で鍛冶師の左前腕を叩き斬った（脂肪がずたずたに）！
+The blacksmith punches the woodworker in the right foot with his left hand, bruising the muscle through the (pig tail shoe)!	鍛冶師は左手で木工職人の右足を殴った（ピッグテイルの靴越しに筋肉に打撲）！
+The force bends the right ankle!	衝撃で右足首が曲がった！
+The woodworker hacks the blacksmith in the left hand with her (copper battle axe), tearing apart the muscle through the x(donkey leather left glove)x!	木工職人は(銅の戦斧)で鍛冶師の左手を叩き斬った（x(ロバの革の左の手袋)x越しに筋肉がずたずたに）！
+Many nerves have been severed!	多くの神経が切れた！
+The blacksmith has become enraged!	鍛冶師は激怒した！
+The blacksmith bites the woodworker in the head, tearing the fat and bruising the muscle!	鍛冶師は木工職人の頭に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The woodworker has been knocked unconscious!	木工職人は気絶した！
+The force twists the neck, tearing apart the skin!	衝撃で首がねじれた（肌がずたずたに）！
+The woodworker falls over.	木工職人は倒れた。
+The blacksmith punches the woodworker in the head with his right hand, bruising the muscle!	鍛冶師は右手で木工職人の頭を殴った（筋肉に打撲）！
+The blacksmith releases the grip of The blacksmith's left upper arm from The woodworker's upper left back teeth.	鍛冶師は木工職人の左上奥歯から鍛冶師の左上腕の握りを放した。
+The force pulls the neck, tearing apart the skin!	衝撃で首が引っ張られた（肌がずたずたに）！
+Atír Urdimushul, Blacksmith: I've been wounded.  That's very annoying.	Atír Urdimushul、鍛冶師「傷を負った。まったく腹立たしい」
+The blacksmith grabs the woodworker by the left upper leg with his right hand!	鍛冶師は右手で木工職人の左上脚をつかんだ！
+The blacksmith locks the woodworker's left hip with The blacksmith's right hand!	鍛冶師は鍛冶師の右手で木工職人の左腰を極めた！
+The blacksmith bends the woodworker's left upper leg with The blacksmith's right hand and the left hip collapses!	鍛冶師は鍛冶師の右手で木工職人の左上脚を曲げ、左腰が砕けた！
+A ligament in the left hip has been torn and a tendon has been torn!	左腰の靭帯が切れた、腱が切れた！
+The blacksmith releases the joint lock of The blacksmith's right hand on the woodworker's left upper leg.	鍛冶師は木工職人の左上脚にかけた鍛冶師の右手の関節技を解いた。
+The woodworker regains consciousness.	木工職人は意識を取り戻した。
+The woodworker breaks the grip of the blacksmith's right hand on The woodworker's left upper leg.	木工職人は木工職人の左上脚をつかんでいた鍛冶師の右手を振りほどいた。
+The blacksmith punches the woodworker in the right upper leg with his right hand, bruising the muscle through the (kangaroo leather dress)!	鍛冶師は右手で木工職人の右上脚を殴った（カンガルーの革のドレス越しに筋肉に打撲）！
+The force pulls the right hip!	衝撃で右腰が引っ張られた！
+The woodworker kicks the blacksmith in the left foot with her right foot, bruising the muscle through the (pig tail shoe)!	木工職人は右足で鍛冶師の左足を蹴った（ピッグテイルの靴越しに筋肉に打撲）！
+Reg Monangkeskal, Woodworker: I've been injured badly.  There is no hope!	Reg Monangkeskal、木工職人「ひどいけがをした。希望などない！」
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the (kangaroo leather dress)!	鍛冶師は右手で木工職人の左下脚を殴った（カンガルーの革のドレス越しに筋肉に打撲）！
+The woodworker punches the blacksmith in the left upper arm with her right hand, bruising the skin!	木工職人は右手で鍛冶師の左上腕を殴った（肌に打撲）！
+The blacksmith bites the woodworker in the lower body, tearing the fat and bruising the muscle and bruising the stomach through the x(kangaroo leather dress)x!	鍛冶師は木工職人の下半身に噛みついた（脂肪に裂傷、筋肉に打撲、x(カンガルーの革のドレス)x越しに胃に打撲）！
+The woodworker punches the blacksmith in the left lower leg with her left hand, bruising the fat through the (pig tail trousers)!	木工職人は左手で鍛冶師の左下脚を殴った（ピッグテイルのズボン越しに脂肪に打撲）！
+Atír Urdimushul, Blacksmith: I cannot just stand by.  This might require an answer.	Atír Urdimushul、鍛冶師「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The woodworker breaks the grip of The blacksmith's upper front teeth on the woodworker's lower body.	木工職人は木工職人の下半身をつかんでいた鍛冶師の上前歯を振りほどいた。
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the x(kangaroo leather dress)x!	鍛冶師は右手で木工職人の左下脚を殴った（x(カンガルーの革のドレス)x越しに筋肉に打撲）！
+The force bends the left knee, bruising the muscle and bruising the muscle!	衝撃で左膝が曲がった（筋肉に打撲、筋肉に打撲）！
+The blacksmith punches the woodworker in the left upper arm with his right hand, bruising the bone through the x(kangaroo leather dress)x!	鍛冶師は右手で木工職人の左上腕を殴った（x(カンガルーの革のドレス)x越しに骨に打撲）！
+The force pulls the left shoulder!	衝撃で左肩が引っ張られた！
+The expedition leader scratches the woodworker in the right foot, tearing the fat and bruising the muscle through the x(pig tail shoe)x!	遠征隊長は木工職人の右足を引っかいた（脂肪に裂傷、x(ピッグテイルの靴)x越しに筋肉に打撲）！
+The force pulls the right ankle!	衝撃で右足首が引っ張られた！
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the x(kangaroo leather dress)x!	鍛冶師は右手で木工職人の下半身を殴った（筋肉に打撲、x(カンガルーの革のドレス)x越しに腸に打撲）！
+The force bends the left knee!	衝撃で左膝が曲がった！
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the right lung through the x(kangaroo leather dress)x!	石工は左手で木工職人の上半身を殴った（筋肉に打撲、x(カンガルーの革のドレス)x越しに右肺に打撲）！
+The woodworker is having trouble breathing!	木工職人は息が苦しそうだ！
+Nish Zasitnakas, expedition leader: I must withdraw!	Nish Zasitnakas、遠征隊長「退かなければ！」
+The blacksmith punches the woodworker in the right lower arm with his right hand, bruising the muscle through the x(kangaroo leather dress)x!	鍛冶師は右手で木工職人の右前腕を殴った（x(カンガルーの革のドレス)x越しに筋肉に打撲）！
+The force twists the right elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右肘がねじれた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The mason punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the lower spine's bone through the x(kangaroo leather dress)x!	石工は右手で木工職人の下半身を殴った（筋肉に打撲、x(カンガルーの革のドレス)x越しに下部脊椎の骨に打撲）！
+The mason grabs the woodworker by the second toe, left foot with his right upper arm!	石工は右上腕で木工職人の第2足指、左足をつかんだ！
+The blacksmith grabs the woodworker by the fourth toe, left foot with his right lower arm!	鍛冶師は右前腕で木工職人の第4足指、左足をつかんだ！
+The blacksmith punches the woodworker in the right lower leg with his right hand, bruising the muscle through the x(kangaroo leather dress)x!	鍛冶師は右手で木工職人の右下脚を殴った（x(カンガルーの革のドレス)x越しに筋肉に打撲）！
+The force twists the right knee, tearing apart the muscle and tearing apart the muscle!	衝撃で右膝がねじれた（筋肉がずたずたに、筋肉がずたずたに）！
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the spleen through the x(kangaroo leather dress)x!	石工は左手で木工職人の下半身を殴った（筋肉に打撲、x(カンガルーの革のドレス)x越しに脾臓に打撲）！
+The woodworker is no longer stunned.	木工職人の朦朧状態が解けた。
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the stomach through the x(kangaroo leather dress)x!	石工は左手で木工職人の下半身を殴った（筋肉に打撲、x(カンガルーの革のドレス)x越しに胃に打撲）！
+The woodworker breaks the grip of the blacksmith's right lower arm on The woodworker's fourth toe, left foot.	木工職人は木工職人の第4足指、左足をつかんでいた鍛冶師の右前腕を振りほどいた。
+Reg Monangkeskal, Woodworker: I have improved my fighting.  That was satisfying.	Reg Monangkeskal、木工職人「自分の戦闘を上達させた。満たされた」
+The woodworker misses the mason!	木工職人の攻撃は石工に外れた！
+The blacksmith bites the woodworker in the left upper arm, tearing the fat and bruising the muscle through the X(kangaroo leather dress)X!	鍛冶師は木工職人の左上腕に噛みついた（脂肪に裂傷、X(カンガルーの革のドレス)X越しに筋肉に打撲）！
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the left lung through the X(kangaroo leather dress)X!	石工は左手で木工職人の上半身を殴った（筋肉に打撲、X(カンガルーの革のドレス)X越しに左肺に打撲）！
+The woodworker is having more trouble breathing!	木工職人はさらに息が苦しそうだ！
+The woodworker has become enraged!	木工職人は激怒した！
+The mason punches the woodworker in the left hand with his right hand, bruising the muscle through the x(sheep wool left glove)x!	石工は右手で木工職人の左手を殴った（x(羊の羊毛の左の手袋)x越しに筋肉に打撲）！
+The force bends the left wrist!	衝撃で左手首が曲がった！
+The woodworker breaks the grip of The blacksmith's upper front teeth on the woodworker's left upper arm.	木工職人は木工職人の左上腕をつかんでいた鍛冶師の上前歯を振りほどいた。
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the X(kangaroo leather dress)X!	鍛冶師は右手で木工職人の左下脚を殴った（X(カンガルーの革のドレス)X越しに筋肉に打撲）！
+The mason punches the woodworker in the right lower leg with his left hand, bruising the muscle through the X(kangaroo leather dress)X!	石工は左手で木工職人の右下脚を殴った（X(カンガルーの革のドレス)X越しに筋肉に打撲）！
+The woodworker punches the mason in the left foot with her left hand, bruising the fat through the (cave spider silk shoe)!	木工職人は左手で石工の左足を殴った（洞窟グモの絹の靴越しに脂肪に打撲）！
+The blacksmith punches the woodworker in the left foot with his right hand, bruising the bone through the (pig tail shoe)!	鍛冶師は右手で木工職人の左足を殴った（ピッグテイルの靴越しに骨に打撲）！
+The force bends the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左足首が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+Atír Urdimushul, Blacksmith: I have improved my fighting.  That was satisfying.	Atír Urdimushul、鍛冶師「自分の戦闘を上達させた。満たされた」
+The mason punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the X(kangaroo leather dress)X!	石工は右手で木工職人の下半身を殴った（筋肉に打撲、X(カンガルーの革のドレス)X越しに腸に打撲）！
+The blacksmith punches the woodworker in the left upper arm with his right hand, bruising the bone through the X(kangaroo leather dress)X!	鍛冶師は右手で木工職人の左上腕を殴った（X(カンガルーの革のドレス)X越しに骨に打撲）！
+The mason punches the woodworker in the right lower arm with his left hand, bruising the muscle through the X(kangaroo leather dress)X!	石工は左手で木工職人の右前腕を殴った（X(カンガルーの革のドレス)X越しに筋肉に打撲）！
+The force pulls the right elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右肘が引っ張られた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The woodworker looks sick!	木工職人は具合が悪そうだ！
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the heart through the X(kangaroo leather dress)X!	鍛冶師は右手で木工職人の上半身を殴った（筋肉に打撲、X(カンガルーの革のドレス)X越しに心臓に打撲）！
+The woodworker breaks the grip of the mason's right upper arm on The woodworker's second toe, left foot.	木工職人は木工職人の第2足指、左足をつかんでいた石工の右上腕を振りほどいた。
+The woodworker punches the blacksmith in the upper body with her left hand, bruising the fat through the (sheep wool tunic)!	木工職人は左手で鍛冶師の上半身を殴った（羊の羊毛のチュニック越しに脂肪に打撲）！
+The blacksmith bites the woodworker in the left upper leg, tearing the fat and bruising the muscle through the XX(kangaroo leather dress)XX!	鍛冶師は木工職人の左上脚に噛みついた（脂肪に裂傷、XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The mason punches the woodworker in the right lower arm with his left hand, bruising the muscle through the XX(kangaroo leather dress)XX!	石工は左手で木工職人の右前腕を殴った（XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The force bends the right elbow, tearing apart the muscle and tearing apart the muscle!	衝撃で右肘が曲がった（筋肉がずたずたに、筋肉がずたずたに）！
+The woodworker passes out from exhaustion.	木工職人は疲れ果てて気を失った。
+Atír Urdimushul, Blacksmith is no longer enraged.	Atír Urdimushul、鍛冶師の怒りが収まった。
+The mason punches the woodworker in the head with his left hand, bruising the muscle!	石工は左手で木工職人の頭を殴った（筋肉に打撲）！
+The blacksmith shakes the woodworker around by the left upper leg, tearing apart the left upper leg's fat and bruising the bone and tearing apart the lower spine's nervous tissue!	鍛冶師は木工職人の左上脚をつかんで振り回した（左上脚の脂肪がずたずたに、骨に打撲、下部脊椎の神経組織がずたずたに）！
+A tendon in the left upper leg has been bruised!	左上脚の腱に打撲！
+A tendon in the lower spine has been torn!	下部脊椎の腱が切れた！
+The mason punches the woodworker in the head with his right hand, bruising the muscle!	石工は右手で木工職人の頭を殴った（筋肉に打撲）！
+The force pulls the neck, tearing apart the skin and bruising the fat!	衝撃で首が引っ張られた（肌がずたずたに、脂肪に打撲）！
+The mason grabs the woodworker by the x(pig tail shoe)x with his right upper arm!	石工は右上腕で木工職人のx(ピッグテイルの靴)xをつかんだ！
+The mason releases the grip of The mason's right upper arm on the woodworker's x(pig tail shoe)x.	石工は木工職人のx(ピッグテイルの靴)xをつかんでいた石工の右上腕を放した。
+The blacksmith grabs the woodworker by the lower left back teeth with his left lower arm!	鍛冶師は左前腕で木工職人の左下奥歯をつかんだ！
+The force twists the neck, tearing apart the skin and bruising the fat!	衝撃で首がねじれた（肌がずたずたに、脂肪に打撲）！
+ùshrir Eturthob, Mason: I must withdraw!	ùshrir Eturthob、石工「退かなければ！」
+The blacksmith releases the grip of The blacksmith's left lower arm on the woodworker's lower left back teeth.	鍛冶師は木工職人の左下奥歯をつかんでいた鍛冶師の左前腕を放した。
+Nish Zasitnakas, expedition leader: Help!  Save me!	Nish Zasitnakas、遠征隊長「助けて！誰か！」
+The blacksmith grabs the woodworker by the lower front teeth with his left upper arm!	鍛冶師は左上腕で木工職人の下前歯をつかんだ！
+The blacksmith releases the grip of The blacksmith's left upper arm on the woodworker's lower front teeth.	鍛冶師は木工職人の下前歯をつかんでいた鍛冶師の左上腕を放した。
+The blacksmith grabs the woodworker by the fourth finger, left hand with his right hand!	鍛冶師は右手で木工職人の第4指、左手をつかんだ！
+The blacksmith releases the grip of The blacksmith's right hand on the woodworker's fourth finger, left hand.	鍛冶師は木工職人の第4指、左手をつかんでいた鍛冶師の右手を放した。
+The blacksmith collapses and falls to the ground from over-exertion.	鍛冶師は無理がたたって倒れ込んだ。
+The blacksmith stands up.	鍛冶師は立ち上がった。
+The woodworker punches the blacksmith in the right upper arm with her left hand, bruising the muscle!	木工職人は左手で鍛冶師の右上腕を殴った（筋肉に打撲）！
+The woodworker attacks the blacksmith but He scrambles away!	木工職人は鍛冶師に攻撃したが、逃げられた！
+The blacksmith punches the woodworker in the left upper arm with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の左上腕を殴った（XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the fat through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の上半身を殴った（XX(カンガルーの革のドレス)XX越しに脂肪に打撲）！
+The woodworker punches the blacksmith in the left lower leg with her left hand, bruising the muscle through the (pig tail trousers)!	木工職人は左手で鍛冶師の左下脚を殴った（ピッグテイルのズボン越しに筋肉に打撲）！
+The force bends the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左膝が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The blacksmith kicks the woodworker in the upper body with his right foot, bruising the muscle and bruising the liver through the XX(kangaroo leather dress)XX!	鍛冶師は右足で木工職人の上半身を蹴った（筋肉に打撲、XX(カンガルーの革のドレス)XX越しに肝臓に打撲）！
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の下半身を殴った（筋肉に打撲、XX(カンガルーの革のドレス)XX越しに腸に打撲）！
+The woodworker punches the blacksmith in the right upper leg with her left hand, bruising the skin through the (sheep wool tunic)!	木工職人は左手で鍛冶師の右上脚を殴った（羊の羊毛のチュニック越しに肌に打撲）！
+The blacksmith punches the woodworker in the right upper arm with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の右上腕を殴った（XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The force pulls the right shoulder!	衝撃で右肩が引っ張られた！
+The woodworker punches the blacksmith in the left lower arm with her left hand, bruising the muscle!	木工職人は左手で鍛冶師の左前腕を殴った（筋肉に打撲）！
+The force bends the left elbow!	衝撃で左肘が曲がった！
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the right lung through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の上半身を殴った（筋肉に打撲、XX(カンガルーの革のドレス)XX越しに右肺に打撲）！
+The woodworker grabs the blacksmith by the fifth toe, left foot with her right upper arm!	木工職人は右上腕で鍛冶師の第5足指、左足をつかんだ！
+The blacksmith punches the woodworker in the left lower leg with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の左下脚を殴った（XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The force pulls the left knee, bruising the muscle and bruising the muscle!	衝撃で左膝が引っ張られた（筋肉に打撲、筋肉に打撲）！
+The woodworker punches the blacksmith in the right lower leg with her left hand, bruising the muscle through the (pig tail trousers)!	木工職人は左手で鍛冶師の右下脚を殴った（ピッグテイルのズボン越しに筋肉に打撲）！
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the left lung through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の上半身を殴った（筋肉に打撲、XX(カンガルーの革のドレス)XX越しに左肺に打撲）！
+The woodworker punches the blacksmith in the left upper leg with her left hand, bruising the muscle through the (sheep wool tunic)!	木工職人は左手で鍛冶師の左上脚を殴った（羊の羊毛のチュニック越しに筋肉に打撲）！
+The blacksmith struggles in vain against the grip of the woodworker's right upper arm on The blacksmith's fifth toe, left foot.	鍛冶師は鍛冶師の第5足指、左足をつかむ木工職人の右上腕を振りほどけない。
+Atír Urdimushul, Blacksmith: I've been injured badly.  This leaves me so shaken.	Atír Urdimushul、鍛冶師「ひどいけがをした。すっかり動揺してしまった」
+The blacksmith scratches the woodworker in the right foot, tearing the fat and bruising the muscle through the X(pig tail shoe)X!	鍛冶師は木工職人の右足を引っかいた（脂肪に裂傷、X(ピッグテイルの靴)X越しに筋肉に打撲）！
+The force twists the right ankle, bruising the muscle and bruising the muscle!	衝撃で右足首がねじれた（筋肉に打撲、筋肉に打撲）！
+The woodworker punches the blacksmith in the right upper arm with her left hand, bruising the skin!	木工職人は左手で鍛冶師の右上腕を殴った（肌に打撲）！
+The blacksmith punches the woodworker in the neck with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の首を殴った（XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The woodworker punches the blacksmith in the head with her left hand, bruising the muscle!	木工職人は左手で鍛冶師の頭を殴った（筋肉に打撲）！
+The blacksmith punches the woodworker in the right lower arm with his right hand, bruising the muscle through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の右前腕を殴った（XX(カンガルーの革のドレス)XX越しに筋肉に打撲）！
+The force twists the right elbow!	衝撃で右肘がねじれた！
+The woodworker punches the blacksmith in the upper body with her left hand, bruising the skin through the (sheep wool tunic)!	木工職人は左手で鍛冶師の上半身を殴った（羊の羊毛のチュニック越しに肌に打撲）！
+The blacksmith punches the woodworker in the left lower arm with his right hand, bruising the bone through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の左前腕を殴った（XX(カンガルーの革のドレス)XX越しに骨に打撲）！
+The force bends the left elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左肘が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The woodworker scratches the blacksmith in the left upper leg, tearing the fat through the x(sheep wool tunic)x!	木工職人は鍛冶師の左上脚を引っかいた（x(羊の羊毛のチュニック)x越しに脂肪に裂傷）！
+The blacksmith punches the woodworker in the left hand with his right hand, bruising the bone through the x(sheep wool left glove)x!	鍛冶師は右手で木工職人の左手を殴った（x(羊の羊毛の左の手袋)x越しに骨に打撲）！
+The force twists the left wrist, bruising the muscle and bruising the muscle!	衝撃で左手首がねじれた（筋肉に打撲、筋肉に打撲）！
+The woodworker scratches the blacksmith in the right foot, tearing the fat through the X(pig tail shoe)X!	木工職人は鍛冶師の右足を引っかいた（X(ピッグテイルの靴)X越しに脂肪に裂傷）！
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the middle spine's bone through the XX(kangaroo leather dress)XX!	鍛冶師は右手で木工職人の上半身を殴った（筋肉に打撲、XX(カンガルーの革のドレス)XX越しに中部脊椎の骨に打撲）！
+The woodworker scratches the blacksmith in the right upper leg, tearing the skin through the X(sheep wool tunic)X!	木工職人は鍛冶師の右上脚を引っかいた（X(羊の羊毛のチュニック)X越しに肌に裂傷）！
+The woodworker scratches the blacksmith in the left upper arm, tearing the fat!	木工職人は鍛冶師の左上腕を引っかいた（脂肪に裂傷）！
+The blacksmith scratches the woodworker in the lower left back teeth and the severed part sails off in an arc!	鍛冶師は木工職人の左下奥歯を引っかいた（切断された部位が弧を描いて飛んだ）！
+The XX(kangaroo leather dress)XX breaks!	ぼろぼろのカンガルーの革のドレスが壊れた！
+The blacksmith punches the woodworker in the right lower leg with his right hand, bruising the muscle through the X(cave spider silk trousers)X!	鍛冶師は右手で木工職人の右下脚を殴った（X(洞窟グモの絹のズボン)X越しに筋肉に打撲）！
+The force pulls the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右膝が引っ張られた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The woodworker bites the blacksmith in the lower body, tearing the fat through the XX(sheep wool tunic)XX!	木工職人は鍛冶師の下半身に噛みついた（XX(羊の羊毛のチュニック)XX越しに脂肪に裂傷）！
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts through the X(cave spider silk trousers)X!	鍛冶師は右手で木工職人の下半身を殴った（筋肉に打撲、X(洞窟グモの絹のズボン)X越しに腸に打撲）！
+The woodworker scratches the blacksmith in the upper body, tearing the fat and bruising the muscle and bruising the liver through the XX(sheep wool tunic)XX!	木工職人は鍛冶師の上半身を引っかいた（脂肪に裂傷、筋肉に打撲、XX(羊の羊毛のチュニック)XX越しに肝臓に打撲）！
+The XX(sheep wool tunic)XX is ripped to shreds!	ぼろぼろの羊の羊毛のチュニックがずたずたに引き裂かれた！
+The blacksmith scratches the woodworker in the left upper arm, tearing the fat and bruising the muscle!	鍛冶師は木工職人の左上腕を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The woodworker releases the grip of The woodworker's right upper arm on the blacksmith's fifth toe, left foot.	木工職人は鍛冶師の第5足指、左足をつかんでいた木工職人の右上腕を放した。
+The woodworker scratches the blacksmith in the right upper leg, tearing the fat and bruising the muscle through the XX(pig tail trousers)XX!	木工職人は鍛冶師の右上脚を引っかいた（脂肪に裂傷、XX(ピッグテイルのズボン)XX越しに筋肉に打撲）！
+The XX(pig tail trousers)XX is ripped to shreds!	ぼろぼろのピッグテイルのズボンがずたずたに引き裂かれた！
+The blacksmith punches the woodworker in the left lower arm with his right hand, bruising the muscle!	鍛冶師は右手で木工職人の左前腕を殴った（筋肉に打撲）！
+The force twists the left elbow, bruising the muscle and bruising the muscle!	衝撃で左肘がねじれた（筋肉に打撲、筋肉に打撲）！
+The woodworker scratches the blacksmith in the left upper arm, tearing the skin!	木工職人は鍛冶師の左上腕を引っかいた（肌に裂傷）！
+The blacksmith passes out from exhaustion.	鍛冶師は疲れ果てて気を失った。
+The woodworker scratches the blacksmith in the head, tearing the muscle!	木工職人は鍛冶師の頭を引っかいた（筋肉に裂傷）！
+Reg Monangkeskal, Woodworker is no longer enraged.	Reg Monangkeskal、木工職人の怒りが収まった。
+The woodworker grabs the blacksmith by the head with her left upper arm!	木工職人は左上腕で鍛冶師の頭をつかんだ！
+The woodworker bites the blacksmith in the head, tearing the muscle!	木工職人は鍛冶師の頭に噛みついた（筋肉に裂傷）！
+The woodworker latches on firmly!	木工職人はしっかりと食らいついた！
+Kadol Idèrith, Miner cancels Eat: Interrupted by a woodworker.	Kadol Idèrith、鉱夫が「食べる」を取り消し:木工職人により中断。
+The woodworker shakes the blacksmith around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!	木工職人は鍛冶師の頭をつかんで振り回した（頭の筋肉がずたずたに、上部脊椎の神経組織がずたずたに）！
+An artery in the head has been opened by the attack!	頭の動脈が裂けた！
+A tendon in the upper spine has been torn!	上部脊椎の腱が切れた！
+The woodworker bites the blacksmith in the head, tearing apart the muscle!	木工職人は鍛冶師の頭に噛みついた（筋肉がずたずたに）！
+The woodworker shakes the blacksmith around by the head, tearing apart the head's muscle!	木工職人は鍛冶師の頭をつかんで振り回した（頭の筋肉がずたずたに）！
+A tendon in the skull has been torn!	頭蓋骨の腱が切れた！
+The woodworker scratches the blacksmith in the head, tearing apart the muscle!	木工職人は鍛冶師の頭を引っかいた（筋肉がずたずたに）！
+The miner punches the woodworker in the upper body with his left hand, bruising the muscle, jamming the right true ribs through the left lung and tearing the left lung!	鉱夫は左手で木工職人の上半身を殴った（筋肉に打撲、右の真肋が左肺を貫く、左肺に裂傷）！
+The woodworker misses the miner!	木工職人の攻撃は鉱夫に外れた！
+Kadol Idèrith, Miner: Atír Towerrealms is dead.  I feel somewhat sad.	Kadol Idèrith、鉱夫「Atír Towerrealmsは死んだ。なんだか悲しい」
+Reg Monangkeskal, Woodworker: Reg Drillshot killed Atír Towerrealms.  I'm very angry.	Reg Monangkeskal、木工職人「Reg DrillshotがAtír Towerrealmsを殺した。ひどく腹が立つ」
+The miner punches the woodworker in the left upper arm with his left hand, bruising the bone!	鉱夫は左手で木工職人の左上腕を殴った（骨に打撲）！
+The mason punches the woodworker in the left upper arm with his right hand, bruising the muscle!	石工は右手で木工職人の左上腕を殴った（筋肉に打撲）！
+Atír Urdimushul, Blacksmith has been found dead.	Atír Urdimushul、鍛冶師は死亡な状態で発見された。
+The miner punches the woodworker in the left foot with his right hand, fracturing the bone through the (pig tail shoe)!	鉱夫は右手で木工職人の左足を殴った（ピッグテイルの靴越しに骨を骨折）！
+Stodir Shamebrigòth, Mason: This is a fight!  I must press on!	Stodir Shamebrigòth、石工「これは戦いだ！押し進むしかない！」
+Kadol Idèrith, Miner: Death is all around us.  This cannot horrify me.	Kadol Idèrith、鉱夫「死はすぐそばにあるんだ。こんなことで震え上がりはしない」
+Reg Monangkeskal, Woodworker: Atír Towerrealms is dead.  I am not feeling sad right now.	Reg Monangkeskal、木工職人「Atír Towerrealmsは死んだ。今は悲しくない」
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the right lung!	石工は左手で木工職人の上半身を殴った（筋肉に打撲、右肺に打撲）！
+The miner punches the woodworker in the right lower arm with his right hand, bruising the muscle!	鉱夫は右手で木工職人の右前腕を殴った（筋肉に打撲）！
+The kea attacks the stray yak cow but She jumps away!	ケアは野良ヤク（雌）に攻撃したが、かわされた！
+The stray dog bites the woodworker in the upper body, tearing the fat and bruising the muscle and bruising the liver!	野良犬は木工職人の上半身に噛みついた（脂肪に裂傷、筋肉に打撲、肝臓に打撲）！
+The woodworker breaks the grip of the stray dog's teeth on The woodworker's upper body.	木工職人は木工職人の上半身をつかんでいた野良犬の歯を振りほどいた。
+The mason grabs the woodworker by the nose with his right lower arm!	石工は右前腕で木工職人の鼻をつかんだ！
+Stodir Shamebrigòth, Mason: Atír Towerrealms is really dead.  I must let grief pass me by.	Stodir Shamebrigòth、石工「Atír Towerrealmsは本当に死んじまった。悲しみは、やり過ごさねば」
+The stray dog bites the woodworker in the right upper arm, tearing the fat and bruising the muscle!	野良犬は木工職人の右上腕に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The miner scratches the woodworker in the right lower leg, tearing the fat and bruising the muscle through the XX(cave spider silk trousers)XX!	鉱夫は木工職人の右下脚を引っかいた（脂肪に裂傷、XX(洞窟グモの絹のズボン)XX越しに筋肉に打撲）！
+The force pulls the right knee!	衝撃で右膝が引っ張られた！
+The mason punches the woodworker in the left lower leg with his left hand, bruising the bone through the XX(cave spider silk trousers)XX!	石工は左手で木工職人の左下脚を殴った（XX(洞窟グモの絹のズボン)XX越しに骨に打撲）！
+The force pulls the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左膝が引っ張られた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+Kadol Idèrith, Miner: Gruesome wounds!  This doesn't scare me.	Kadol Idèrith、鉱夫「ひどい傷だ！こんなもの怖くない」
+The shearer punches the woodworker in the head with his left hand, bruising the muscle!	毛刈り職人は左手で木工職人の頭を殴った（筋肉に打撲）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's right upper arm.	木工職人は木工職人の右上腕をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the woodworker in the upper body, tearing the fat and bruising the muscle!	野良犬は木工職人の上半身に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The shearer punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the liver!	毛刈り職人は右手で木工職人の上半身を殴った（筋肉に打撲、肝臓に打撲）！
+The miner punches the woodworker in the right hand with his right hand, bruising the bone through the (sheep wool right glove)!	鉱夫は右手で木工職人の右手を殴った（羊の羊毛の右の手袋越しに骨に打撲）！
+The force twists the right wrist!	衝撃で右手首がねじれた！
+The stray dog bites the woodworker in the right lower leg, tearing the fat and bruising the muscle through the XX(cave spider silk trousers)XX!	野良犬は木工職人の右下脚に噛みついた（脂肪に裂傷、XX(洞窟グモの絹のズボン)XX越しに筋肉に打撲）！
+The XX(cave spider silk trousers)XX is ripped to shreds!	ぼろぼろの洞窟グモの絹のズボンがずたずたに引き裂かれた！
+The woodworker struggles in vain against the grip of the mason's right lower arm on The woodworker's nose.	木工職人は木工職人の鼻をつかむ石工の右前腕を振りほどけない。
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the guts!	石工は左手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+Stodir Shamebrigòth, Mason: Our time in The Realms of Myth is so brief...  This doesn't scare me.	Stodir Shamebrigòth、石工「The Realms of Mythでの時間はあまりにも短い……こんなもの怖くない」
+The stray dog bites the woodworker in the right hand, tearing the fat and bruising the muscle through the x(sheep wool right glove)x!	野良犬は木工職人の右手に噛みついた（脂肪に裂傷、x(羊の羊毛の右の手袋)x越しに筋肉に打撲）！
+The force pulls the right wrist!	衝撃で右手首が引っ張られた！
+Kadol Idèrith, Miner: This is my fight too.  This might require an answer.	Kadol Idèrith、鉱夫「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The shearer punches the woodworker in the right foot with his left hand, bruising the bone through the X(pig tail shoe)X!	毛刈り職人は左手で木工職人の右足を殴った（X(ピッグテイルの靴)X越しに骨に打撲）！
+The force twists the right ankle, tearing apart the muscle and tearing apart the muscle!	衝撃で右足首がねじれた（筋肉がずたずたに、筋肉がずたずたに）！
+The miner punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the stomach!	鉱夫は左手で木工職人の下半身を殴った（筋肉に打撲、胃に打撲）！
+Reg Monangkeskal, Woodworker: I have improved my wrestling.  That was satisfying.	Reg Monangkeskal、木工職人「自分の組み討ちを上達させた。満たされた」
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's right lower leg.	木工職人は木工職人の右下脚をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the woodworker in the lower body, tearing the fat!	野良犬は木工職人の下半身に噛みついた（脂肪に裂傷）！
+The mason punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!	石工は右手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+The shearer punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!	毛刈り職人は右手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+Ral Gusgashathel, Shearer: This is a fight!  I feel no terror.	Ral Gusgashathel、毛刈り職人「これは戦いだ！恐怖は感じない」
+The miner punches the woodworker in the upper body with his left hand, bruising the muscle and bruising the left lung!	鉱夫は左手で木工職人の上半身を殴った（筋肉に打撲、左肺に打撲）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's lower body.	木工職人は木工職人の下半身をつかんでいた野良犬の歯を振りほどいた。
+The woodcrafter punches the woodworker in the left hand with her left hand, bruising the bone through the x(sheep wool left glove)x!	木工職人は左手で木工職人の左手を殴った（x(羊の羊毛の左の手袋)x越しに骨に打撲）！
+The force twists the left wrist, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左手首がねじれた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The stonecrafter punches the woodworker in the right lower leg with his left hand, bruising the muscle!	石細工師は左手で木工職人の右下脚を殴った（筋肉に打撲）！
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the pancreas!	石工は左手で木工職人の下半身を殴った（筋肉に打撲、膵臓に打撲）！
+The shearer punches the woodworker in the left foot with his left hand and the injured part collapses into a lump of gore!	毛刈り職人は左手で木工職人の左足を殴った（負傷した部位が血肉の塊になった）！
+The force twists the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左足首がねじれた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+Ingish Atulstâkud, Woodcrafter: This is my fight too.  There is no need to feel vengeful.	Ingish Atulstâkud、木工職人「これは俺の戦いでもある。復讐心を抱く必要はない」
+Stodir Shamebrigòth, Mason: I cannot just stand by.  This might require an answer.	Stodir Shamebrigòth、石工「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The stray dog bites the woodworker in the left lower leg, tearing the fat and bruising the muscle!	野良犬は木工職人の左下脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's upper body.	木工職人は木工職人の上半身をつかんでいた野良犬の歯を振りほどいた。
+The miner punches the woodworker in the right lower leg with his left hand, bruising the muscle!	鉱夫は左手で木工職人の右下脚を殴った（筋肉に打撲）！
+The force bends the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右膝が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+Kadol Idèrith, Miner: I cannot just stand by.  This might require an answer.	Kadol Idèrith、鉱夫「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The woodcrafter punches the woodworker in the upper body with her left hand, bruising the muscle and shattering the right true ribs!	木工職人は左手で木工職人の上半身を殴った（筋肉に打撲、右の真肋を粉砕）！
+Lorbam Bomrekmostib, Stonecrafter: Our time in The Realms of Myth is so brief...  This doesn't scare me.	Lorbam Bomrekmostib、石細工師「The Realms of Mythでの時間はあまりにも短い……こんなもの怖くない」
+The mason punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the spleen!	石工は左手で木工職人の下半身を殴った（筋肉に打撲、脾臓に打撲）！
+The stonecrafter punches the woodworker in the upper body with his right hand, bruising the muscle!	石細工師は右手で木工職人の上半身を殴った（筋肉に打撲）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's left lower leg.	木工職人は木工職人の左下脚をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the woodworker in the head, tearing the fat and bruising the muscle!	野良犬は木工職人の頭に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The force pulls the right knee, tearing apart the muscle and tearing apart the muscle!	衝撃で右膝が引っ張られた（筋肉がずたずたに、筋肉がずたずたに）！
+The shearer punches the woodworker in the left lower arm with his left hand, bruising the bone!	毛刈り職人は左手で木工職人の左前腕を殴った（骨に打撲）！
+The force twists the left elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左肘がねじれた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The woodcrafter punches the woodworker in the upper body with her left hand, bruising the muscle and bruising the liver!	木工職人は左手で木工職人の上半身を殴った（筋肉に打撲、肝臓に打撲）！
+Ingish Atulstâkud, Woodcrafter: I have a part in this.  There is no need to feel vengeful.	Ingish Atulstâkud、木工職人「俺もこれに関わりがある。復讐心を抱く必要はない」
+Stodir Shamebrigòth, Mason: I have a part in this.  This might require an answer.	Stodir Shamebrigòth、石工「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The stray dog scratches the woodworker in the left lower arm, tearing the fat and bruising the muscle!	野良犬は木工職人の左前腕を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The force pulls the left elbow!	衝撃で左肘が引っ張られた！
+Reg Monangkeskal, Woodworker: I have improved my dodging.  That was satisfying.	Reg Monangkeskal、木工職人「自分の回避を上達させた。満たされた」
+The mason punches the woodworker in the upper body with his right hand, bruising the muscle and bruising the liver!	石工は右手で木工職人の上半身を殴った（筋肉に打撲、肝臓に打撲）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's head.	木工職人は木工職人の頭をつかんでいた野良犬の歯を振りほどいた。
+The miner grabs the woodworker by the fourth finger, left hand with his right lower arm!	鉱夫は右前腕で木工職人の第4指、左手をつかんだ！
+The stonecrafter punches the woodworker in the right upper arm with his right hand, bruising the bone!	石細工師は右手で木工職人の右上腕を殴った（骨に打撲）！
+The stray dog scratches the woodworker in the upper body, tearing the fat and bruising the muscle and bruising the liver!	野良犬は木工職人の上半身を引っかいた（脂肪に裂傷、筋肉に打撲、肝臓に打撲）！
+The miner punches the woodworker in the right foot with his right hand and the injured part explodes into gore!	鉱夫は右手で木工職人の右足を殴った（負傷した部位が血肉となって飛び散った）！
+The woodcrafter punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the left kidney!	木工職人は左手で木工職人の下半身を殴った（筋肉に打撲、左腎臓に打撲）！
+The mason punches the woodworker in the right foot with his right hand, bruising the muscle through the X(pig tail shoe)X!	石工は右手で木工職人の右足を殴った（X(ピッグテイルの靴)X越しに筋肉に打撲）！
+The force twists the right ankle!	衝撃で右足首がねじれた！
+The shearer punches the woodworker in the right lower arm with his right hand, bruising the muscle!	毛刈り職人は右手で木工職人の右前腕を殴った（筋肉に打撲）！
+The stray dog scratches the woodworker in the left hand, bruising the bone through the X(sheep wool left glove)X!	野良犬は木工職人の左手を引っかいた（X(羊の羊毛の左の手袋)X越しに骨に打撲）！
+The force pulls the left wrist!	衝撃で左手首が引っ張られた！
+The stonecrafter punches the woodworker in the right lower arm with his left hand, bruising the muscle!	石細工師は左手で木工職人の右前腕を殴った（筋肉に打撲）！
+The force twists the right elbow, bruising the muscle and bruising the muscle!	衝撃で右肘がねじれた（筋肉に打撲、筋肉に打撲）！
+The stray dog bites the woodworker in the left hand, tearing the fat and bruising the muscle through the XX(sheep wool left glove)XX!	野良犬は木工職人の左手に噛みついた（脂肪に裂傷、XX(羊の羊毛の左の手袋)XX越しに筋肉に打撲）！
+Ral Gusgashathel, Shearer: This is my fight too.  This might require an answer.	Ral Gusgashathel、毛刈り職人「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+Lorbam Bomrekmostib, Stonecrafter: I cannot just stand by.  This might require an answer.	Lorbam Bomrekmostib、石細工師「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The miner punches the woodworker in the right upper leg with his left hand, bruising the muscle!	鉱夫は左手で木工職人の右上脚を殴った（筋肉に打撲）！
+The force bends the right hip, tearing apart the muscle and tearing apart the muscle!	衝撃で右腰が曲がった（筋肉がずたずたに、筋肉がずたずたに）！
+The woodcrafter grabs the woodworker by the right lower arm with her right lower arm!	木工職人は右前腕で木工職人の右前腕をつかんだ！
+The stonecrafter grabs the woodworker by the upper front teeth with his right lower arm!	石細工師は右前腕で木工職人の上前歯をつかんだ！
+Reg Monangkeskal, Woodworker: I have improved my striking.  That was satisfying.	Reg Monangkeskal、木工職人「自分の打撃を上達させた。満たされた」
+The shearer bites the woodworker in the right lower leg, tearing the fat and bruising the muscle!	毛刈り職人は木工職人の右下脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The shearer latches on firmly!	毛刈り職人はしっかりと食らいついた！
+The mason punches the woodworker in the right lower arm with his left hand, bruising the muscle!	石工は左手で木工職人の右前腕を殴った（筋肉に打撲）！
+The woodcrafter punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the guts!	木工職人は左手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+The stonecrafter punches the woodworker in the left upper leg with his right hand, bruising the bone!	石細工師は右手で木工職人の左上脚を殴った（骨に打撲）！
+The force twists the left hip, tearing apart the muscle and tearing apart the muscle!	衝撃で左腰がねじれた（筋肉がずたずたに、筋肉がずたずたに）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's left hand.	木工職人は木工職人の左手をつかんでいた野良犬の歯を振りほどいた。
+The kea attacks the stray yak calf but She jumps away!	ケアは野良ヤクの子に攻撃したが、かわされた！
+The stray dog bites the woodworker in the neck, tearing the fat and bruising the muscle!	野良犬は木工職人の首に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The shearer shakes the woodworker around by the right lower leg, tearing apart the right lower leg's skin and bruising the bone and tearing apart the right hip's muscle and bruising the bone!	毛刈り職人は木工職人の右下脚をつかんで振り回した（右下脚の肌がずたずたに、骨に打撲、右腰の筋肉がずたずたに、骨に打撲）！
+A ligament in the right lower leg has been bruised and a tendon has been bruised!	右下脚の靭帯に打撲、腱に打撲！
+A ligament in the right hip has been torn and a tendon has been torn!	右腰の靭帯が切れた、腱が切れた！
+The engraver kicks the woodworker in the upper body with her left foot, bruising the muscle and bruising the middle spine's bone!	彫刻師は左足で木工職人の上半身を蹴った（筋肉に打撲、中部脊椎の骨に打撲）！
+The woodcrafter punches the woodworker in the right upper arm with her right hand, bruising the muscle!	木工職人は右手で木工職人の右上腕を殴った（筋肉に打撲）！
+The force bends the right shoulder!	衝撃で右肩が曲がった！
+The mason punches the woodworker in the left foot with his right hand, bruising the bone through the (pig tail shoe)!	石工は右手で木工職人の左足を殴った（ピッグテイルの靴越しに骨に打撲）！
+The miner punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the left kidney!	鉱夫は右手で木工職人の下半身を殴った（筋肉に打撲、左腎臓に打撲）！
+The stonecrafter punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!	石細工師は右手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+The kea snatches at the stray yak calf in the left rear leg with her first toe, right foot, denting the skin!	ケアは第1足指（右足）で野良ヤクの子の左後脚につかみかかった（肌にへこみ）！
+The woodworker breaks the grip of The stray dog's teeth on the woodworker's neck.	木工職人は木工職人の首をつかんでいた野良犬の歯を振りほどいた。
+The woodcrafter locks the woodworker's right elbow with The woodcrafter's right lower arm!	木工職人は木工職人の右前腕で木工職人の右肘を極めた！
+The stray dog scratches the woodworker in the lower body, tearing the fat and bruising the muscle and bruising the left kidney!	野良犬は木工職人の下半身を引っかいた（脂肪に裂傷、筋肉に打撲、左腎臓に打撲）！
+Kadol Idèrith, Miner: I have a part in this.  This might require an answer.	Kadol Idèrith、鉱夫「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The shearer punches the woodworker in the left lower leg with his right hand, bruising the muscle!	毛刈り職人は右手で木工職人の左下脚を殴った（筋肉に打撲）！
+Olon Ungòbcatten, Engraver: I cannot just stand by.  This might require an answer.	Olon Ungòbcatten、彫刻師「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The stray dog bites the woodworker in the upper body, tearing the fat!	野良犬は木工職人の上半身に噛みついた（脂肪に裂傷）！
+The woodcrafter bends the woodworker's right lower arm with The woodcrafter's right lower arm and the right elbow collapses!	木工職人は木工職人の右前腕で木工職人の右前腕を曲げ、右肘が砕けた！
+A ligament in the right elbow has been torn and a tendon has been torn!	右肘の靭帯が切れた、腱が切れた！
+The engraver punches the woodworker in the lower body with her right hand, bruising the muscle and bruising the left kidney!	彫刻師は右手で木工職人の下半身を殴った（筋肉に打撲、左腎臓に打撲）！
+The woodworker struggles in vain against the grip of the stonecrafter's right lower arm on The woodworker's upper front teeth.	木工職人は木工職人の上前歯をつかむ石細工師の右前腕を振りほどけない。
+The woodcrafter releases the joint lock of The woodcrafter's right lower arm on the woodworker's right lower arm.	木工職人は木工職人の右前腕にかけた木工職人の右前腕の関節技を解いた。
+The kea bites the stray yak calf in the left front leg, denting the skin and bruising the muscle!	ケアは野良ヤクの子の左前脚に噛みついた（肌にへこみ、筋肉に打撲）！
+The mason bites the woodworker in the right upper leg, tearing the fat and bruising the muscle!	石工は木工職人の右上脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The mason latches on firmly!	石工はしっかりと食らいついた！
+The planter punches the woodworker in the left foot with his right hand, bruising the muscle through the (pig tail shoe)!	植え付け係は右手で木工職人の左足を殴った（ピッグテイルの靴越しに筋肉に打撲）！
+The shearer punches the woodworker in the upper body with his left hand, bruising the muscle!	毛刈り職人は左手で木工職人の上半身を殴った（筋肉に打撲）！
+The woodcrafter punches the woodworker in the lower body with her right hand, bruising the muscle and bruising the spleen!	木工職人は右手で木工職人の下半身を殴った（筋肉に打撲、脾臓に打撲）！
+Lorbam Bomrekmostib, Stonecrafter: I have a part in this.  This might require an answer.	Lorbam Bomrekmostib、石細工師「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The woodworker has been stunned!	木工職人は朦朧としている！
+The stonecrafter punches the woodworker in the right lower leg with his right hand, bruising the bone!	石細工師は右手で木工職人の右下脚を殴った（骨に打撲）！
+The force twists the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右膝がねじれた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The stray dog bites the woodworker in the lower body, tearing the fat and bruising the muscle and bruising the guts!	野良犬は木工職人の下半身に噛みついた（脂肪に裂傷、筋肉に打撲、腸に打撲）！
+The mason shakes the woodworker around by the right upper leg, tearing apart the right upper leg's fat and bruising the bone and tearing apart the lower spine's nervous tissue!	石工は木工職人の右上脚をつかんで振り回した（右上脚の脂肪がずたずたに、骨に打撲、下部脊椎の神経組織がずたずたに）！
+A tendon in the right upper leg has been torn!	右上脚の腱が切れた！
+The miner punches the woodworker in the head with his right hand, bruising the muscle!	鉱夫は右手で木工職人の頭を殴った（筋肉に打撲）！
+The engraver punches the woodworker in the upper body with her right hand, bruising the muscle and bruising the liver!	彫刻師は右手で木工職人の上半身を殴った（筋肉に打撲、肝臓に打撲）！
+The planter punches the woodworker in the head with his right hand, bruising the muscle!	植え付け係は右手で木工職人の頭を殴った（筋肉に打撲）！
+The stray dog shakes the woodworker around by the lower body, tearing apart the lower body's skin and tearing apart the lower spine's nervous tissue!	野良犬は木工職人の下半身をつかんで振り回した（下半身の肌がずたずたに、下部脊椎の神経組織がずたずたに）！
+Ral Gusgashathel, Shearer: I cannot just stand by.  This might require an answer.	Ral Gusgashathel、毛刈り職人「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+Olon Ungòbcatten, Engraver: This is my fight too.  This might require an answer.	Olon Ungòbcatten、彫刻師「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The stray dog shakes the woodworker around by the head, tearing apart the head's fat!	野良犬は木工職人の頭をつかんで振り回した（頭の脂肪がずたずたに）！
+A tendon in the skull has been bruised!	頭蓋骨の腱に打撲！
+The miner punches the woodworker in the head with his left hand, bruising the muscle!	鉱夫は左手で木工職人の頭を殴った（筋肉に打撲）！
+The woodcrafter punches the woodworker in the head with her right hand, bruising the muscle!	木工職人は右手で木工職人の頭を殴った（筋肉に打撲）！
+The stonecrafter punches the woodworker in the head with his right hand, bruising the muscle!	石細工師は右手で木工職人の頭を殴った（筋肉に打撲）！
+Melbil Aludamost, Planter: I have a part in this.  There is no need to feel vengeful.	Melbil Aludamost、植え付け係「俺もこれに関わりがある。復讐心を抱く必要はない」
+The mason releases the grip of The mason's right lower arm on the woodworker's nose.	石工は木工職人の鼻をつかんでいた石工の右前腕を放した。
+The stray dog bites the woodworker in the head, tearing the muscle!	野良犬は木工職人の頭に噛みついた（筋肉に裂傷）！
+The stray dog shakes the woodworker around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!	野良犬は木工職人の頭をつかんで振り回した（頭の脂肪がずたずたに、上部脊椎の神経組織がずたずたに）！
+The engraver punches the woodworker in the head with her left hand, bruising the muscle!	彫刻師は左手で木工職人の頭を殴った（筋肉に打撲）！
+The woodcrafter punches the woodworker in the head with her left hand, bruising the muscle!	木工職人は左手で木工職人の頭を殴った（筋肉に打撲）！
+The engraver punches the woodworker in the head with her right hand, bruising the muscle!	彫刻師は右手で木工職人の頭を殴った（筋肉に打撲）！
+The stonecrafter punches the woodworker in the head with his left hand, bruising the muscle!	石細工師は左手で木工職人の頭を殴った（筋肉に打撲）！
+The planter punches the woodworker in the head with his left hand, bruising the muscle!	植え付け係は左手で木工職人の頭を殴った（筋肉に打撲）！
+The shearer punches the woodworker in the head with his right hand, bruising the muscle!	毛刈り職人は右手で木工職人の頭を殴った（筋肉に打撲）！
+Ral Gusgashathel, Shearer: I have a part in this.  This might require an answer.	Ral Gusgashathel、毛刈り職人「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+Melbil Aludamost, Planter: I cannot just stand by.  There is no need to feel vengeful.	Melbil Aludamost、植え付け係「黙って見ているわけにはいかない。復讐心を抱く必要はない」
+The miner strikes the woodworker in the head with his (iron pick) and the severed part sails off in an arc!	鉱夫は(鉄のつるはし)で木工職人の頭を打った（切断された部位が弧を描いて飛んだ）！
+Reg Monangkeskal, Woodworker has been struck down.	Reg Monangkeskal、木工職人は討ち取られた。
+Imush Melbilsulus, Miner: This is my fight too.  This might require an answer.	Imush Melbilsulus、鉱夫「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+Melbil Aludamost, Planter: Death...  This is truly horrifying.	Melbil Aludamost、植え付け係「死…本当にぞっとする」
+Ingish Atulstâkud, Woodcrafter: Death...  This is truly horrifying.	Ingish Atulstâkud、木工職人「死…本当にぞっとする」
+Kadol Idèrith, Miner: Death is all around us.  This is truly horrifying.	Kadol Idèrith、鉱夫「死はすぐそばにあるんだ。本当にぞっとする」
+Imush Melbilsulus, Miner: Death...  This is truly horrifying.	Imush Melbilsulus、鉱夫「死…本当にぞっとする」
+Olon Ungòbcatten, Engraver: Death...  This is truly horrifying.	Olon Ungòbcatten、彫刻師「死…本当にぞっとする」
+Ingish Atulstâkud, Woodcrafter: Reg Drillshot is really dead.  I cannot give in to sadness.	Ingish Atulstâkud、木工職人「Reg Drillshotは本当に死んじまった。悲しみに屈するものか」
+The woodcrafter stands up.	木工職人は立ち上がった。
+The stray dog stands up.	野良犬は立ち上がった。
+Stodir Shamebrigòth, Mason: Reg Drillshot is really dead.  It is done.	Stodir Shamebrigòth、石工「Reg Drillshotは本当に死んじまった。済んだことだ」
+Ral Gusgashathel, Shearer: Death is all around us.  This is truly horrifying.	Ral Gusgashathel、毛刈り職人「死はすぐそばにあるんだ。本当にぞっとする」
+Lorbam Bomrekmostib, Stonecrafter: This is my fight too.  This might require an answer.	Lorbam Bomrekmostib、石細工師「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The miner stands up.	鉱夫は立ち上がった。
+Imush Melbilsulus, Miner: Imush Tomescraters killed Reg Drillshot.  This is great!	Imush Melbilsulus、鉱夫「Imush TomescratersがReg Drillshotを殺した。すばらしい！」
+Melbil Aludamost, Planter: Reg Drillshot is dead.  It is done.	Melbil Aludamost、植え付け係「Reg Drillshotは死んだ。済んだことだ」
+Kadol Idèrith, Miner: Reg Drillshot is dead.  It is done.	Kadol Idèrith、鉱夫「Reg Drillshotは死んだ。済んだことだ」
+Stodir Shamebrigòth, Mason: Death...  This is truly horrifying.	Stodir Shamebrigòth、石工「死…本当にぞっとする」
+Ral Gusgashathel, Shearer: Reg Drillshot is dead.  It is done.	Ral Gusgashathel、毛刈り職人「Reg Drillshotは死んだ。済んだことだ」
+Imush Melbilsulus, Miner: Reg Drillshot is really dead.  It is done.	Imush Melbilsulus、鉱夫「Reg Drillshotは本当に死んじまった。済んだことだ」
+The mason stands up.	石工は立ち上がった。
+Imush Melbilsulus, Miner: I cannot just stand by.  This might require an answer.	Imush Melbilsulus、鉱夫「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+Melbil Aludamost, Planter: This is my fight too.  There is no need to feel vengeful.	Melbil Aludamost、植え付け係「これは俺の戦いでもある。復讐心を抱く必要はない」
+The shearer stands up.	毛刈り職人は立ち上がった。
+The planter stands up.	植え付け係は立ち上がった。
+The kea attacks the shearer but He jumps away!	ケアは毛刈り職人に攻撃したが、かわされた！
+The kea snatches at the shearer in the right upper arm with her first toe, right foot, denting the skin and bruising the muscle!	ケアは第1足指（右足）で毛刈り職人の右上腕につかみかかった（肌にへこみ、筋肉に打撲）！
+Ral Gusgashathel, Shearer: I must withdraw!	Ral Gusgashathel、毛刈り職人「退かなければ！」
+The kea bites the stray dog in the left front paw, denting the skin and bruising the muscle!	ケアは野良犬の左前足に噛みついた（肌にへこみ、筋肉に打撲）！
+The kea bites the shearer in the right lower leg, bruising the fat through the (mountain goat leather trousers)!	ケアは毛刈り職人の右下脚に噛みついた（シロイワヤギの革のズボン越しに脂肪に打撲）！
+Imush Melbilsulus, Miner cancels Give water: No water source.	Imush Melbilsulus、鉱夫が「水を与える」を取り消し:水源がない。
+Melbil Aludamost, Planter cancels Give water: No water source.	Melbil Aludamost、植え付け係が「水を与える」を取り消し:水源がない。
+Sigun Aranolin, Metalcrafter cancels Give water: No water source.	Sigun Aranolin、金属細工師が「水を与える」を取り消し:水源がない。
+Udil Nokimzuglar, Fisherdwarf cancels Give water: No water source.	Udil Nokimzuglar、漁師が「水を与える」を取り消し:水源がない。
+Stodir Shamebrigòth, Mason cancels Give water: No water source.	Stodir Shamebrigòth、石工が「水を与える」を取り消し:水源がない。
+Your fortress is out of food!  Consider placing a farmplot on some underground soil and planting seeds.  Try building a butcher's shop and slaughtering some livestock.  Perhaps you can gather plants, fruit, or go fishing.	要塞の食料が尽きている！地下の土に農地を設けて、種をまくことを検討してください。精肉所を建設して、家畜を屠殺してみてください。植物や果実を集めたり、釣りに出かけたりしてもよいでしょう。
+Winter is upon you.	冬が訪れました。
+An animal has grown to become a Stray Cat.	動物が成長して野良猫になった。
+Ral Gusgashathel, Shearer cancels Give water: No water source.	Ral Gusgashathel、毛刈り職人が「水を与える」を取り消し:水源がない。
+Olon Ungòbcatten, Engraver cancels Give water: No water source.	Olon Ungòbcatten、彫刻師が「水を与える」を取り消し:水源がない。
+Ingish Atulstâkud, Woodcrafter cancels Give water: No water source.	Ingish Atulstâkud、木工職人が「水を与える」を取り消し:水源がない。
+ùshrir Letmosidräth, Dwarven Child cancels Give water: No water source.	ùshrir Letmosidräth, Dwarven Childが「水を与える」を取り消し:水源がない。
+Kadol Idèrith, Miner cancels Give water: No water source.	Kadol Idèrith、鉱夫が「水を与える」を取り消し:水源がない。
+Lorbam Bomrekmostib, Stonecrafter cancels Give water: No water source.	Lorbam Bomrekmostib、石細工師が「水を与える」を取り消し:水源がない。
+Olon Ungòbcatten, Engraver cancels Give water: Need empty bucket.	Olon Ungòbcatten、彫刻師が「水を与える」を取り消し:空のバケツが必要。
+Ral Gusgashathel, Shearer has been found dead, dehydrated.	Ral Gusgashathel、毛刈り職人は脱水死体で発見された。
+Olon Ungòbcatten, Engraver has been found dead, dehydrated.	Olon Ungòbcatten、彫刻師は脱水死体で発見された。
+ùshrir Eturthob, Mason cancels Give water: No water source.	ùshrir Eturthob, Masonが「水を与える」を取り消し:水源がない。
+Ingish Atulstâkud, Woodcrafter has been found dead, dehydrated.	Ingish Atulstâkud、木工職人は脱水死体で発見された。
+Kadol Idèrith, Miner has been found dead, dehydrated.	Kadol Idèrith、鉱夫は脱水死体で発見された。
+Imush Melbilsulus, Miner has been found dead, dehydrated.	Imush Melbilsulus、鉱夫は脱水死体で発見された。
+Nish Zasitnakas, expedition leader cancels Give water: Hunting vermin for food.	Nish Zasitnakas、遠征隊長が「水を与える」を取り消し:食料のために害獣を狩っている。
+Udil Nokimzuglar, Fisherdwarf cancels Give water: Hunting vermin for food.	Udil Nokimzuglar、漁師が「水を与える」を取り消し:食料のために害獣を狩っている。
+Stodir Shamebrigòth, Mason has been found dead, dehydrated.	Stodir Shamebrigòth、石工は脱水死体で発見された。
+Melbil Aludamost, Planter has been found dead, dehydrated.	Melbil Aludamost、植え付け係は脱水死体で発見された。
+Nish Zasitnakas, Administrator has been found dead, dehydrated.	Nish Zasitnakas、管理者は脱水死体で発見された。
+Sigun Sculpttongs has assumed the position of expedition leader of The Whip of Tops.	Sigun SculpttongsはThe Whip of Topsの遠征隊長に就任した。
+Imush Melbilsulus "Tomescraters", Miner withdraws from society...	Imush Melbilsulus "Tomescraters"、鉱夫は社会から身を引いた……
+Sigun Aranolin, expedition leader cancels Hunt for small creature: Interrupted by a woodworker.	Sigun Aranolin、遠征隊長が「小型生物を狩る」を取り消し:木工職人により中断。
+Udil Nokimzuglar, Fisherdwarf cancels Hunt for small creature: Interrupted by a woodworker.	Udil Nokimzuglar、漁師が「小型生物を狩る」を取り消し:木工職人により中断。
+The woodworker attacks the administrator but He jumps away!	木工職人は管理者に攻撃したが、かわされた！
+The blacksmith misses the woodworker!	鍛冶師の攻撃は木工職人に外れた！
+The stray dog bites the woodworker in the left foot, tearing the fat and bruising the muscle!	野良犬は木工職人の左足に噛みついた（脂肪に裂傷、筋肉に打撲）！
+A human caravan from Iclopesor has arrived.  Overall trade sentiments are terrible.	Iclopesorからの人間のキャラバンが到着した。交易の雰囲気は全体として最悪だ。
+A caravan from Zasit Vudthar has arrived.  Overall trade sentiments are lukewarm.	Zasit Vudtharからのキャラバンが到着した。交易の雰囲気は全体として生ぬるい。
+Atír Urdimushul, Blacksmith: This is my fight too.  This might require an answer.	Atír Urdimushul、鍛冶師「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The mason misses the woodworker!	石工の攻撃は木工職人に外れた！
+The blacksmith punches the woodworker in the right lower leg with his left hand, bruising the fat!	鍛冶師は左手で木工職人の右下脚を殴った（脂肪に打撲）！
+The dwarven child misses the woodworker!	ドワーフの子供の攻撃は木工職人に外れた！
+Nish Zasitnakas, Administrator: This is my fight too.  This might require an answer.	Nish Zasitnakas、管理者「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+ùshrir Letmosidräth, Dwarven Child: This is a fight!  I feel no terror.	ùshrir Letmosidräth、ドワーフの子供「これは戦いだ！恐怖は感じない」
+The administrator misses the woodworker!	管理者の攻撃は木工職人に外れた！
+The stray dog misses the woodworker!	野良犬の攻撃は木工職人に外れた！
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the fat!	鍛冶師は右手で木工職人の下半身を殴った（脂肪に打撲）！
+The woodworker attacks the mason but He jumps away!	木工職人は石工に攻撃したが、かわされた！
+The administrator punches the woodworker in the left upper arm with his right hand, bruising the fat!	管理者は右手で木工職人の左上腕を殴った（脂肪に打撲）！
+The stray dog bites the woodworker in the left hand, tearing the fat!	野良犬は木工職人の左手に噛みついた（脂肪に裂傷）！
+The stray dog bites the woodworker in the left upper leg, tearing the fat!	野良犬は木工職人の左上脚に噛みついた（脂肪に裂傷）！
+The dwarven child punches the woodworker in the right upper leg with her left hand, bruising the muscle!	ドワーフの子供は左手で木工職人の右上脚を殴った（筋肉に打撲）！
+The blacksmith punches the woodworker in the right hand with his right hand, bruising the fat!	鍛冶師は右手で木工職人の右手を殴った（脂肪に打撲）！
+Stodir Shamebrigòth, Mason: This is my fight too.  This might require an answer.	Stodir Shamebrigòth、石工「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+Atír Urdimushul, Blacksmith: I have a part in this.  This might require an answer.	Atír Urdimushul、鍛冶師「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+ùshrir Letmosidräth, Dwarven Child: This is my fight too.  This might require an answer.	ùshrir Letmosidräth、ドワーフの子供「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The stray dog bites the woodworker in the left upper leg, tearing the fat and bruising the muscle!	野良犬は木工職人の左上脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The force twists the left hip!	衝撃で左腰がねじれた！
+The dwarven child punches the woodworker in the first finger, left hand with her left hand and the injured part collapses!	ドワーフの子供は左手で木工職人の第1指、左手を殴った（負傷した部位が崩れた）！
+The force bends the left hand, tearing apart the skin!	衝撃で左手が曲がった（肌がずたずたに）！
+The blacksmith punches the woodworker in the upper body with his right hand, bruising the fat!	鍛冶師は右手で木工職人の上半身を殴った（脂肪に打撲）！
+The stray dog bites the woodworker in the left foot, tearing the fat!	野良犬は木工職人の左足に噛みついた（脂肪に裂傷）！
+The stray dog bites the woodworker in the right hand, tearing the skin!	野良犬は木工職人の右手に噛みついた（肌に裂傷）！
+The dwarven child punches the woodworker in the lower body with her left hand, bruising the fat!	ドワーフの子供は左手で木工職人の下半身を殴った（脂肪に打撲）！
+The stray dog bites the woodworker in the head, tearing the fat!	野良犬は木工職人の頭に噛みついた（脂肪に裂傷）！
+The stonecrafter punches the woodworker in the left lower arm with his left hand, bruising the muscle!	石細工師は左手で木工職人の左前腕を殴った（筋肉に打撲）！
+The woodworker punches the mason in the left upper arm with her left hand, bruising the fat!	木工職人は左手で石工の左上腕を殴った（脂肪に打撲）！
+The stray dog bites the woodworker in the upper lip and the injured part is torn apart!	野良犬は木工職人の上唇に噛みついた（負傷した部位が引きちぎられた）！
+The blacksmith punches the woodworker in the upper body with his left hand, bruising the muscle!	鍛冶師は左手で木工職人の上半身を殴った（筋肉に打撲）！
+The dwarven child punches the woodworker in the head with her left hand, bruising the fat!	ドワーフの子供は左手で木工職人の頭を殴った（脂肪に打撲）！
+The stonecrafter punches the woodworker in the left hand with his right hand, bruising the muscle!	石細工師は右手で木工職人の左手を殴った（筋肉に打撲）！
+The woodworker punches the stray dog in the lower body with her left hand, bruising the fat!	木工職人は左手で野良犬の下半身を殴った（脂肪に打撲）！
+The mason punches the woodworker in the upper body with his left hand, bruising the muscle, bruising the left floating ribs!	石工は左手で木工職人の上半身を殴った（筋肉に打撲、左の浮遊肋に打撲）！
+The mason charges at the woodworker!	石工は木工職人に突撃する！
+The mason collides with the woodworker!	石工は木工職人にぶつかった！
+They tangle together and tumble forward!	もつれ合って前のめりに転がった！
+The administrator punches the woodworker in the right upper leg with his left hand, bruising the muscle!	管理者は左手で木工職人の右上脚を殴った（筋肉に打撲）！
+The force twists the right hip!	衝撃で右腰がねじれた！
+Nish Zasitnakas, Administrator: I cannot just stand by.  This might require an answer.	Nish Zasitnakas、管理者「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The blacksmith punches the woodworker in the lower body with his right hand, bruising the muscle and bruising the guts!	鍛冶師は右手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+The woodworker misses the stonecrafter!	木工職人の攻撃は石細工師に外れた！
+The stonecrafter punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the right kidney!	石細工師は左手で木工職人の下半身を殴った（筋肉に打撲、右腎臓に打撲）！
+The force bends the right hip!	衝撃で右腰が曲がった！
+The woodworker punches the mason in the right lower arm with her right hand, bruising the muscle!	木工職人は右手で石工の右前腕を殴った（筋肉に打撲）！
+The shearer grabs the woodworker by the fifth toe, right foot with his left lower arm!	毛刈り職人は左前腕で木工職人の第5足指、右足をつかんだ！
+The blacksmith grabs the woodworker by the left lower arm with his left hand!	鍛冶師は左手で木工職人の左前腕をつかんだ！
+The administrator grabs the woodworker by the fifth toe, right foot with his left hand!	管理者は左手で木工職人の第5足指、右足をつかんだ！
+The shearer releases the grip of The shearer's left lower arm on the woodworker's fifth toe, right foot.	毛刈り職人は木工職人の第5足指、右足をつかんでいた毛刈り職人の左前腕を放した。
+The engraver punches the woodworker in the thumb, right hand with her left hand and the injured part collapses into a lump of gore!	彫刻師は左手で木工職人の親指、右手を殴った（負傷した部位が血肉の塊になった）！
+The force bends the right hand, tearing apart the skin and tearing apart the right elbow's muscle and bruising the bone!	衝撃で右手が曲がった（肌がずたずたに、右肘の筋肉がずたずたに、骨に打撲）！
+A ligament in the right elbow has been bruised and a tendon has been bruised!	右肘の靭帯に打撲、腱に打撲！
+ùshrir Letmosidräth, Dwarven Child: I have a part in this.  This might require an answer.	ùshrir Letmosidräth、ドワーフの子供「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The blacksmith punches the woodworker in the left foot with his right hand, bruising the muscle!	鍛冶師は右手で木工職人の左足を殴った（筋肉に打撲）！
+The force bends the left ankle, tearing apart the muscle and tearing apart the muscle!	衝撃で左足首が曲がった（筋肉がずたずたに、筋肉がずたずたに）！
+The expedition leader punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the guts!	遠征隊長は左手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+The dwarven child kicks the woodworker in the right lower arm with her left foot, bruising the muscle!	ドワーフの子供は左足で木工職人の右前腕を蹴った（筋肉に打撲）！
+Sigun Aranolin, expedition leader: This is my fight too.  This might require an answer.	Sigun Aranolin、遠征隊長「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The administrator punches the woodworker in the upper body with his left hand, bruising the muscle and shattering the right false ribs!	管理者は左手で木工職人の上半身を殴った（筋肉に打撲、右の偽肋を粉砕）！
+The force bends the neck, tearing apart the skin and bruising the fat!	衝撃で首が曲がった（肌がずたずたに、脂肪に打撲）！
+The woodworker misses the administrator!	木工職人の攻撃は管理者に外れた！
+The shearer punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the right kidney!	毛刈り職人は左手で木工職人の下半身を殴った（筋肉に打撲、右腎臓に打撲）！
+The mason kicks the woodworker in the upper body with his right foot, bruising the muscle and shattering the left true ribs!	石工は右足で木工職人の上半身を蹴った（筋肉に打撲、左の真肋を粉砕）！
+The blacksmith punches the woodworker in the lower body with his left hand, bruising the muscle and bruising the guts!	鍛冶師は左手で木工職人の下半身を殴った（筋肉に打撲、腸に打撲）！
+The woodworker looks even more sick!	木工職人はさらに具合が悪そうだ！
+The engraver punches the woodworker in the left upper arm with her left hand, bruising the muscle!	彫刻師は左手で木工職人の左上腕を殴った（筋肉に打撲）！
+The dwarven child punches the woodworker in the fourth finger, right hand with her left hand, tearing apart the skin and bruising the muscle!	ドワーフの子供は左手で木工職人の第4指、右手を殴った（肌がずたずたに、筋肉に打撲）！
+The force bends the right hand, tearing apart the skin and bruising the right elbow's muscle!	衝撃で右手が曲がった（肌がずたずたに、右肘の筋肉に打撲）！
+The administrator kicks the woodworker in the left upper leg with his left foot, bruising the muscle!	管理者は左足で木工職人の左上脚を蹴った（筋肉に打撲）！
+The stonecrafter punches the woodworker in the left lower leg with his right hand, bruising the bone!	石細工師は右手で木工職人の左下脚を殴った（骨に打撲）！
+The force twists the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左膝がねじれた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The expedition leader punches the woodworker in the lower body with her left hand, bruising the muscle and bruising the stomach!	遠征隊長は左手で木工職人の下半身を殴った（筋肉に打撲、胃に打撲）！
+The engraver punches the woodworker in the throat with her left hand and the injured part explodes into gore!	彫刻師は左手で木工職人の喉を殴った（負傷した部位が血肉となって飛び散った）！
+A major artery has been opened by the attack!	大動脈が裂けた！
+The mason grabs the woodworker by the tongue with his left upper arm!	石工は左上腕で木工職人の舌をつかんだ！
+The blacksmith adjusts the grip of The blacksmith's left hand on the woodworker's left lower arm.	鍛冶師はThe鍛冶師の左手によるthe木工職人の左前腕の握りを調整した。
+The woodworker has been stunned again!	木工職人はまた朦朧としている！
+Reg Monangkeskal, Woodworker: I have improved my armor.  That was satisfying.	Reg Monangkeskal、木工職人「自分の防具を上達させた。満たされた」
+The administrator punches the woodworker in the left lower leg with his left hand, bruising the muscle!	管理者は左手で木工職人の左下脚を殴った（筋肉に打撲）！
+The miner punches the woodworker in the right upper arm with his left hand, bruising the bone!	鉱夫は左手で木工職人の右上腕を殴った（骨に打撲）！
+The force twists the right shoulder, bruising the muscle and bruising the muscle!	衝撃で右肩がねじれた（筋肉に打撲、筋肉に打撲）！
+The shearer punches the woodworker in the left hand with his right hand, bruising the bone!	毛刈り職人は右手で木工職人の左手を殴った（骨に打撲）！
+The force pulls the left wrist, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で左手首が引っ張られた（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The blacksmith punches the woodworker in the upper body with his left hand, bruising the muscle, jamming the right true ribs through the left lung and tearing the left lung!	鍛冶師は左手で木工職人の上半身を殴った（筋肉に打撲、右の真肋が左肺を貫く、左肺に裂傷）！
+The woodworker vomits.	木工職人は嘔吐した。
+The woodworker gives in to pain.	木工職人は痛みに屈した。
+Stodir Shamebrigòth, Mason: I have improved my observation.  That was satisfying.	Stodir Shamebrigòth、石工「自分の観察を上達させた。満たされた」
+The mason punches the woodworker in the right foot with his left hand, bruising the bone!	石工は左手で木工職人の右足を殴った（骨に打撲）！
+The force bends the right ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右足首が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
+The expedition leader scratches the woodworker in the right foot, tearing the fat and bruising the muscle!	遠征隊長は木工職人の右足を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The dwarven child kicks the woodworker in the right upper leg with her left foot, bruising the muscle!	ドワーフの子供は左足で木工職人の右上脚を蹴った（筋肉に打撲）！
+ùshrir Eturthob, Mason: I cannot just stand by.  This might require an answer.	ùshrir Eturthob、石工「黙って見ているわけにはいかない。答えを出す必要があるかもしれない」
+The stonecrafter grabs the woodworker by the upper right back teeth with his right upper arm!	石細工師は右上腕で木工職人の右上奥歯をつかんだ！
+The administrator releases the grip of The administrator's left hand on the woodworker's fifth toe, right foot.	管理者は木工職人の第5足指、右足をつかんでいた管理者の左手を放した。
+The expedition leader punches the woodworker in the head with her left hand, bruising the muscle!	遠征隊長は左手で木工職人の頭を殴った（筋肉に打撲）！
+The mason is no longer stunned.	石工の朦朧状態が解けた。
+The dwarven child punches the woodworker in the head with her right hand, bruising the muscle!	ドワーフの子供は右手で木工職人の頭を殴った（筋肉に打撲）！
+The administrator punches the woodworker in the head with his left hand, bruising the muscle!	管理者は左手で木工職人の頭を殴った（筋肉に打撲）！
+Ral Gusgashathel, Shearer: I have improved my observation.  That was satisfying.	Ral Gusgashathel、毛刈り職人「自分の観察を上達させた。満たされた」
+ùshrir Eturthob, Mason: I have a part in this.  This might require an answer.	ùshrir Eturthob、石工「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The expedition leader punches the woodworker in the head with her right hand, bruising the muscle!	遠征隊長は右手で木工職人の頭を殴った（筋肉に打撲）！
+The woodworker retches.	木工職人はえずいた。
+The administrator punches the woodworker in the head with his right hand, bruising the muscle!	管理者は右手で木工職人の頭を殴った（筋肉に打撲）！
+ùshrir Eturthob, Mason: This is my fight too.  This might require an answer.	ùshrir Eturthob、石工「これは俺の戦いでもある。答えを出す必要があるかもしれない」
+The dwarven child punches the woodworker in the head with her left hand, bruising the muscle!	ドワーフの子供は左手で木工職人の頭を殴った（筋肉に打撲）！
+Lorbam Bomrekmostib, Stonecrafter: I have improved my observation.  That was satisfying.	Lorbam Bomrekmostib、石細工師「自分の観察を上達させた。満たされた」
+Olon Ungòbcatten, Engraver: I have a part in this.  This might require an answer.	Olon Ungòbcatten、彫刻師「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The fisherdwarf punches the woodworker in the head with his right hand, bruising the muscle!	漁師は右手で木工職人の頭を殴った（筋肉に打撲）！
+Kadol Idèrith, Miner: I have improved my observation.  That was not satisfying.	Kadol Idèrith、鉱夫「自分の観察を上達させた。満足できなかった」
+Nish Zasitnakas, Administrator: I have a part in this.  This might require an answer.	Nish Zasitnakas、管理者「俺もこれに関わりがある。答えを出す必要があるかもしれない」
+The fisherdwarf punches the woodworker in the head with his left hand, bruising the muscle!	漁師は左手で木工職人の頭を殴った（筋肉に打撲）！
+The engraver grabs the woodworker by the left hand with her left lower arm!	彫刻師は左前腕で木工職人の左手をつかんだ！
+The mason releases the grip of The mason's left upper arm on the woodworker's tongue.	石工は木工職人の舌をつかんでいた石工の左上腕を放した。
+Olon Ungòbcatten, Engraver: I have improved my observation.  That was satisfying.	Olon Ungòbcatten、彫刻師「自分の観察を上達させた。満たされた」
+The miner grabs the woodworker by the second finger, right hand with his left hand!	鉱夫は左手で木工職人の第2指、右手をつかんだ！
+Reg Monangkeskal, Woodworker has bled to death.	Reg Monangkeskal、木工職人は失血死した。
+Atír Urdimushul, Blacksmith: Atír Towerrealms, slayer of Reg Drillshot.  I'm a little angry.	Atír Urdimushul、鍛冶師「Atír Towerrealms、Reg Drillshotの殺し手。少し腹が立つ」
+Nish Zasitnakas, Administrator: This is my fight too.  There is no need to feel vengeful.	Nish Zasitnakas、管理者「これは俺の戦いでもある。復讐心を抱く必要はない」
+ùshrir Eturthob, Mason: I have improved my observation.  That was not satisfying.	ùshrir Eturthob、石工「自分の観察を上達させた。満足できなかった」
+Lorbam Bomrekmostib, Stonecrafter: I cannot just stand by.  There is no need to feel vengeful.	Lorbam Bomrekmostib、石細工師「黙って見ているわけにはいかない。復讐心を抱く必要はない」
+ùshrir Letmosidräth, Dwarven Child: I cannot just stand by.  There is no need to feel vengeful.	ùshrir Letmosidräth、ドワーフの子供「黙って見ているわけにはいかない。復讐心を抱く必要はない」
+Atír Urdimushul, Blacksmith: I have improved my striking.  That was satisfying.	Atír Urdimushul、鍛冶師「自分の打撃を上達させた。満たされた」
+Nish Zasitnakas, Administrator: I have a part in this.  There is no need to feel vengeful.	Nish Zasitnakas、管理者「俺もこれに関わりがある。復讐心を抱く必要はない」
+Atír Urdimushul, Blacksmith: I have improved my observation.  That was not satisfying.	Atír Urdimushul、鍛冶師「自分の観察を上達させた。満足できなかった」
+ùshrir Eturthob, Mason: This is my fight too.  There is no need to feel vengeful.	ùshrir Eturthob、石工「これは俺の戦いでもある。復讐心を抱く必要はない」
+Atír Urdimushul, Blacksmith: Reg Drillshot is really dead.  I am not feeling sad right now.	Atír Urdimushul、鍛冶師「Reg Drillshotは本当に死んじまった。今は悲しくない」
+ùshrir Eturthob, Mason: I have a part in this.  There is no need to feel vengeful.	ùshrir Eturthob、石工「俺もこれに関わりがある。復讐心を抱く必要はない」
+Lorbam Bomrekmostib, Stonecrafter: This is my fight too.  There is no need to feel vengeful.	Lorbam Bomrekmostib、石細工師「これは俺の戦いでもある。復讐心を抱く必要はない」
+Lorbam Bomrekmostib, Stonecrafter: I have a part in this.  There is no need to feel vengeful.	Lorbam Bomrekmostib、石細工師「俺もこれに関わりがある。復讐心を抱く必要はない」
+Atír Urdimushul, Blacksmith: I've been injured badly.  I can keep it together.	Atír Urdimushul、鍛冶師「ひどいけがをした。まだ平静を保てる」
+The administrator stands up.	管理者は立ち上がった。
+The stray dog attacks the kangaroo buck but He jumps away!	野良犬はカンガルー（雄）に攻撃したが、かわされた！
+The stray dog bites the kangaroo buck in the lower body, tearing the fat!	野良犬はカンガルー（雄）の下半身に噛みついた（脂肪に裂傷）！
+The stray dog bites the kangaroo buck in the left hand, tearing the muscle!	野良犬はカンガルー（雄）の左手に噛みついた（筋肉に裂傷）！
+The stray dog bites the kangaroo buck in the head, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の頭に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The kangaroo buck has been stunned!	カンガルー（雄）は朦朧としている！
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's head.	カンガルー（雄）はカンガルー（雄）の頭をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the kangaroo buck in the right lower leg, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の右下脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's right lower leg.	カンガルー（雄）はカンガルー（雄）の右下脚をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the kangaroo buck in the lower body, tearing the fat and bruising the muscle and bruising the stomach!	野良犬はカンガルー（雄）の下半身に噛みついた（脂肪に裂傷、筋肉に打撲、胃に打撲）！
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's lower body.	カンガルー（雄）はカンガルー（雄）の下半身をつかんでいた野良犬の歯を振りほどいた。
+The stray dog scratches the kangaroo buck in the right upper leg, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の右上脚を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The stray dog bites the kangaroo buck in the lower body, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の下半身に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The kangaroo buck breaks the grip of The stray dog's teeth from The kangaroo buck's lower body!	カンガルー（雄）はカンガルー（雄）の下半身をつかんでいた野良犬の歯を振りほどいた！
+The stray dog bites the kangaroo buck in the left lower arm, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の左前腕に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The force twists the left upper arm!	衝撃で左上腕がねじれた！
+The stray dog bites the kangaroo buck in the lower body, tearing the fat and bruising the muscle and bruising the guts!	野良犬はカンガルー（雄）の下半身に噛みついた（脂肪に裂傷、筋肉に打撲、腸に打撲）！
+The stray dog bites the kangaroo buck in the upper body, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の上半身に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's upper body.	カンガルー（雄）はカンガルー（雄）の上半身をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the kangaroo buck in the right foot, tearing the muscle!	野良犬はカンガルー（雄）の右足に噛みついた（筋肉に裂傷）！
+The kangaroo buck is no longer stunned.	カンガルー（雄）の朦朧状態が解けた。
+The kangaroo buck collapses and falls to the ground from over-exertion.	カンガルー（雄）は無理がたたって倒れ込んだ。
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's left lower arm.	カンガルー（雄）はカンガルー（雄）の左前腕をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the kangaroo buck in the left upper leg, tearing the skin!	野良犬はカンガルー（雄）の左上脚に噛みついた（肌に裂傷）！
+The stray dog scratches the kangaroo buck in the lower body, tearing the fat and bruising the muscle and bruising the stomach!	野良犬はカンガルー（雄）の下半身を引っかいた（脂肪に裂傷、筋肉に打撲、胃に打撲）！
+The stray dog bites the kangaroo buck in the left lower leg, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の左下脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The kangaroo buck breaks the grip of the stray dog's teeth on The kangaroo buck's left lower leg.	カンガルー（雄）はカンガルー（雄）の左下脚をつかんでいた野良犬の歯を振りほどいた。
+The stray dog bites the kangaroo buck in the right hand, tearing the fat!	野良犬はカンガルー（雄）の右手に噛みついた（脂肪に裂傷）！
+The stray dog bites the kangaroo buck in the upper body, tearing the fat and bruising the muscle and bruising the left lung!	野良犬はカンガルー（雄）の上半身に噛みついた（脂肪に裂傷、筋肉に打撲、左肺に打撲）！
+The stray dog scratches the kangaroo buck in the right lower leg, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の右下脚を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The force bends the right upper leg!	衝撃で右上脚が曲がった！
+The stray dog scratches the kangaroo buck in the left lower arm, tearing the muscle!	野良犬はカンガルー（雄）の左前腕を引っかいた（筋肉に裂傷）！
+The force bends the left upper arm!	衝撃で左上腕が曲がった！
+The stray dog scratches the kangaroo buck in the left upper leg, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の左上脚を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The stray dog bites the kangaroo buck in the right upper leg, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の右上脚に噛みついた（脂肪に裂傷、筋肉に打撲）！
+The kangaroo buck misses the stray dog!	カンガルー（雄）の攻撃は野良犬に外れた！
+The kangaroo buck breaks the grip of The stray dog's teeth on the kangaroo buck's right upper leg.	カンガルー（雄）はカンガルー（雄）の右上脚をつかんでいた野良犬の歯を振りほどいた。
+The stray dog scratches the kangaroo buck in the left hand, tearing the muscle!	野良犬はカンガルー（雄）の左手を引っかいた（筋肉に裂傷）！
+The force bends the left lower arm!	衝撃で左前腕が曲がった！
+The stray dog scratches the kangaroo buck in the upper body, tearing the fat and bruising the muscle and bruising the right lung!	野良犬はカンガルー（雄）の上半身を引っかいた（脂肪に裂傷、筋肉に打撲、右肺に打撲）！
+The kangaroo buck is having trouble breathing!	カンガルー（雄）は息が苦しそうだ！
+The stray dog scratches the kangaroo buck in the right lower arm, tearing the fat and bruising the muscle!	野良犬はカンガルー（雄）の右前腕を引っかいた（脂肪に裂傷、筋肉に打撲）！
+The force pulls the right upper arm!	衝撃で右上腕が引っ張られた！
+The stray dog bites the kangaroo buck in the upper body, tearing the fat!	野良犬はカンガルー（雄）の上半身に噛みついた（脂肪に裂傷）！
+The kangaroo buck passes out from exhaustion.	カンガルー（雄）は疲れ果てて気を失った。
+The stray dog shakes the kangaroo buck around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!	野良犬はカンガルー（雄）の頭をつかんで振り回した（頭の脂肪がずたずたに、上部脊椎の神経組織がずたずたに）！
+The stray dog bites the kangaroo buck in the head, tearing the muscle!	野良犬はカンガルー（雄）の頭に噛みついた（筋肉に裂傷）！
+The stray dog shakes the kangaroo buck around by the head, tearing apart the head's fat!	野良犬はカンガルー（雄）の頭をつかんで振り回した（頭の脂肪がずたずたに）！
+The kangaroo buck regains consciousness.	カンガルー（雄）は意識を取り戻した。
+The kangaroo buck gives in to pain.	カンガルー（雄）は痛みに屈した。
+The stray dog bites the kangaroo buck in the head, tearing apart the muscle!	野良犬はカンガルー（雄）の頭に噛みついた（筋肉がずたずたに）！
+The stray dog collapses and falls to the ground from over-exertion.	野良犬は無理がたたって倒れ込んだ。
+The merchants from Iclopesor will be leaving soon.	Iclopesorの商人たちはまもなく発つ。
+The merchants from Iclopesor have embarked on their journey.	Iclopesorの商人たちは帰路についた。
+The kea attacks the raven but She jumps away!	ケアはワタリガラスに攻撃したが、かわされた！
+The kea grabs the raven by the first toe, right foot with her left wing!	ケアは左翼でワタリガラスの第1足指、右足をつかんだ！
+The raven is unable to break the grip of The kea's left wing on The raven's first toe, right foot!	ワタリガラスはワタリガラスの第1足指、右足をつかむケアの左翼を振りほどけない！
+The raven snatches at the kea in the lower body with her first toe, right foot, denting the skin and bruising the muscle and bruising the pancreas!	ワタリガラスは第1足指（右足）でケアの下半身につかみかかった（肌にへこみ、筋肉に打撲、膵臓に打撲）！
+The kea bites the raven in the left wing, denting the skin and bruising the fat!	ケアはワタリガラスの左翼に噛みついた（肌にへこみ、脂肪に打撲）！
+The raven misses the kea!	ワタリガラスの攻撃はケアに外れた！
+The kea snatches at the raven in the left upper leg with her first toe, right foot, tearing the fat and bruising the muscle!	ケアは第1足指（右足）でワタリガラスの左上脚につかみかかった（脂肪に裂傷、筋肉に打撲）！
+The raven bites the kea in the right lower leg, denting the skin!	ワタリガラスはケアの右下脚に噛みついた（肌にへこみ）！
+The raven bites the kea in the upper body, denting the skin and bruising the muscle and bruising the gizzard!	ワタリガラスはケアの上半身に噛みついた（肌にへこみ、筋肉に打撲、砂嚢に打撲）！
+The raven latches on firmly!	ワタリガラスはしっかりと食らいついた！
+The kea bites the raven in the left lower leg, denting the skin and bruising the muscle!	ケアはワタリガラスの左下脚に噛みついた（肌にへこみ、筋肉に打撲）！
+The raven shakes the kea around by the upper body, tearing apart the upper body's fat!	ワタリガラスはケアの上半身をつかんで振り回した（上半身の脂肪がずたずたに）！
+The raven struggles in vain against the grip of the kea's beak on The raven's left lower leg.	ワタリガラスはワタリガラスの左下脚をつかむケアのくちばしを振りほどけない。
+The kea breaks the grip of the raven's beak on The kea's upper body.	ケアはケアの上半身をつかんでいたワタリガラスのくちばしを振りほどいた。
+The kea shakes the raven around by the left lower leg, tearing apart the left lower leg's muscle and bruising the bone and tearing apart the left hip's muscle and bruising the bone!	ケアはワタリガラスの左下脚をつかんで振り回した（左下脚の筋肉がずたずたに、骨に打撲、左腰の筋肉がずたずたに、骨に打撲）！
+An artery in the left lower leg has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!	左下脚の動脈が裂けた、多くの神経が切れた、靭帯が切れた、腱が切れた！
+The kea releases the grip of The kea's left wing on the raven's first toe, right foot.	ケアはワタリガラスの第1足指、右足をつかんでいたケアの左翼を放した。
+The kea bites the raven in the left wing, denting the skin and bruising the muscle!	ケアはワタリガラスの左翼に噛みついた（肌にへこみ、筋肉に打撲）！
+The kea shakes the raven around by the left wing, tearing apart the left wing's muscle and bruising the bone!	ケアはワタリガラスの左翼をつかんで振り回した（左翼の筋肉がずたずたに、骨に打撲）！
+An artery in the left wing has been opened by the attack, many nerves have been severed and a tendon has been torn!	左翼の動脈が裂けた、多くの神経が切れた、腱が切れた！
+The raven attacks the kea but She jumps away!	ワタリガラスはケアに攻撃したが、かわされた！
+The raven slams into an obstacle!	ワタリガラスは障害物に激突した！
+The raven's neck takes the full force of the impact, bruising the skin!	ワタリガラスの首が衝撃をまともに受けた（肌に打撲）！
+The raven's upper body takes the full force of the impact, bruising the muscle and shattering the middle spine's bone and denting the nervous tissue!	ワタリガラスの上半身が衝撃をまともに受けた（筋肉に打撲、中部脊椎の骨を粉砕、神経組織にへこみ）！
+The raven's lower body takes the full force of the impact, bruising the muscle and bruising the spleen!	ワタリガラスの下半身が衝撃をまともに受けた（筋肉に打撲、脾臓に打撲）！
+The kea attacks the stray reindeer bull but He jumps away!	ケアは野良トナカイ（雄）に攻撃したが、かわされた！
+The kea attacks the metalcrafter but She jumps away!	ケアは金属細工師に攻撃したが、かわされた！
+Sigun Aranolin, Metalcrafter: I must withdraw!	Sigun Aranolin、金属細工師「退かなければ！」
+The kea misses the shearer!	ケアの攻撃は毛刈り職人に外れた！
+The kea misses the planter!	ケアの攻撃は植え付け係に外れた！
+The kea snatches at the planter in the lower body with her first toe, right foot, bruising the muscle and bruising the stomach through the (giant cave spider silk tunic)!	ケアは第1足指（右足）で植え付け係の下半身につかみかかった（筋肉に打撲、巨大洞窟グモの絹のチュニック越しに胃に打撲）！
+Melbil Aludamost, Planter: I must withdraw!	Melbil Aludamost、植え付け係「退かなければ！」
+The kea snatches at the shearer in the upper body with her first toe, left foot, bruising the fat through the (pig tail tunic)!	ケアは第1足指（左足）で毛刈り職人の上半身につかみかかった（ピッグテイルのチュニック越しに脂肪に打撲）！
+The kea bites the shearer in the lower body, bruising the fat through the (pig tail tunic)!	ケアは毛刈り職人の下半身に噛みついた（ピッグテイルのチュニック越しに脂肪に打撲）！
+The kea snatches at the shearer in the lower body with her first toe, left foot, bruising the fat through the x(pig tail tunic)x!	ケアは第1足指（左足）で毛刈り職人の下半身につかみかかった（x(ピッグテイルのチュニック)x越しに脂肪に打撲）！
+The kea snatches at the shearer in the right lower leg with her first toe, left foot, bruising the muscle through the (mountain goat leather trousers)!	ケアは第1足指（左足）で毛刈り職人の右下脚につかみかかった（シロイワヤギの革のズボン越しに筋肉に打撲）！
+The miner strikes the kea in the left upper leg with his (iron pick), tearing apart the fat!	鉱夫は(鉄のつるはし)でケアの左上脚を打った（脂肪がずたずたに）！
+The (iron pick) has lodged firmly in the wound!	(鉄のつるはし)が傷口にしっかり刺さった！
+The kea snatches at the miner in the left hand with her first toe, left foot, bruising the fat through the (sheep wool left glove)!	ケアは第1足指（左足）で鉱夫の左手につかみかかった（羊の羊毛の左の手袋越しに脂肪に打撲）！
+The miner pulls on the embedded (iron pick).	鉱夫は突き刺さった(鉄のつるはし)を引き抜こうとした。
+The miner gains possession of the (iron pick).	鉱夫は(鉄のつるはし)を手にした。
+The engraver punches the kea in the head with her right hand and the injured part explodes into gore!	彫刻師は右手でケアの頭を殴った（負傷した部位が血肉となって飛び散った）！
+A elven caravan from Ola Cili has arrived.  Overall trade sentiments are cautious.	Ola Ciliからのエルフのキャラバンが到着した。交易の雰囲気は全体として慎重だ。
+Asob Saziratol, Stray Cat (Tame) has adopted Ingish Atulstâkud, Woodcrafter.	Asob Saziratol, Stray Cat (Tame)がIngish Atulstâkud、木工職人になついた。
+The merchants from Ola Cili will be leaving soon.	Ola Ciliの商人たちはまもなく発つ。
+The merchants from Ola Cili have embarked on their journey.	Ola Ciliの商人たちは帰路についた。
+Imush Melbilsulus, Miner cancels Construct building: Needs 3 building material non-economic items.	Imush Melbilsulus、鉱夫が「建物を建設」を取り消し:建材になる品物が3個必要。
+The dwarves were unable to complete the Trade Depot.	ドワーフたちは交易所を完成させられなかった。
+Kivish Asënkodor "Graveldawn", Metalsmith is taken by a fey mood!	Kivish Asënkodor "Graveldawn"、鍛冶屋は妖精の気分に囚われた！
+Kivish Asënkodor has claimed a Metalsmith's Forge.	Kivish Asënkodorが鍛冶場を占有した。
+Kivish Asënkodor has begun a mysterious construction!	Kivish Asënkodorが謎めいた建造を始めた！
+Kivish Asënkodor, Metalsmith has created Enolrilem, a copper door!  He claims it as a family heirloom.	Kivish Asënkodor、鍛冶屋が銅の扉のEnolrilemを作り上げた！彼はそれを家宝として主張した。
+Kivish Asënkodor has become a Blacksmith.	Kivish Asënkodorは鍛冶師になった。
+Spring has arrived!	春が来ました！

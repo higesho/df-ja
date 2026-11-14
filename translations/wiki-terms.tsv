@@ -1,0 +1,185 @@
+# 日本語Wiki（https://wikiwiki.jp/dwarffort/）で使われている訳語。用語を揃えるときの基準。
+# 形式: 英語<TAB>訳語<TAB>出典ページ
+# 出典が食い違うときは 対訳用語集 > メニュー見出し > 新しい版の翻訳ページ の順に採用した。
+# --- 大分類（メニュー見出し） ---
+Building	建物	対訳用語集
+Buildings	建物	対訳用語集
+Workshop	工房	対訳用語集
+Workshops	工房	対訳用語集
+Stockpile	倉庫	MenuBar / 翻訳/Stockpile
+Stockpiles	倉庫	MenuBar / 翻訳/Stockpile
+Farming	農耕	MenuBar / Farming
+Military	軍事	MenuBar
+Skill	スキル	Skill
+Skills	スキル	Skill
+Zone	ゾーン	翻訳/Activity zone
+Zones	ゾーン	翻訳/Activity zone
+Burrow	巣穴	Dwarf Fortress 2010/Burrow
+Burrows	巣穴	Dwarf Fortress Mode Commands
+Squad	小隊	Dwarf Fortress Mode Commands
+Squads	小隊	Dwarf Fortress Mode Commands
+Nobles and Administrators	貴族と管理者	Dwarf Fortress Mode Commands
+Justice	懲罰	Menu/軍事
+Siege	攻城戦	Menu/外交
+Caravan	キャラバン	キャラバンと貿易
+Attribute	属性	翻訳/Attribute
+Attributes	属性	翻訳/Attribute
+# --- 工房（対訳用語集） ---
+Ashery	灰工房	対訳用語集
+Bowyer's Workshop	弓工房	対訳用語集
+Butcher's Shop	精肉所	対訳用語集
+Carpenter's Workshop	木工房	対訳用語集
+Clothier's Shop	仕立て屋	対訳用語集（Clothes Maker's Shop）
+Craftsdwarf's Workshop	工芸所	対訳用語集
+Dyer's Shop	染色場	対訳用語集
+Farmer's Workshop	農芸工房	対訳用語集
+Fishery	魚加工所	対訳用語集
+Jeweler's Workshop	宝石工房	対訳用語集
+Kitchen	調理場	対訳用語集
+Magma Forge	マグマ鍛冶場	対訳用語集
+Leather Works	革工房	対訳用語集
+Loom	機織場	対訳用語集
+Mason's Workshop	石工房	対訳用語集
+Mechanic's Workshop	機械工房	対訳用語集
+Metalsmith's Forge	鍛冶場	対訳用語集
+Siege Workshop	兵器開発所	対訳用語集
+Still	醸造所	対訳用語集
+Tanner's Shop	なめし革工房	対訳用語集
+Glass Furnace	ガラス溶鉱炉	対訳用語集
+Kiln	窯	対訳用語集
+Magma Glass Furnace	マグマガラス溶鉱炉	対訳用語集
+Magma Kiln	マグマ窯	対訳用語集
+Magma Smelter	マグマ精錬所	対訳用語集
+Smelter	精錬所	対訳用語集
+Wood Furnace	炭焼き場	対訳用語集
+Furnace	炉	対訳用語集
+Furnaces	炉	対訳用語集
+# --- 建物・設置物（対訳用語集 / Building） ---
+Animal Trap	捕獲罠	Building
+Aqueduct	水路橋	対訳用語集
+Archery Target	的	対訳用語集
+Armor Stand	鎧立て	対訳用語集
+Burial Receptacle	棺	対訳用語集
+Cabinet	キャビネット	対訳用語集
+Container	コンテナ	対訳用語集
+Farm Plot	農地	対訳用語集
+Kennels	犬訓練場	対訳用語集
+Restraint	監禁所	対訳用語集
+Road	道	対訳用語集
+Siege Engine	兵器	対訳用語集
+Siege Engines	兵器	対訳用語集
+Statue	彫像	対訳用語集
+Support	支柱	対訳用語集
+Trade Depot	交易所	対訳用語集
+Weapon Rack	武器立て	対訳用語集
+Well	井戸	対訳用語集
+Fortification	防護壁	Designations menu
+Channel	水路	対訳用語集
+Pasture	放牧地	翻訳/Item quality ほか
+Jail	監獄	Menu/軍事
+Garbage Dump	ゴミ捨て場	翻訳/Activity zone
+Water Source	水源	翻訳/Activity zone
+# --- 物 ---
+Slab	平板	Building
+Coffin	棺桶	Building
+Chest	宝箱	Building
+Mechanism	仕掛け	Skill
+Large Pot	壺	Stockpile
+Pick	つるはし	Designations menu
+Potash	肥料	Skill
+Cave-in	崩落	翻訳/Item quality
+Chasm	深淵	Dwarf fortress mode
+# --- スキルの段階（Skill） ---
+Dabbling	生かじり	Skill
+Novice	未熟者	Skill
+Adequate	十分	Skill
+Competent	優秀	Skill
+Skilled	熟練	Skill
+Proficient	達人	Skill
+Talented	有能	Skill
+Adept	名人	Skill
+Expert	専門家	Skill
+Professional	プロ	Skill
+Accomplished	熟達	Skill
+Great	偉大	Skill
+Master	マスター	Skill
+High Master	ハイマスター	Skill
+Grand Master	グランドマスター	Skill
+Legendary	伝説的	Skill
+# --- 品質（翻訳/Item quality） ---
+Well-crafted	良品	翻訳/Item quality
+Finely-crafted	優良品	翻訳/Item quality
+Superior	高級品	翻訳/Item quality
+Exceptional	特級品	翻訳/Item quality
+Masterful	名品	翻訳/Item quality
+Masterwork	傑作	翻訳/Item quality
+# --- 職業の呼び名（Skill の「専門」） ---
+Peasant	田舎者	Skill
+Trapper	罠師	Skill
+Metalsmith	鍛冶屋	Skill
+Farmer	農家	Skill
+Fisherdwarf	漁師	Skill
+Jeweler	宝石職人	Skill
+Craftsdwarf	工芸家	Skill
+Engineer	技術者	Skill
+Mechanic	機械工	Skill
+Miner	鉱夫	Skill
+Carpenter	大工	Skill
+Mason	石工	Skill
+# --- 状態（翻訳/Status icon） ---
+Fey Mood	超自然的な気分	翻訳/Status icon
+Possessed	神憑り	翻訳/Status icon
+Secretive Mood	秘密主義	翻訳/Status icon
+Fell Mood	残忍	翻訳/Status icon
+Macabre Mood	猟奇的	翻訳/Status icon
+Tantrum	かんしゃく	翻訳/Status icon
+Melancholy	憂鬱	翻訳/Status icon
+Berserk	凶暴化	翻訳/Status icon
+Enraged	激昂	翻訳/Status icon
+Martial Trance	戦闘時の忘我	翻訳/Status icon
+Terrified	恐慌	翻訳/Status icon
+Stunned	気絶	翻訳/Status icon
+Nausea	吐気	翻訳/Status icon
+Winded	息切れ	翻訳/Status icon
+Unconscious	意識不明	翻訳/Status icon
+Fevered	発熱	翻訳/Status icon
+Distracted	散漫	翻訳/Status icon
+Paralyzed	麻痺	翻訳/Status icon
+Prone	うつ伏せ	翻訳/Status icon
+Webbed	束縛	翻訳/Status icon
+# --- 属性（翻訳/Attribute） ---
+Strength	筋力	翻訳/Attribute
+Agility	敏捷性	翻訳/Attribute
+Toughness	堅牢性	翻訳/Attribute
+Endurance	持久力	翻訳/Attribute
+Recuperation	回復力	翻訳/Attribute
+Analytical Ability	分析力	翻訳/Attribute
+Focus	集中力	翻訳/Attribute
+Willpower	意思の強さ	翻訳/Attribute
+Creativity	創造性	翻訳/Attribute
+Intuition	直観	翻訳/Attribute
+Patience	忍耐力	翻訳/Attribute
+Memory	記憶力	翻訳/Attribute
+Linguistic Ability	言語力	翻訳/Attribute
+Spatial Sense	空間認識能力	翻訳/Attribute
+Musicality	音楽性	翻訳/Attribute
+Empathy	共感性	翻訳/Attribute
+Social Awareness	社会性	翻訳/Attribute
+# --- 役職（Noble） ---
+Expedition Leader	遠征隊長	Noble
+Mayor	市長	Noble
+Manager	支配人	Noble
+Bookkeeper	簿記	Noble
+Broker	取引係	Noble
+Sheriff	保安官	Noble
+Captain of the Guard	警邏隊長	Noble
+Hammerer	執行人	Noble
+Militia Commander	司令官	Noble
+Militia Captain	部隊長	Noble
+Champion	勇士	Noble
+Chief Medical Dwarf	医師団長	Noble
+Baron	男爵	Noble
+Count	伯爵	Noble
+Duke	公爵	Noble
+Monarch	国王	Noble
+Barracks	兵舎	翻訳/軍隊

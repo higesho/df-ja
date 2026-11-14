@@ -1,0 +1,19 @@
+[package]
+name = "dfhooks_chainloader"
+version = "0.1.0"
+edition = "2021"
+
+# ゲームが読む dfhooks.dll そのもの。名前を変えると読まれない
+[lib]
+name = "dfhooks"
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[target.'cfg(target_os = "windows")'.dependencies]
+winapi = { version = "0.3.9", features = ["libloaderapi", "minwindef", "winnt", "errhandlingapi"] }
+
+[profile.release]
+opt-level = "z"
+lto = true
+panic = "abort"
+strip = true

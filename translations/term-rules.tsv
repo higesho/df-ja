@@ -1,0 +1,93 @@
+# 用語の置き換え規則（tools/apply_terms.py が使う）。日本語Wikiの訳語（wiki-terms.tsv）に揃えるためのもの。
+# 形式: 英語の正規表現<TAB>古い訳語<TAB>新しい訳語
+# 上から順に適用する。長い語・特定の語を先に、一般的な語を後に書くこと。
+# --- 工房（個別の名前を先に） ---
+siege workshop	攻城兵器工房	兵器開発所
+carpenter'?s workshop	大工の作業場	木工房
+farmer'?s workshop	農夫の作業場	農芸工房
+\bashery	灰作り場	灰工房
+\bfishery	漁場	魚加工所
+\bkitchen	厨房	調理場
+\bloom\b	機織り機	機織場
+leather ?works	革細工所	革工房
+(?-i:\bStill\b)	蒸留器	醸造所
+magma glass furnace	マグマガラス炉	マグマガラス溶鉱炉
+glass furnace	ガラス炉	ガラス溶鉱炉
+magma smelter	マグマ精錬炉	マグマ精錬所
+\bsmelter	精錬炉	精錬所
+wood furnace	木炭炉	炭焼き場
+\bworkshops?\b	作業場	工房
+# --- 建物・設置物 ---
+animal trap	動物用の罠	捕獲罠
+archery target	弓術の的	的
+armou?r stand	防具掛け	鎧立て
+weapon rack	武器ラック	武器立て
+burial receptacle	埋葬容器	棺
+\bcabinets?\b	戸棚	キャビネット
+farm plot	畑	農地
+\brestraints?\b	拘束具	監禁所
+siege engine	攻城兵器	兵器
+\bstatues?\b	石像	石の彫像
+\bstatues?\b	像	彫像
+\bfortifications?\b	狭間	防護壁
+\bslabs?\b	石板	平板
+\bmechanisms?\b	機構	仕掛け
+\bchasms?\b	裂け目	深淵
+\bpotash\b	カリ	肥料
+# --- 大分類 ---
+\bbuildings?\b	建造物	建物
+building menu	建物メニュー	建築メニュー
+\bpastures?\b	牧草地	放牧地
+\battributes?\b	能力値	属性
+\battributes?\b	能力	属性
+\bstockpiles?\b	備蓄所	倉庫
+\bskills?\b	技能	スキル
+\bzones?\b	区域	ゾーン
+\bburrows?\b	区画	巣
+\bsquads?\b	分隊	小隊
+\bfarming\b	農業	農耕
+\bcaravans?\b	隊商	キャラバン
+\badministrators?\b	行政官	管理者
+\bjustice\b	司法	懲罰
+# --- 職業の呼び名 ---
+\bpeasants?\b	農民	田舎者
+\bmetalsmiths?\b	金属鍛冶	鍛冶屋
+\bfarmers?\b	農夫	農家
+\bengineers?\b	技師	技術者
+\bminers?\b	採掘者	鉱夫
+# --- 品質 ---
+well-crafted	上出来	良品
+finely-crafted	良質	優良品
+\bsuperior\b	上質	高級品
+\bexceptional\b	特上	特級品
+# --- 状態 ---
+\bberserk	狂乱	凶暴化
+martial trance	戦闘トランス	戦闘時の忘我
+\bdistracted\b	気が散っている	散漫
+\bwebbed\b	巣に絡まった	束縛
+# --- 属性 ---
+\btoughness\b	頑健さ	堅牢性
+\brecuperation\b	療養	回復力
+\bwillpower\b	意志力	意思の強さ
+\bintuition\b	直感	直観
+\bpatience\b	忍耐強さ	忍耐力
+linguistic ability	言語能力	言語力
+spatial sense	空間感覚	空間認識能力
+\bempathy\b	共感力	共感性
+social awareness	社交性	社会性
+# --- 追加: shop 表記の工房、巣穴、役職 ---
+carpenter'?s shop	大工の作業場	木工房
+\bshops?\b	作業場	工房
+mood building	作業場	工房
+\(bld\)	建造物	建物
+\bburrows?\b	巣	巣穴
+\bmanagers?\b	管理人	支配人
+\bbookkeepers?\b	記録係	簿記
+\bbrokers?\b	交渉人	取引係
+captain of the guard	衛兵隊長	警邏隊長
+militia commanders?	民兵司令官	司令官
+militia captains?	民兵隊長	部隊長
+\bhammerers?\b	鉄槌執行人	執行人
+\bchampions?\b	チャンピオン	勇士
+chief medical dwarf	医療長	医師団長
+\bmonarchs?\b	君主	国王

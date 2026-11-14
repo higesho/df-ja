@@ -1,0 +1,98 @@
+monarch	国王
+monarchs	国王
+queen	女王
+queens	女王
+king	国王
+kings	国王
+king consort	王配
+kings consort	王配
+queen consort	王妃
+queens consort	王妃
+general	一般
+generals	将軍
+lieutenant	副官
+lieutenants	副官
+captain	隊長
+captains	隊長
+outpost liaison	前哨連絡係
+outpost liaisons	前哨連絡係
+diplomat	外交官
+diplomats	外交官
+duke	公爵
+dukes	公爵
+duchess	女公爵
+duchesses	女公爵
+duke consort	公爵の夫
+dukes consort	公爵の夫
+duchess consort	公爵夫人
+duchesses consort	公爵夫人
+count	伯爵
+counts	伯爵
+countess	女伯爵
+countesses	女伯爵
+count consort	伯爵の夫
+counts consort	伯爵の夫
+countess consort	伯爵夫人
+countesses consort	伯爵夫人
+baron	男爵
+barons	男爵
+baroness	女男爵
+baronesses	女男爵
+baron consort	男爵の配偶者
+barons consort	男爵の配偶者たち
+baroness consort	女男爵の配偶者
+baronesses consort	女男爵の配偶者たち
+militia commander	司令官
+militia commanders	司令官
+militia captain	部隊長
+militia captains	部隊長
+sheriff	保安官
+sheriffs	保安官
+captain of the guard	警邏隊長
+captains of the guard	衛兵隊長
+expedition leader	遠征隊長
+expedition leaders	遠征隊長
+mayor	市長
+mayors	市長
+manager	支配人
+managers	支配人
+chief medical dwarf	医師団長
+chief medical dwarves	主任医師
+broker	取引係
+brokers	取引係
+bookkeeper	簿記
+bookkeepers	簿記
+champion	勇士
+champions	勇士
+hammerer	執行人
+hammerers	執行人
+dungeon master	ダンジョンマスター
+dungeon masters	ダンジョンマスター
+messenger	伝令
+messengers	伝令
+druid	ドルイド
+druids	ドルイド
+acolyte	侍祭
+acolytes	侍祭
+princess	王女
+princesses	王女
+ranger captain	レンジャー隊長
+ranger captains	レンジャー隊長
+lord	領主
+lords	領主たち
+lady	貴婦人
+ladies	婦人たち
+lord consort	領主の配偶者
+lords consort	領主の配偶者たち
+lady consort	貴婦人の伴侶
+ladies consort	貴婦人の伴侶
+master	マスター
+masters	達人たち
+master of beasts	獣の主
+masters of beasts	獣の主たち
+chief advisor	筆頭顧問
+chief advisors	筆頭顧問
+royal executioner	王室処刑人
+royal executioners	王室処刑人
+chancellor	宰相
+chancellors	宰相

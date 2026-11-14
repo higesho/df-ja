@@ -1,0 +1,294 @@
+# 性格・価値観・夢・外見の語句（tools/build.py が辞書に入れる）
+holds craftsdwarfship to be of the highest ideals and celebrates talented artisans and their masterworks	職人技を最高の理想とし、才能ある職人とその傑作を称える
+has a great deal of respect for worthy craftsdwarfship	優れた職人技を大いに尊敬している
+values good craftsdwarfship	優れた職人技を大切にする
+doesn't particularly care about craftsdwarfship	職人技には特にこだわらない
+considers craftsdwarfship to be relatively worthless	職人技はたいして価値がないと考えている
+sees the pursuit of good craftsdwarfship as a total waste	優れた職人技を追い求めるのはまったくの無駄だと考えている
+craftsdwarfship	職人技
+holds craftsmanship to be of the highest ideals and celebrates talented artisans and their masterworks	職人技を最高の理想とし、才能ある職人とその傑作を称える
+has a great deal of respect for worthy craftsmanship	優れた職人技を大いに尊敬している
+values good craftsmanship	優れた職人技を大切にする
+doesn't particularly care about craftsmanship	職人技には特にこだわらない
+considers craftsmanship to be relatively worthless	職人技はたいして価値がないと考えている
+sees the pursuit of good craftsmanship as a total waste	優れた職人技を追い求めるのはまったくの無駄だと考えている
+craftsmanship	職人技
+holds craftsmenship to be of the highest ideals and celebrates talented artisans and their masterworks	職人技を最高の理想とし、才能ある職人とその傑作を称える
+has a great deal of respect for worthy craftsmenship	優れた職人技を大いに尊敬している
+values good craftsmenship	優れた職人技を大切にする
+doesn't particularly care about craftsmenship	職人技には特にこだわらない
+considers craftsmenship to be relatively worthless	職人技はたいして価値がないと考えている
+sees the pursuit of good craftsmenship as a total waste	優れた職人技を追い求めるのはまったくの無駄だと考えている
+craftsmenship	職人技
+holds craftselfship to be of the highest ideals and celebrates talented artisans and their masterworks	職人技を最高の理想とし、才能ある職人とその傑作を称える
+has a great deal of respect for worthy craftselfship	優れた職人技を大いに尊敬している
+values good craftselfship	優れた職人技を大切にする
+doesn't particularly care about craftselfship	職人技には特にこだわらない
+considers craftselfship to be relatively worthless	職人技はたいして価値がないと考えている
+sees the pursuit of good craftselfship as a total waste	優れた職人技を追い求めるのはまったくの無駄だと考えている
+craftselfship	職人技
+raising a family	家族を持つこと
+ruling the world	世界を支配すること
+creating a great work of art	偉大な芸術作品を生み出すこと
+crafting a masterwork someday	いつか傑作を作ること
+bringing lasting peace to the world	世界に永続的な平和をもたらすこと
+becoming a legendary warrior	伝説の戦士になること
+mastering a skill	技能を極めること
+falling in love	恋に落ちること
+seeing the great natural places of the world	世界の偉大な自然の地を見ること
+making a great discovery	偉大な発見をすること
+attaining rank in society	社会で地位を得ること
+bathing the world in chaos	世界を混沌に陥れること
+beard	あごひげ
+nose bridge	鼻筋
+eyebrows	眉毛
+eyebrow	眉毛
+hair	髪
+chin	あご
+cheekbones	頬骨
+lips	唇
+lip	唇
+teeth	歯
+nose	鼻
+jaw	あご
+irises	虹彩
+body	体
+skin	肌
+head	頭
+ears	耳
+eyes	目
+sideburns	もみあげ
+moustache	口ひげ
+eyelashes	まつ毛
+pony tail	ポニーテール
+short	短い
+very short	とても短い
+extremely short	非常に短い
+somewhat short	やや短い
+medium-length	中くらいの長さの
+has a deep, guttural voice	低くしわがれた声をしている
+has a high-pitched, grating voice	甲高く耳障りな声をしている
+has a high-pitched, clear voice	甲高く澄んだ声をしている
+has a clear, deep voice	澄んだ低い声をしている
+has a fairly deep and raspy voice	やや低くかすれた声をしている
+has a high squeaky voice	高くキーキーした声をしている
+has a low, clear voice	低く澄んだ声をしている
+has a high, clear voice	高く澄んだ声をしている
+has a very clear voice	とても澄んだ声をしている
+has a clear voice	澄んだ声をしている
+has a grating, raspy voice	耳障りでかすれた声をしている
+has a scratchy voice	ざらついた声をしている
+has a very high-pitched voice	とても甲高い声をしている
+has a high voice	高い声をしている
+has a very deep voice	とても低い声をしている
+has a low voice	低い声をしている
+has an angular chin	角ばったあごをしている
+has a very round chin	とても丸いあごをしている
+has a round chin	丸いあごをしている
+has very high cheekbones	頬骨がとても高い
+has high cheekbones	頬骨が高い
+has low cheekbones	頬骨が低い
+has very low cheekbones	頬骨がとても低い
+He has a great deal of respect for worthy craftsdwarfship.	彼は優れた職人技を大いに尊敬している。
+She has a great deal of respect for worthy craftsdwarfship.	彼女は優れた職人技を大いに尊敬している。
+It has a great deal of respect for worthy craftsdwarfship.	それは優れた職人技を大いに尊敬している。
+They has a great deal of respect for worthy craftsdwarfship.	彼らは優れた職人技を大いに尊敬している。
+He has a great deal of respect for worthy craftsmanship.	彼は優れた職人技を大いに尊敬している。
+She has a great deal of respect for worthy craftsmanship.	彼女は優れた職人技を大いに尊敬している。
+It has a great deal of respect for worthy craftsmanship.	それは優れた職人技を大いに尊敬している。
+They has a great deal of respect for worthy craftsmanship.	彼らは優れた職人技を大いに尊敬している。
+He has a great deal of respect for worthy craftsmenship.	彼は優れた職人技を大いに尊敬している。
+She has a great deal of respect for worthy craftsmenship.	彼女は優れた職人技を大いに尊敬している。
+It has a great deal of respect for worthy craftsmenship.	それは優れた職人技を大いに尊敬している。
+They has a great deal of respect for worthy craftsmenship.	彼らは優れた職人技を大いに尊敬している。
+He has a great deal of respect for worthy craftselfship.	彼は優れた職人技を大いに尊敬している。
+She has a great deal of respect for worthy craftselfship.	彼女は優れた職人技を大いに尊敬している。
+It has a great deal of respect for worthy craftselfship.	それは優れた職人技を大いに尊敬している。
+They has a great deal of respect for worthy craftselfship.	彼らは優れた職人技を大いに尊敬している。
+He has a deep, guttural voice.	彼は低くしわがれた声をしている。
+She has a deep, guttural voice.	彼女は低くしわがれた声をしている。
+It has a deep, guttural voice.	それは低くしわがれた声をしている。
+They has a deep, guttural voice.	彼らは低くしわがれた声をしている。
+He has a high-pitched, grating voice.	彼は甲高く耳障りな声をしている。
+She has a high-pitched, grating voice.	彼女は甲高く耳障りな声をしている。
+It has a high-pitched, grating voice.	それは甲高く耳障りな声をしている。
+They has a high-pitched, grating voice.	彼らは甲高く耳障りな声をしている。
+He has a high-pitched, clear voice.	彼は甲高く澄んだ声をしている。
+She has a high-pitched, clear voice.	彼女は甲高く澄んだ声をしている。
+It has a high-pitched, clear voice.	それは甲高く澄んだ声をしている。
+They has a high-pitched, clear voice.	彼らは甲高く澄んだ声をしている。
+He has a clear, deep voice.	彼は澄んだ低い声をしている。
+She has a clear, deep voice.	彼女は澄んだ低い声をしている。
+It has a clear, deep voice.	それは澄んだ低い声をしている。
+They has a clear, deep voice.	彼らは澄んだ低い声をしている。
+He has a fairly deep and raspy voice.	彼はやや低くかすれた声をしている。
+She has a fairly deep and raspy voice.	彼女はやや低くかすれた声をしている。
+It has a fairly deep and raspy voice.	それはやや低くかすれた声をしている。
+They has a fairly deep and raspy voice.	彼らはやや低くかすれた声をしている。
+He has a high squeaky voice.	彼は高くキーキーした声をしている。
+She has a high squeaky voice.	彼女は高くキーキーした声をしている。
+It has a high squeaky voice.	それは高くキーキーした声をしている。
+They has a high squeaky voice.	彼らは高くキーキーした声をしている。
+He has a low, clear voice.	彼は低く澄んだ声をしている。
+She has a low, clear voice.	彼女は低く澄んだ声をしている。
+It has a low, clear voice.	それは低く澄んだ声をしている。
+They has a low, clear voice.	彼らは低く澄んだ声をしている。
+He has a high, clear voice.	彼は高く澄んだ声をしている。
+She has a high, clear voice.	彼女は高く澄んだ声をしている。
+It has a high, clear voice.	それは高く澄んだ声をしている。
+They has a high, clear voice.	彼らは高く澄んだ声をしている。
+He has a very clear voice.	彼はとても澄んだ声をしている。
+She has a very clear voice.	彼女はとても澄んだ声をしている。
+It has a very clear voice.	それはとても澄んだ声をしている。
+They has a very clear voice.	彼らはとても澄んだ声をしている。
+He has a clear voice.	彼は澄んだ声をしている。
+She has a clear voice.	彼女は澄んだ声をしている。
+It has a clear voice.	それは澄んだ声をしている。
+They has a clear voice.	彼らは澄んだ声をしている。
+He has a grating, raspy voice.	彼は耳障りでかすれた声をしている。
+She has a grating, raspy voice.	彼女は耳障りでかすれた声をしている。
+It has a grating, raspy voice.	それは耳障りでかすれた声をしている。
+They has a grating, raspy voice.	彼らは耳障りでかすれた声をしている。
+He has a scratchy voice.	彼はざらついた声をしている。
+She has a scratchy voice.	彼女はざらついた声をしている。
+It has a scratchy voice.	それはざらついた声をしている。
+They has a scratchy voice.	彼らはざらついた声をしている。
+He has a very high-pitched voice.	彼はとても甲高い声をしている。
+She has a very high-pitched voice.	彼女はとても甲高い声をしている。
+It has a very high-pitched voice.	それはとても甲高い声をしている。
+They has a very high-pitched voice.	彼らはとても甲高い声をしている。
+He has a high voice.	彼は高い声をしている。
+She has a high voice.	彼女は高い声をしている。
+It has a high voice.	それは高い声をしている。
+They has a high voice.	彼らは高い声をしている。
+He has a very deep voice.	彼はとても低い声をしている。
+She has a very deep voice.	彼女はとても低い声をしている。
+It has a very deep voice.	それはとても低い声をしている。
+They has a very deep voice.	彼らはとても低い声をしている。
+He has a low voice.	彼は低い声をしている。
+She has a low voice.	彼女は低い声をしている。
+It has a low voice.	それは低い声をしている。
+They has a low voice.	彼らは低い声をしている。
+He has an angular chin.	彼は角ばったあごをしている。
+She has an angular chin.	彼女は角ばったあごをしている。
+It has an angular chin.	それは角ばったあごをしている。
+They has an angular chin.	彼らは角ばったあごをしている。
+He has a very round chin.	彼はとても丸いあごをしている。
+She has a very round chin.	彼女はとても丸いあごをしている。
+It has a very round chin.	それはとても丸いあごをしている。
+They has a very round chin.	彼らはとても丸いあごをしている。
+He has a round chin.	彼は丸いあごをしている。
+She has a round chin.	彼女は丸いあごをしている。
+It has a round chin.	それは丸いあごをしている。
+They has a round chin.	彼らは丸いあごをしている。
+He has very high cheekbones.	彼は頬骨がとても高い。
+She has very high cheekbones.	彼女は頬骨がとても高い。
+It has very high cheekbones.	それは頬骨がとても高い。
+They has very high cheekbones.	彼らは頬骨がとても高い。
+He has high cheekbones.	彼は頬骨が高い。
+She has high cheekbones.	彼女は頬骨が高い。
+It has high cheekbones.	それは頬骨が高い。
+They has high cheekbones.	彼らは頬骨が高い。
+He has low cheekbones.	彼は頬骨が低い。
+She has low cheekbones.	彼女は頬骨が低い。
+It has low cheekbones.	それは頬骨が低い。
+They has low cheekbones.	彼らは頬骨が低い。
+He has very low cheekbones.	彼は頬骨がとても低い。
+She has very low cheekbones.	彼女は頬骨がとても低い。
+It has very low cheekbones.	それは頬骨がとても低い。
+They has very low cheekbones.	彼らは頬骨がとても低い。
+He has a jutting.	彼は突き出た。
+She has a jutting.	彼女は突き出た。
+It has a jutting.	それは突き出た。
+They has a jutting.	彼らは突き出た。
+He has a massive.	彼は巨大な。
+She has a massive.	彼女は巨大な。
+It has a massive.	それは巨大な。
+They has a massive.	彼らは巨大な。
+He has a deeply recessed, broad.	彼は深くくぼんで幅広い。
+She has a deeply recessed, broad.	彼女は深くくぼんで幅広い。
+It has a deeply recessed, broad.	それは深くくぼんで幅広い。
+They has a deeply recessed, broad.	彼らは深くくぼんで幅広い。
+He has a very broad.	彼はとても幅広の。
+She has a very broad.	彼女はとても幅広の。
+It has a very broad.	それはとても幅広の。
+They has a very broad.	彼らはとても幅広の。
+He has a narrow, jutting.	彼は細く突き出た。
+She has a narrow, jutting.	彼女は細く突き出た。
+It has a narrow, jutting.	それは細く突き出た。
+They has a narrow, jutting.	彼らは細く突き出た。
+He has a deeply recessed, narrow.	彼は深くくぼんで細い。
+She has a deeply recessed, narrow.	彼女は深くくぼんで細い。
+It has a deeply recessed, narrow.	それは深くくぼんで細い。
+They has a deeply recessed, narrow.	彼らは深くくぼんで細い。
+He has a very narrow.	彼はとても細い。
+She has a very narrow.	彼女はとても細い。
+It has a very narrow.	それはとても細い。
+They has a very narrow.	彼らはとても細い。
+He has a broad, prominent.	彼は幅広で突き出た。
+She has a broad, prominent.	彼女は幅広で突き出た。
+It has a broad, prominent.	それは幅広で突き出た。
+They has a broad, prominent.	彼らは幅広で突き出た。
+He has a broad, recessed.	彼は幅広でくぼんだ。
+She has a broad, recessed.	彼女は幅広でくぼんだ。
+It has a broad, recessed.	それは幅広でくぼんだ。
+They has a broad, recessed.	彼らは幅広でくぼんだ。
+He has a broad.	彼は幅広の。
+She has a broad.	彼女は幅広の。
+It has a broad.	それは幅広の。
+They has a broad.	彼らは幅広の。
+He has a narrow, prominent.	彼は細く目立つ。
+She has a narrow, prominent.	彼女は細く目立つ。
+It has a narrow, prominent.	それは細く目立つ。
+They has a narrow, prominent.	彼らは細く目立つ。
+He has a narrow, recessed.	彼は細くくぼんだ。
+She has a narrow, recessed.	彼女は細くくぼんだ。
+It has a narrow, recessed.	それは細くくぼんだ。
+They has a narrow, recessed.	彼らは細くくぼんだ。
+He has a narrow.	彼は細い。
+She has a narrow.	彼女は細い。
+It has a narrow.	それは細い。
+They has a narrow.	彼らは細い。
+He has a prominent.	彼は目立つ。
+She has a prominent.	彼女は目立つ。
+It has a prominent.	それは目立つ。
+They has a prominent.	彼らは目立つ。
+He has a recessed.	彼はくぼんだ。
+She has a recessed.	彼女はくぼんだ。
+It has a recessed.	それはくぼんだ。
+They has a recessed.	彼らはくぼんだ。
+He has a deeply recessed.	彼は深くくぼんでいる。
+She has a deeply recessed.	彼女は深くくぼんでいる。
+It has a deeply recessed.	それは深くくぼんでいる。
+They has a deeply recessed.	彼らは深くくぼんでいる。
+He has a square chin.	彼は四角いあごをしている。
+She has a square chin.	彼女は四角いあごをしている。
+It has a square chin.	それは四角いあごをしている。
+They has a square chin.	彼らは四角いあごをしている。
+very large irises	とても大きな虹彩
+large irises	大きな虹彩
+slightly large irises	やや大きな虹彩
+very thin irises	とても細い虹彩
+thin irises	細い虹彩
+slightly thin irises	やや細い虹彩
+great swinging lobes	大きく揺れる耳たぶ
+large hanging lobes	大きく垂れ下がった耳たぶ
+nearly fused lobes	ほとんど癒着した耳たぶ
+small lobes	小さな耳たぶ
+free-lobed	耳たぶが離れている
+fuse-lobed	耳たぶが癒着している
+high	高い
+long	長い
+tall	高い
+broad	幅広い
+thin	薄い
+dense	濃い
+sparse	まばらな
+round	丸い
+wavy	波打った
+coiled	縮れた
+sunken	くぼんだ
+bulging	飛び出た
+flattened	平たい
+crowded	混み合った
+gapped	すき間のある

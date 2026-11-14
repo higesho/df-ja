@@ -1,0 +1,401 @@
+# 怪物の見た目の説明文の部品の訳（tools/beast_desc_extract.py が集めた英語を、work/beast_batch で訳したもの）
+it has a regal bearing	威厳のある立ち居振る舞いをしている
+it has an austere look about it	厳粛で近寄りがたい風貌をしている
+it moves deliberately	慎重に動いている
+it moves about carelessly	無頓着に動き回っている
+it bears a look of unbelievable peace	信じがたいほど穏やかな面持ちをしている
+it emanates an aura of giving and kindness	与えることと慈しみの気配を放っている
+joy marks its every movement	一挙手一投足に喜びが表れている
+it moves its will in accordance with the truth of things	物事の真理に従って意志を動かしている
+it is ravening	飢え狂っている
+it is slavering	よだれを垂らしている
+it belches and croaks	げっぷをし、しわがれた声を上げている
+it undulates rhythmically	律動的にうねっている
+it squirms and fidgets	身をよじり、落ち着きなく動いている
+it has a bloated body	膨れ上がった体をしている
+it has a gaunt appearance	やつれた容貌をしている
+it appears to be emaciated	痩せ衰えているように見える
+it chants ceaselessly	絶え間なく詠唱している
+it murmurs horrible curses	おぞましい呪詛をつぶやいている
+it spouts gibberish periodically	ときおり支離滅裂な言葉を吐き散らしている
+it knows and intones the names of all it encounters	出会ったすべての者の名を知っており、それを唱えている
+it repeatedly makes threats of torture and death	拷問と死の脅しを繰り返している
+it mutters to itself as it moves aimlessly	あてもなく歩きながら独り言をつぶやいている
+it groans from time to time	ときおり呻き声を上げている
+it howls into high winds	強風の中で吠え立てている
+it shambles sluggishly	鈍重に足を引きずるように歩いている
+it stamps the ground and snorts	地面を踏み鳴らし、鼻を鳴らしている
+it lumbers along steadily from place to place	一定の歩調でのろのろと移動している
+its joints are backward	関節が逆向きに曲がっている
+it moves with uneven jerking motions	ぎくしゃくと不規則な動きで動いている
+its limbs jut out at asymmetric angles	手足が非対称な角度に突き出している
+it lopes quickly along the ground	地面を素早く跳ねるように駆けている
+it strides in silence with purpose	目的を持って黙々と大股で歩いている
+it looks constantly to the sky for rain	雨を求めて絶えず空を見上げている
+it growls, buzzes, clicks and generally makes a varied racket	唸り、羽音のような音やカチカチという音を立て、総じて騒がしい物音を立てている
+it is decorated with intricate patterns	精緻な文様で飾られている
+it is perfectly symmetric	完全に左右対称である
+it is strikingly beautiful	目を奪われるほど美しい
+it is covered with a filmy sac	薄膜状の嚢に覆われている
+nearby vegetation seem to shrink away from it	周囲の植物が、それから逃げるように縮こまっているように見える
+the pieces of its body are carefully separated by markings	体の各部が印によって慎重に区切られている
+its moans seem to echo no matter where it resides	どこに居ても、そのうめき声が反響しているように聞こえる
+it spins wildly, lurching and howling	狂ったように回転し、よろめきながら吠えている
+it seems very pleasant	とても愛想がよさそうに見える
+it never misses an opportunity to jump in puddles	水たまりを見つけるとためらわず跳ね回っている
+it appears to be covered with rocky crags	岩肌のような凹凸に覆われているように見える
+it radiates a sad kindness	哀しげな優しさを放っている
+it makes those around it feel brave	周囲の者に勇気を感じさせている
+it appears constructed	人の手で組み上げられたような造りをしている
+small objects seem to pop into existence around it	その周囲で小さな物が唐突に現れているように見える
+it whirls, skips and jumps whenever it moves	動くたびに旋回し、跳ね、飛び跳ねている
+it is difficult to see clearly even in bright light	明るい光の中でもはっきりと見定めにくい
+it always turns to welcome the rise of the sun	常に太陽の昇りを迎えるように向きを変えている
+it hums pleasantly when the sun is high in the sky	太陽が高く昇ると心地よさそうに鼻歌のような音を立てている
+it has a rattling exhale	がらがらと鳴る吐息をしている
+its body is bent and misshapen	体は曲がり、歪んでいる
+it slavers uncontrollably	制御できないほど涎を垂らしている
+it moves with great focus	非常に集中した様子で動いている
+it bears malodorous pustules	悪臭を放つ膿疱をまとっている
+the details of its form are easily forgotten without deliberate concentration	意識して集中しなければ、その姿の細部は容易に記憶から抜け落ちる
+it never looks toward the sun	決して太陽の方を見ようとしない
+it is utterly still when not taking deliberate action	意図的に動かない限り、完全に静止している
+it looks very solid and stocky	頑丈でずんぐりとした体つきをしている
+it appears to be closely related to every other of its kind	同族のすべてと近い血縁にあるように見える
+fanfare follows it wherever it goes	行く先々で華やかな楽の音が付き従っている
+it never appears to be perturbed or surprised by any happening	いかなる出来事にも動じず、驚いた様子を見せない
+it appears to be very healthy	非常に健康そうに見える
+it skips and twirls as it moves	動くたびに跳ね、くるくると回っている
+a sheen around it always seems to rise upward	その周囲の輝きは、いつも上へ立ち昇るように見える
+it only looks comfortable when it is in the water	水の中にいるときにだけ心地よさそうに見える
+it always moves carefully around water	水のそばでは常に慎重に動く
+it has the delicious smell of freshly-baked goods	焼きたての焼き菓子のような、食欲をそそる匂いがする
+it is impossible to hold a grudge near it	そばにいると恨みを抱き続けることができない
+it is very sturdy-looking	とても頑丈そうな見た目をしている
+it eagerly moves from place to place	熱心にあちこちへ移動している
+it changes between two colors intermittently	ときおり二色の間で色を変えている
+it giggles at random	脈絡もなくくすくすと笑っている
+it makes those around it want to give up their possessions	周囲の者に持ち物を手放したくなるような思いを抱かせる
+it seems to smile constantly	絶えず笑みを浮かべているように見える
+it is surrounded by a gentle atmosphere	穏やかな空気に包まれている
+it radiates an aura of welcoming	迎え入れるような気配を放っている
+it inspects the ground intently as it moves	動きながら地面を食い入るように調べている
+flashes of energy pulse across its surface intermittently	表面をときおり閃光のような力が脈打つように走っている
+it appears to be a very bitter creature	ひどく苦々しい生き物に見える
+its whole body appears to be faceted in a symmetric fashion	全身が左右対称の面で構成されているように見える
+it seems eager to pronounce judgment on others	他者を裁くことに熱心であるように見える
+it appears very deliberate in its actions	行動がきわめて慎重で、思慮深げである
+it moves ponderously	重々しく動く
+it has a very stark look about it	非常に峻厳な容貌をしている
+it seems unerringly honest if one does not concentrate	注意を向けなければ、誤りなく誠実に見える
+it returns surrounding light with a new vibrance and intensity	周囲の光を新たな輝きと強さで跳ね返している
+it crackles with energy	力がぱちぱちと爆ぜている
+it always seems to be looking far into the distance	いつも遥か彼方を見つめているように見える
+it stares longingly at those nearby	近くにいる者を切なげに見つめている
+it never abandons its companions	仲間を決して見捨てない
+it changes direction suddenly at times	ときおり唐突に向きを変える
+it has an unnerving stare	人を落ち着かせない凝視を向けてくる
+it heckles those it meets that are not married	出会った未婚の者をからかい、野次を飛ばす
+it always seems like it is on the verge of crying	いつも今にも泣き出しそうに見える
+it appears to have sharp shimmering edges on many parts of its body	体の多くの部位に鋭く煌めく縁を備えている
+it has an angular appearance	角張った姿をしている
+it has a distinctly depressing moan	気の滅入るような唸り声を上げる
+it is difficult to see clearly	はっきりと見定めることが難しい
+it changes color with the phases of the moon	月の満ち欠けに応じて色を変える
+it is very solidly built	きわめて頑丈な体つきをしている
+there is a foul reek about it	身に鼻を突く腐臭がまとわりついている
+it cannot abide anything that lives	生きとし生けるものを一切許容できない
+it sounds clear tones as its body moves in time	体が拍子に合わせて動くと、澄んだ音色を響かせる
+it seems most at ease when it is outdoors	屋外にいるときが最も安らいでいるように見える
+it eerily reflects the light of the stars and moon	星と月の光を不気味に照り返している
+it reminds those that look upon it of their most unpleasant memories	それを見る者に、最も忌まわしい記憶を思い起こさせる
+it cannot look directly at somebody that has broken an oath	誓いを破った者をまっすぐには見ることができない
+it always raises a part of its body toward the moon	体の一部を常に月へと掲げている
+it moves very stiffly	きわめてぎこちなく動く
+its surface is always enlivened with a refreshing play of color	表面には爽やかな色の戯れが絶えず躍っている
+it has an incredibly calm demeanor	信じがたいほど落ち着き払った佇まいをしている
+it rocks back and forth whenever somebody changes their mind in its presence	目の前で誰かが考えを改めると、前後に身を揺らす
+it always seems to point toward the sun when it is in the sky	空に太陽があるときは、いつもそちらを指し示しているように見える
+it recites verses in a strange language on occasion	ときおり奇妙な言語で詩句を唱える
+it appears to be expecting	何かを待ち受けているように見える
+it leaves water wherever it goes	行く先々に水を残していく
+it is strikingly colored	際立った色彩をしている
+it alternates from instant to instant between sluggishness and extreme vibrancy	物憂げな鈍さと激しい躍動を、刹那ごとに行き来している
+it moves with a bouncing rhythm	弾むような律動で動く
+it has a fixed and unblinking gaze when interacting	相対するとき、まばたきもせず一点を見据える
+its outer surface seems to flow about its body	外皮が体を覆って流れているように見える
+it is hard to disobey	逆らうことが難しい
+it always nods eagerly when somebody is speaking	誰かが話すときは、いつも熱心にうなずく
+it inspires those around it to acts of great sacrifice	周囲の者を大いなる自己犠牲へと駆り立てる
+it makes nearby water undrinkable	近くの水を飲めないものに変えてしまう
+it always seems to be deep in thought	いつも深い思索に沈んでいるように見える
+its form is ever-changing	その姿は絶えず移ろっている
+it makes absolutely no sound	一切の音を立てない
+it has a slowly shifting pattern on its surface	表面にゆっくりと移ろう文様を帯びている
+it sings beautiful songs endlessly	美しい歌をとめどなく歌い続ける
+it pays attention carefully to anybody that is speaking	話している者には、一言一句に注意深く耳を傾ける
+it appears to sparkle after night falls	日が沈むと、きらめいて見える
+its movement is the sound of wind and rain	その動きは風雨の響きそのものである
+it looks solidly built	頑丈な体つきに見える
+it mutters to itself about death	死のことを独り言のようにつぶやいている
+it is difficult to look at directly	まともに見据えることが難しい
+it always seems to have its attention on the most valuable object in the area	周囲で最も価値のある物に、いつも注意を向けているように見える
+its movements sound like the rattling of chains	その動きは鎖が擦れ合う音のように響く
+it is incredibly noisy	信じがたいほど騒がしい
+it appears to be covered with sharp hooks and barbs	鋭い鉤と棘で全身を覆われている
+it seems most content when a fair wind is blowing	追い風が吹いているときが最も満ち足りているように見える
+it never stops moving completely	完全に動きを止めることは決してない
+it is unsettling to be around	そばにいると心が落ち着かない
+it is top-heavy	上部が重く、頭でっかちである
+it has a tendency to laugh quietly to itself every so often	ときおり、ひとりでに静かに笑う癖がある
+it tenses up throughout its entire body whenever somebody tells a falsehood in its presence	目の前で偽りが語られると、全身を強張らせる
+it chitters briefly before sunrise and just after nightfall	夜明け前と日暮れ直後に、短くかすかな鳴き声を立てる
+it always tries to embolden any fighting in its presence with exhortations of bravery, even its foes	目の前の戦いには、敵味方を問わず勇気を鼓舞する言葉で必ず気合いを入れようとする
+it looks very proud of itself	自らを大いに誇っているように見える
+it seems to glow brightly from within	内側から明るく輝いているように見える
+it bellows and cheers without pause	休むことなく吠え、歓声を上げる
+it seems to flow as it moves	動くたびに流れるように見える
+it always seems to be counting something	いつも何かを数えているように見える
+it changes appearance based on the clouds and precipitation above	頭上の雲や降水に応じて姿を変える
+it is surrounded by an everpresent rush of wind	絶えず吹き寄せる風に取り巻かれている
+it acts with unwavering calm	揺るぎない静穏さをもって振る舞う
+it is covered with divine writing	神聖な文字で全身を覆われている
+it appears spry and vigorous	軽やかで精力に満ちているように見える
+it is a divine being	神なる存在である
+it hurls vicious insults constantly	絶え間なく悪辣な罵倒を浴びせかける
+with singular purpose it seeks to destroy the living	ただ一つの目的のため、生きとし生けるものを滅ぼそうとしている
+it is crazed for blood and flesh	血と肉を求めて狂乱している
+blob	ブロブ
+quadruped	四足獣
+silverfish	シミ
+mayfly	カゲロウ
+stonefly	カワゲラ
+earwig	ハサミムシ
+cricket	コオロギ
+stick insect	ナナフシ
+cockroach	ゴキブリ
+aphid	アブラムシ
+cicada	セミ
+assassin bug	サシガメ
+wasp	スズメバチ
+bee	ハチ
+hornet	オオスズメバチ
+tiger beetle	ハンミョウ
+ladybug	テントウムシ
+weevil	ゾウムシ
+darkling beetle	ゴミムシダマシ
+click beetle	コメツキムシ
+scarab beetle	コガネムシ
+stag beetle	クワガタムシ
+dung beetle	フンコロガシ
+rhinoceros beetle	カブトムシ
+rove beetle	ハネカクシ
+snakefly	ヘビトンボ
+lacewing	クサカゲロウ
+antlion larva	アリジゴク
+flea	ノミ
+scorpionfly	サソリアブ
+caddisfly	トビケラ
+butterfly	チョウ
+caterpillar	イモムシ
+maggot	ウジ
+spider	クモ
+tarantula	タランチュラ
+scorpion	サソリ
+mite	ダニ
+shrimp	エビ
+lobster	ロブスター
+nematode	線虫
+earthworm	ミミズ
+bristleworm	ゴカイ
+ribbon worm	ヒモムシ
+flat worm	ウズムシ
+frog	カエル
+salamander	サンショウウオ
+newt	イモリ
+crocodile	ワニ
+serpent	蛇
+viper	クサリヘビ
+cobra	コブラ
+turtle	カメ
+pterosaur	翼竜
+sauropod	竜脚類
+theropod	獣脚類
+iguanodont	イグアノドン類
+hadrosaurid	カモノハシ竜
+stegosaurid	剣竜
+ceratopsid	角竜
+ankylosaurid	鎧竜
+grouse	雷鳥
+quail	ウズラ
+pheasant	キジ
+gull	カモメ
+grebe	カイツブリ
+petrel	ミズナギドリ
+pelican	ペリカン
+stork	コウノトリ
+flamingo	フラミンゴ
+falcon	ハヤブサ
+condor	コンドル
+harrier	チュウヒ
+kite	トビ
+crane	ツル
+dove	ハト
+pigeon	ハト
+parrot	オウム
+cockatoo	キバタン
+cuckoo	カッコウ
+owl	フクロウ
+nightjar	ヨタカ
+swift	アマツバメ
+hummingbird	ハチドリ
+kingfisher	カワセミ
+quetzal	ケツァール
+toucan	オオハシ
+woodpecker	キツツキ
+lyrebird	コトドリ
+thornbill	ソーンビル
+honeyeater	ミツスイ
+fantail	オウギビタキ
+shrike	モズ
+jay	カケス
+kinglet	キクイタダキ
+lark	ヒバリ
+swallow	ツバメ
+martin	イワツバメ
+warbler	ムシクイ
+thrush	ツグミ
+oxpecker	ウシツツキ
+starling	ムクドリ
+mockingbird	マネシツグミ
+nuthatch	ゴジュウカラ
+tanager	フウキンチョウ
+bunting	ホオジロ
+finch	アトリ
+titmouse	シジュウカラ
+chickadee	コガラ
+waxwing	レンジャク
+flycatcher	ヒタキ
+fruit bat	オオコウモリ
+otter	カワウソ
+hippopotamus	カバ
+hexapod	六脚類
+decapod	十脚類
+octopod	八腕類
+primate	霊長類
+wyrm	竜
+snake	蛇
+armless biped	無腕二足獣
+eyeless	目のない
+one-eyed	隻眼の
+three-eyed	三つ目の
+beakless	くちばしのない
+noseless	鼻のない
+skinless	皮膚のない
+hairy	毛深い
+feathered	羽毛に覆われた
+scaly	鱗に覆われた
+fleshy	肉質の
+armored	装甲をまとった
+six-legged	六本脚の
+eight-legged	八本脚の
+poisonous sting	毒針
+webs	糸の巣
+poisonous vapors	毒の蒸気
+poisonous gas	毒ガス
+deadly dust	致死性の粉塵
+deadly spittle	猛毒の唾
+noxious secretions	有毒な分泌液
+deadly blood	猛毒の血
+poisonous bite	毒牙
+hunger for warm blood	温かい血への飢え
+Now you will know why you fear the night.	夜を恐れる理由を、今こそ知ることになる。
+ This night creature was first created 	この夜の生き物は、最初に
+accidentally 	偶然
+by the 	によって
+ of 	の
+ through the fiend's terrifying power	魔王の恐ろしい力を通じて
+ through the fiend's twisted power	魔王の歪んだ力を通じて
+ through the fiend's chaotic power	魔王の混沌の力を通じて
+ after horrible experiments	恐ろしい実験の末に
+ gone wrong	しくじって
+ unleashed upon 	解き放たれ、
+multitudes	大群に
+ in 	、
+ in the year 	年に
+.	。
+ It was created by 	これは
+an unknown deity	未知の神によって作られ
+ and is of a part with 	と同じ系統に属し
+, 	、
+ and 	と
+ of tears	涙の
+ of the night	夜の
+ of evil	邪悪な
+ of twilight	黄昏の
+ of shadow	影の
+a proboscis	長い口吻
+a long, swinging trunk	長く揺れる鼻
+a short trunk	短い鼻
+a fat, bulging trunk	太く膨らんだ鼻
+a twisting, jointed trunk	ねじれて節のある鼻
+a curling trunk	巻き上がった鼻
+a knobby trunk	こぶだらけの鼻
+a round shell	丸い甲羅
+a spiral shell	螺旋状の甲羅
+a square shell	四角い甲羅
+a knobby shell	こぶだらけの甲羅
+an enormous shell	途方もなく大きな甲羅
+a broad shell	幅広の甲羅
+a pair of long antennae	一対の長い触角
+a pair of fan-like antennae	一対の扇状の触角
+a pair of spindly antennae	一対のひょろ長い触角
+a pair of squat antennae	一対のずんぐりした触角
+a pair of branching antennae	一対の枝分かれした触角
+a pair of knobby antennae	一対のこぶだらけの触角
+large mandibles	大きな顎
+thin wings of stretched skin	薄く引き伸ばされた皮膜の翼
+feathered wings	羽毛の生えた翼
+in humanoid form	人の形をした
+twisted into humanoid form	歪んだ人の姿をした
+a 	一本の
+long, spiral	長く螺旋状の
+ long, curving	長く湾曲した
+stubby	短く太い
+long, straight	長くまっすぐな
+grime and filth	垢と汚物
+flame	炎
+solid salt	固形の塩
+n enormous	途方もなく大きな
+a 	一本の
+long, hanging	長く垂れ下がった
+long, straight	長くまっすぐな
+long, curly	長く巻き毛の
+stubby	短く太い
+long and shaggy	長くぼさぼさしている
+very curly	非常に縮れている
+short and even	短く揃っている
+patchy	まだらになっている
+long and straight	長くまっすぐ伸びている
+long and wavy	長く波打っている
+fluffed-out	ふんわりと膨らんでいる
+downy	綿毛のように柔らかい
+long and broad	長く幅広い
+long and sparse	長くまばら
+long and narrow	長く細い
+waxy	ろう状である
+leathery	革質である
+warty	いぼだらけである
+sleek and smooth	滑らかでつややかである
+rough and cracked	ざらつき、ひび割れている
+with lidless eyes	まぶたのない目を持つ
+with external ribs	外に露出した肋骨を持つ
+# ここから下は、一般の辞書の訳がこの文脈に合わないので上書きする分
+ great	巨大な
+ gigantic	途方もなく巨大な
+ towering	そびえ立つような
+ huge	巨大な
+ very large	とても大きな
+ large	大きな
+ small	小さな
+ very small	ごく小さな

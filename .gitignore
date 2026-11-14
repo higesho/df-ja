@@ -1,0 +1,30 @@
+# ビルド結果
+engine/target/
+chainloader/target/
+dist/
+
+# tools/build.py が作るもの（translations/ から作り直せる）
+data/lookups/
+data/dictionaries/
+data/simple-dictionary.csv
+data/sentence-templates.csv
+data/paragraph-dictionary.csv
+
+# 作業用。work/check（回帰テストの控え）だけは残す
+/work/*
+!/work/check/
+work/check/*.out
+
+# ゲームが書くもの・一時ファイル
+*.log
+*.stackdump
+dfint-data/
+
+# 大きい画面写真（紹介ページ用は docs/images/ に小さくして置く）
+screenshots/
+T1.png
+T2.png
+Q1.png
+Q2.png
+Q3.png
+Q4.png

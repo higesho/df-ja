@@ -1,0 +1,17 @@
+dfint-ja 設定ファイル（Dwarf Fortress 日本語化）
+
+ログレベル: Trace / Debug / Info / Warn / Error / Off
+  ふだんは Warn（ほとんど何も書きません）。
+  訳されていない文字を見つけたときは Debug にすると、その文字列が dfint-log.log に残ります
+  （tools/harvest_missing.py で集められます）。ログは毎回書き直されるので、遊び終わる前に取ってください
+[LOG_LEVEL:Warn]
+
+ログファイルのパス
+[LOG_FILE:dfint-data/dfint-log.log]
+
+フォントファイル（TTF/OTF・等幅の全角グリフが24pxで描画されます）
+[FONT_FILE:dfint-data/fonts/NotoSansMonoCJKjp-Bold.otf]
+
+旧形式辞書（legacy-dictionary.csv）を使うかどうか
+[USE_LEGACY_DICTIONARY:NO]
+

@@ -1,0 +1,352 @@
+# 実行ファイル内の UI 文字列のうち ui.tsv に無かったもの（tools/ui/merge.py が生成）
+!  Amazing ability.	！　驚異的な能力です。
+!  It's terrifying.	！　恐ろしい。
+!  Praise the miners!	！鉱夫たちを称えよ！
+!  See to yourself before you face what's ahead.	！　前途に立ち向かう前に、まず自分自身を整えておけ。
+"You are close.  Follow your senses to the entrance.	「もうすぐだ。感覚を頼りに入口まで進め。
+(C temporary)	（C 一時的）
+, but the attack glances away!	、しかし攻撃は逸れた！
+, but the attack passes right through!	、しかし攻撃はそのまま突き抜けた！
+, who bled to death	、失血死した
+.  Destiny is calling!	。運命が呼んでいる！
+.  Do not tempt fate.	。運命を試してはならない。
+.  How can I even describe the skill?	。この技能をどう言い表せばいいのか？
+.  It is good to see you.	。お会いできてよかった。
+.  Please be respectful of the materials.	。材料を大切に扱ってください。
+.  What can I do for you?	。何かご用ですか？
+.  What happened to bring us to this?	。いったい何があって、こうなったのだ？
+.  While defeated, the latter escaped unscathed	。敗れた側は無傷で逃れた。
+?  Unbelievable talent!	？　信じがたい才能だ！
+[B]The rhythm system is fundamentally polymetric.  There are always multiple rhythm lines, and the beats are always played together, even if one rhythm line completes (and then repeats) before the other is finished.  The rhythm lines are thought of as one, without a primary-subordinate relationship, though individual lines can be named.  	[B]リズム体系は本質的に多拍子です。リズムの線は常に複数あり、拍は常に一緒に演奏されます。一方のリズムの線が完結し（そして繰り返し）、もう一方が終わる前であってもです。リズムの線は主従関係のない一つのものとして扱われますが、個々の線には名前を付けることができます。  
+[B]The rhythm system is fundamentally polyrhythmic.  There are always multiple rhythm lines, and each of their bars is played over the same period of time, regardless of the number of beats.  The rhythm lines are thought of as one, without a primary-subordinate relationship, though individual lines can be named.  	[B]リズムの体系は基本的に多元リズムです。リズムの線は常に複数あり、拍の数にかかわらず、それぞれの小節は同じ時間の中で演奏されます。リズムの線は主従関係のない一つのものとして扱われますが、個々の線には名前を付けることもできます。  
+[C:6:0:1]Furniture[C:7:0:0] created at the [C:6:0:0]Carpenter's Workshop[C:7:0:0] usually takes one [C:6:0:1]Wood[C:7:0:0] to build.  Add a task and make a [C:6:0:1]Bed[C:7:0:0].  	[C:6:0:1]家具[C:7:0:0]は[C:6:0:0]大工の工房[C:7:0:0]で作る場合、通常[C:6:0:1]木材[C:7:0:0]を1つ使います。作業を追加して[C:6:0:1]ベッド[C:7:0:0]を作りましょう。  
+[C:6:0:1]Skins[C:7:0:0] are tanned at the [C:6:0:0]Tanner's Shop[C:7:0:0], and made into [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Leather Works[C:7:0:0].	[C:6:0:1]皮[C:7:0:0]は[C:6:0:0]なめし工房[C:7:0:0]でなめされ、[C:6:0:0]革工房[C:7:0:0]で[C:6:0:1]衣服[C:7:0:0]に加工されます。
+[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: I don't know very much about the outside world.  I wish I had more to tell you.	[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 外の世界のことはあまり知らないのです。お伝えできることがもっとあればよいのですが。
+[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Peace is calling out to us.  How do you respond?	[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 和平が我々を呼んでいます。どう応じますか？
+[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Remember, trade agreements strengthen bonds.  Please consider an import agreement next year.	[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: どうか覚えておいてください、交易協定は絆を深めるものです。来年は輸入協定をご検討ください。
+[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: The Mountainhomes have some need of the same goods you have requested, sadly, so there is no export agreement to be had.  We will still try to fill your needs as best we can.	[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 残念ながら、山の故郷もあなた方の求める品と同じ品を必要としているため、輸出協定は結べません。それでも、できる限りあなた方の要望に応えるよう努めます。
+[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Well then, we have finalized the import agreement.  Feel free to go over the documents.[B]	[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: では、輸入協定が確定しました。書類にお目通しください。[B]
+[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: You continue to impress!  I have come empowered to elevate this land in the eyes of our realm.	[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 見事な働きぶりだ！ 我らの王国の目に映るこの地の格を高めるため、権限を与えられてやって来た。
+A chain can be placed for use in the justice system or for the restraint of an animal.	鎖は司法に用いたり、動物を拘束したりするために設置できます。
+a fantastic dining room	素晴らしい食堂
+a good dining room	良い食堂
+a great dining room	立派な食堂
+a horrible dining room	ひどい食堂
+A legend?  Here?  I can scarcely believe it.  	伝説の人だと？　ここで？　信じられない。  
+a legendary dining room	伝説的な食堂
+a loyal soldier	忠実な兵士
+A moaning spirit returned from the dead.  It will generally trouble one unfortunate at a time.	うめく霊が死者の国から戻ってきた。たいてい一度に一人の不幸な者を苦しめる。
+a modest bard	控えめな吟遊詩人
+a poet, according to some	一部の人から詩人とされる
+a poor dining room	粗末な食堂
+a storyteller, or at least tells stories	語り部、少なくとも話をする者
+a very loyal soldier	とても忠義の厚い兵士
+a well-known thug	名の知れたならず者
+accepted in admiration of power	力への崇敬から受け入れられた
+added a masterful covering	名品の被覆を追加した
+added a masterful handle	見事な柄を追加した
+added a masterful image	名品の図像を追加した
+added masterful bands	名品の帯を追加した
+added masterful cloth	見事な布を追加した
+added masterful coloration	見事な色彩を追加した
+added masterful rings	名品の指輪を追加した
+added masterful rollers	見事なローラーを追加した
+added masterful spikes	見事な棘を追加した
+added masterful thread	見事な糸を追加した
+addition of masterful bands	名品の帯の追加
+addition of masterful cloth	見事な布の追加
+addition of masterful coloration	名品の着色の追加
+addition of masterful rings	名品の指輪の追加
+addition of masterful rollers	見事なローラーの追加
+addition of masterful spikes	名品のスパイクの追加
+addition of masterful thread	名品の糸の追加
+after being away from animals	動物と離れていて
+after being away from family	家族と離れていて
+after being away from friends	友人と離れていて
+after being away from people	人々と離れていて
+after being away from traditions	伝統から離れていて
+after being recognized and arrested	見分けられて逮捕された後
+an infamous brigand	悪名高い山賊
+an infamous flatterer	悪名高いおべっか使い
+an infamous killer	悪名高い殺人者
+an infamous murderer	悪名高い殺人者
+an infamous thug	悪名高いならず者
+an infamous villain	悪名高い悪党
+And a true ruler requires seven symbols, symbols not of this world. Mere steel will not suffice. 	まことの支配者には、この世のものではない七つの印が必要だ。ただの鋼では足りない。 
+and control them while the others follow, or control each party member tactically.  The game ends when the entire party is deceased or retired.  	その者を操作しながら他の者はついてこさせるか、各パーティメンバーを戦術的に操作します。パーティ全員が死亡または引退するとゲームは終了します。  
+Animal traps can be placed in the wild and baited with meat, plants, or gems, in order to catch small creatures.	動物罠は野外に設置でき、肉、植物、宝石を餌にして小動物を捕らえることができます。
+Any ability you possess that doesn't fit elsewhere will appear here.  For instance, many creatures can spit or pet animals.  Others can breathe fire.  	ほかの項目に当てはまらない能力は、ここに表示されます。たとえば、多くの生物は唾を吐いたり、動物を撫でたりできます。ほかには火を吐けるものもいます。  
+armorsmith's shop sign	防具職人の店の看板
+asking for duties from your leader if you have one, and the ability to trade in shops.  You can also ask anybody to join you, but many people will be shy of danger. 	リーダーがいれば任務を求め、店で交易する能力があります。誰にでも同行を頼めますが、危険を恐れて尻込みする人も多いでしょう。 
+Attacks target specific body parts and have various modifiers.  You will select these in the subsequent menus.  	攻撃は特定の身体部位を狙い、さまざまな補正があります。これらは次のメニューで選択します。  
+badly distracted by unmet needs	満たされない欲求にひどく気が散っている
+been drained of blood	血を抜き取られた
+been found boiled.	煮られた状態で見つかった。
+been found condensed.	凝縮された状態で見つかった。
+been found dead.	死んだ状態で見つかった。
+been found melted.	溶けた状態で見つかった。
+been found scuttled.	沈められた状態で見つかった。
+been found solidified.	固まった状態で見つかった。
+been scared to death	恐怖で死んだ
+being forced to endure the decay of a child	子の朽ちていく姿に耐えさせられていて
+being forced to endure the decay of a father	父の朽ちていく姿に耐えさせられていて
+being forced to endure the decay of a friend	友人の衰えに耐えることを強いられて
+being forced to endure the decay of a lover	恋人の衰えに耐えることを強いられて
+being forced to endure the decay of a mother	母の朽ちていく姿に耐えさせられていて
+being forced to endure the decay of a pet	ペットの朽ちていく姿に耐えさせられていて
+being forced to endure the decay of a sibling	兄弟の衰えに耐えることを強いられて
+being forced to endure the decay of a spouse	配偶者の朽ちていく姿に耐えさせられていて
+being tormented in nightmares by a dead friend	亡くなった友人の悪夢に苛まれて
+being tormented in nightmares by a dead lover	死んだ恋人に悪夢の中で苦しめられていて
+being tormented in nightmares by a dead pet	亡くなったペットの悪夢に苛まれて
+being tormented in nightmares by a dead sibling	亡くなった兄弟の悪夢に苛まれて
+being tormented in nightmares by a dead spouse	亡くなった配偶者の悪夢に苛まれて
+being unable to pray	祈ることができずにいて
+blacksmith's shop sign	鍛冶屋の店の看板
+bowyer's shop sign	弓職人の店の看板
+breaking away	離反する
+Building friendships is a waste.  There is no bond that can withstand distance or a change of circumstance.	友情を築くのは時間の無駄だ。距離や境遇の変化に耐えられる絆など存在しない。
+burning to death	焼け死んだ
+But this is only the beginning.  Ultimately, your true goals are up to your imagination. 	しかし、これはまだ始まりにすぎません。最終的に、あなたの真の目標はあなたの想像力次第です。 
+Butchering requires a sharp-edged weapon or tool, as well as a butcherable carcass.  Butchering is an excellent source of meat.  The other products cannot currently be used.  	解体には刃のある武器または道具と、解体可能な死骸が必要です。解体は肉を得る優れた手段です。その他の産物は現在使えません。  
+Cages can be used to contain an animal, and metal cages can be used by the justice system.  Glass cages can be filled with water and used as aquariums.	檻は動物を閉じ込めるために使えます。金属製の檻は司法制度でも使えます。ガラス製の檻には水を満たして水槽として使えます。
+Can the elevation 400 be placed enough times to provide space for your peaks?  	標高400を十分な回数配置すれば、山頂のための空間を確保できますか？  
+Can volcanism be placed at the value 100 enough times to provide space for each of your volcanos?  	火山活動の値を100に設定して十分な回数配置すれば、火山それぞれの空間を確保できますか？  
+capable of such violence	そのような暴力を振るいかねない
+carpenter's shop sign	木工房の看板
+Congratulations! This fortress is now a Mountainhome, proof that any suggestion of hubris was childish nonsense. 	おめでとうございます！　この要塞は山の故郷となりました。傲慢だという指摘が、子供じみた戯言だったことの証です。 
+Continue moving in the same direction to build up speed.  If you or your mount are moving quickly, your attacks gain velocity.  	同じ方向に動き続けて速度を上げましょう。あなた自身または騎獣が速く移動していると、攻撃に勢いが加わります。  
+Crafting in the base game is limited to constructing a stone axe necessary to fell trees.  You can pick up few rocks and a tree branch to get started.  	基本ゲームの製作は、木を切り倒すために必要な石斧を作ることに限られます。最初は、いくつかの石と木の枝を拾うことができます。  
+crime of blood-drinking	血を飲む罪
+crime of espionage	スパイ行為の罪
+crime of murder	殺人罪
+crime of robbery	強盗罪
+crime of theft	窃盗罪
+crime of treason	反逆罪
+cry on priest	司祭にすがって泣く
+devotional form of music	信仰の音楽の形式
+distracted by unmet needs	満たされない欲求に気が散っている
+due to a shared artistic interest	芸術への共通の関心のため
+due to a shared scholarly interest	学問への共通の関心のため
+eighth eldest child	上から八番目の子
+eighth eldest daughter	上から八番目の娘
+eighth eldest son	上から八番目の息子
+Everyone should broaden their horizons.  Any work beyond learning the basics is just a waste.	誰もが視野を広げるべきだ。基礎を学ぶ以上の仕事など、ただの無駄だ。
+Everything is properly royal, properly furnished.  And yet? 	何もかもが立派に王族らしく、しっかりと調度されている。それなのに？ 
+Family is complicated and those ties be both a boon and a curse.  Sometimes both at once!	家族は複雑で、その絆は恵みであり呪いでもある。時には両方が一度に訪れることもある！
+famous for your loyalty as a soldier	兵士としての忠誠で名高い
+famous preserver of knowledge	知識の名高い保存者
+fifth eldest child	上から五番目の子
+fifth eldest daughter	上から五番目の娘
+fifth eldest son	上から五番目の息子
+find relative	親族を探す
+form of music used during marches and military engagements	行進や軍事行動の最中に用いられる音楽の形式
+form of music used for entertainment	娯楽に使われる音楽の形式
+form of music used to commemorate important events	重要な出来事を記念するために用いられる音楽の形式
+fourth eldest child	上から四番目の子
+fourth eldest daughter	上から四番目の娘
+fourth eldest son	上から四番目の息子
+freezing to death	凍死した
+Friends are future enemies.  I don't see the difference.  People do as they must.	友は未来の敵だ。違いは分からない。人は為すべきことを為すものだ。
+gave in to fear of death	死への恐怖に屈した
+gives sermons, and may be a preacher	説教をすることがあり、説教者かもしれない
+going there.  Obviously, your copious wit is matched only by your industry!	。明らかに、あなたの豊かな機知に並ぶのは、あなたの勤勉さだけです！
+Greetings from our mountain halls to yours.  Let us strengthen our bonds in trade.	我らが山の広間より、あなた方へご挨拶申し上げます。取引を通じて絆を深めましょう。
+has a massive broad body, highly muscular, with thick rolls of lard hanging from it	非常に大柄で幅広い体つきをし、非常に筋肉質だが、厚い脂肪の塊がぶら下がっている。
+Hatches can be placed at the tops of stairwells or above ramps to control movement in the fort when they are forbidden or attached to levers.	ハッチは、禁止に設定されているときやレバーに接続されているときに、要塞内の移動を制御できるよう、階段の上端やスロープの上に設置できます。
+Here you can interact with the objects you are carrying.  Items can be dropped, worn, eaten, thrown, named, etc.  The icon tooltips describe your options for each item.  	ここでは携帯している物品を操作できます。物品は落とす、身につける、食べる、投げる、名前を付けるなどができます。アイコンのツールチップで、各物品の選択肢を確認できます。  
+Here you can travel great distances without having to move in the local mode.  You still become thirsty, hungry, and drowsy while traveling.  	ここでは、現地モードで動き回らずに長距離を移動できます。移動中も喉が渇き、空腹になり、眠くなります。  
+I am a merchant, yes.  You see, I wish to trade.  Which of my goods do you desire?	いかにも、わたしは商人です。取引をしたいのです。わたしの品のうち、どれをお求めでしょうか？
+If you are carrying too much, you'll see an encumbrance indicator above the inventory button.  Encumbrance can cause you to move very slowly and should be avoided if possible.  	持ち物が多すぎると、持ち物ボタンの上に荷重表示が出ます。荷重は極端に動きを遅くするため、可能な限り避けるべきです。  
+If you have some [C:6:0:1]Wood[C:7:0:0] stockpiled, you'll be able to place a [C:6:0:0]Carpenter's Workshop[C:7:0:0].  	[C:6:0:1]木材[C:7:0:0]を備蓄しておけば、[C:6:0:0]木工房[C:7:0:0]を設置できるようになります。  
+in need of sleep	睡眠を必要としていて
+in order to avert	回避するために
+in order to be brought safely away from	…から安全に連れ出されるために
+in order to drink	飲むために
+in order to flee	逃げるために
+in order to form	形成するために
+in order to pray	祈るために
+in order to relax	くつろぐために
+in order to rescue	救うために
+in order to study	学ぶために
+infamous information source	悪名高い情報源
+infamously quarrelsome	悪名高いほど喧嘩っ早い
+is fat and very short	太っていてとても背が低い
+is muscular and very short	筋骨たくましくて、とても背が低い
+is seeking information	情報を探している
+is skinny and very short	痩せていて、とても背が低い
+is somewhat weak and very short	やや弱々しくて、とても背が低い
+Is there ever a time when honesty by itself overrides other considerations?  Say what is right, not what is true.	正直さだけが他のあらゆる配慮に優先することなど、あるだろうか？　真実ではなく、正しいことを言え。
+is very muscular and very short	とても筋肉質でとても背が低い
+is very short	とても背が低い
+is very weak and very short	とても弱々しくて、とても背が低い
+is weak and skinny and also very short	弱々しく痩せていて、そのうえとても背が低い
+is weak, skinny and very short	弱々しく、痩せていてとても背が低い
+jamming the	…を押し込んで
+known enemy fighter	敵の戦士として知られる
+known information source	知られた情報源
+known loyal soldier	知られた忠実な兵士
+known preserver of knowledge	知識の守り手として知られる
+known protector of the weak	弱き者の守護者として知られる
+known treasure hunter	知られた宝探し人
+leather body part	革製の身体部位
+Leave it to the besotted dullard to miss the finer points of discourse.  I'm leaving.  Do reflect.	議論の機微を見落とすとは、色ボケの鈍物らしい。わしは去る。よく考えることだ。
+legendary information source	伝説的な情報源
+legendary preserver of knowledge	知識の伝説的な守り手
+Let's make a safe place to work.  Select [C:5:0:1]Regular Mining[C:7:0:0] mode, to the left of [C:5:0:1]Stair Mining[C:7:0:0] mode.	安全な作業場所を作りましょう。[C:5:0:1]通常採掘[C:7:0:0]モードを選んでください。[C:5:0:1]階段採掘[C:7:0:0]モードの左にあります。
+lock the ways into your fortress.  The ways to build traps are as wild as your imagination. 	要塞への通路を封鎖しましょう。罠の作り方は、あなたの想像力と同じくらい自由です。 
+main part	主要部分
+Maybe after you've improved.  Prove you have what it takes.  The life of the traveling performer is a hard one.	上達してからなら、考えてやってもいい。実力を示してみせろ。旅の芸人の暮らしは厳しいものだ。
+ninth eldest child	上から九番目の子
+ninth eldest daughter	上から九番目の娘
+ninth eldest son	上から九番目の息子
+none assigned	割り当てなし
+Not useful unless you retire and subsequently become a resident in Fortress mode.	引退して、その後要塞モードの住人になるまでは役に立ちません。
+noted information source	名の知れた情報源
+noted preserver of knowledge	知識の守り手として知られる
+Once the shop is built, open the [C:5:0:1]Creatures[C:7:0:0] info menu.  From there select the [C:5:0:1]Pets/Livestock[C:7:0:0] tab. 	店が建ったら、[C:5:0:1]生物[C:7:0:0]の情報メニューを開きます。そこで[C:5:0:1]ペット/家畜[C:7:0:0]タブを選択します。 
+out of the wound	傷口から
+personal punishment delayed	個人的な処罰が保留された
+personal punishment reduced	個人的な罰が軽減された
+Process plants and work with livestock here.  Milk and shear animals, make cheese, and spin thread.	ここで植物を加工し、家畜を扱います。動物から乳を搾り、毛を刈り、チーズを作り、糸を紡ぎます。
+quite focused with satisfied needs	欲求が満たされていて、かなり集中している
+Relative body size is the most important determiner of wrestling outcomes.  A character's wrestling skill is also important.  	組み技の勝敗を最も大きく左右するのは、相対的な体の大きさです。キャラクターの組み技の技能も重要です。  
+rough gems and glass	原石とガラス
+rumored enemy fighter	敵の戦士という噂
+rumored information source	情報源と噂される
+rumored loyal soldier	忠実な兵士と噂される
+rumored preserver of knowledge	知識の守り手と噂される
+rumored protector of the weak	弱き者の守護者という噂
+rumored treasure hunter	宝探し人と噂される
+second eldest child	上から二番目の子
+second eldest daughter	上から二番目の娘
+second eldest son	上から二番目の息子
+seventh eldest child	上から七番目の子
+seventh eldest daughter	上から七番目の娘
+seventh eldest son	上から七番目の息子
+sixth eldest child	上から六番目の子
+sixth eldest daughter	上から六番目の娘
+sixth eldest son	上から六番目の息子
+soap body part	石鹸製の身体部位
+Some injuries require [C:6:0:1]Splints[C:7:0:0], or [C:6:0:1]Gypsum Plaster Powder[C:7:0:0] for [C:6:0:1]Orthopedic Casts[C:7:0:0].  [C:6:0:1]Soap[C:7:0:0] is necessary to prevent infection. 	一部の怪我には[C:6:0:1]副木[C:7:0:0]や、[C:6:0:1]整形ギプス[C:7:0:0]用の[C:6:0:1]石膏粉[C:7:0:0]が必要です。感染を防ぐには[C:6:0:1]石鹸[C:7:0:0]が必要です。 
+something of a dancer	ある程度踊り手だ
+something of a flatterer	ある程度おべっか使いだ
+something of a hunter	ある程度狩人だ
+Sometimes the blunt truth just does more damage.  Think about how the situation will unfold before you speak.	時には率直な真実のほうが、より大きな傷を残すものだ。話す前に、事態がどう展開するかを考えておけ。
+somewhat focused with satisfied needs	欲求が満たされていて、ある程度集中している
+somewhat quarrelsome	やや喧嘩っ早い
+somewhat violent	やや暴力的
+stopped being the apprentice of	…の見習いであることをやめた
+stopped being the child of	…の子であることをやめた
+stopped being the father of	の父親であることをやめた
+stopped being the master of	…の主人であることをやめた
+stopped being the mother of	の母親であることをやめた
+stopped being the owner of	…の所有者であることをやめた
+stopped being the parent of	…の親であることをやめた
+stopped being the pet of	…のペットであることをやめた
+such a loyal soldier	本当に忠義の厚い兵士だ
+tenth eldest child	上から十番目の子
+tenth eldest daughter	上から十番目の娘
+tenth eldest son	上から十番目の息子
+the area enclosed by a parabola and a line	放物線と直線に囲まれた領域
+the concept of death	死という概念
+the concept of family	家族という概念
+the concept of hunting	狩猟という概念
+the concept of nature	自然という概念
+the concept of war	戦争という概念
+The dead are buried in coffins.  Coffins must be placed in their own tomb zone in order to work.  A coffin object must be made before it can be placed.	死者は棺に埋葬されます。棺を機能させるには、専用の墓所ゾーンに置かなければなりません。棺を置くには、まず棺のアイテムを作らなければなりません。
+the ghost of a pet	ペットの幽霊
+the ghost of an acquaintance	知人の幽霊
+the ghost of my animal training partner	私の調教の相棒の幽霊
+the ghost of my child	私の子の幽霊
+the ghost of my father	父の幽霊
+the ghost of my friend	私の友人の幽霊
+the ghost of my lover	私の恋人の幽霊
+the ghost of my mother	私の母の幽霊
+the ghost of my sibling	私の兄弟の幽霊
+the ghost of my spouse	配偶者の幽霊
+the great tower	大いなる塔
+The hold menu also allows you to lead and mount pets.  You can claim stray animals as pets here too.  To name your new pets, use the talk menu.  	拘束メニューでは、ペットを率いたり騎乗させたりできます。ここで迷い動物をペットとして引き取ることもできます。新しいペットに名前を付けるには、会話メニューを使ってください。  
+the verse paragraph	詩の節
+The whole idea of loyalty is pointless.  Acting purely out of loyalty implies acting against one's own best interest.	忠誠という考え方そのものが無意味だ。純粋に忠誠から行動することは、自分自身の最善の利益に反することを意味する。
+The world isn't always safe.  I can see the value in martial training, the beauty even, but it shouldn't be exalted.	世界は必ずしも安全ではない。武術の訓練には価値があり、その美しさも認めよう。だが、それを崇め奉るべきではない。
+There is no value in telling the truth thoughtlessly.  Consider the circumstances and say what is best.	考えなしに真実を話しても意味はない。状況を考えて、最善のことを言おう。
+there was a ceremony	儀式があった
+there was a performance	公演があった
+there was a procession	行列があった
+There you can select which [C:2:0:0]Animals[C:7:0:0] to slaughter.  You may need to minimize the tutorial to see the [C:5:0:1]Slaughter[C:7:0:0] buttons.	ここでは、屠殺する[C:2:0:0]動物[C:7:0:0]を選択できます。[C:5:0:1]屠殺[C:7:0:0]ボタンを見るには、チュートリアルを最小化する必要があるかもしれません。
+third eldest child	上から三番目の子
+third eldest daughter	上から三番目の娘
+third eldest son	上から三番目の息子
+This is the attack menu.  Here you can strike creatures with an item or body part, or you can initiate a dodge or parry movement.  	これは攻撃メニューです。ここでは物品や体の部位で生き物を攻撃したり、回避や受け流しの動きを開始したりできます。  
+This is the movement options menu.  Here you can choose your gait and see your current stealth profile.  	ここは移動オプションのメニューです。ここでは歩き方を選んだり、現在の隠密性を確認したりできます。  
+This is the performance menu.  Here you can initiate a poetry recital, tell a story, dance, sing, or play a musical instrument.  	ここは演技メニューです。ここでは詩の朗読を始めたり、物語を語ったり、踊ったり、歌ったり、楽器を演奏したりできます。  
+This is the projectile aiming menu.  You can shoot projectiles with a launcher like a bow or crossbow, and you can throw almost any object that you are carrying in a grasp.  	ここは発射物の照準メニューです。弓やクロスボウのような発射器で発射物を撃つことができ、手に持っているほぼあらゆる物を投げることもできます。  
+This is the sleep menu.  Here you can sleep to overcome drowsiness or wait to pass time.	これは睡眠メニューです。ここでは眠気を解消するために眠るか、時間が経つのを待つことができます。
+This is the squad menu. 	これは小隊メニューです。 
+This is the wrestling menu.  Here you can grab creatures and then execute a variety of wrestling moves.  You can also initiate defensive actions here.  	これは組み打ちメニューです。ここでは生き物を掴み、様々な組み技を実行できます。防御行動もここから開始できます。  
+This isn't rich soil, but will suffice for now.  Dig deeper to find better soil. 	ここは肥沃な土ではないが、今は十分だろう。もっと深く掘って、より良い土を見つけよう。 
+This object is heavily worn.  	この物はひどく擦り切れている。  
+This object is in tatters.  	この物はぼろぼろだ。  
+This object is mangled.  	この物は損壊している。  
+This object is threadbare.  	この品はすり切れています。  
+too proud to give in to death	死に屈するにはあまりに誇り高かった
+too vain to give in to death	死に屈するにはあまりに自惚れていた
+Trading and bartering happen during conversation.  Trading occurs in shops and bartering happens in every other context.  	交易と物々交換は会話の中で行われます。交易は店で行われ、物々交換はそれ以外のあらゆる場面で行われます。  
+untroubled by unmet needs	満たされていない欲求に悩まされていない
+very focused with satisfied needs	欲求が満たされていて、とても集中している
+was a failure	失敗だった
+was a resounding failure	大失敗に終わった
+was a spectacular failure	壮絶な失敗だった
+was an embarrassing failure	恥ずかしい失敗だった
+was not successful	成功しなかった
+Weapon traps use a weapon or trap component to strike intruders.  Can be used with ranged weapons and loaded with ammo.  Can use multiple weapons at once.	武器罠は武器または罠の部品を使って侵入者を攻撃します。遠距離武器と組み合わせて使い、弾薬を装填することもできます。一度に複数の武器を使うこともできます。
+weaponsmith's shop sign	武器職人の店の看板
+well-known brawler	名の知れた喧嘩屋
+Whatever possessed you to brave these wilds, where our animal friends are even larger than your kind than usual, we do not know.  But know that this land is sacred to us, these trees more than any others.	この荒野に踏み込んだのは、いったい何のつもりか知らんが。ここでは動物の友すら、おまえたちの種族よりもいつにも増して大きいというのに。だが知っておけ、この土地は我らにとって神聖であり、この木々は他のどれよりも神聖なのだ。
+wooden body part	木製の身体部位
+yarn body part	糸製の身体部位
+Yes, and trade we will!  Simply tell me what interests you and what you're prepared to offer in exchange.	はい、交易しましょう！ 何に興味があって、代わりに何を差し出せるのか教えてください。
+You can also assign [C:5:0:0]Performers[C:7:0:0] to the [C:1:0:1]Temple[C:7:0:0] and even [C:5:0:0]Priests[C:7:0:0] once the [C:1:0:1]Temple[C:7:0:0] becomes more established.	[C:5:0:0]演者[C:7:0:0]を[C:1:0:1]神殿[C:7:0:0]に割り当てることもでき、[C:1:0:1]神殿[C:7:0:0]がより確立されれば[C:5:0:0]司祭[C:7:0:0]も割り当てられます。
+You can be powerful or powerless.  The choice is yours, until somebody makes it for you.	力を持つことも、無力でいることもできます。誰かがその選択を代わりにしてしまうまでは、選ぶのはあなた自身です。
+You can climb trees.  First you must establish a hold with a free grasp.  Then you can continue to move up into the air, while maintaining a hold on an adjacent tile.  	木に登れます。まず空いている手で掴まり、足場を確保しなければなりません。その後、隣接するタイルへの掴まりを保ったまま、空中へ登り続けられます。  
+You can find water in wells in towns, or in rivers.  Salt and brackish waters are not safe for drinking.  	水は町の井戸や川で得られます。塩水や汽水は飲用に適しません。  
+You don't always need to be slain in combat or starve to death.  If you are in a friendly community, you can retire there.  	戦闘で討たれたり飢え死にしたりする必要は必ずしもありません。友好的な共同体にいるなら、そこで引退することもできます。  
+You might want to adjust the parameters governing drainage.  	排水性を左右するパラメータを調整するとよいでしょう。  
+You might want to adjust the parameters governing elevation.  	標高を左右するパラメータを調整するとよいでしょう。  
+You might want to adjust the parameters governing rainfall.  	降雨を左右するパラメータを調整したほうがよいかもしれません。  
+You might want to adjust the parameters governing savagery.  	野蛮さを左右するパラメータを調整したほうがよいかもしれません。  
+You might want to adjust the parameters governing volcanism.  	火山活動を左右するパラメータを調整するとよいでしょう。  
+You truly despise life, don't you?  I am beside myself with grief.  Perhaps we will show you how they suffered.	本当に命を軽んじているのだな。私は悲しみで我を失いそうだ。おまえにも、彼らがどれほど苦しんだかを見せてやろう。
+You've finally got your equipment together, such as it is.  Now it's time for action and adventure!  	ようやく、ありあわせの装備が整った。さあ、冒険と行動の時だ！  
+Your childish games have made me tired.  Perhaps next time I visit you'll take this seriously.	子供じみた遊びには、もううんざりだ。次に来るときは、もっと真剣に取り組んでくれ。
+your more ethical works.  We've come to trade.	おまえたちのより倫理的な作品について。我々は交易に来た。
+Your name precedes you.  Thank you for all that you have done.  	御名は既に知れ渡っている。ここまでの働きに感謝する。  
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0] You have arrived.	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。
+[C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。
+[C:2:0:1]Strike the earth![C:7:0:0]	[C:2:0:1]大地を穿て！[C:7:0:0]
+Strike the earth!	大地を穿て！
+Assigned residents will only perform tasks in any of their active assigned burrows.	割り当てられた住民は、有効な割り当て区域の中でのみ作業を行います。
+[C:2:0:1]Strike the earth!	[C:2:0:1]大地を穿て！
+king consort	王配
+kings consort	王配
+queen consort	王妃
+queens consort	王妃
+duke consort	公爵の夫
+dukes consort	公爵の夫
+duchess consort	公爵夫人
+duchesses consort	公爵夫人
+count consort	伯爵の夫
+counts consort	伯爵の夫
+countess consort	伯爵夫人
+countesses consort	伯爵夫人
+lord	領主
+chief advisor	筆頭顧問
+chief advisors	筆頭顧問
+royal executioner	王室処刑人
+royal executioners	王室処刑人
+Assigned residents will only	割り当てられた住民は、有効な
+perform tasks in any of their	割り当て区域の中でのみ
+active assigned burrows.	作業を行います。
+Small arena	小さな闘技場
+Morale/Fear	士気／恐怖

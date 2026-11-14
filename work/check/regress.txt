@@ -1,0 +1,105 @@
+[LPAGE:SITE:1]Realmsechoes[/LPAGE] was a cave.
+In 1, [LPAGE:ENT:16]Jrilmus[/LPAGE] of [LPAGE:ENT:15]Chlififikulmis[/LPAGE] constructed [LPAGE:AB:1:0]Kakakalrulder[/LPAGE] in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] decided to become a thief, operating out of [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] decided to become a thief, operating out of [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] decided to become a thief, operating out of [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:56]the kobold Chriliborber[/LPAGE] became a trapper in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:57]the kobold Lrofinkus[/LPAGE] became a ranger in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:58]the kobold Stlulger[/LPAGE] became a miner in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:60]the kobold Strodlankis[/LPAGE] became a animal dissector in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:61]the kobold Bubus[/LPAGE] became a animal dissector in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:62]the kobold Trukudutrilis[/LPAGE] became a animal dissector in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 1, [LPAGE:HF:64]the kobold Frostrarsnin[/LPAGE] became a hunter in [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 2, a gold crown was stolen from [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] during The Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 2, a rutherer bone amulet was stolen from [LPAGE:AB:8:0]The Palace of Trials[/LPAGE] in [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] during The Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 2, a native gold earring was stolen from [LPAGE:SITE:5]Glovespin[/LPAGE] by [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] during The Theft at Glovespin and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:61]the kobold Bubus[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:61]the kobold Bubus[/LPAGE].
+While defeated, the latter escaped unscathed.
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:60]the kobold Strodlankis[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:60]the kobold Strodlankis[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:62]the kobold Trukudutrilis[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:62]the kobold Trukudutrilis[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] attacked [LPAGE:HF:58]the kobold Stlulger[/LPAGE].
+In the late autumn of 2, [LPAGE:HF:16]the brooding woman Vesh Diedfates[/LPAGE] fought with [LPAGE:HF:58]the kobold Stlulger[/LPAGE].
+In 3, a large carnelian was stolen from [LPAGE:SITE:12]Plungepadded[/LPAGE] by [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] during The Theft at Plungepadded and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 3, a large peridot was stolen from [LPAGE:SITE:12]Plungepadded[/LPAGE] by [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] during The Theft at Plungepadded and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 3, a groundhog bone bracelet was stolen from [LPAGE:SITE:11]Dungeonskull[/LPAGE] by [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] during The Theft at Dungeonskull and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 4, a kentrosaurus man horn bracelet was stolen from [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:59]the kobold Chadagralgis[/LPAGE] during The Second Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 4, a lizard man bone ring was stolen from [LPAGE:AB:8:1]The God-forsaken Onion[/LPAGE] in [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:65]the kobold Drabapaymer[/LPAGE] during The Second Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In 4, a parakeet man bone ring was stolen from [LPAGE:AB:8:0]The Palace of Trials[/LPAGE] in [LPAGE:SITE:8]Rampageruthless[/LPAGE] by [LPAGE:HF:63]the kobold Bridiblidis[/LPAGE] during The Second Theft at Rampageruthless and brought to [LPAGE:SITE:1]Realmsechoes[/LPAGE].
+In the midwinter of 4, [LPAGE:HF:118]the gorlak Nimu Sourmurder[/LPAGE] settled in [LPAGE:SITE:1]Realmsechoes[/LPAGE].Realmsechoes was a cave.
+In 1, Jrilmus of Chlififikulmis constructed Kakakalrulder in Realmsechoes.
+In 1, the kobold Drabapaymer decided to become a thief, operating out of Realmsechoes.
+In 1, the kobold Bridiblidis decided to become a thief, operating out of Realmsechoes.
+In 1, the kobold Chadagralgis decided to become a thief, operating out of Realmsechoes.
+In 1, the kobold Chriliborber became a trapper in Realmsechoes.
+In 1, the kobold Lrofinkus became a ranger in Realmsechoes.
+In 1, the kobold Stlulger became a miner in Realmsechoes.
+In 1, the kobold Strodlankis became a animal dissector in Realmsechoes.
+In 1, the kobold Bubus became a animal dissector in Realmsechoes.
+In 1, the kobold Trukudutrilis became a animal dissector in Realmsechoes.
+In 1, the kobold Frostrarsnin became a hunter in Realmsechoes.
+In 2, a gold crown was stolen from Rampageruthless by the kobold Chadagralgis during The Theft at Rampageruthless and brought to Realmsechoes.
+In 2, a rutherer bone amulet was stolen from The Palace of Trials in Rampageruthless by the kobold Drabapaymer during The Theft at Rampageruthless and brought to Realmsechoes.
+In 2, a native gold earring was stolen from Glovespin by the kobold Bridiblidis during The Theft at Glovespin and brought to Realmsechoes.
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Bubus.
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Bubus.
+While defeated, the latter escaped unscathed.
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Strodlankis.
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Strodlankis.
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Trukudutrilis.
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Trukudutrilis.
+In the late autumn of 2, the brooding woman Vesh Diedfates attacked the kobold Stlulger.
+In the late autumn of 2, the brooding woman Vesh Diedfates fought with the kobold Stlulger.
+In 3, a large carnelian was stolen from Plungepadded by the kobold Chadagralgis during The Theft at Plungepadded and brought to Realmsechoes.
+In 3, a large peridot was stolen from Plungepadded by the kobold Drabapaymer during The Theft at Plungepadded and brought to Realmsechoes.
+In 3, a groundhog bone bracelet was stolen from Dungeonskull by the kobold Bridiblidis during The Theft at Dungeonskull and brought to Realmsechoes.
+In 4, a kentrosaurus man horn bracelet was stolen from Rampageruthless by the kobold Chadagralgis during The Second Theft at Rampageruthless and brought to Realmsechoes.
+In 4, a lizard man bone ring was stolen from The God-forsaken Onion in Rampageruthless by the kobold Drabapaymer during The Second Theft at Rampageruthless and brought to Realmsechoes.
+In 4, a parakeet man bone ring was stolen from The Palace of Trials in Rampageruthless by the kobold Bridiblidis during The Second Theft at Rampageruthless and brought to Realmsechoes.
+In the midwinter of 4, the gorlak Nimu Sourmurder settled in Realmsechoes.
+The Murk of Rivers could be found within The Realms of Myth.
+In 1, the minotaur Stekug settled in The Murk of Rivers.
+In 1, the forgotten beast Uxzo began wandering the depths of the world.
+The Knives of Ransacking was a dwarven civilization of the Realms of Myth.
+In 1, the dwarf Logem Freckleattics became the general of The Knives of Ransacking.
+In 1, the dwarf Datan Pagethunders became the outpost liaison of The Knives of Ransacking.
+In 1, the dwarf Rovod Mythchambers became the diplomat of The Knives of Ransacking.
+In 1, the dwarf Thîkut Trustshot became the king of The Knives of Ransacking.
+In 1, The Town of Entrancing of The Knives of Ransacking founded Glovespin.
+In 1, The Late Sword of The Knives of Ransacking founded Wiltabbeys.
+In the early winter of 1, The Knives of Ransacking held a performance of The Mirthful Aquamarine in Glovespin as part of The Copper Celebration.
+In the early winter of 1, The Knives of Ransacking held a ceremony in Glovespin as part of The Copper Celebration.
+The event featured a telling of the story of the ascension of the dwarf Thîkut Trustshot to the position of king of The Knives of Ransacking in 1, a performance of The Euphoria of Blossoms, incense burning, banners and images.
+In the early winter of 1, The Knives of Ransacking held a foot race in Glovespin as part of The Copper Celebration.
+Competing were the goblin Ber Wraithmerged, the goblin Ngokang Praiseddemons and the goblin Ngokang Queststeals.
+The goblin Ngokang Praiseddemons was the victor.
+In the early winter of 1, The Knives of Ransacking held the story of the ascension of the dwarf Thîkut Trustshot to the position of king of The Knives of Ransacking in 1 in Glovespin as part of The Copper Celebration.
+In the early winter of 1, The Knives of Ransacking held a procession in Glovespin as part of The Copper Celebration.
+The event featured criers in front, incense burning, acrobats, a performance of The Lavender Luxury and costumes.
+In the early winter of 1, The Knives of Ransacking held a mace throwing competition in Glovespin as part of The Copper Celebration.
+There were 7 competitors.
+The dwarf Cerol Inkwall was the victor.
+The event featured a telling of the story of the ascension of the dwarf Thîkut Trustshot to the position of king of The Knives of Ransacking in 1, incense burning, costumes, acrobats and images.
+In 2, the dwarf Atîs Quakeferal became a baron of The Knives of Ransacking.
+In 2, The Rhythmic Boat of The Knives of Ransacking founded Painthame.
+In the early spring of 2, The Knives of Ransacking swore to support The Howls of Worship in war if the latter did likewise.
+In the early summer of 2, The Knives of Ransacking attacked The Coastal League of The Scoured Confederacy at Plungepadded.
+The dwarf Logem Freckleattics led the attack, and the defenders were led by the human Thuthu Scarletway.
+In the early summer of 2, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Plungepadded.
+In the early autumn of 2, The Knives of Ransacking attacked The Councils of Knowing of The Scoured Confederacy at Echobrand.
+The dwarf Logem Freckleattics led the attack.
+In the early autumn of 2, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Echobrand.
+In 3, the dwarf Zulban Judgedkeys became the queen of The Knives of Ransacking.
+In the early summer of 3, The Knives of Ransacking attacked The Coastal League of The Scoured Confederacy at Plungepadded.
+The dwarf Logem Freckleattics led the attack, and the defenders were led by the human Iral Stillbottle.
+In the early summer of 3, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Plungepadded.
+In the early autumn of 3, The Knives of Ransacking attacked The Councils of Knowing of The Scoured Confederacy at Echobrand.
+In the early autumn of 3, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Echobrand.
+In the early winter of 3, the moon creature Anan Tombburials became an enemy of The Knives of Ransacking.
+In the early summer of 4, The Knives of Ransacking attacked The Coastal League of The Scoured Confederacy at Plungepadded.
+The dwarf Logem Freckleattics led the attack, and the defenders were led by the human On Playfulice.
+In the early summer of 4, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Plungepadded.
+In the early autumn of 4, The Knives of Ransacking attacked The Councils of Knowing of The Scoured Confederacy at Echobrand.
+In the early autumn of 4, The Knives of Ransacking defeated The Scoured Confederacy and pillaged Echobrand.

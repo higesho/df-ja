@@ -1,0 +1,9 @@
+When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must click on the depot and select [C:5:0:1]"Bring Goods to Depot"[C:7:0:0].	キャラバンが[C:6:0:0]交易所[C:7:0:0]に到着したら、交易所をクリックして[C:5:0:1]「交易所へ商品を運ぶ」[C:7:0:0]を選択してください
+Here you can select which goods you wish to trade.	ここでは、交易したい商品を選択できます
+After everyone has brought their goods you can select [C:5:0:1]"Trade"[C:7:0:0].	全員が商品を運び終えたら、[C:5:0:1]「交易」[C:7:0:0]を選択できます
+Don't worry if you have no [C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]"Anyone can Trade"[C:7:0:0].	[C:5:0:0]取引係[C:7:0:0]がいなくても心配いりません。[C:5:0:1]「誰でも交易可能」[C:7:0:0]を選択してください
+You cannot trade until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the depot.	[C:5:0:0]取引係[C:7:0:0]または別の住民が交易所に到着するまで、交易はできません。
+When trading you select which goods you want from the list on the left, and which goods of yours to trade from the list on the right.	交易の際は、左のリストから欲しい商品を、右のリストから交易に出す自分の商品を選択します。
+Then hit [C:5:0:1]"Trade"[C:7:0:0].	次に[C:5:0:1]「交易」[C:7:0:0]を押してください
+The trader will accept if the deal is fair and they can carry away the weight of the things you are selling.	取引が公正で、売る品物の重さを商人が運び去れるなら、商人は応じます。
+Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with be shown if their skill is high enough.	[C:5:0:0]仲買人[C:7:0:0]がいて技能が十分に高ければ、各品物の価値が表示されることに注意してください。

@@ -1,0 +1,83 @@
+dfint-ja — Dwarf Fortress 日本語化MOD
+======================================
+
+Steam 版 Dwarf Fortress（Premium・Windows・バージョン 53.17）の画面表示を
+日本語にします。
+
+
+入れかた
+--------
+
+この zip の中身を、**Dwarf Fortress のフォルダにそのまま重ねてコピー**するだけです。
+
+  （例）L:\SteamLibrary\steamapps\common\Dwarf Fortress\
+
+コピーすると、次の3つが置かれます。
+
+  dfhooks.dll           … 橋渡し役
+  dfhooks_dfint_ja.dll  … 日本語化の本体
+  dfint-data\           … 辞書・フォント・設定
+
+ゲームのファイル（Dwarf Fortress.exe、data\ の中身）には一切手を加えません。
+
+DFHack を使っている場合
+  DFHack が先に入っていると `dfhooks.dll` がすでにあります。**そのまま上書きしない**で
+  ください。残りの2つ（dfhooks_dfint_ja.dll と dfint-data\）だけコピーすれば動きます。
+  あとから DFHack を入れた場合も、DFHack 側の dfhooks.dll に任せればそのまま動きます。
+
+
+外しかた
+--------
+
+置いた3つを消すだけです。
+
+  dfhooks.dll           （DFHack を使っている場合は消さないでください）
+  dfhooks_dfint_ja.dll
+  dfint-data\
+
+
+使いかた
+--------
+
+- ゲーム中に **Ctrl+F2** で日本語化のオン／オフを切り替えられます。
+- 文字が豆腐（□）になる場合は、dfint-data\fonts\ にフォントが入っているか確かめてください。
+
+
+訳されていない文字を見つけたら
+------------------------------
+
+dfint-data\config.txt の
+
+  [LOG_LEVEL:Warn]
+
+を
+
+  [LOG_LEVEL:Debug]
+
+に変えてから遊ぶと、訳されていない文字列が dfint-data\dfint-log.log に残ります。
+ログはゲームを起動するたびに書き直されるので、ゲームを終える前に取っておいてください。
+
+
+できないこと・既知の制限
+------------------------
+
+- 人名・地名・世界で作られた名前（忘れられし獣の名前など）は英語のままです。
+  ゲームが世界生成のときに作るもので、訳す対象がありません。
+- 画面の幅はゲームが英語の文字数で決めているため、訳が長いと隣の表示と重なることが
+  あります。目立つところ（交易の品物一覧など）は「…」で切るようにしてあります。
+- DFHack を併用している場合、DFHack 自身の画面もほとんど日本語になりますが、
+  タブの見出し（Automation など）とツール名は英語のままです。
+- ゲームが更新されると、関数の位置が変わって動かなくなることがあります。
+
+
+権利について
+------------
+
+- 描画エンジン: MIT ライセンス（LICENSE\LICENSE）
+    dfint-rust-cjk（Viz 氏）/ dfint/df-steam-hook-rs を元にしています
+- フォント: Noto Sans Mono CJK JP Bold / SIL Open Font License 1.1
+    （LICENSE\OFL-LICENSE.txt）
+- 翻訳データ: このMODで新規に作成
+- Dwarf Fortress の原文の権利は Bay 12 Games / Kitfox Games に帰属します
+
+非公式のMODです。セーブデータのバックアップを取ってからお使いください。
