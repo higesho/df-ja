@@ -25,12 +25,22 @@ fn main() {
   let stdout = std::io::stdout();
   let mut out = std::io::BufWriter::new(stdout.lock());
   let mut translator = dfint_hook::translator::Translator::default();
+  // 「文章」（ゲームが単語ごとに折り返して描くテキスト。ヘルプやチュートリアル）は
+  // 単語辞書を通らないので、別の経路で引く
+  let as_paragraph = func == "paragraph";
   for line in input.lines() {
     let line = line.trim_end_matches('\r');
     if line.is_empty() {
       continue;
     }
-    let (text, _shift) = translator.translate(func, line, "");
+    let text: String = if as_paragraph {
+      dfint_hook::paragraph::PARAGRAPHS
+        .read()
+        .translate_only(line)
+        .unwrap_or_else(|| line.to_owned())
+    } else {
+      translator.translate(func, line, "").0.to_owned()
+    };
     let _ = writeln!(out, "{line}\t{text}");
   }
 }

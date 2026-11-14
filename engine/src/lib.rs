@@ -8,7 +8,7 @@ mod encodings;
 mod font;
 mod hooks;
 mod offsets;
-mod paragraph;
+pub mod paragraph;
 mod screen;
 pub mod sentence;
 mod tabs;

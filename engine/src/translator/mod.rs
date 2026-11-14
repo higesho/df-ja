@@ -48,14 +48,37 @@ pub struct Translator {
 
 /// 訳に英語の文が残っていないか（小文字の英単語が3文字以上で残っていれば、訳せていない文があるとみなす）
 pub(crate) fn fully_translated(ja: &str) -> bool {
-  static WORD: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
   static TAG: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
-  let word = WORD.get_or_init(|| regex::Regex::new(r"(?:^|[^A-Za-z])[a-z]{3,}").unwrap());
   let tag = TAG.get_or_init(|| regex::Regex::new(r"\[[^\]]*\]").unwrap());
-  // 名前の中の小文字（"Agêk the Olive Apples" の the）は許す
   let plain = tag.replace_all(ja, "");
-  let plain = plain.replace(" the ", " ").replace(" of ", " ").replace(" and ", " ");
-  !word.is_match(&plain)
+  // 空白で区切った語ごとに見る。大文字を含む語は名前や記号とみなして英語と数えない
+  // （"God-forsaken"、"Mörulamud"、乱数の種 "vfd2yXTsQMe110XewUMP" など）
+  !plain.split_whitespace().any(|word| {
+    // 大文字を含む語、アクセント付きのラテン文字を含む語は名前とみなす（"ìmimi"、"Mörulamud"）
+    let name_like = word
+      .chars()
+      .any(|c| c.is_uppercase() || (c.is_alphabetic() && !c.is_ascii() && (c as u32) < 0x0250));
+    if name_like {
+      return false;
+    }
+    // 名前の中に挟まる小さな語は許す（"Wings of the Dawn"）
+    if matches!(word.trim_matches(|c: char| !c.is_alphabetic()), "the" | "of" | "and" | "in" | "a") {
+      return false;
+    }
+    // 小文字の英字が3つ以上続けば、訳されていない英語とみなす
+    let mut run = 0;
+    for c in word.chars() {
+      if c.is_ascii_lowercase() {
+        run += 1;
+        if run >= 3 {
+          return true;
+        }
+      } else {
+        run = 0;
+      }
+    }
+    false
+  })
 }
 
 fn line_key(caller: &str, string: &str) -> u64 {
@@ -583,6 +606,12 @@ fn translate_padded(string: &str) -> Option<String> {
   let tail = &string[string.trim_end().len()..];
   let ja = lookup_term(trimmed)?;
   Some(format!("{head}{ja}{tail}"))
+}
+
+/// 文章（折り返して描くテキスト）から単語辞書を引く。前後の空白は無視し、末尾に空白のある見出し語も引く
+pub fn lookup_plain(text: &str) -> Option<String> {
+  let trimmed = text.trim();
+  lookup_term(trimmed).or_else(|| data::USER.get(&format!("{} ", trimmed.to_lowercase())).cloned())
 }
 
 pub fn lookup_term(string: &str) -> Option<String> {

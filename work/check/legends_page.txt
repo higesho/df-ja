@@ -1,0 +1,62 @@
+Spouse:
+Child:
+Lover:
+Alias:
+Ally:
+Author:
+Civilization:
+Parent Civ:
+Owner:
+Profession:
+Relationship:
+Priest:
+Officer:
+Population:
+Worships
+Notable Kill
+Other Kill
+(associated civilization)[R]
+(militant worshippers)[R]
+(religious worshippers)[R]
+River:
+Brook:
+Stream:
+Mountain:
+Volcano:
+Trees:
+Surroundings:
+Temperature:
+Distance:
+Timeline:
+Seed:
+History Seed:
+Name Seed:
+Creature Seed:
+Witness:
+Convicted:
+Accuses:
+Implicates:
+Reported:
+Needs:
+Unmet need:
+Squad:
+Broker:
+Bookcases:
+Chairs:
+Tables:
+Value:
+Weight:
+Date:
+Keywords:
+Toward you:
+In party:
+Intimidate:
+Persuade:
+[C:3:0:1]Related Historical Figures[C:7:0:0][B]
+[C:1:0:1]Related Entities[C:7:0:0][B]
+[C:6:0:1]Related Sites[C:7:0:0][B]
+[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.) Click it now.
+Outpost Revisited:[C:7:0:0] You have returned.
+[C:7:0:0]This is common knowledge where you are from.
+[C:2:0:1]You have been ordered to kill this creature.
+[C:5:0:1]This creature is known to be dead.

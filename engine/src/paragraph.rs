@@ -170,12 +170,7 @@ impl Paragraphs {
     }
     let english = normalize(&encodings::bytes_to_string(src));
     log::debug!("paragraph piece box={box_:x} old_len={old_len}: {english:?}");
-    let found = self
-      .dict
-      .get(&english)
-      .cloned()
-      .or_else(|| self.apply_template(&english))
-      .or_else(|| crate::sentence::SENTENCES.translate_text(&english));
+    let found = self.translate_only(&english);
     match found {
       Some(translation) => Some(split_for_game(&translation).into_bytes()),
       None => {
@@ -185,6 +180,19 @@ impl Paragraphs {
         None
       }
     }
+  }
+
+  /// 文章の訳だけを引く（辞書 → テンプレート → 文）。検査用コマンドからも使う
+  pub fn translate_only(&self, english: &str) -> Option<String> {
+    let english = normalize(english);
+    self
+      .dict
+      .get(&english)
+      .cloned()
+      .or_else(|| self.apply_template(&english))
+      .or_else(|| crate::sentence::SENTENCES.translate_text(&english))
+      // 文が1語だけの見出しなど、文の訳が届かないものは単語辞書を引く
+      .or_else(|| crate::translator::lookup_plain(&english))
   }
 
   fn apply_template(&self, english: &str) -> Option<String> {

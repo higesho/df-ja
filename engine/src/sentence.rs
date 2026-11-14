@@ -860,11 +860,13 @@ impl Sentences {
           None => self.translate_one(s.trim(), 0, true),
         };
         // テンプレートの訳に英語が残るとき（"I am {1}." が "I am not feeling sad right now." を
-        // 飲み込むような場合）は、辞書の完全一致のほうを使う
+        // 飲み込むような場合）は、辞書の完全一致のほうを使う。
+        // 辞書にも無ければ、訳をあきらめて英文のまま残す。中途半端に訳すと語が元の位置から外れ、
+        // 色の指定だけが残った読めない行になるため（ヘルプの途中で切れた文で起きていた）
         let found = match found {
-          Some(ja) if !crate::translator::fully_translated(&ja) => crate::translator::lookup_term(s.trim())
-            .filter(|dict| crate::translator::fully_translated(dict))
-            .or(Some(ja)),
+          Some(ja) if !crate::translator::fully_translated(&ja) => {
+            crate::translator::lookup_term(s.trim()).filter(|dict| crate::translator::fully_translated(dict))
+          }
           other => other,
         };
         // テンプレートで訳せない文は、辞書の完全一致も引く（"I'm very fond." など）。
