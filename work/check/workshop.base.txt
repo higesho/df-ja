@@ -1,0 +1,38 @@
+Make rock altar	岩の祭壇を作る
+Make rock blocks	岩のブロックを作る
+Make rock bookcase	岩の本棚を作る
+Make rock cabinet	岩のキャビネットを作る
+Make rock coffer	岩の小箱を作る
+Make rock coffin	岩の棺桶を作る
+Make rock door	岩の扉を作る
+Make rock floodgate	岩の水門を作る
+Make rock grate	岩の格子を作る
+Make rock hatch cover	岩のハッチカバーを作る
+Make rock millstone	岩のひき臼を作る
+Make rock pedestal	岩の台座を作る
+Make rock quern	岩の石臼を作る
+Make rock slab	岩の平板を作る
+Make rock statue	岩の彫像を作る
+Make rock table	岩のテーブルを作る
+Make rock throne	岩の玉座を作る
+Make rock mechanisms	岩の仕掛けを作る
+Make rock armor stand	岩の鎧立てを作る
+Make rock weapon rack	岩の武器立てを作る
+Make rock cage	岩の檻を作る
+Make rock bed	岩のベッドを作る
+Make rock chair	岩の椅子を作る
+Make rock box	岩の箱を作る
+Make rock bin	岩の収納箱を作る
+Make granite door	花崗岩の扉を作る
+Make microcline statue	微斜長石の彫像を作る
+Make wooden door	木製の扉を作る
+Make wooden barrel	木製の樽を作る
+Forge copper door	銅の扉を鍛造する
+Forge steel cabinet	鋼のキャビネットを鍛造する
+Forge iron chain	鉄の鎖を鍛造する
+Make instrument piece (opens menu)	楽器の部品を作る（メニュー）
+Engrave memorial slab (opens menu)	追悼の平板を彫る（メニュー）
+rock door	岩の扉
+rock blocks	岩のブロック
+rock mechanisms	岩の仕掛け
+granite altar	花崗岩の祭壇

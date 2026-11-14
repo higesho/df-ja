@@ -446,6 +446,8 @@ def main():
         "blood": "血", "magma": "マグマ", "lava": "溶岩", "sand": "砂", "dust": "塵",
         "slime": "粘液", "pus": "膿", "sweat": "汗", "tears": "涙", "spit": "唾",
         "slush": "シャーベット状の雪", "sleet": "みぞれ", "frost": "霜", "steam": "蒸気",
+        # 工房の作業指示などで使う総称の材質（"Make rock door" の rock）
+        "rock": "岩",
         # 建造物の材料（"Rock Block Wall" / "Wood Block Floor"）
         "rock block": "石ブロック", "wood block": "木ブロック", "glass block": "ガラスブロック",
         "green glass block": "緑ガラスブロック", "clear glass block": "透明ガラスブロック",

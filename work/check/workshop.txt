@@ -1,0 +1,38 @@
+Make rock altar
+Make rock blocks
+Make rock bookcase
+Make rock cabinet
+Make rock coffer
+Make rock coffin
+Make rock door
+Make rock floodgate
+Make rock grate
+Make rock hatch cover
+Make rock millstone
+Make rock pedestal
+Make rock quern
+Make rock slab
+Make rock statue
+Make rock table
+Make rock throne
+Make rock mechanisms
+Make rock armor stand
+Make rock weapon rack
+Make rock cage
+Make rock bed
+Make rock chair
+Make rock box
+Make rock bin
+Make granite door
+Make microcline statue
+Make wooden door
+Make wooden barrel
+Forge copper door
+Forge steel cabinet
+Forge iron chain
+Make instrument piece (opens menu)
+Engrave memorial slab (opens menu)
+rock door
+rock blocks
+rock mechanisms
+granite altar
