@@ -107,8 +107,8 @@
   <div class="wrap">
     <h1><span class="sub">DWARF FORTRESS</span>日本語化プロジェクト</h1>
     <p class="lede">
-      Steam版 Dwarf Fortress の画面表示を日本語にするMODです。<br>
-      ゲームのファイルは一切書き換えません。DLLを3つ置くだけで動きます。
+      Steam版 Dwarf Fortress を日本語で遊べるようにする、非公式のMODです。<br>
+      ゲームのフォルダにコピーするだけで入り、消せば元に戻ります。
     </p>
     <div class="cta">
       <a class="btn btn-main" href="https://github.com/higesho/df-ja/releases/latest/download/DwarfFortress_JP.zip">ダウンロード（16MB）</a>
@@ -129,37 +129,39 @@
     <div class="shots">
       <figure>
         <img src="images/title.jpg" alt="日本語になったタイトル画面" loading="lazy">
-        <figcaption>タイトル画面。メニューの中央揃えも英語のときと同じ位置に合わせています。</figcaption>
+        <figcaption>タイトル画面。</figcaption>
       </figure>
       <figure>
         <img src="images/trade.jpg" alt="日本語になった交易画面" loading="lazy">
-        <figcaption>交易画面。品物の名前は「材質＋品物」のように組み立てて訳しています。</figcaption>
+        <figcaption>隊商との取引。品物の名前も日本語です。</figcaption>
       </figure>
       <figure>
         <img src="images/adventure.jpg" alt="日本語になった冒険モードの性格画面" loading="lazy">
-        <figcaption>冒険モードの性格。ゲームが組み立てる長い文章も訳します。</figcaption>
+        <figcaption>冒険モードの性格。長い説明文も日本語で読めます。</figcaption>
       </figure>
       <figure>
         <img src="images/dfhack.jpg" alt="日本語になった DFHack の操作パネル" loading="lazy">
-        <figcaption>DFHack の操作パネル。DFHack 自身の表示も日本語になります。</figcaption>
+        <figcaption>DFHack の操作パネル。</figcaption>
       </figure>
     </div>
   </section>
 
   <section>
-    <h2>できること</h2>
+    <h2>日本語になるところ</h2>
     <ul>
-      <li><strong>メニュー・画面の文字</strong>をほぼすべて日本語に（入植、要塞、冒険、伝説、世界生成、設定、闘技場）。</li>
-      <li><strong>ゲームが組み立てる名前</strong>も訳します。「ヤクの革のドレス」「シングルカットのプレーズオパール」のように、材質・生き物・品物の組み合わせを辞書から組み立てます。</li>
-      <li><strong>世界生成で作られる名前</strong>にも対応。「吹雪の怨霊」「トカゲの魔物」のような夜の生き物や悪魔の名前は、ゲームが世界ごとに違う組み合わせで作りますが、語彙を集めてあるので訳せます。</li>
-      <li><strong>戦闘の記録・住民の会話・思考</strong>など、文の型から組み立てられる文章も訳します。</li>
-      <li><strong>DFHack と併用できます。</strong> DFHack 自身の表示（操作パネル、建設の計画、隊商の取引）もほとんど日本語になります。</li>
-      <li>ゲーム中に <strong>Ctrl+F2</strong> で日本語化のオン／オフを切り替えられます。</li>
+      <li>メニューと説明文（タイトル、設定、世界生成、闘技場）</li>
+      <li>要塞モード（建設、在庫、労働、貴族、交易、知らせ、戦闘の記録）</li>
+      <li>冒険モード（キャラクター作成、会話、戦闘）</li>
+      <li>伝説モード（歴史、人物、芸術品）</li>
+      <li>生き物・品物・材質・建物の名前</li>
+      <li>住民の思考や会話、怪物の姿の描写</li>
+      <li>DFHack の画面（操作パネル、建設の計画、隊商の取引）</li>
     </ul>
+    <p>ゲーム中に <strong>Ctrl+F2</strong> で、日本語と英語を切り替えられます。</p>
     <div class="note">
       <strong>ゲームのファイルは書き換えません。</strong>
-      <code>Dwarf Fortress.exe</code> にも <code>data\</code> の中身にも手を加えず、
-      DLL とデータを置くだけです。外すときは置いたものを消すだけで元に戻ります。
+      <code>Dwarf Fortress.exe</code> にも <code>data\</code> の中身にも手を加えません。
+      外すときは置いたものを消すだけで元に戻ります。セーブデータもそのまま使えます。
     </div>
   </section>
 
@@ -171,9 +173,9 @@
       （過去の版は <a href="https://github.com/higesho/df-ja/releases">リリース一覧</a> から）
     </p>
     <pre>Dwarf Fortress\
-  dfhooks.dll           … 橋渡し役
-  dfhooks_dfint_ja.dll  … 日本語化の本体
-  dfint-data\           … 辞書・フォント・設定</pre>
+  dfhooks.dll
+  dfhooks_dfint_ja.dll
+  dfint-data\</pre>
     <div class="note">
       <strong>DFHack を使っている場合</strong>は <code>dfhooks.dll</code> がすでにあります。
       <strong>それだけは上書きしないでください。</strong>残りの2つをコピーすれば動きます。
@@ -184,49 +186,19 @@
   </section>
 
   <section>
-    <h2>仕組み</h2>
-    <p>
-      ゲームが文字を描く関数に割り込んで、英語の文字列を辞書で引き、日本語に差し替えてから
-      自前のフォントで描き直しています。英語の文字列そのものを置き換えるのではないので、
-      セーブデータには何も影響しません。
-    </p>
-    <table>
-      <tr><th>1行の文字列</th><td>辞書で完全一致を引く。見つからなければ「材質＋品物」のような組み立ての表で引く</td></tr>
-      <tr><th>長い文章</th><td>ゲームは単語ごとに描くので、単語の配列を作る関数ごと差し替える</td></tr>
-      <tr><th>組み立てられた文</th><td>「書き出し＋本体＋後ろの句」の部品に分けて、日本語の語順で組み直す</td></tr>
-      <tr><th>DFHack</th><td><code>dfhack.dll</code> が公開している描画関数に別途割り込む</td></tr>
-    </table>
-    <p>
-      詳しくは
-      <a href="https://github.com/higesho/df-ja/blob/main/docs/architecture.md">docs/architecture.md</a>
-      を見てください。
-    </p>
-  </section>
-
-  <section>
-    <h2>翻訳を直したい・別の言語を作りたい</h2>
-    <p>
-      辞書は <code>translations/</code> のタブ区切りファイルです。英語と訳を並べて書き、
-      <code>python tools/build.py</code> で組み立て直すだけで反映できます。
-      フォントと辞書を入れ替えれば<strong>日本語以外の言語にも使えます</strong>。
-    </p>
-    <p>
-      手順は
-      <a href="https://github.com/higesho/df-ja/blob/main/docs/translating.md">docs/translating.md</a>
-      にまとめてあります。ゲームを起動せずに訳を確かめる道具も入っています。
-    </p>
-  </section>
-
-  <section>
-    <h2>できないこと</h2>
+    <h2>英語のまま残るところ</h2>
     <ul>
-      <li>人名・地名・世界で作られた名前（忘れられし獣の名前など）は英語のままです。ゲームが世界生成のときに作るもので、訳す対象がありません。</li>
-      <li>画面の幅はゲームが英語の文字数で決めるため、訳が長いと隣の表示と重なることがあります。目立つところは「…」で切るようにしています。</li>
-      <li>DFHack のタブの見出し（Automation など）とツール名は英語のままです。</li>
-      <li>ゲームが更新されると、関数の位置が変わって動かなくなることがあります。</li>
+      <li>人名・地名と、世界ごとに作られる名前。</li>
+      <li>長い名前は、画面に収まらないと途中で「…」と切られます。</li>
+      <li>DFHack のタブの見出し（Automation など）とツールの名前。</li>
     </ul>
+    <p>
+      誤訳や、英語のまま残っているところに気づいたら
+      <a href="https://github.com/higesho/df-ja/issues">Issues</a> で教えてください。
+    </p>
     <div class="note">
       非公式のMODです。<strong>セーブデータのバックアップ</strong>を取ってからお使いください。
+      ゲームが更新されると、しばらく動かなくなることがあります。
     </div>
   </section>
 
