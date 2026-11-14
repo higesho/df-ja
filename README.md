@@ -44,6 +44,23 @@ items and it will work. Installing DFHack afterwards works too, with no changes.
 To uninstall, delete those three (keep `dfhooks.dll` if you use DFHack).
 Press **Ctrl+F2** in game to turn the translation on and off.
 
+## Other mods
+
+Raw mods (creatures, items, materials), tilesets and graphics mods work alongside this one.
+Nothing in the game's data is read at run time — the engine only looks at the text being drawn —
+so a modded world can have this added or removed freely.
+
+- Names a mod adds are not in the dictionary, so they stay in English. Nothing is left
+  half-translated: a name that cannot be looked up in full is drawn as it is.
+- A name built out of vanilla words (`cave dragon`) may come out translated anyway, since names
+  are composed from their parts.
+- To get a mod's own names translated, log them (see below) and add them to `translations/`, then
+  run `python tools/build.py`. The engine itself does not need touching.
+
+The exception is a mod that ships its own `dfhooks.dll`. Only one such file can be in place, so it
+cannot be used at the same time — DFHack is the case this mod handles specially (see [Install](#install)).
+
+
 ## Reporting problems
 
 Please open an [issue](https://github.com/higesho/df-ja/issues) for mistranslations or text left in English.

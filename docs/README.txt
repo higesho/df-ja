@@ -49,6 +49,28 @@ Using it
   dfint-data\fonts\.
 
 
+Other mods
+----------
+
+Raw mods (creatures, items, materials), tilesets and graphics mods work
+alongside this one. Nothing in the game's data is read while playing - the
+engine only looks at the text being drawn - so a modded world can have this
+added or removed freely.
+
+- Names a mod adds are not in the dictionary, so they stay in English.
+  Nothing is left half-translated: a name that cannot be looked up in full
+  is drawn as it is.
+- A name built out of vanilla words ("cave dragon") may come out in Japanese
+  anyway, because names are translated from their parts.
+- To get a mod's own names translated, log them (see below) and report them,
+  or add them to the dictionaries yourself and rebuild. The engine itself
+  does not need touching.
+
+The exception is a mod that ships its own "dfhooks.dll". Only one such file
+can be in place, so it cannot be used at the same time. For DFHack, see
+Install above.
+
+
 Reporting untranslated text
 ---------------------------
 
