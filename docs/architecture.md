@@ -505,7 +505,8 @@ grep -A2 "missing translation" dfint-data/dfint-log.log | grep -v "missing trans
 powershell -ExecutionPolicy Bypass -File tools\package.ps1 -Build
 ```
 
-`dist\dfint-ja-<版>.zip` ができる。中身はゲームフォルダに重ねてコピーすれば動く形
+`dist\DwarfFortress_JP.zip` ができる。**この名前は版をまたいで変えないこと**
+（紹介ページが `releases/latest/download/DwarfFortress_JP.zip` で最新版を指しているため）。中身はゲームフォルダに重ねてコピーすれば動く形
 （`dfhooks.dll` / `dfhooks_dfint_ja.dll` / `dfint-data\` / はじめにお読みください.txt / LICENSE\）。
 
 - 版は `engine/Cargo.toml` の `version`。`-Version` で上書きできる。

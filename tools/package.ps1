@@ -68,9 +68,12 @@ foreach ($f in (Join-Path $root 'engine\LICENSE'), (Join-Path $root 'fonts\OFL-L
 
 Copy-Item -Force (Join-Path $root 'docs\はじめにお読みください.txt') $stage
 
-$zip = Join-Path $dist "dfint-ja-$Version.zip"
+# 配布物の名前は版をまたいで固定にする。
+# 紹介ページが https://github.com/higesho/df-ja/releases/latest/download/<この名前> で
+# 最新版を指しているため、名前を変えるとリンクが切れる
+$zip = Join-Path $dist "DwarfFortress_JP.zip"
 if (Test-Path $zip) { Remove-Item -Force $zip }
 Compress-Archive -Path (Join-Path $stage '*') -DestinationPath $zip
 $size = [math]::Round((Get-Item $zip).Length / 1MB, 1)
-Write-Host "できました: $zip （$size MB）"
+Write-Host "できました: $zip （$size MB・版 $Version）"
 Write-Host "中身を確かめるには: $stage"
