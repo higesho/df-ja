@@ -8,8 +8,9 @@
 #   dfhooks.dll           … 橋渡し役（同じフォルダの dfhooks_*.dll をすべて読み込む）
 #   dfhooks_dfint_ja.dll  … 日本語化の本体
 #   dfint-data\           … 辞書・フォント・設定
-#   はじめにお読みください.txt
-#   LICENSE\              … エンジンとフォントのライセンス
+#   はじめにお読みください.txt … 日本語の説明
+#   README.txt                 … 英語の説明
+#   LICENSE\                   … エンジンとフォントのライセンス
 #
 # 先に engine と chainloader をビルドしておくこと（-Build を付ければここでやる）
 param(
@@ -66,7 +67,9 @@ foreach ($f in (Join-Path $root 'engine\LICENSE'), (Join-Path $root 'fonts\OFL-L
   if (Test-Path $f) { Copy-Item -Force $f $lic }
 }
 
+# 説明書は日本語と英語の2つを入れる
 Copy-Item -Force (Join-Path $root 'docs\はじめにお読みください.txt') $stage
+Copy-Item -Force (Join-Path $root 'docs\README.txt') $stage
 
 # 配布物の名前は版をまたいで固定にする。
 # 紹介ページが https://github.com/higesho/df-ja/releases/latest/download/<この名前> で
