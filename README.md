@@ -4,7 +4,7 @@ Dwarf Fortress を日本語で遊べるようにする、非公式のファン�
 Steam 版（Premium・Windows・**53.17**）を対象にしています。開発元・販売元とは関係ありません。
 
 - サイト（紹介・入れ方）: https://higesho.github.io/df-ja/
-- ダウンロード: [リリース](https://github.com/higesho/df-ja/releases)
+- ダウンロード: [DwarfFortress_JP.zip](https://github.com/higesho/df-ja/releases/latest/download/DwarfFortress_JP.zip)（[リリース一覧](https://github.com/higesho/df-ja/releases)）
 - ウルティマ シリーズの日本語化: https://higesho.github.io/ultima-ja/
 - マイト・アンド・マジック シリーズの日本語化: https://higesho.github.io/mm-ja/
 
@@ -26,7 +26,7 @@ DLL とデータを置くだけです。外せば英語に戻ります。
 
 ## 入れかた
 
-[リリース](https://github.com/higesho/df-ja/releases)の zip をダウンロードし、中身を
+[DwarfFortress_JP.zip](https://github.com/higesho/df-ja/releases/latest/download/DwarfFortress_JP.zip) をダウンロードし、中身を
 **Dwarf Fortress のフォルダにそのまま重ねてコピー**するだけです。置く順番は関係ありません。
 
 ```
