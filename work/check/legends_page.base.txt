@@ -55,7 +55,7 @@ Persuade:	説得:
 [C:3:0:1]Related Historical Figures[C:7:0:0][B]	[C:3:0:1]関連する歴史上の人物[C:7:0:0][B]
 [C:1:0:1]Related Entities[C:7:0:0][B]	[C:1:0:1]関連する存在[C:7:0:0][B]
 [C:6:0:1]Related Sites[C:7:0:0][B]	[C:6:0:1]関連する拠点[C:7:0:0][B]
-[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.) Click it now.	[C:6:0:0]備蓄庫[C:7:0:0]は[C:5:0:1]備蓄庫[C:7:0:0]ボタン（強調表示）で設置します。今すぐクリックしてください。
+[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.) Click it now.	[C:6:0:0]備蓄庫[C:7:0:0]は[C:5:0:1]倉庫[C:7:0:0]ボタン（強調表示）で設置します。今すぐクリックしてください。
 Outpost Revisited:[C:7:0:0] You have returned.	前哨地再訪:[C:7:0:0] あなたは戻ってきました。
 [C:7:0:0]This is common knowledge where you are from.	[C:7:0:0]これはあなたの故郷では誰もが知っていることです。
 [C:2:0:1]You have been ordered to kill this creature.	[C:2:0:1]この生き物を殺すよう命じられています。

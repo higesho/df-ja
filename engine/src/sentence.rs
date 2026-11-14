@@ -626,6 +626,16 @@ impl Sentences {
     let colored = COLORED.get_or_init(|| Regex::new(r"^(\[C:\d+:\d+:\d+\])([^\[]+?)(\[C:\d+:\d+:\d+\])$").unwrap());
     let paren = PAREN.get_or_init(|| Regex::new(r"^(.*\S) \(([a-z][a-z ]*)\)$").unwrap());
     let t = s.trim();
+    // 先頭に色の指定だけが付いた語（健康画面の ".[C:4:0:1]Overlapping fracture"）。
+    // 色の番号は程度ごとに変わるので、色を外した語で引く
+    static LEADING: OnceLock<Regex> = OnceLock::new();
+    let leading = LEADING.get_or_init(|| Regex::new(r"^(\.?)(\[C:\d+:\d+:\d+\])(\.?)([^\[]+)$").unwrap());
+    if let Some(c) = leading.captures(t) {
+      if let Some(ja) = crate::translator::lookup_term(c[4].trim()) {
+        let dot = if c[1].is_empty() { "" } else { "。" };
+        return Some(format!("{dot}{}{}{ja}", &c[2], &c[3]));
+      }
+    }
     if let Some(c) = colored.captures(t) {
       let ja = crate::translator::lookup_term(c[2].trim())?;
       return Some(format!("{}{ja}{}", &c[1], &c[3]));
@@ -829,7 +839,7 @@ impl Sentences {
     // 段落・改行などの区切りトークンで分ける。色の変更 [C:..]、リンク [LPAGE:..]、キー表示 [KEY:..] は文の一部として残す
     let token = TOKEN.get_or_init(|| Regex::new(r"\[(?:B|P|R|/?CHAR[^\]]*)\]").unwrap());
     // 文末の記号の直後の閉じ引用符も文に含める（"... said, "Are you going to eat that?""）
-    let sent = SENT.get_or_init(|| Regex::new(r#"[^.!?]+(?:[.!?]+"?|$)\s*"#).unwrap());
+    let sent = SENT.get_or_init(|| Regex::new(r#"[^.!?]+(?:[.!?]+[")]*|$)\s*"#).unwrap());
     let mut out = String::new();
     let mut any = false;
     let mut last = 0;

@@ -1,0 +1,112 @@
+Open mining mode
+Start stairway
+End stairway
+Finish mining
+Room completed (
+Open stockpile mode
+After you embark, help is available by pressing the help button in the top right corner, including all of the tutorials.
+Your view is focused on one elevation at a time.
+Your view is focused on one elevation at a time. To move the camera around, press [KEY:29] [KEY:31] [KEY:30] [KEY:32] or hold the middle mouse button and drag the view.
+To change the camera's elevation, press [KEY:45] and [KEY:46] or [C:2:0:1]roll the mouse wheel[C:7:0:0]. Hold shift to move faster.
+Hold shift to move faster.
+When your view is in the air above other tiles, you can see them below, but you can only interact with objects in your current elevation.
+The view will be dark underground until you begin mining.
+You can move the camera to the surface with the surface button (highlighted.)
+The view will be dark underground until you begin mining. You can move the camera to the surface with the surface button (highlighted.) The [KEY:604] hotkey will recenter on your wagon.
+You can zoom in and out of the play area using [KEY:9][KEY:10], [C:2:0:1]Ctrl+mouse wheel[C:7:0:0], or the indicated buttons.
+It's time to get to work!
+Let's start by digging a stairwell into the ground.
+Don't show again
+Left click to move
+Right click to move
+Welcome to Dwarf Fortress
+Prepare to guide your stout charges to fortune in a world fraught with many perils.
+You'll begin by creating your world and watching the region's history unfold.
+Once this process is complete, you can prepare a group and send them out to seek wealth deep in the mountains.
+As you dig deeper and more citizens take up residence in your outpost, your doings will attract attention, both wanted and unwanted.
+Deal with challenges as they arise, and you might one day find that your humble settlement has grown to become a Mountainhome, the center of your civilization.
+Quick start and short tutorial?
+Would you like your fortress located in a forested mineral-rich region of this world where you can play through a short tutorial?
+Non-interactive help will be available whatever you decide.
+On your own!
+If this is your first time playing, please heed the embark warnings about aquifers, saltwater, and other hazards.
+Some locations are challenging even for experienced players, and it will be a very short game indeed if you don't know how to deal with them!
+[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.)
+Click it now.
+Click two corners of a rectangle somewhere safe to place your pile.
+[C:6:0:0]Stockpiles[C:7:0:0] can be placed both on the surface and underground.
+Once the pile is placed, click [C:5:0:1]Accept[C:7:0:0] and select the [C:5:0:1]All[C:7:0:0] option.
+If unpaused, your workers should start unloading the wagon into the [C:6:0:0]Stockpile[C:7:0:0].
+Later you may want to customize your [C:6:0:0]Stockpiles[C:7:0:0] by clicking on them and pressing the [C:5:0:1]Custom[C:7:0:0] button to forbid certain categories, like [C:5:0:1]Refuse[C:7:0:0] for example.
+A separate [C:6:0:0]Refuse Stockpile[C:7:0:0] is a good idea to keep your fortress clean.
+If the [C:5:0:1]Stockpile[C:7:0:0] menu is still open, you can close it now by right-clicking.
+Right-clicking can always be used to close most menus, as well as
+With shelter ready underground, it's time to build.
+First you need building materials, like [C:6:0:1]Wood[C:7:0:0] or [C:6:0:1]Boulders[C:7:0:0].
+Before you start chopping down trees you may want to create a dedicated [C:6:0:0]Wood Stockpile[C:7:0:0].
+[C:2:0:0]Haulers[C:7:0:0] will also drop [C:6:0:1]Wood[C:7:0:0] in your [C:6:0:0]All Stockpile[C:7:0:0] unless you turn it off in the [C:5:0:1]Custom Stockpile Menu[C:7:0:0].
+There may be plenty of hillside to dig into, but you'll want to seek wealth below the surface.
+Mining tasks are designated on the play area.
+Begin by clicking the highlighted [C:5:0:1]Mining[C:7:0:0] button.
+There are several ways to mine.
+Stairwells (selected) start at one elevation and are completed at the next.
+[C:2:0:1]Click[C:7:0:0] the surface, [C:2:0:1]move the camera down one level[C:7:0:0], and [C:2:0:1]click[C:7:0:0] the underground.
+Reversing the order also works.
+Now we'll unpause the game and let the miner finish the task.
+Press [KEY:8] to unpause or use the highlighted controls at the top of the screen.
+You should pause regularly starting out.
+Let's make a safe place to work.
+Select [C:5:0:1]Regular Mining[C:7:0:0] mode, to the left of [C:5:0:1]Stair Mining[C:7:0:0] mode.
+Dig a rectangle underground big enough for a large [C:6:0:0]Stockpile[C:7:0:0] and some [C:6:0:0]Workshops[C:7:0:0].
+Consider that most [C:6:0:0]Workshops[C:7:0:0] are 3x3 squares.
+Mining through the stone layers further down may take longer, but it leaves [C:6:0:1]Boulders[C:7:0:0] which are an essential building material.
+Later you can consider making a [C:3:0:0]Meeting Area[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu.
+Otherwise your citizens will continue to gather by the [C:6:0:0]Wagon[C:7:0:0] outside.
+The supplies on the wagon are in danger of being carried off by wild creatures!
+It's time to build a [C:6:0:0]Stockpile[C:7:0:0] underground to unload them.
+[C:6:0:0]Stockpiles[C:7:0:0] are crucial to moving supplies around your fortress where they are needed.
+[C:6:0:1]Furniture[C:7:0:0] created at the [C:6:0:0]Carpenter's Workshop[C:7:0:0] usually takes one [C:6:0:1]Wood[C:7:0:0] to build.
+Add a task and make a [C:6:0:1]Bed[C:7:0:0].
+Chop down more trees if necessary.
+Unpause and wait for the [C:6:0:1]Bed[C:7:0:0] to be completed.
+Now that you have a [C:6:0:1]Bed[C:7:0:0] you can place in it the fortress.
+Use the [C:5:0:1]Build[C:7:0:0] menu to place it in a room underground, just like the [C:6:0:0]Workshop[C:7:0:0].
+Dig a new room first if you like.
+[C:5:0:1]Beds[C:7:0:0] are found in the [C:5:0:1]Furniture[C:7:0:0] category.
+Unlike [C:6:0:0]Workshops[C:7:0:0], [C:6:0:0]Beds[C:7:0:0] must be placed underground.
+With a [C:6:0:0]Bed[C:7:0:0] placed, your workers will have somewhere to sleep.
+Later you can create a room with a [C:6:0:0]Door[C:7:0:0] and use the [C:5:0:1]Zones[C:7:0:0] menu to assign an official [C:3:0:0]Bedroom[C:7:0:0] for each resident.
+The rest of the interface is now enabled.
+You can click on [C:2:0:0]Creatures[C:7:0:0] and [C:6:0:1]Items[C:7:0:0] just as you can click on [C:6:0:0]Buildings[C:7:0:0] to get more information about them.
+Click on a [C:2:0:0]Resident[C:7:0:0] to see their needs, inventory, thoughts, relations, and more.
+You can also access information from the [C:5:0:1]Citizens[C:7:0:0] button.
+Feel free to pause and check out the information.
+Right click to dismiss the information sheet.
+This is an example urgent alert!
+These are very important.
+Ignore them at your peril.
+When you are ready, open the [C:5:0:1]Woodcutting[C:7:0:0] menu and designate the trunk of a tree on the surface.
+Make sure your woodcutter can walk to the designated location.
+Now we just need to wait for the woodcutter to chop down the tree.
+If the fallen logs are accessible, everyone will help store them in the [C:6:0:0]Stockpile[C:7:0:0].
+You can right click to close [C:5:0:1]Woodcutting[C:7:0:0] mode.
+Right clicking closes most menus.
+If all of your [C:6:0:0]Stockpiles[C:7:0:0] are full, go ahead and place another one.
+Now that you have the building materials it's time to start building.
+[C:6:0:0]Workshops[C:7:0:0] are one of many buildings you can place with the highlighted [C:5:0:1]Build[C:7:0:0] button.
+Most [C:6:0:0]Workshops[C:7:0:0] require building material, such as [C:6:0:1]Wood[C:7:0:0] or [C:6:0:1]Boulders[C:7:0:0].
+If you have some [C:6:0:1]Wood[C:7:0:0] stockpiled, you'll be able to place a [C:6:0:0]Carpenter's Workshop[C:7:0:0].
+Click [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Carpenter[C:7:0:0] and place the shop in an empty area on the surface or underground.
+When unpaused, a worker should now build the [C:6:0:0]Workshop[C:7:0:0].
+Once the worker is done, click on the building to select it.
+Your industrious citizens will perform any task added to the [C:6:0:0]Workshop[C:7:0:0].
+Most objects that are placed, like [C:6:0:1]Doors[C:7:0:0] and [C:6:0:1]Furniture[C:7:0:0], must first be built in a [C:6:0:0]Workshop[C:7:0:0].
+[C:6:0:1]Gems[C:7:0:0] can be [C:3:0:1]Cut[C:7:0:0] at the [C:6:0:0]Jeweler's Workshop[C:7:0:0].
+[C:3:0:1]Encrust[C:7:0:0] them on [C:6:0:1]Crafts[C:7:0:0] and other items to add even more value.
+Just the beginning
+There's a lot more to learn!
+As you enter new menus, there will be information and tips.
+The [C:5:0:1]Help[C:7:0:0] button at the top of the screen contains more guides.
+Click it now, and this tutorial will be concluded.
+In order to keep your citizens alive in the unforgiving wilderness they will need shelter, drink, and food.
+Use the arrow at the top of this window to minimize the tutorial when it obscures your view.

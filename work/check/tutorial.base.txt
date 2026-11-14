@@ -1,0 +1,112 @@
+Open mining mode	採掘モードを開く
+Start stairway	階段の始点
+End stairway	階段の終点
+Finish mining	採掘を完了
+Room completed (	部屋が完成 (
+Open stockpile mode	倉庫モードを開く
+After you embark, help is available by pressing the help button in the top right corner, including all of the tutorials.	出発後も、右上隅のヘルプボタンからすべてのチュートリアルを含む助けを得られます。
+Your view is focused on one elevation at a time.	視点は一度に一つの高度に焦点を合わせます。
+Your view is focused on one elevation at a time. To move the camera around, press [KEY:29] [KEY:31] [KEY:30] [KEY:32] or hold the middle mouse button and drag the view.	視点は一度に一つの高度に焦点を合わせます。カメラを動かすには、[KEY:29] [KEY:31] [KEY:30] [KEY:32]を押すか、中ボタンを押したままビューをドラッグしてください。
+To change the camera's elevation, press [KEY:45] and [KEY:46] or [C:2:0:1]roll the mouse wheel[C:7:0:0]. Hold shift to move faster.	カメラの高さを変えるには、[KEY:45]と[KEY:46]を押すか、[C:2:0:1]マウスホイールを回して[C:7:0:0]ください。Shift を押したままにすると速く動きます。
+Hold shift to move faster.	Shiftを押しながらだと速く移動できます。
+When your view is in the air above other tiles, you can see them below, but you can only interact with objects in your current elevation.	視点が他のタイルの上空にあるとき、下のタイルを見ることはできますが、操作できるのは現在の高度の物体だけです。
+The view will be dark underground until you begin mining.	採掘を始めるまで、地下の視界は暗いままです。
+You can move the camera to the surface with the surface button (highlighted.)	地上ボタン（強調表示）で、カメラを地上に移動できます。
+The view will be dark underground until you begin mining. You can move the camera to the surface with the surface button (highlighted.) The [KEY:604] hotkey will recenter on your wagon.	採掘を始めるまで、地下の視界は暗いままです。地上ボタン（強調表示）で、カメラを地上に移動できます。[KEY:604]キーで荷馬車に視点を戻せます。
+You can zoom in and out of the play area using [KEY:9][KEY:10], [C:2:0:1]Ctrl+mouse wheel[C:7:0:0], or the indicated buttons.	[KEY:9][KEY:10]、[C:2:0:1]Ctrl+マウスホイール[C:7:0:0]、または表示されたボタンで、プレイエリアを拡大・縮小できます。
+It's time to get to work!	さあ、仕事に取りかかろう！
+Let's start by digging a stairwell into the ground.	まずは地面に階段を掘るところから始めよう。
+Don't show again	今後表示しない
+Left click to move	左クリックで移動
+Right click to move	右クリックで移動
+Welcome to Dwarf Fortress	Dwarf Fortressへようこそ
+Prepare to guide your stout charges to fortune in a world fraught with many perils.	危険に満ちた世界で、屈強な民を栄光へと導く準備をしてください
+You'll begin by creating your world and watching the region's history unfold.	まず世界を創造し、地域の歴史が移り変わる様子をご覧ください
+Once this process is complete, you can prepare a group and send them out to seek wealth deep in the mountains.	この処理が完了したら、一団を編成して山奥の富を求めて送り出すことができます
+As you dig deeper and more citizens take up residence in your outpost, your doings will attract attention, both wanted and unwanted.	掘り進めて居住者が拠点に住み着くにつれ、あなたの行いは望まれるものも望まれないものも含めて注目を集めるようになります
+Deal with challenges as they arise, and you might one day find that your humble settlement has grown to become a Mountainhome, the center of your civilization.	課題が生じるたびに対処していけば、いつか質素な集落が文明の中心である山の拠点へと成長していることに気づくかもしれません。
+Quick start and short tutorial?	クイックスタートと短いチュートリアル？
+Would you like your fortress located in a forested mineral-rich region of this world where you can play through a short tutorial?	短いチュートリアルを進められるよう、この世界の森林があり鉱物の豊富な地域に要塞を置きますか？
+Non-interactive help will be available whatever you decide.	どちらを選んでも、操作不要のヘルプは利用できます。
+On your own!	自力で！
+If this is your first time playing, please heed the embark warnings about aquifers, saltwater, and other hazards.	初めてプレイされる場合は、帯水層や塩水などの危険に関する入植時の警告に必ずご注意ください
+Some locations are challenging even for experienced players, and it will be a very short game indeed if you don't know how to deal with them!	経験豊富なプレイヤーにとってさえ難しい場所があり、対処法を知らなければ本当にすぐゲームオーバーになります！
+[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.)	[C:6:0:0]備蓄庫[C:7:0:0]は[C:5:0:1]倉庫[C:7:0:0]ボタン（強調表示）で設置します。
+Click it now.	今すぐクリックしてください。
+Click two corners of a rectangle somewhere safe to place your pile.	安全な場所で長方形の二隅をクリックし、備蓄庫を置いてください。
+[C:6:0:0]Stockpiles[C:7:0:0] can be placed both on the surface and underground.	[C:6:0:0]備蓄庫[C:7:0:0]は地表にも地下にも設置できます。
+Once the pile is placed, click [C:5:0:1]Accept[C:7:0:0] and select the [C:5:0:1]All[C:7:0:0] option.	山を置いたら、[C:5:0:1]承諾[C:7:0:0]をクリックし、[C:5:0:1]すべて[C:7:0:0]オプションを選んでください。
+If unpaused, your workers should start unloading the wagon into the [C:6:0:0]Stockpile[C:7:0:0].	一時停止を解除すれば、作業員は荷馬車の積荷を[C:6:0:0]備蓄庫[C:7:0:0]へ降ろし始めるはずです。
+Later you may want to customize your [C:6:0:0]Stockpiles[C:7:0:0] by clicking on them and pressing the [C:5:0:1]Custom[C:7:0:0] button to forbid certain categories, like [C:5:0:1]Refuse[C:7:0:0] for example.	後で、[C:6:0:0]倉庫[C:7:0:0]をクリックして[C:5:0:1]カスタム[C:7:0:0]ボタンを押し、たとえば[C:5:0:1]廃棄物[C:7:0:0]など特定の分類を禁止することで、倉庫を好みに合わせて設定することもできます。
+A separate [C:6:0:0]Refuse Stockpile[C:7:0:0] is a good idea to keep your fortress clean.	要塞を清潔に保つには、別に[C:6:0:0]廃棄物倉庫[C:7:0:0]を設けるとよいでしょう。
+If the [C:5:0:1]Stockpile[C:7:0:0] menu is still open, you can close it now by right-clicking.	[C:5:0:1]倉庫[C:7:0:0]メニューがまだ開いている場合は、右クリックで閉じられます。
+Right-clicking can always be used to close most menus, as well as	右クリックは、ほとんどのメニューを閉じるのにいつでも使えます。
+With shelter ready underground, it's time to build.	地下に避難所ができた今、建設の時です。
+First you need building materials, like [C:6:0:1]Wood[C:7:0:0] or [C:6:0:1]Boulders[C:7:0:0].	まずは[C:6:0:1]木材[C:7:0:0]や[C:6:0:1]岩塊[C:7:0:0]などの建材が必要です。
+Before you start chopping down trees you may want to create a dedicated [C:6:0:0]Wood Stockpile[C:7:0:0].	木を伐採し始める前に、専用の[C:6:0:0]木材備蓄庫[C:7:0:0]を作っておくとよいでしょう。
+[C:2:0:0]Haulers[C:7:0:0] will also drop [C:6:0:1]Wood[C:7:0:0] in your [C:6:0:0]All Stockpile[C:7:0:0] unless you turn it off in the [C:5:0:1]Custom Stockpile Menu[C:7:0:0].	[C:2:0:0]運搬人[C:7:0:0]は、[C:5:0:1]カスタム備蓄庫メニュー[C:7:0:0]で無効にしない限り、[C:6:0:1]木材[C:7:0:0]を[C:6:0:0]全備蓄庫[C:7:0:0]にも置きます。
+There may be plenty of hillside to dig into, but you'll want to seek wealth below the surface.	掘れる丘陵地は多くあるでしょうが、富は地表の下に求めるべきです。
+Mining tasks are designated on the play area.	採掘作業はプレイエリア上で指定します。
+Begin by clicking the highlighted [C:5:0:1]Mining[C:7:0:0] button.	まず強調表示された[C:5:0:1]採掘[C:7:0:0]ボタンをクリックしてください。
+There are several ways to mine.	採掘にはいくつかの方法があります。
+Stairwells (selected) start at one elevation and are completed at the next.	階段（選択中）は、ある高度で始まり、次の高度で完成します。
+[C:2:0:1]Click[C:7:0:0] the surface, [C:2:0:1]move the camera down one level[C:7:0:0], and [C:2:0:1]click[C:7:0:0] the underground.	[C:2:0:1]地上をクリック[C:7:0:0]し、[C:2:0:1]カメラを1階層下げ[C:7:0:0]、[C:2:0:1]地下をクリック[C:7:0:0]してください。
+Reversing the order also works.	順番は逆でもかまいません。
+Now we'll unpause the game and let the miner finish the task.	では一時停止を解除して、鉱夫に作業を終わらせてもらいましょう。
+Press [KEY:8] to unpause or use the highlighted controls at the top of the screen.	[KEY:8]を押すか、画面上部の強調表示された操作部で一時停止を解除してください。
+You should pause regularly starting out.	最初のうちは定期的に一時停止するとよいでしょう。
+Let's make a safe place to work.	作業のための安全な場所を作りましょう
+Select [C:5:0:1]Regular Mining[C:7:0:0] mode, to the left of [C:5:0:1]Stair Mining[C:7:0:0] mode.	[C:5:0:1]階段採掘[C:7:0:0]モードの左にある[C:5:0:1]通常採掘[C:7:0:0]モードを選択してください。
+Dig a rectangle underground big enough for a large [C:6:0:0]Stockpile[C:7:0:0] and some [C:6:0:0]Workshops[C:7:0:0].	大きな[C:6:0:0]備蓄庫[C:7:0:0]と数軒の[C:6:0:0]工房[C:7:0:0]が入る大きさの長方形を地下に掘ってください。
+Consider that most [C:6:0:0]Workshops[C:7:0:0] are 3x3 squares.	ほとんどの[C:6:0:0]工房[C:7:0:0]は3x3の正方形であることを考慮してください
+Mining through the stone layers further down may take longer, but it leaves [C:6:0:1]Boulders[C:7:0:0] which are an essential building material.	さらに下の石の層を採掘すると時間はかかりますが、建築に欠かせない資材である[C:6:0:1]丸石[C:7:0:0]が得られます。
+Later you can consider making a [C:3:0:0]Meeting Area[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu.	後で、[C:5:0:1]ゾーン[C:7:0:0]メニューから[C:3:0:0]集会所[C:7:0:0]を作ることも検討できます。
+Otherwise your citizens will continue to gather by the [C:6:0:0]Wagon[C:7:0:0] outside.	そうしないと、市民は外にある[C:6:0:0]荷馬車[C:7:0:0]のそばに集まり続けます。
+The supplies on the wagon are in danger of being carried off by wild creatures!	荷馬車の物資が野生動物に持ち去られる危険があります！
+It's time to build a [C:6:0:0]Stockpile[C:7:0:0] underground to unload them.	荷を降ろすために、地下に[C:6:0:0]備蓄庫[C:7:0:0]を作りましょう。
+[C:6:0:0]Stockpiles[C:7:0:0] are crucial to moving supplies around your fortress where they are needed.	[C:6:0:0]備蓄庫[C:7:0:0]は、必要な場所へ物資を運ぶうえで欠かせません。
+[C:6:0:1]Furniture[C:7:0:0] created at the [C:6:0:0]Carpenter's Workshop[C:7:0:0] usually takes one [C:6:0:1]Wood[C:7:0:0] to build.	[C:6:0:1]家具[C:7:0:0]は[C:6:0:0]大工の工房[C:7:0:0]で作る場合、通常[C:6:0:1]木材[C:7:0:0]を1つ使います。
+Add a task and make a [C:6:0:1]Bed[C:7:0:0].	作業を追加して[C:6:0:1]ベッド[C:7:0:0]を作りましょう。
+Chop down more trees if necessary.	必要であれば、さらに木を伐採してください。
+Unpause and wait for the [C:6:0:1]Bed[C:7:0:0] to be completed.	一時停止を解除し、[C:6:0:1]ベッド[C:7:0:0]が完成するまで待ちます。
+Now that you have a [C:6:0:1]Bed[C:7:0:0] you can place in it the fortress.	[C:6:0:1]ベッド[C:7:0:0]ができたので、要塞に設置できます。
+Use the [C:5:0:1]Build[C:7:0:0] menu to place it in a room underground, just like the [C:6:0:0]Workshop[C:7:0:0].	[C:6:0:0]工房[C:7:0:0]と同様に、[C:5:0:1]建設[C:7:0:0]メニューを使って地下の部屋に設置してください。
+Dig a new room first if you like.	必要であれば、先に新しい部屋を掘ってください。
+[C:5:0:1]Beds[C:7:0:0] are found in the [C:5:0:1]Furniture[C:7:0:0] category.	[C:5:0:1]ベッド[C:7:0:0]は[C:5:0:1]家具[C:7:0:0]のカテゴリにあります。
+Unlike [C:6:0:0]Workshops[C:7:0:0], [C:6:0:0]Beds[C:7:0:0] must be placed underground.	[C:6:0:0]工房[C:7:0:0]と違い、[C:6:0:0]ベッド[C:7:0:0]は地下に置かなければなりません。
+With a [C:6:0:0]Bed[C:7:0:0] placed, your workers will have somewhere to sleep.	[C:6:0:0]ベッド[C:7:0:0]を置けば、作業員に寝る場所ができます
+Later you can create a room with a [C:6:0:0]Door[C:7:0:0] and use the [C:5:0:1]Zones[C:7:0:0] menu to assign an official [C:3:0:0]Bedroom[C:7:0:0] for each resident.	後で、[C:6:0:0]扉[C:7:0:0]付きの部屋を作り、[C:5:0:1]ゾーン[C:7:0:0]メニューで住民ごとに正式な[C:3:0:0]寝室[C:7:0:0]を割り当てることができます。
+The rest of the interface is now enabled.	残りのインターフェースが有効になりました。
+You can click on [C:2:0:0]Creatures[C:7:0:0] and [C:6:0:1]Items[C:7:0:0] just as you can click on [C:6:0:0]Buildings[C:7:0:0] to get more information about them.	[C:6:0:0]建物[C:7:0:0]をクリックして詳細を見るように、[C:2:0:0]生き物[C:7:0:0]や[C:6:0:1]物品[C:7:0:0]もクリックして詳細を見られます。
+Click on a [C:2:0:0]Resident[C:7:0:0] to see their needs, inventory, thoughts, relations, and more.	[C:2:0:0]住民[C:7:0:0]をクリックすると、その欲求、持ち物、考え、関係などを見ることができます。
+You can also access information from the [C:5:0:1]Citizens[C:7:0:0] button.	[C:5:0:1]住人[C:7:0:0]ボタンからも情報を見られます。
+Feel free to pause and check out the information.	自由に一時停止して情報を確認してください。
+Right click to dismiss the information sheet.	右クリックで情報画面を閉じます。
+This is an example urgent alert!	これは緊急警報の例です！
+These are very important.	これらは非常に重要です。
+Ignore them at your peril.	無視すると危険です。
+When you are ready, open the [C:5:0:1]Woodcutting[C:7:0:0] menu and designate the trunk of a tree on the surface.	準備ができたら、[C:5:0:1]伐採[C:7:0:0]メニューを開き、地表の木の幹を指定してください。
+Make sure your woodcutter can walk to the designated location.	木こりが指定場所まで歩いて行けることを確認してください。
+Now we just need to wait for the woodcutter to chop down the tree.	あとは木こりが木を切り倒すのを待つだけです
+If the fallen logs are accessible, everyone will help store them in the [C:6:0:0]Stockpile[C:7:0:0].	倒木に近づけるなら、全員で[C:6:0:0]備蓄庫[C:7:0:0]に運ぶのを手伝います。
+You can right click to close [C:5:0:1]Woodcutting[C:7:0:0] mode.	右クリックで[C:5:0:1]伐採[C:7:0:0]モードを閉じられます。
+Right clicking closes most menus.	右クリックでほとんどのメニューは閉じます。
+If all of your [C:6:0:0]Stockpiles[C:7:0:0] are full, go ahead and place another one.	すべての[C:6:0:0]備蓄庫[C:7:0:0]がいっぱいなら、もう一つ設置してください。
+Now that you have the building materials it's time to start building.	建材が揃ったので、建設を始めましょう。
+[C:6:0:0]Workshops[C:7:0:0] are one of many buildings you can place with the highlighted [C:5:0:1]Build[C:7:0:0] button.	[C:6:0:0]工房[C:7:0:0]は、強調表示された[C:5:0:1]建設[C:7:0:0]ボタンで配置できる多くの建物の一つです。
+Most [C:6:0:0]Workshops[C:7:0:0] require building material, such as [C:6:0:1]Wood[C:7:0:0] or [C:6:0:1]Boulders[C:7:0:0].	ほとんどの[C:6:0:0]工房[C:7:0:0]は、[C:6:0:1]木材[C:7:0:0]や[C:6:0:1]岩塊[C:7:0:0]などの建材を必要とします。
+If you have some [C:6:0:1]Wood[C:7:0:0] stockpiled, you'll be able to place a [C:6:0:0]Carpenter's Workshop[C:7:0:0].	[C:6:0:1]木材[C:7:0:0]を備蓄しておけば、[C:6:0:0]木工房[C:7:0:0]を設置できるようになります。
+Click [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Carpenter[C:7:0:0] and place the shop in an empty area on the surface or underground.	[C:5:0:1]工房[C:7:0:0] -> [C:5:0:1]大工[C:7:0:0]をクリックし、地上または地下の空いている場所に工房を設置してください。
+When unpaused, a worker should now build the [C:6:0:0]Workshop[C:7:0:0].	一時停止を解除すると、作業員が[C:6:0:0]工房[C:7:0:0]の建設を始めるはずです。
+Once the worker is done, click on the building to select it.	作業者の作業が終わったら、建物をクリックして選択してください。
+Your industrious citizens will perform any task added to the [C:6:0:0]Workshop[C:7:0:0].	勤勉な住人は、[C:6:0:0]工房[C:7:0:0]に追加されたどんな作業でも行います。
+Most objects that are placed, like [C:6:0:1]Doors[C:7:0:0] and [C:6:0:1]Furniture[C:7:0:0], must first be built in a [C:6:0:0]Workshop[C:7:0:0].	[C:6:0:1]扉[C:7:0:0]や[C:6:0:1]家具[C:7:0:0]など、設置する物の多くは、まず[C:6:0:0]工房[C:7:0:0]で作らなければなりません。
+[C:6:0:1]Gems[C:7:0:0] can be [C:3:0:1]Cut[C:7:0:0] at the [C:6:0:0]Jeweler's Workshop[C:7:0:0].	[C:6:0:1]宝石[C:7:0:0]は[C:6:0:0]宝石細工工房[C:7:0:0]で[C:3:0:1]カット[C:7:0:0]できます。
+[C:3:0:1]Encrust[C:7:0:0] them on [C:6:0:1]Crafts[C:7:0:0] and other items to add even more value.	[C:6:0:1]工芸品[C:7:0:0]や他の品物に[C:3:0:1]はめ込めば[C:7:0:0]、さらに価値を高められます。
+Just the beginning	始まりにすぎない
+There's a lot more to learn!	学ぶことはまだたくさんある！
+As you enter new menus, there will be information and tips.	新しいメニューに入ると、情報やヒントが表示されます。
+The [C:5:0:1]Help[C:7:0:0] button at the top of the screen contains more guides.	画面上部の[C:5:0:1]ヘルプ[C:7:0:0]ボタンには、さらに案内があります。
+Click it now, and this tutorial will be concluded.	今クリックすると、このチュートリアルは終了します。
+In order to keep your citizens alive in the unforgiving wilderness they will need shelter, drink, and food.	容赦のない荒野で市民を生かしておくには、住まい、飲み物、食べ物が必要です。
+Use the arrow at the top of this window to minimize the tutorial when it obscures your view.	このウィンドウ上部の矢印を使うと、視界を遮るときにチュートリアルを最小化できます。

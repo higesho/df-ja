@@ -430,8 +430,135 @@ In party:	同行者:
 Intimidate:	威圧:
 Persuade:	説得:
 # ゲーム内ヘルプ／チュートリアルで英語のまま残っていた文
-[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.) Click it now.	[C:6:0:0]備蓄庫[C:7:0:0]は[C:5:0:1]備蓄庫[C:7:0:0]ボタン（強調表示）で設置します。今すぐクリックしてください。
 Outpost Revisited:[C:7:0:0] You have returned.	前哨地再訪:[C:7:0:0] あなたは戻ってきました。
 [C:7:0:0]This is common knowledge where you are from.	[C:7:0:0]これはあなたの故郷では誰もが知っていることです。
 [C:2:0:1]You have been ordered to kill this creature.	[C:2:0:1]この生き物を殺すよう命じられています。
 [C:5:0:1]This creature is known to be dead.	[C:5:0:1]この生き物は死んでいることが分かっています。
+# 健康画面などの状態表示を、色の指定を外した形でも引けるようにする（色の番号は程度ごとに変わる）
+Ability to fly lost	飛行能力を失った
+Ability to fly somewhat impaired	飛行能力がやや低下している
+Ability to grasp lost	物をつかむ能力を失った
+Ability to grasp somewhat impaired	物をつかむ能力がやや低下している
+Ability to stand lost	立つ能力を失った
+Ability to stand somewhat impaired	立つ能力がやや低下している
+Advanced rot	進行した腐敗
+Artery torn	動脈断裂
+Broken apart	粉砕
+Bruised ligament	靭帯の打撲
+Bruised tendon	腱の打撲
+Butchered	解体された
+Cannot breathe	呼吸できない
+Cleaned	清掃済み
+Complete numbness	完全な麻痺感
+Completely numb	完全に麻痺している
+Compound fracture	複雑骨折
+Crutch required	松葉杖が必要
+Cut apart	断裂
+Dented	へこみ
+Diagnosis required	診断が必要
+Dizziness	めまい
+Evaluated	評価済み
+Extreme swelling	極度の腫れ
+Function totally impaired	機能が完全に損なわれている
+Gelded	去勢された
+Has been sutured	縫合済み
+Heavy bruising	重度の打撲
+In traction	牽引中
+Light bruising	軽い打撲
+Major artery torn	主要動脈断裂
+Minor blistering	軽度の水ぶくれ
+Minor boiling	軽度の熱湯による損傷
+Minor burn	軽度の火傷
+Minor condensation	軽度の結露による損傷
+Minor freezing	軽度の凍結
+Minor frost-bite	軽度の凍傷
+Minor melting	軽度の融解
+Minor pain	軽い痛み
+Minor rot	軽度の腐敗
+Minor swelling	軽度の腫れ
+Moderate blistering	中程度の水ぶくれ
+Moderate blood loss	中程度の失血
+Moderate boiling	中程度の熱湯による損傷
+Moderate bruising	中程度の打撲
+Moderate burn	中程度の火傷
+Moderate condensation	中程度の結露による損傷
+Moderate fever	中程度の発熱
+Moderate freezing	中程度の凍結
+Moderate frost-bite	中程度の凍傷
+Moderate melting	中程度の融解
+Moderate pain	中程度の痛み
+Moderate rot	中程度の腐敗
+Moderate swelling	中程度の腫れ
+Motor nerve damage	運動神経の損傷
+Motor nerve severed	運動神経断裂
+Nausea	吐き気
+Needs cleaning	洗浄が必要
+Needs dressing	包帯が必要
+Needs immobilization	固定が必要
+Needs setting	整復が必要
+Needs surgery	手術が必要
+Needs sutures	縫合が必要
+Needs traction	牽引が必要
+No evaluated wounds	評価済みの傷なし
+No health problems	健康上の問題なし
+No medical history	病歴なし
+No treatment scheduled	治療の予定なし
+No wounds	傷なし
+Overlapping fracture	重複骨折
+Overlapping fracture (in traction)	重複骨折（牽引中）
+Paralysis	麻痺
+Partial numbness	部分的な麻痺感
+Partial paralysis	部分的な麻痺
+Partially impaired function	機能の部分的な低下
+Partially numb	部分的に麻痺している
+Rotten -- inoperable	腐敗 -- 手術不能
+Sensory nerve damage	感覚神経の損傷
+Sensory nerve severed	感覚神経断裂
+Serious blistering	重度の水ぶくれ
+Serious boiling	重度の熱湯による損傷
+Serious burn	重度の火傷
+Serious condensation	重度の結露による損傷
+Serious fever	重度の発熱
+Serious freezing	重度の凍結
+Serious frost-bite	重度の凍傷
+Serious melting	重度の融解
+Severe blood loss	重度の失血
+Slight fever	軽い発熱
+Slight numbness	軽い麻痺感
+Slight pain	軽い痛み
+Slightly impaired function	機能のわずかな低下
+Slightly numb	軽い麻痺がある
+Smashed apart	粉砕
+Some sluggishness	やや鈍り
+Spilled	こぼれた
+Sprained ligament	靭帯の捻挫
+Strained tendon	腱の損傷
+Time before time	太古の時代
+Torn apart	引き裂かれた
+Torn ligament	靭帯断裂
+Torn tendon	腱断裂
+Trouble breathing	呼吸困難
+Vision impaired	視力が低下している
+Vision lost	視力を失った
+Vision somewhat impaired	視力がやや低下している
+# 対話型チュートリアルの本文
+[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0] button (highlighted.)	[C:6:0:0]備蓄庫[C:7:0:0]は[C:5:0:1]倉庫[C:7:0:0]ボタン（強調表示）で設置します。
+It's time to build a [C:6:0:0]Stockpile[C:7:0:0] underground to unload them.	荷を降ろすために、地下に[C:6:0:0]備蓄庫[C:7:0:0]を作りましょう。
+[C:6:0:0]Stockpiles[C:7:0:0] are crucial to moving supplies around your fortress where they are needed.	[C:6:0:0]備蓄庫[C:7:0:0]は、必要な場所へ物資を運ぶうえで欠かせません。
+Click two corners of a rectangle somewhere safe to place your pile.	安全な場所で長方形の二隅をクリックし、備蓄庫を置いてください。
+Right-clicking can always be used to close most menus, as well as	右クリックは、ほとんどのメニューを閉じるのにいつでも使えます。
+There are several ways to mine.	採掘にはいくつかの方法があります。
+Stairwells (selected) start at one elevation and are completed at the next.	階段（選択中）は、ある高度で始まり、次の高度で完成します。
+[C:2:0:1]Click[C:7:0:0] the surface, [C:2:0:1]move the camera down one level[C:7:0:0], and [C:2:0:1]click[C:7:0:0] the underground.	[C:2:0:1]地上をクリック[C:7:0:0]し、[C:2:0:1]カメラを1階層下げ[C:7:0:0]、[C:2:0:1]地下をクリック[C:7:0:0]してください。
+Reversing the order also works.	順番は逆でもかまいません。
+Now we'll unpause the game and let the miner finish the task.	では一時停止を解除して、鉱夫に作業を終わらせてもらいましょう。
+The view will be dark underground until you begin mining.	採掘を始めるまで、地下の視界は暗いままです。
+You can move the camera to the surface with the surface button (highlighted.)	地上ボタン（強調表示）で、カメラを地上に移動できます。
+The underground rectangle must be near the surface, where there is soil (loam, clay, or sand.)	地下の長方形は、土（ローム、粘土、砂）のある地表近くに取る必要があります。
+One level down should suffice, before you hit rock.	岩にぶつかる前の、1階層下あたりで十分です。
+If there is a river or pond nearby you may consider fishing.	近くに川や池があるなら、釣りも考えられます。
+If the water isn’t frozen, a worker with the fishing labor assigned will begin fishing automatically.	水が凍っていなければ、釣りの労働を割り当てた作業員が自動で釣りを始めます。
+If the water isn't frozen, a worker with the fishing labor assigned will begin fishing automatically.	水が凍っていなければ、釣りの労働を割り当てた作業員が自動で釣りを始めます。
+And remember: [C:2:0:1]Losing is fun!	そして忘れずに: [C:2:0:1]負けるのも楽しみのうち！
+And remember: [C:2:0:1]Losing is fun, and now it's personal!	そして忘れずに: [C:2:0:1]負けるのも楽しみのうち。しかも今度は他人事ではありません！
+Press [KEY:8] to unpause or use the highlighted controls at the top of the screen.	[KEY:8]を押すか、画面上部の強調表示された操作部で一時停止を解除してください。
