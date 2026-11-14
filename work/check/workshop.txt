@@ -36,3 +36,147 @@ rock door
 rock blocks
 rock mechanisms
 granite altar
+Forge copper altar
+Make rock anvils
+Forge copper anvils
+Make rock ash
+Forge copper ash
+Make rock backpacks
+Forge copper backpacks
+Make rock balls
+Forge copper balls
+Make rock battle axes
+Forge copper battle axes
+Make rock block
+Forge copper block
+Make rock bolt
+Forge copper bolt
+Make rock book binding
+Forge copper book binding
+Make rock boulders
+Forge copper boulders
+Make rock boxes
+Forge copper boxes
+Make rock bucket
+Forge copper bucket
+Forge copper cage
+Make rock carving fork
+Forge copper carving fork
+Make rock cast
+Forge copper cast
+Make rock chain hood
+Forge copper chain hood
+Make rock chairs
+Forge copper chairs
+Make rock chests
+Forge copper chests
+Make rock codex
+Forge copper codex
+Make rock coins
+Forge copper coins
+Make rock crossbow
+Forge copper crossbow
+Make rock cup
+Forge copper cup
+Make rock dice
+Forge copper dice
+Make rock earrings
+Forge copper earrings
+Make rock fat
+Forge copper fat
+Make rock flask
+Forge copper flask
+Make rock gauntlets
+Forge copper gauntlets
+Make rock gloves
+Forge copper gloves
+Make rock great axes
+Forge copper great axes
+Forge copper hatch cover
+Make rock helm
+Forge copper helm
+Make rock high boot
+Forge copper high boot
+Make rock honeycombs
+Forge copper honeycombs
+Make rock ladles
+Forge copper ladles
+Make rock left chausse
+Forge copper left chausse
+Make rock left high boot
+Forge copper left high boot
+Make rock left sandal
+Forge copper left sandal
+Make rock leggings
+Forge copper leggings
+Make rock long sword
+Forge copper long sword
+Make rock maces
+Forge copper maces
+Make rock mangled skeletons
+Forge copper mangled skeletons
+Make rock meat cleaver
+Forge copper meat cleaver
+Forge copper millstone
+Make rock mitten
+Forge copper mitten
+Make rock mug
+Forge copper mug
+Make rock partial skeleton
+Forge copper partial skeleton
+Make rock pestles
+Forge copper pestles
+Make rock pipe sections
+Forge copper pipe sections
+Make rock powder
+Forge copper powder
+Make rock quires
+Forge copper quires
+Make rock right gauntlet
+Forge copper right gauntlet
+Make rock right low boot
+Forge copper right low boot
+Make rock right shoe
+Forge copper right shoe
+Make rock roast
+Forge copper roast
+Make rock rough gems
+Forge copper rough gems
+Make rock scepters
+Forge copper scepters
+Make rock scroll rollers
+Forge copper scroll rollers
+Make rock sheet
+Forge copper sheet
+Make rock shoe
+Forge copper shoe
+Make rock skin
+Forge copper skin
+Make rock slabs
+Forge copper slabs
+Make rock spear
+Forge copper spear
+Make rock spikes
+Forge copper spikes
+Make rock stepladders
+Forge copper stepladders
+Make rock thong
+Forge copper thong
+Make rock toga
+Forge copper toga
+Make rock toy boat
+Forge copper toy boat
+Make rock training axe
+Forge copper training axe
+Make rock trap component
+Forge copper trap component
+Make rock tunics
+Forge copper tunics
+Make rock vests
+Forge copper vests
+Make rock waterskins
+Forge copper waterskins
+Make rock wheelbarrow
+Forge copper wheelbarrow
+Make rock yarn
+Forge copper yarn

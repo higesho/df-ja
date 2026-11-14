@@ -26853,6 +26853,772 @@ d1afa0	core	{1} (opens menu)	{1}{REST}（メニュー）
 d1afa0	core	Make instrument piece	楽器の部品を{REST}作る
 d1afa0	core	Make instrument piece (opens menu)	楽器の部品を{REST}作る（メニュー）
 d1afa0	core	Engrave memorial slab (opens menu)	追悼の平板を{REST}彫る（メニュー）
+d1afa0	core	Make {1} altars	{1}の祭壇を{REST}作る
+d1afa0	core	Forge {1} altars	{1}の祭壇を{REST}鍛造する
+d1afa0	core	Make {1} ammo	{1}の弾薬を{REST}作る
+d1afa0	core	Forge {1} ammo	{1}の弾薬を{REST}鍛造する
+d1afa0	core	Make {1} amulet	{1}の首飾りを{REST}作る
+d1afa0	core	Forge {1} amulet	{1}の首飾りを{REST}鍛造する
+d1afa0	core	Make {1} amulets	{1}の首飾りを{REST}作る
+d1afa0	core	Forge {1} amulets	{1}の首飾りを{REST}鍛造する
+d1afa0	core	Make {1} anvil	{1}の金床を{REST}作る
+d1afa0	core	Forge {1} anvil	{1}の金床を{REST}鍛造する
+d1afa0	core	Make {1} anvils	{1}の金床を{REST}作る
+d1afa0	core	Forge {1} anvils	{1}の金床を{REST}鍛造する
+d1afa0	core	Make {1} armor	{1}の鎧を{REST}作る
+d1afa0	core	Forge {1} armor	{1}の鎧を{REST}鍛造する
+d1afa0	core	Make {1} armor stands	{1}の鎧立てを{REST}作る
+d1afa0	core	Forge {1} armor stands	{1}の鎧立てを{REST}鍛造する
+d1afa0	core	Make {1} arrow	{1}の矢を{REST}作る
+d1afa0	core	Forge {1} arrow	{1}の矢を{REST}鍛造する
+d1afa0	core	Make {1} arrows	{1}の矢を{REST}作る
+d1afa0	core	Forge {1} arrows	{1}の矢を{REST}鍛造する
+d1afa0	core	Make {1} ash	{1}の灰を{REST}作る
+d1afa0	core	Forge {1} ash	{1}の灰を{REST}鍛造する
+d1afa0	core	Make {1} axe	{1}の斧を{REST}作る
+d1afa0	core	Forge {1} axe	{1}の斧を{REST}鍛造する
+d1afa0	core	Make {1} axe blade	{1}の斧刃を{REST}作る
+d1afa0	core	Forge {1} axe blade	{1}の斧刃を{REST}鍛造する
+d1afa0	core	Make {1} axe blades	{1}の斧刃を{REST}作る
+d1afa0	core	Forge {1} axe blades	{1}の斧刃を{REST}鍛造する
+d1afa0	core	Make {1} axes	{1}の斧を{REST}作る
+d1afa0	core	Forge {1} axes	{1}の斧を{REST}鍛造する
+d1afa0	core	Make {1} backpacks	{1}の背嚢を{REST}作る
+d1afa0	core	Forge {1} backpacks	{1}の背嚢を{REST}鍛造する
+d1afa0	core	Make {1} bags	{1}の袋を{REST}作る
+d1afa0	core	Forge {1} bags	{1}の袋を{REST}鍛造する
+d1afa0	core	Make {1} ball	{1}の球を{REST}作る
+d1afa0	core	Forge {1} ball	{1}の球を{REST}鍛造する
+d1afa0	core	Make {1} ballista arrow	{1}のバリスタの矢を{REST}作る
+d1afa0	core	Forge {1} ballista arrow	{1}のバリスタの矢を{REST}鍛造する
+d1afa0	core	Make {1} ballista arrows	{1}のバリスタの矢を{REST}作る
+d1afa0	core	Forge {1} ballista arrows	{1}のバリスタの矢を{REST}鍛造する
+d1afa0	core	Make {1} balls	{1}の球を{REST}作る
+d1afa0	core	Forge {1} balls	{1}の球を{REST}鍛造する
+d1afa0	core	Make {1} bar	{1}の延べ棒を{REST}作る
+d1afa0	core	Forge {1} bar	{1}の延べ棒を{REST}鍛造する
+d1afa0	core	Make {1} barrels	{1}の樽を{REST}作る
+d1afa0	core	Forge {1} barrels	{1}の樽を{REST}鍛造する
+d1afa0	core	Make {1} bars	{1}の延べ棒を{REST}作る
+d1afa0	core	Forge {1} bars	{1}の延べ棒を{REST}鍛造する
+d1afa0	core	Make {1} battle axe	{1}の戦斧を{REST}作る
+d1afa0	core	Forge {1} battle axe	{1}の戦斧を{REST}鍛造する
+d1afa0	core	Make {1} battle axes	{1}の戦斧を{REST}作る
+d1afa0	core	Forge {1} battle axes	{1}の戦斧を{REST}鍛造する
+d1afa0	core	Make {1} beds	{1}のベッドを{REST}作る
+d1afa0	core	Forge {1} beds	{1}のベッドを{REST}鍛造する
+d1afa0	core	Make {1} bins	{1}の収納箱を{REST}作る
+d1afa0	core	Forge {1} bins	{1}の収納箱を{REST}鍛造する
+d1afa0	core	Make {1} biscuits	{1}のビスケットを{REST}作る
+d1afa0	core	Forge {1} biscuits	{1}のビスケットを{REST}鍛造する
+d1afa0	core	Make {1} block	{1}のブロックを{REST}作る
+d1afa0	core	Forge {1} block	{1}のブロックを{REST}鍛造する
+d1afa0	core	Make {1} blowdart	{1}の吹き矢を{REST}作る
+d1afa0	core	Forge {1} blowdart	{1}の吹き矢を{REST}鍛造する
+d1afa0	core	Make {1} blowdarts	{1}の吹き矢を{REST}作る
+d1afa0	core	Forge {1} blowdarts	{1}の吹き矢を{REST}鍛造する
+d1afa0	core	Make {1} blowgun	{1}の吹き矢筒を{REST}作る
+d1afa0	core	Forge {1} blowgun	{1}の吹き矢筒を{REST}鍛造する
+d1afa0	core	Make {1} blowguns	{1}の吹き矢筒を{REST}作る
+d1afa0	core	Forge {1} blowguns	{1}の吹き矢筒を{REST}鍛造する
+d1afa0	core	Make {1} bolt	{1}のボルトを{REST}作る
+d1afa0	core	Forge {1} bolt	{1}のボルトを{REST}鍛造する
+d1afa0	core	Make {1} bolts	{1}のボルトを{REST}作る
+d1afa0	core	Forge {1} bolts	{1}のボルトを{REST}鍛造する
+d1afa0	core	Make {1} bones	{1}の骨を{REST}作る
+d1afa0	core	Forge {1} bones	{1}の骨を{REST}鍛造する
+d1afa0	core	Make {1} boning knife	{1}の骨すきナイフを{REST}作る
+d1afa0	core	Forge {1} boning knife	{1}の骨すきナイフを{REST}鍛造する
+d1afa0	core	Make {1} boning knives	{1}の骨すきナイフを{REST}作る
+d1afa0	core	Forge {1} boning knives	{1}の骨すきナイフを{REST}鍛造する
+d1afa0	core	Make {1} book	{1}の本を{REST}作る
+d1afa0	core	Forge {1} book	{1}の本を{REST}鍛造する
+d1afa0	core	Make {1} book bindings	{1}の本の装丁を{REST}作る
+d1afa0	core	Forge {1} book bindings	{1}の本の装丁を{REST}鍛造する
+d1afa0	core	Make {1} bookcases	{1}の本棚を{REST}作る
+d1afa0	core	Forge {1} bookcases	{1}の本棚を{REST}鍛造する
+d1afa0	core	Make {1} books	{1}の本を{REST}作る
+d1afa0	core	Forge {1} books	{1}の本を{REST}鍛造する
+d1afa0	core	Make {1} boulder	{1}の丸石を{REST}作る
+d1afa0	core	Forge {1} boulder	{1}の丸石を{REST}鍛造する
+d1afa0	core	Make {1} boulders	{1}の丸石を{REST}作る
+d1afa0	core	Forge {1} boulders	{1}の丸石を{REST}鍛造する
+d1afa0	core	Make {1} bow	{1}の弓を{REST}作る
+d1afa0	core	Forge {1} bow	{1}の弓を{REST}鍛造する
+d1afa0	core	Make {1} bowl	{1}の鉢を{REST}作る
+d1afa0	core	Forge {1} bowl	{1}の鉢を{REST}鍛造する
+d1afa0	core	Make {1} bowls	{1}の鉢を{REST}作る
+d1afa0	core	Forge {1} bowls	{1}の鉢を{REST}鍛造する
+d1afa0	core	Make {1} bows	{1}の弓を{REST}作る
+d1afa0	core	Forge {1} bows	{1}の弓を{REST}鍛造する
+d1afa0	core	Make {1} boxes	{1}の箱を{REST}作る
+d1afa0	core	Forge {1} boxes	{1}の箱を{REST}鍛造する
+d1afa0	core	Make {1} bracelets	{1}の腕輪を{REST}作る
+d1afa0	core	Forge {1} bracelets	{1}の腕輪を{REST}鍛造する
+d1afa0	core	Make {1} braies	{1}のブレーを{REST}作る
+d1afa0	core	Forge {1} braies	{1}のブレーを{REST}鍛造する
+d1afa0	core	Make {1} breastplate	{1}の胸当てを{REST}作る
+d1afa0	core	Forge {1} breastplate	{1}の胸当てを{REST}鍛造する
+d1afa0	core	Make {1} breastplates	{1}の胸当てを{REST}作る
+d1afa0	core	Forge {1} breastplates	{1}の胸当てを{REST}鍛造する
+d1afa0	core	Make {1} buckets	{1}のバケツを{REST}作る
+d1afa0	core	Forge {1} buckets	{1}のバケツを{REST}鍛造する
+d1afa0	core	Make {1} buckler	{1}のバックラーを{REST}作る
+d1afa0	core	Forge {1} buckler	{1}のバックラーを{REST}鍛造する
+d1afa0	core	Make {1} bucklers	{1}のバックラーを{REST}作る
+d1afa0	core	Forge {1} bucklers	{1}のバックラーを{REST}鍛造する
+d1afa0	core	Make {1} cabinets	{1}のキャビネットを{REST}作る
+d1afa0	core	Forge {1} cabinets	{1}のキャビネットを{REST}鍛造する
+d1afa0	core	Make {1} cages	{1}の檻を{REST}作る
+d1afa0	core	Forge {1} cages	{1}の檻を{REST}鍛造する
+d1afa0	core	Make {1} cap	{1}の帽子を{REST}作る
+d1afa0	core	Forge {1} cap	{1}の帽子を{REST}鍛造する
+d1afa0	core	Make {1} cape	{1}のケープを{REST}作る
+d1afa0	core	Forge {1} cape	{1}のケープを{REST}鍛造する
+d1afa0	core	Make {1} capes	{1}の帽子を{REST}作る
+d1afa0	core	Forge {1} capes	{1}の帽子を{REST}鍛造する
+d1afa0	core	Make {1} caps	{1}の帽子を{REST}作る
+d1afa0	core	Forge {1} caps	{1}の帽子を{REST}鍛造する
+d1afa0	core	Make {1} carving fork	{1}のカービングフォークを{REST}作る
+d1afa0	core	Forge {1} carving fork	{1}のカービングフォークを{REST}鍛造する
+d1afa0	core	Make {1} carving forks	{1}のカービングフォークを{REST}作る
+d1afa0	core	Forge {1} carving forks	{1}のカービングフォークを{REST}鍛造する
+d1afa0	core	Make {1} carving knife	{1}の肉切りナイフを{REST}作る
+d1afa0	core	Forge {1} carving knife	{1}の肉切りナイフを{REST}鍛造する
+d1afa0	core	Make {1} carving knives	{1}の肉切りナイフを{REST}作る
+d1afa0	core	Forge {1} carving knives	{1}の肉切りナイフを{REST}鍛造する
+d1afa0	core	Make {1} casket	{1}の棺を{REST}作る
+d1afa0	core	Forge {1} casket	{1}の棺を{REST}鍛造する
+d1afa0	core	Make {1} caskets	{1}の棺を{REST}作る
+d1afa0	core	Forge {1} caskets	{1}の棺を{REST}鍛造する
+d1afa0	core	Make {1} cast	{1}のギプスを{REST}作る
+d1afa0	core	Forge {1} cast	{1}のギプスを{REST}鍛造する
+d1afa0	core	Make {1} casts	{1}のギプスを{REST}作る
+d1afa0	core	Forge {1} casts	{1}のギプスを{REST}鍛造する
+d1afa0	core	Make {1} cauldron	{1}の大釜を{REST}作る
+d1afa0	core	Forge {1} cauldron	{1}の大釜を{REST}鍛造する
+d1afa0	core	Make {1} cauldrons	{1}の大釜を{REST}作る
+d1afa0	core	Forge {1} cauldrons	{1}の大釜を{REST}鍛造する
+d1afa0	core	Make {1} chain greaves	{1}の鎖のすね当てを{REST}作る
+d1afa0	core	Forge {1} chain greaves	{1}の鎖のすね当てを{REST}鍛造する
+d1afa0	core	Make {1} chain hood	{1}の鎖の頭巾を{REST}作る
+d1afa0	core	Forge {1} chain hood	{1}の鎖の頭巾を{REST}鍛造する
+d1afa0	core	Make {1} chain leggings	{1}の鎖のレギンスを{REST}作る
+d1afa0	core	Forge {1} chain leggings	{1}の鎖のレギンスを{REST}鍛造する
+d1afa0	core	Make {1} chain mail	{1}の鎖帷子を{REST}作る
+d1afa0	core	Forge {1} chain mail	{1}の鎖帷子を{REST}鍛造する
+d1afa0	core	Make {1} chain shirt	{1}の鎖のシャツを{REST}作る
+d1afa0	core	Forge {1} chain shirt	{1}の鎖のシャツを{REST}鍛造する
+d1afa0	core	Make {1} chains	{1}の鎖を{REST}作る
+d1afa0	core	Forge {1} chains	{1}の鎖を{REST}鍛造する
+d1afa0	core	Make {1} chairs	{1}の椅子を{REST}作る
+d1afa0	core	Forge {1} chairs	{1}の椅子を{REST}鍛造する
+d1afa0	core	Make {1} charcoal	{1}の木炭を{REST}作る
+d1afa0	core	Forge {1} charcoal	{1}の木炭を{REST}鍛造する
+d1afa0	core	Make {1} chausse	{1}のショースを{REST}作る
+d1afa0	core	Forge {1} chausse	{1}のショースを{REST}鍛造する
+d1afa0	core	Make {1} chausses	{1}のショースを{REST}作る
+d1afa0	core	Forge {1} chausses	{1}のショースを{REST}鍛造する
+d1afa0	core	Make {1} cheese	{1}のチーズを{REST}作る
+d1afa0	core	Forge {1} cheese	{1}のチーズを{REST}鍛造する
+d1afa0	core	Make {1} chests	{1}の宝箱を{REST}作る
+d1afa0	core	Forge {1} chests	{1}の宝箱を{REST}鍛造する
+d1afa0	core	Make {1} cloak	{1}の外套を{REST}作る
+d1afa0	core	Forge {1} cloak	{1}の外套を{REST}鍛造する
+d1afa0	core	Make {1} cloaks	{1}の外套を{REST}作る
+d1afa0	core	Forge {1} cloaks	{1}の外套を{REST}鍛造する
+d1afa0	core	Make {1} cloth	{1}の布を{REST}作る
+d1afa0	core	Forge {1} cloth	{1}の布を{REST}鍛造する
+d1afa0	core	Make {1} coat	{1}のコートを{REST}作る
+d1afa0	core	Forge {1} coat	{1}のコートを{REST}鍛造する
+d1afa0	core	Make {1} coats	{1}のコートを{REST}作る
+d1afa0	core	Forge {1} coats	{1}のコートを{REST}鍛造する
+d1afa0	core	Make {1} codex	{1}の写本を{REST}作る
+d1afa0	core	Forge {1} codex	{1}の写本を{REST}鍛造する
+d1afa0	core	Make {1} coffers	{1}の小箱を{REST}作る
+d1afa0	core	Forge {1} coffers	{1}の小箱を{REST}鍛造する
+d1afa0	core	Make {1} coffins	{1}の棺桶を{REST}作る
+d1afa0	core	Forge {1} coffins	{1}の棺桶を{REST}鍛造する
+d1afa0	core	Make {1} coin	{1}の硬貨を{REST}作る
+d1afa0	core	Forge {1} coin	{1}の硬貨を{REST}鍛造する
+d1afa0	core	Make {1} coins	{1}の硬貨を{REST}作る
+d1afa0	core	Forge {1} coins	{1}の硬貨を{REST}鍛造する
+d1afa0	core	Make {1} coke	{1}のコークスを{REST}作る
+d1afa0	core	Forge {1} coke	{1}のコークスを{REST}鍛造する
+d1afa0	core	Make {1} corkscrew	{1}のコルク抜きを{REST}作る
+d1afa0	core	Forge {1} corkscrew	{1}のコルク抜きを{REST}鍛造する
+d1afa0	core	Make {1} corkscrews	{1}のコルク抜きを{REST}作る
+d1afa0	core	Forge {1} corkscrews	{1}のコルク抜きを{REST}鍛造する
+d1afa0	core	Make {1} corpse	{1}の死体を{REST}作る
+d1afa0	core	Forge {1} corpse	{1}の死体を{REST}鍛造する
+d1afa0	core	Make {1} corpses	{1}の死体を{REST}作る
+d1afa0	core	Forge {1} corpses	{1}の死体を{REST}鍛造する
+d1afa0	core	Make {1} crossbow	{1}のクロスボウを{REST}作る
+d1afa0	core	Forge {1} crossbow	{1}のクロスボウを{REST}鍛造する
+d1afa0	core	Make {1} crossbows	{1}のクロスボウを{REST}作る
+d1afa0	core	Forge {1} crossbows	{1}のクロスボウを{REST}鍛造する
+d1afa0	core	Make {1} crowns	{1}の王冠を{REST}作る
+d1afa0	core	Forge {1} crowns	{1}の王冠を{REST}鍛造する
+d1afa0	core	Make {1} crutches	{1}の松葉杖を{REST}作る
+d1afa0	core	Forge {1} crutches	{1}の松葉杖を{REST}鍛造する
+d1afa0	core	Make {1} cups	{1}のカップを{REST}作る
+d1afa0	core	Forge {1} cups	{1}のカップを{REST}鍛造する
+d1afa0	core	Make {1} cut gem	{1}のカットされた宝石を{REST}作る
+d1afa0	core	Forge {1} cut gem	{1}のカットされた宝石を{REST}鍛造する
+d1afa0	core	Make {1} cut gems	{1}のカットされた宝石を{REST}作る
+d1afa0	core	Forge {1} cut gems	{1}のカットされた宝石を{REST}鍛造する
+d1afa0	core	Make {1} dagger	{1}のダガーを{REST}作る
+d1afa0	core	Forge {1} dagger	{1}のダガーを{REST}鍛造する
+d1afa0	core	Make {1} daggers	{1}のダガーを{REST}作る
+d1afa0	core	Forge {1} daggers	{1}のダガーを{REST}鍛造する
+d1afa0	core	Make {1} dice	{1}のサイコロを{REST}作る
+d1afa0	core	Forge {1} dice	{1}のサイコロを{REST}鍛造する
+d1afa0	core	Make {1} die	{1}のサイコロを{REST}作る
+d1afa0	core	Forge {1} die	{1}のサイコロを{REST}鍛造する
+d1afa0	core	Make {1} disc	{1}の円盤を{REST}作る
+d1afa0	core	Forge {1} disc	{1}の円盤を{REST}鍛造する
+d1afa0	core	Make {1} discs	{1}の円盤を{REST}作る
+d1afa0	core	Forge {1} discs	{1}の円盤を{REST}鍛造する
+d1afa0	core	Make {1} display cases	{1}の陳列ケースを{REST}作る
+d1afa0	core	Forge {1} display cases	{1}の陳列ケースを{REST}鍛造する
+d1afa0	core	Make {1} doors	{1}の扉を{REST}作る
+d1afa0	core	Forge {1} doors	{1}の扉を{REST}鍛造する
+d1afa0	core	Make {1} dress	{1}のドレスを{REST}作る
+d1afa0	core	Forge {1} dress	{1}のドレスを{REST}鍛造する
+d1afa0	core	Make {1} dresses	{1}のドレスを{REST}作る
+d1afa0	core	Forge {1} dresses	{1}のドレスを{REST}鍛造する
+d1afa0	core	Make {1} dye	{1}の染料を{REST}作る
+d1afa0	core	Forge {1} dye	{1}の染料を{REST}鍛造する
+d1afa0	core	Make {1} earrings	{1}の耳飾りを{REST}作る
+d1afa0	core	Forge {1} earrings	{1}の耳飾りを{REST}鍛造する
+d1afa0	core	Make {1} egg	{1}の卵を{REST}作る
+d1afa0	core	Forge {1} egg	{1}の卵を{REST}鍛造する
+d1afa0	core	Make {1} eggs	{1}の卵を{REST}作る
+d1afa0	core	Forge {1} eggs	{1}の卵を{REST}鍛造する
+d1afa0	core	Make {1} enormous	{1}の巨大を{REST}作る
+d1afa0	core	Forge {1} enormous	{1}の巨大を{REST}鍛造する
+d1afa0	core	Make {1} face veil	{1}の顔ベールを{REST}作る
+d1afa0	core	Forge {1} face veil	{1}の顔ベールを{REST}鍛造する
+d1afa0	core	Make {1} face veils	{1}の顔ベールを{REST}作る
+d1afa0	core	Forge {1} face veils	{1}の顔ベールを{REST}鍛造する
+d1afa0	core	Make {1} fat	{1}の脂肪を{REST}作る
+d1afa0	core	Forge {1} fat	{1}の脂肪を{REST}鍛造する
+d1afa0	core	Make {1} figurines	{1}の小像を{REST}作る
+d1afa0	core	Forge {1} figurines	{1}の小像を{REST}鍛造する
+d1afa0	core	Make {1} fish	{1}の魚を{REST}作る
+d1afa0	core	Forge {1} fish	{1}の魚を{REST}鍛造する
+d1afa0	core	Make {1} flail	{1}のフレイルを{REST}作る
+d1afa0	core	Forge {1} flail	{1}のフレイルを{REST}鍛造する
+d1afa0	core	Make {1} flails	{1}のフレイルを{REST}作る
+d1afa0	core	Forge {1} flails	{1}のフレイルを{REST}鍛造する
+d1afa0	core	Make {1} flasks	{1}のフラスコを{REST}作る
+d1afa0	core	Forge {1} flasks	{1}のフラスコを{REST}鍛造する
+d1afa0	core	Make {1} floodgates	{1}の水門を{REST}作る
+d1afa0	core	Forge {1} floodgates	{1}の水門を{REST}鍛造する
+d1afa0	core	Make {1} flour	{1}の粉を{REST}作る
+d1afa0	core	Forge {1} flour	{1}の粉を{REST}鍛造する
+d1afa0	core	Make {1} gauntlet	{1}の篭手を{REST}作る
+d1afa0	core	Forge {1} gauntlet	{1}の篭手を{REST}鍛造する
+d1afa0	core	Make {1} gauntlets	{1}の篭手を{REST}作る
+d1afa0	core	Forge {1} gauntlets	{1}の篭手を{REST}鍛造する
+d1afa0	core	Make {1} gem	{1}の宝石を{REST}作る
+d1afa0	core	Forge {1} gem	{1}の宝石を{REST}鍛造する
+d1afa0	core	Make {1} gems	{1}の宝石を{REST}作る
+d1afa0	core	Forge {1} gems	{1}の宝石を{REST}鍛造する
+d1afa0	core	Make {1} giant	{1}の巨人を{REST}作る
+d1afa0	core	Forge {1} giant	{1}の巨人を{REST}鍛造する
+d1afa0	core	Make {1} glass	{1}のガラスを{REST}作る
+d1afa0	core	Forge {1} glass	{1}のガラスを{REST}鍛造する
+d1afa0	core	Make {1} glove	{1}の手袋を{REST}作る
+d1afa0	core	Forge {1} glove	{1}の手袋を{REST}鍛造する
+d1afa0	core	Make {1} gloves	{1}の手袋を{REST}作る
+d1afa0	core	Forge {1} gloves	{1}の手袋を{REST}鍛造する
+d1afa0	core	Make {1} goblets	{1}のゴブレットを{REST}作る
+d1afa0	core	Forge {1} goblets	{1}のゴブレットを{REST}鍛造する
+d1afa0	core	Make {1} grates	{1}の格子を{REST}作る
+d1afa0	core	Forge {1} grates	{1}の格子を{REST}鍛造する
+d1afa0	core	Make {1} great axe	{1}の大斧を{REST}作る
+d1afa0	core	Forge {1} great axe	{1}の大斧を{REST}鍛造する
+d1afa0	core	Make {1} great axes	{1}の大斧を{REST}作る
+d1afa0	core	Forge {1} great axes	{1}の大斧を{REST}鍛造する
+d1afa0	core	Make {1} great pick	{1}の大つるはしを{REST}作る
+d1afa0	core	Forge {1} great pick	{1}の大つるはしを{REST}鍛造する
+d1afa0	core	Make {1} great picks	{1}の大つるはしを{REST}作る
+d1afa0	core	Forge {1} great picks	{1}の大つるはしを{REST}鍛造する
+d1afa0	core	Make {1} greaves	{1}のすね当てを{REST}作る
+d1afa0	core	Forge {1} greaves	{1}のすね当てを{REST}鍛造する
+d1afa0	core	Make {1} halberd	{1}のハルバードを{REST}作る
+d1afa0	core	Forge {1} halberd	{1}のハルバードを{REST}鍛造する
+d1afa0	core	Make {1} halberds	{1}のハルバードを{REST}作る
+d1afa0	core	Forge {1} halberds	{1}のハルバードを{REST}鍛造する
+d1afa0	core	Make {1} hatch covers	{1}のハッチを{REST}作る
+d1afa0	core	Forge {1} hatch covers	{1}のハッチを{REST}鍛造する
+d1afa0	core	Make {1} head veil	{1}の頭ベールを{REST}作る
+d1afa0	core	Forge {1} head veil	{1}の頭ベールを{REST}鍛造する
+d1afa0	core	Make {1} head veils	{1}の頭ベールを{REST}作る
+d1afa0	core	Forge {1} head veils	{1}の頭ベールを{REST}鍛造する
+d1afa0	core	Make {1} headscarf	{1}のスカーフを{REST}作る
+d1afa0	core	Forge {1} headscarf	{1}のスカーフを{REST}鍛造する
+d1afa0	core	Make {1} headscarves	{1}のスカーフを{REST}作る
+d1afa0	core	Forge {1} headscarves	{1}のスカーフを{REST}鍛造する
+d1afa0	core	Make {1} helm	{1}の兜を{REST}作る
+d1afa0	core	Forge {1} helm	{1}の兜を{REST}鍛造する
+d1afa0	core	Make {1} helms	{1}の兜を{REST}作る
+d1afa0	core	Forge {1} helms	{1}の兜を{REST}鍛造する
+d1afa0	core	Make {1} helve	{1}の柄を{REST}作る
+d1afa0	core	Forge {1} helve	{1}の柄を{REST}鍛造する
+d1afa0	core	Make {1} helves	{1}の柄を{REST}作る
+d1afa0	core	Forge {1} helves	{1}の柄を{REST}鍛造する
+d1afa0	core	Make {1} hide	{1}の皮を{REST}作る
+d1afa0	core	Forge {1} hide	{1}の皮を{REST}鍛造する
+d1afa0	core	Make {1} hides	{1}の皮を{REST}作る
+d1afa0	core	Forge {1} hides	{1}の皮を{REST}鍛造する
+d1afa0	core	Make {1} high boot	{1}のハイブーツを{REST}作る
+d1afa0	core	Forge {1} high boot	{1}のハイブーツを{REST}鍛造する
+d1afa0	core	Make {1} high boots	{1}のハイブーツを{REST}作る
+d1afa0	core	Forge {1} high boots	{1}のハイブーツを{REST}鍛造する
+d1afa0	core	Make {1} hives	{1}の養蜂箱を{REST}作る
+d1afa0	core	Forge {1} hives	{1}の養蜂箱を{REST}鍛造する
+d1afa0	core	Make {1} honey	{1}の蜂蜜を{REST}作る
+d1afa0	core	Forge {1} honey	{1}の蜂蜜を{REST}鍛造する
+d1afa0	core	Make {1} honeycomb	{1}の蜂の巣を{REST}作る
+d1afa0	core	Forge {1} honeycomb	{1}の蜂の巣を{REST}鍛造する
+d1afa0	core	Make {1} honeycombs	{1}の蜂の巣を{REST}作る
+d1afa0	core	Forge {1} honeycombs	{1}の蜂の巣を{REST}鍛造する
+d1afa0	core	Make {1} hood	{1}のフードを{REST}作る
+d1afa0	core	Forge {1} hood	{1}のフードを{REST}鍛造する
+d1afa0	core	Make {1} hoods	{1}のフードを{REST}作る
+d1afa0	core	Forge {1} hoods	{1}のフードを{REST}鍛造する
+d1afa0	core	Make {1} jugs	{1}の水差しを{REST}作る
+d1afa0	core	Forge {1} jugs	{1}の水差しを{REST}鍛造する
+d1afa0	core	Make {1} ladle	{1}のお玉を{REST}作る
+d1afa0	core	Forge {1} ladle	{1}のお玉を{REST}鍛造する
+d1afa0	core	Make {1} ladles	{1}のお玉を{REST}作る
+d1afa0	core	Forge {1} ladles	{1}のお玉を{REST}鍛造する
+d1afa0	core	Make {1} large	{1}の大型を{REST}作る
+d1afa0	core	Forge {1} large	{1}の大型を{REST}鍛造する
+d1afa0	core	Make {1} large gem	{1}の大きな宝石を{REST}作る
+d1afa0	core	Forge {1} large gem	{1}の大きな宝石を{REST}鍛造する
+d1afa0	core	Make {1} large gems	{1}の大きな宝石を{REST}作る
+d1afa0	core	Forge {1} large gems	{1}の大きな宝石を{REST}鍛造する
+d1afa0	core	Make {1} large, serrated	{1}の大きな鋸歯のを{REST}作る
+d1afa0	core	Forge {1} large, serrated	{1}の大きな鋸歯のを{REST}鍛造する
+d1afa0	core	Make {1} leather	{1}の革を{REST}作る
+d1afa0	core	Forge {1} leather	{1}の革を{REST}鍛造する
+d1afa0	core	Make {1} left chausse	{1}の左のショースを{REST}作る
+d1afa0	core	Forge {1} left chausse	{1}の左のショースを{REST}鍛造する
+d1afa0	core	Make {1} left chausses	{1}の左のショースを{REST}作る
+d1afa0	core	Forge {1} left chausses	{1}の左のショースを{REST}鍛造する
+d1afa0	core	Make {1} left gauntlet	{1}の左の篭手を{REST}作る
+d1afa0	core	Forge {1} left gauntlet	{1}の左の篭手を{REST}鍛造する
+d1afa0	core	Make {1} left gauntlets	{1}の左の篭手を{REST}作る
+d1afa0	core	Forge {1} left gauntlets	{1}の左の篭手を{REST}鍛造する
+d1afa0	core	Make {1} left glove	{1}の左の手袋を{REST}作る
+d1afa0	core	Forge {1} left glove	{1}の左の手袋を{REST}鍛造する
+d1afa0	core	Make {1} left gloves	{1}の左の手袋を{REST}作る
+d1afa0	core	Forge {1} left gloves	{1}の左の手袋を{REST}鍛造する
+d1afa0	core	Make {1} left high boot	{1}の左のハイブーツを{REST}作る
+d1afa0	core	Forge {1} left high boot	{1}の左のハイブーツを{REST}鍛造する
+d1afa0	core	Make {1} left high boots	{1}の左のハイブーツを{REST}作る
+d1afa0	core	Forge {1} left high boots	{1}の左のハイブーツを{REST}鍛造する
+d1afa0	core	Make {1} left low boot	{1}の左のローブーツを{REST}作る
+d1afa0	core	Forge {1} left low boot	{1}の左のローブーツを{REST}鍛造する
+d1afa0	core	Make {1} left low boots	{1}の左のローブーツを{REST}作る
+d1afa0	core	Forge {1} left low boots	{1}の左のローブーツを{REST}鍛造する
+d1afa0	core	Make {1} left mitten	{1}の左のミトンを{REST}作る
+d1afa0	core	Forge {1} left mitten	{1}の左のミトンを{REST}鍛造する
+d1afa0	core	Make {1} left mittens	{1}の左のミトンを{REST}作る
+d1afa0	core	Forge {1} left mittens	{1}の左のミトンを{REST}鍛造する
+d1afa0	core	Make {1} left sandal	{1}の左のサンダルを{REST}作る
+d1afa0	core	Forge {1} left sandal	{1}の左のサンダルを{REST}鍛造する
+d1afa0	core	Make {1} left sandals	{1}の左のサンダルを{REST}作る
+d1afa0	core	Forge {1} left sandals	{1}の左のサンダルを{REST}鍛造する
+d1afa0	core	Make {1} left shoe	{1}の左の靴を{REST}作る
+d1afa0	core	Forge {1} left shoe	{1}の左の靴を{REST}鍛造する
+d1afa0	core	Make {1} left shoes	{1}の左の靴を{REST}作る
+d1afa0	core	Forge {1} left shoes	{1}の左の靴を{REST}鍛造する
+d1afa0	core	Make {1} left sock	{1}の左の靴下を{REST}作る
+d1afa0	core	Forge {1} left sock	{1}の左の靴下を{REST}鍛造する
+d1afa0	core	Make {1} left socks	{1}の左の靴下を{REST}作る
+d1afa0	core	Forge {1} left socks	{1}の左の靴下を{REST}鍛造する
+d1afa0	core	Make {1} leggings	{1}のレギンスを{REST}作る
+d1afa0	core	Forge {1} leggings	{1}のレギンスを{REST}鍛造する
+d1afa0	core	Make {1} log	{1}の丸太を{REST}作る
+d1afa0	core	Forge {1} log	{1}の丸太を{REST}鍛造する
+d1afa0	core	Make {1} logs	{1}の丸太を{REST}作る
+d1afa0	core	Forge {1} logs	{1}の丸太を{REST}鍛造する
+d1afa0	core	Make {1} loincloth	{1}の腰布を{REST}作る
+d1afa0	core	Forge {1} loincloth	{1}の腰布を{REST}鍛造する
+d1afa0	core	Make {1} loincloths	{1}の腰布を{REST}作る
+d1afa0	core	Forge {1} loincloths	{1}の腰布を{REST}鍛造する
+d1afa0	core	Make {1} long	{1}の長いを{REST}作る
+d1afa0	core	Forge {1} long	{1}の長いを{REST}鍛造する
+d1afa0	core	Make {1} long sword	{1}の長剣を{REST}作る
+d1afa0	core	Forge {1} long sword	{1}の長剣を{REST}鍛造する
+d1afa0	core	Make {1} long swords	{1}の長剣を{REST}作る
+d1afa0	core	Forge {1} long swords	{1}の長剣を{REST}鍛造する
+d1afa0	core	Make {1} low boot	{1}のローブーツを{REST}作る
+d1afa0	core	Forge {1} low boot	{1}のローブーツを{REST}鍛造する
+d1afa0	core	Make {1} low boots	{1}のローブーツを{REST}作る
+d1afa0	core	Forge {1} low boots	{1}のローブーツを{REST}鍛造する
+d1afa0	core	Make {1} lye	{1}の灰汁を{REST}作る
+d1afa0	core	Forge {1} lye	{1}の灰汁を{REST}鍛造する
+d1afa0	core	Make {1} mace	{1}のメイスを{REST}作る
+d1afa0	core	Forge {1} mace	{1}のメイスを{REST}鍛造する
+d1afa0	core	Make {1} maces	{1}のメイスを{REST}作る
+d1afa0	core	Forge {1} maces	{1}のメイスを{REST}鍛造する
+d1afa0	core	Make {1} mail shirt	{1}の鎖帷子を{REST}作る
+d1afa0	core	Forge {1} mail shirt	{1}の鎖帷子を{REST}鍛造する
+d1afa0	core	Make {1} mail shirts	{1}の鎖帷子を{REST}作る
+d1afa0	core	Forge {1} mail shirts	{1}の鎖帷子を{REST}鍛造する
+d1afa0	core	Make {1} mangled corpse	{1}の損壊した死体を{REST}作る
+d1afa0	core	Forge {1} mangled corpse	{1}の損壊した死体を{REST}鍛造する
+d1afa0	core	Make {1} mangled corpses	{1}の損壊した死体を{REST}作る
+d1afa0	core	Forge {1} mangled corpses	{1}の損壊した死体を{REST}鍛造する
+d1afa0	core	Make {1} mangled skeleton	{1}の損壊した骸骨を{REST}作る
+d1afa0	core	Forge {1} mangled skeleton	{1}の損壊した骸骨を{REST}鍛造する
+d1afa0	core	Make {1} mangled skeletons	{1}の損壊した骸骨を{REST}作る
+d1afa0	core	Forge {1} mangled skeletons	{1}の損壊した骸骨を{REST}鍛造する
+d1afa0	core	Make {1} mask	{1}の仮面を{REST}作る
+d1afa0	core	Forge {1} mask	{1}の仮面を{REST}鍛造する
+d1afa0	core	Make {1} masks	{1}の仮面を{REST}作る
+d1afa0	core	Forge {1} masks	{1}の仮面を{REST}鍛造する
+d1afa0	core	Make {1} maul	{1}の大槌を{REST}作る
+d1afa0	core	Forge {1} maul	{1}の大槌を{REST}鍛造する
+d1afa0	core	Make {1} mauls	{1}の大槌を{REST}作る
+d1afa0	core	Forge {1} mauls	{1}の大槌を{REST}鍛造する
+d1afa0	core	Make {1} meat	{1}の肉を{REST}作る
+d1afa0	core	Forge {1} meat	{1}の肉を{REST}鍛造する
+d1afa0	core	Make {1} meat cleaver	{1}の肉切り包丁を{REST}作る
+d1afa0	core	Forge {1} meat cleaver	{1}の肉切り包丁を{REST}鍛造する
+d1afa0	core	Make {1} meat cleavers	{1}の肉切り包丁を{REST}作る
+d1afa0	core	Forge {1} meat cleavers	{1}の肉切り包丁を{REST}鍛造する
+d1afa0	core	Make {1} mechanism	{1}の仕掛けを{REST}作る
+d1afa0	core	Forge {1} mechanism	{1}の仕掛けを{REST}鍛造する
+d1afa0	core	Make {1} menacing	{1}の恐ろしいを{REST}作る
+d1afa0	core	Forge {1} menacing	{1}の恐ろしいを{REST}鍛造する
+d1afa0	core	Make {1} milk	{1}の乳を{REST}作る
+d1afa0	core	Forge {1} milk	{1}の乳を{REST}鍛造する
+d1afa0	core	Make {1} millstones	{1}のひき臼を{REST}作る
+d1afa0	core	Forge {1} millstones	{1}のひき臼を{REST}鍛造する
+d1afa0	core	Make {1} minecarts	{1}のトロッコを{REST}作る
+d1afa0	core	Forge {1} minecarts	{1}のトロッコを{REST}鍛造する
+d1afa0	core	Make {1} mini-forge	{1}のミニ鍛冶炉を{REST}作る
+d1afa0	core	Forge {1} mini-forge	{1}のミニ鍛冶炉を{REST}鍛造する
+d1afa0	core	Make {1} mini-forges	{1}のミニ鍛冶炉を{REST}作る
+d1afa0	core	Forge {1} mini-forges	{1}のミニ鍛冶炉を{REST}鍛造する
+d1afa0	core	Make {1} mitten	{1}のミトンを{REST}作る
+d1afa0	core	Forge {1} mitten	{1}のミトンを{REST}鍛造する
+d1afa0	core	Make {1} mittens	{1}のミトンを{REST}作る
+d1afa0	core	Forge {1} mittens	{1}のミトンを{REST}鍛造する
+d1afa0	core	Make {1} morningstar	{1}のモーニングスターを{REST}作る
+d1afa0	core	Forge {1} morningstar	{1}のモーニングスターを{REST}鍛造する
+d1afa0	core	Make {1} morningstars	{1}のモーニングスターを{REST}作る
+d1afa0	core	Forge {1} morningstars	{1}のモーニングスターを{REST}鍛造する
+d1afa0	core	Make {1} mortar	{1}の乳鉢を{REST}作る
+d1afa0	core	Forge {1} mortar	{1}の乳鉢を{REST}鍛造する
+d1afa0	core	Make {1} mortars	{1}の乳鉢を{REST}作る
+d1afa0	core	Forge {1} mortars	{1}の乳鉢を{REST}鍛造する
+d1afa0	core	Make {1} mugs	{1}のマグを{REST}作る
+d1afa0	core	Forge {1} mugs	{1}のマグを{REST}鍛造する
+d1afa0	core	Make {1} nest boxes	{1}の巣箱を{REST}作る
+d1afa0	core	Forge {1} nest boxes	{1}の巣箱を{REST}鍛造する
+d1afa0	core	Make {1} oil	{1}の油を{REST}作る
+d1afa0	core	Forge {1} oil	{1}の油を{REST}鍛造する
+d1afa0	core	Make {1} paper	{1}の紙を{REST}作る
+d1afa0	core	Forge {1} paper	{1}の紙を{REST}鍛造する
+d1afa0	core	Make {1} partial skeleton	{1}の部分的な骸骨を{REST}作る
+d1afa0	core	Forge {1} partial skeleton	{1}の部分的な骸骨を{REST}鍛造する
+d1afa0	core	Make {1} partial skeletons	{1}の部分的な骸骨を{REST}作る
+d1afa0	core	Forge {1} partial skeletons	{1}の部分的な骸骨を{REST}鍛造する
+d1afa0	core	Make {1} pearlash	{1}のパールアッシュを{REST}作る
+d1afa0	core	Forge {1} pearlash	{1}のパールアッシュを{REST}鍛造する
+d1afa0	core	Make {1} pedestals	{1}の台座を{REST}作る
+d1afa0	core	Forge {1} pedestals	{1}の台座を{REST}鍛造する
+d1afa0	core	Make {1} pestle	{1}の乳棒を{REST}作る
+d1afa0	core	Forge {1} pestle	{1}の乳棒を{REST}鍛造する
+d1afa0	core	Make {1} pestles	{1}の乳棒を{REST}作る
+d1afa0	core	Forge {1} pestles	{1}の乳棒を{REST}鍛造する
+d1afa0	core	Make {1} pick	{1}のつるはしを{REST}作る
+d1afa0	core	Forge {1} pick	{1}のつるはしを{REST}鍛造する
+d1afa0	core	Make {1} picks	{1}のつるはしを{REST}作る
+d1afa0	core	Forge {1} picks	{1}のつるはしを{REST}鍛造する
+d1afa0	core	Make {1} pike	{1}のパイクを{REST}作る
+d1afa0	core	Forge {1} pike	{1}のパイクを{REST}鍛造する
+d1afa0	core	Make {1} pikes	{1}のパイクを{REST}作る
+d1afa0	core	Forge {1} pikes	{1}のパイクを{REST}鍛造する
+d1afa0	core	Make {1} pipe sections	{1}のパイプを{REST}作る
+d1afa0	core	Forge {1} pipe sections	{1}のパイプを{REST}鍛造する
+d1afa0	core	Make {1} potash	{1}の肥料を{REST}作る
+d1afa0	core	Forge {1} potash	{1}の肥料を{REST}鍛造する
+d1afa0	core	Make {1} pots	{1}の壺を{REST}作る
+d1afa0	core	Forge {1} pots	{1}の壺を{REST}鍛造する
+d1afa0	core	Make {1} pouch	{1}の小袋を{REST}作る
+d1afa0	core	Forge {1} pouch	{1}の小袋を{REST}鍛造する
+d1afa0	core	Make {1} pouches	{1}の育児嚢を{REST}作る
+d1afa0	core	Forge {1} pouches	{1}の育児嚢を{REST}鍛造する
+d1afa0	core	Make {1} powder	{1}の粉末を{REST}作る
+d1afa0	core	Forge {1} powder	{1}の粉末を{REST}鍛造する
+d1afa0	core	Make {1} puzzlebox	{1}のパズル箱を{REST}作る
+d1afa0	core	Forge {1} puzzlebox	{1}のパズル箱を{REST}鍛造する
+d1afa0	core	Make {1} puzzleboxes	{1}のパズル箱を{REST}作る
+d1afa0	core	Forge {1} puzzleboxes	{1}のパズル箱を{REST}鍛造する
+d1afa0	core	Make {1} querns	{1}の石臼を{REST}作る
+d1afa0	core	Forge {1} querns	{1}の石臼を{REST}鍛造する
+d1afa0	core	Make {1} quires	{1}の帳面を{REST}作る
+d1afa0	core	Forge {1} quires	{1}の帳面を{REST}鍛造する
+d1afa0	core	Make {1} quivers	{1}の矢筒を{REST}作る
+d1afa0	core	Forge {1} quivers	{1}の矢筒を{REST}鍛造する
+d1afa0	core	Make {1} remains	{1}の遺骸を{REST}作る
+d1afa0	core	Forge {1} remains	{1}の遺骸を{REST}鍛造する
+d1afa0	core	Make {1} right chausse	{1}の右のショースを{REST}作る
+d1afa0	core	Forge {1} right chausse	{1}の右のショースを{REST}鍛造する
+d1afa0	core	Make {1} right chausses	{1}の右のショースを{REST}作る
+d1afa0	core	Forge {1} right chausses	{1}の右のショースを{REST}鍛造する
+d1afa0	core	Make {1} right gauntlet	{1}の右の篭手を{REST}作る
+d1afa0	core	Forge {1} right gauntlet	{1}の右の篭手を{REST}鍛造する
+d1afa0	core	Make {1} right gauntlets	{1}の右の篭手を{REST}作る
+d1afa0	core	Forge {1} right gauntlets	{1}の右の篭手を{REST}鍛造する
+d1afa0	core	Make {1} right glove	{1}の右の手袋を{REST}作る
+d1afa0	core	Forge {1} right glove	{1}の右の手袋を{REST}鍛造する
+d1afa0	core	Make {1} right gloves	{1}の右の手袋を{REST}作る
+d1afa0	core	Forge {1} right gloves	{1}の右の手袋を{REST}鍛造する
+d1afa0	core	Make {1} right high boot	{1}の右のハイブーツを{REST}作る
+d1afa0	core	Forge {1} right high boot	{1}の右のハイブーツを{REST}鍛造する
+d1afa0	core	Make {1} right high boots	{1}の右のハイブーツを{REST}作る
+d1afa0	core	Forge {1} right high boots	{1}の右のハイブーツを{REST}鍛造する
+d1afa0	core	Make {1} right low boot	{1}の右のローブーツを{REST}作る
+d1afa0	core	Forge {1} right low boot	{1}の右のローブーツを{REST}鍛造する
+d1afa0	core	Make {1} right low boots	{1}の右のローブーツを{REST}作る
+d1afa0	core	Forge {1} right low boots	{1}の右のローブーツを{REST}鍛造する
+d1afa0	core	Make {1} right mitten	{1}の右のミトンを{REST}作る
+d1afa0	core	Forge {1} right mitten	{1}の右のミトンを{REST}鍛造する
+d1afa0	core	Make {1} right mittens	{1}の右のミトンを{REST}作る
+d1afa0	core	Forge {1} right mittens	{1}の右のミトンを{REST}鍛造する
+d1afa0	core	Make {1} right sandal	{1}の右のサンダルを{REST}作る
+d1afa0	core	Forge {1} right sandal	{1}の右のサンダルを{REST}鍛造する
+d1afa0	core	Make {1} right sandals	{1}の右のサンダルを{REST}作る
+d1afa0	core	Forge {1} right sandals	{1}の右のサンダルを{REST}鍛造する
+d1afa0	core	Make {1} right shoe	{1}の右の靴を{REST}作る
+d1afa0	core	Forge {1} right shoe	{1}の右の靴を{REST}鍛造する
+d1afa0	core	Make {1} right shoes	{1}の右の靴を{REST}作る
+d1afa0	core	Forge {1} right shoes	{1}の右の靴を{REST}鍛造する
+d1afa0	core	Make {1} right sock	{1}の右の靴下を{REST}作る
+d1afa0	core	Forge {1} right sock	{1}の右の靴下を{REST}鍛造する
+d1afa0	core	Make {1} right socks	{1}の右の靴下を{REST}作る
+d1afa0	core	Forge {1} right socks	{1}の右の靴下を{REST}鍛造する
+d1afa0	core	Make {1} rings	{1}の指輪を{REST}作る
+d1afa0	core	Forge {1} rings	{1}の指輪を{REST}鍛造する
+d1afa0	core	Make {1} roast	{1}のローストを{REST}作る
+d1afa0	core	Forge {1} roast	{1}のローストを{REST}鍛造する
+d1afa0	core	Make {1} robe	{1}のローブを{REST}作る
+d1afa0	core	Forge {1} robe	{1}のローブを{REST}鍛造する
+d1afa0	core	Make {1} robes	{1}のローブを{REST}作る
+d1afa0	core	Forge {1} robes	{1}のローブを{REST}鍛造する
+d1afa0	core	Make {1} ropes	{1}のロープを{REST}作る
+d1afa0	core	Forge {1} ropes	{1}のロープを{REST}鍛造する
+d1afa0	core	Make {1} rough gem	{1}の原石を{REST}作る
+d1afa0	core	Forge {1} rough gem	{1}の原石を{REST}鍛造する
+d1afa0	core	Make {1} rough gems	{1}の原石を{REST}作る
+d1afa0	core	Forge {1} rough gems	{1}の原石を{REST}鍛造する
+d1afa0	core	Make {1} sandal	{1}のサンダルを{REST}作る
+d1afa0	core	Forge {1} sandal	{1}のサンダルを{REST}鍛造する
+d1afa0	core	Make {1} sandals	{1}のサンダルを{REST}作る
+d1afa0	core	Forge {1} sandals	{1}のサンダルを{REST}鍛造する
+d1afa0	core	Make {1} sarcophagi	{1}の石棺を{REST}作る
+d1afa0	core	Forge {1} sarcophagi	{1}の石棺を{REST}鍛造する
+d1afa0	core	Make {1} sarcophagus	{1}の石棺を{REST}作る
+d1afa0	core	Forge {1} sarcophagus	{1}の石棺を{REST}鍛造する
+d1afa0	core	Make {1} scepters	{1}の笏を{REST}作る
+d1afa0	core	Forge {1} scepters	{1}の笏を{REST}鍛造する
+d1afa0	core	Make {1} scimitar	{1}のシミターを{REST}作る
+d1afa0	core	Forge {1} scimitar	{1}のシミターを{REST}鍛造する
+d1afa0	core	Make {1} scimitars	{1}のシミターを{REST}作る
+d1afa0	core	Forge {1} scimitars	{1}のシミターを{REST}鍛造する
+d1afa0	core	Make {1} scourge	{1}のスカージを{REST}作る
+d1afa0	core	Forge {1} scourge	{1}のスカージを{REST}鍛造する
+d1afa0	core	Make {1} scourges	{1}のスカージを{REST}作る
+d1afa0	core	Forge {1} scourges	{1}のスカージを{REST}鍛造する
+d1afa0	core	Make {1} scroll	{1}の巻物を{REST}作る
+d1afa0	core	Forge {1} scroll	{1}の巻物を{REST}鍛造する
+d1afa0	core	Make {1} scrolls	{1}の巻物を{REST}作る
+d1afa0	core	Forge {1} scrolls	{1}の巻物を{REST}鍛造する
+d1afa0	core	Make {1} seed	{1}の種を{REST}作る
+d1afa0	core	Forge {1} seed	{1}の種を{REST}鍛造する
+d1afa0	core	Make {1} seeds	{1}の種を{REST}作る
+d1afa0	core	Forge {1} seeds	{1}の種を{REST}鍛造する
+d1afa0	core	Make {1} serrated disc	{1}の鋸状の円盤を{REST}作る
+d1afa0	core	Forge {1} serrated disc	{1}の鋸状の円盤を{REST}鍛造する
+d1afa0	core	Make {1} serrated discs	{1}の鋸状の円盤を{REST}作る
+d1afa0	core	Forge {1} serrated discs	{1}の鋸状の円盤を{REST}鍛造する
+d1afa0	core	Make {1} sheet	{1}の紙を{REST}作る
+d1afa0	core	Forge {1} sheet	{1}の紙を{REST}鍛造する
+d1afa0	core	Make {1} sheets	{1}の紙を{REST}作る
+d1afa0	core	Forge {1} sheets	{1}の紙を{REST}鍛造する
+d1afa0	core	Make {1} shield	{1}の盾を{REST}作る
+d1afa0	core	Forge {1} shield	{1}の盾を{REST}鍛造する
+d1afa0	core	Make {1} shields	{1}の盾を{REST}作る
+d1afa0	core	Forge {1} shields	{1}の盾を{REST}鍛造する
+d1afa0	core	Make {1} shirt	{1}のシャツを{REST}作る
+d1afa0	core	Forge {1} shirt	{1}のシャツを{REST}鍛造する
+d1afa0	core	Make {1} shirts	{1}のシャツを{REST}作る
+d1afa0	core	Forge {1} shirts	{1}のシャツを{REST}鍛造する
+d1afa0	core	Make {1} shoe	{1}の靴を{REST}作る
+d1afa0	core	Forge {1} shoe	{1}の靴を{REST}鍛造する
+d1afa0	core	Make {1} shoes	{1}の靴を{REST}作る
+d1afa0	core	Forge {1} shoes	{1}の靴を{REST}鍛造する
+d1afa0	core	Make {1} short	{1}の短いを{REST}作る
+d1afa0	core	Forge {1} short	{1}の短いを{REST}鍛造する
+d1afa0	core	Make {1} short swords	{1}の短剣を{REST}作る
+d1afa0	core	Forge {1} short swords	{1}の短剣を{REST}鍛造する
+d1afa0	core	Make {1} skeleton	{1}の骸骨を{REST}作る
+d1afa0	core	Forge {1} skeleton	{1}の骸骨を{REST}鍛造する
+d1afa0	core	Make {1} skin	{1}の皮を{REST}作る
+d1afa0	core	Forge {1} skin	{1}の皮を{REST}鍛造する
+d1afa0	core	Make {1} skirt	{1}のスカートを{REST}作る
+d1afa0	core	Forge {1} skirt	{1}のスカートを{REST}鍛造する
+d1afa0	core	Make {1} skirts	{1}のスカートを{REST}作る
+d1afa0	core	Forge {1} skirts	{1}のスカートを{REST}鍛造する
+d1afa0	core	Make {1} skull	{1}の頭蓋骨を{REST}作る
+d1afa0	core	Forge {1} skull	{1}の頭蓋骨を{REST}鍛造する
+d1afa0	core	Make {1} skulls	{1}の頭蓋骨を{REST}作る
+d1afa0	core	Forge {1} skulls	{1}の頭蓋骨を{REST}鍛造する
+d1afa0	core	Make {1} slabs	{1}の平板を{REST}作る
+d1afa0	core	Forge {1} slabs	{1}の平板を{REST}鍛造する
+d1afa0	core	Make {1} slicing knife	{1}のスライスナイフを{REST}作る
+d1afa0	core	Forge {1} slicing knife	{1}のスライスナイフを{REST}鍛造する
+d1afa0	core	Make {1} slicing knives	{1}のスライスナイフを{REST}作る
+d1afa0	core	Forge {1} slicing knives	{1}のスライスナイフを{REST}鍛造する
+d1afa0	core	Make {1} soap	{1}の石鹸を{REST}作る
+d1afa0	core	Forge {1} soap	{1}の石鹸を{REST}鍛造する
+d1afa0	core	Make {1} sock	{1}の靴下を{REST}作る
+d1afa0	core	Forge {1} sock	{1}の靴下を{REST}鍛造する
+d1afa0	core	Make {1} socks	{1}の靴下を{REST}作る
+d1afa0	core	Forge {1} socks	{1}の靴下を{REST}鍛造する
+d1afa0	core	Make {1} spear	{1}の槍を{REST}作る
+d1afa0	core	Forge {1} spear	{1}の槍を{REST}鍛造する
+d1afa0	core	Make {1} spears	{1}の槍を{REST}作る
+d1afa0	core	Forge {1} spears	{1}の槍を{REST}鍛造する
+d1afa0	core	Make {1} spike	{1}のスパイクを{REST}作る
+d1afa0	core	Forge {1} spike	{1}のスパイクを{REST}鍛造する
+d1afa0	core	Make {1} spiked	{1}の棘付きを{REST}作る
+d1afa0	core	Forge {1} spiked	{1}の棘付きを{REST}鍛造する
+d1afa0	core	Make {1} spiked ball	{1}の棘付きの球を{REST}作る
+d1afa0	core	Forge {1} spiked ball	{1}の棘付きの球を{REST}鍛造する
+d1afa0	core	Make {1} spiked balls	{1}の棘付きの球を{REST}作る
+d1afa0	core	Forge {1} spiked balls	{1}の棘付きの球を{REST}鍛造する
+d1afa0	core	Make {1} spikes	{1}のスパイクを{REST}作る
+d1afa0	core	Forge {1} spikes	{1}のスパイクを{REST}鍛造する
+d1afa0	core	Make {1} splints	{1}の副木を{REST}作る
+d1afa0	core	Forge {1} splints	{1}の副木を{REST}鍛造する
+d1afa0	core	Make {1} statues	{1}の彫像を{REST}作る
+d1afa0	core	Forge {1} statues	{1}の彫像を{REST}鍛造する
+d1afa0	core	Make {1} stepladders	{1}の脚立を{REST}作る
+d1afa0	core	Forge {1} stepladders	{1}の脚立を{REST}鍛造する
+d1afa0	core	Make {1} stew	{1}のシチューを{REST}作る
+d1afa0	core	Forge {1} stew	{1}のシチューを{REST}鍛造する
+d1afa0	core	Make {1} sugar	{1}の砂糖を{REST}作る
+d1afa0	core	Forge {1} sugar	{1}の砂糖を{REST}鍛造する
+d1afa0	core	Make {1} tables	{1}のテーブルを{REST}作る
+d1afa0	core	Forge {1} tables	{1}のテーブルを{REST}鍛造する
+d1afa0	core	Make {1} tallow	{1}の獣脂を{REST}作る
+d1afa0	core	Forge {1} tallow	{1}の獣脂を{REST}鍛造する
+d1afa0	core	Make {1} thong	{1}の下帯を{REST}作る
+d1afa0	core	Forge {1} thong	{1}の下帯を{REST}鍛造する
+d1afa0	core	Make {1} thongs	{1}の下帯を{REST}作る
+d1afa0	core	Forge {1} thongs	{1}の下帯を{REST}鍛造する
+d1afa0	core	Make {1} thread	{1}の糸を{REST}作る
+d1afa0	core	Forge {1} thread	{1}の糸を{REST}鍛造する
+d1afa0	core	Make {1} threads	{1}の糸を{REST}作る
+d1afa0	core	Forge {1} threads	{1}の糸を{REST}鍛造する
+d1afa0	core	Make {1} thrones	{1}の玉座を{REST}作る
+d1afa0	core	Forge {1} thrones	{1}の玉座を{REST}鍛造する
+d1afa0	core	Make {1} toga	{1}のトーガを{REST}作る
+d1afa0	core	Forge {1} toga	{1}のトーガを{REST}鍛造する
+d1afa0	core	Make {1} togas	{1}のトーガを{REST}作る
+d1afa0	core	Forge {1} togas	{1}のトーガを{REST}鍛造する
+d1afa0	core	Make {1} totems	{1}のトーテムを{REST}作る
+d1afa0	core	Forge {1} totems	{1}のトーテムを{REST}鍛造する
+d1afa0	core	Make {1} toy axe	{1}のおもちゃの斧を{REST}作る
+d1afa0	core	Forge {1} toy axe	{1}のおもちゃの斧を{REST}鍛造する
+d1afa0	core	Make {1} toy axes	{1}のおもちゃの斧を{REST}作る
+d1afa0	core	Forge {1} toy axes	{1}のおもちゃの斧を{REST}鍛造する
+d1afa0	core	Make {1} toy boat	{1}のおもちゃの船を{REST}作る
+d1afa0	core	Forge {1} toy boat	{1}のおもちゃの船を{REST}鍛造する
+d1afa0	core	Make {1} toy boats	{1}のおもちゃの船を{REST}作る
+d1afa0	core	Forge {1} toy boats	{1}のおもちゃの船を{REST}鍛造する
+d1afa0	core	Make {1} toy hammer	{1}のおもちゃのハンマーを{REST}作る
+d1afa0	core	Forge {1} toy hammer	{1}のおもちゃのハンマーを{REST}鍛造する
+d1afa0	core	Make {1} toy hammers	{1}のおもちゃのハンマーを{REST}作る
+d1afa0	core	Forge {1} toy hammers	{1}のおもちゃのハンマーを{REST}鍛造する
+d1afa0	core	Make {1} traction benches	{1}の牽引台を{REST}作る
+d1afa0	core	Forge {1} traction benches	{1}の牽引台を{REST}鍛造する
+d1afa0	core	Make {1} training axe	{1}の訓練用斧を{REST}作る
+d1afa0	core	Forge {1} training axe	{1}の訓練用斧を{REST}鍛造する
+d1afa0	core	Make {1} training axes	{1}の訓練用斧を{REST}作る
+d1afa0	core	Forge {1} training axes	{1}の訓練用斧を{REST}鍛造する
+d1afa0	core	Make {1} training spear	{1}の訓練用槍を{REST}作る
+d1afa0	core	Forge {1} training spear	{1}の訓練用槍を{REST}鍛造する
+d1afa0	core	Make {1} training spears	{1}の訓練用槍を{REST}作る
+d1afa0	core	Forge {1} training spears	{1}の訓練用槍を{REST}鍛造する
+d1afa0	core	Make {1} training sword	{1}の訓練用短剣を{REST}作る
+d1afa0	core	Forge {1} training sword	{1}の訓練用短剣を{REST}鍛造する
+d1afa0	core	Make {1} training swords	{1}の訓練用短剣を{REST}作る
+d1afa0	core	Forge {1} training swords	{1}の訓練用短剣を{REST}鍛造する
+d1afa0	core	Make {1} trap component	{1}の罠部品を{REST}作る
+d1afa0	core	Forge {1} trap component	{1}の罠部品を{REST}鍛造する
+d1afa0	core	Make {1} trap components	{1}の罠部品を{REST}作る
+d1afa0	core	Forge {1} trap components	{1}の罠部品を{REST}鍛造する
+d1afa0	core	Make {1} trousers	{1}のズボンを{REST}作る
+d1afa0	core	Forge {1} trousers	{1}のズボンを{REST}鍛造する
+d1afa0	core	Make {1} tubes	{1}の管を{REST}作る
+d1afa0	core	Forge {1} tubes	{1}の管を{REST}鍛造する
+d1afa0	core	Make {1} tunic	{1}のチュニックを{REST}作る
+d1afa0	core	Forge {1} tunic	{1}のチュニックを{REST}鍛造する
+d1afa0	core	Make {1} tunics	{1}のチュニックを{REST}作る
+d1afa0	core	Forge {1} tunics	{1}のチュニックを{REST}鍛造する
+d1afa0	core	Make {1} turban	{1}のターバンを{REST}作る
+d1afa0	core	Forge {1} turban	{1}のターバンを{REST}鍛造する
+d1afa0	core	Make {1} turbans	{1}のターバンを{REST}作る
+d1afa0	core	Forge {1} turbans	{1}のターバンを{REST}鍛造する
+d1afa0	core	Make {1} two-handed sword	{1}の両手剣を{REST}作る
+d1afa0	core	Forge {1} two-handed sword	{1}の両手剣を{REST}鍛造する
+d1afa0	core	Make {1} two-handed swords	{1}の両手剣を{REST}作る
+d1afa0	core	Forge {1} two-handed swords	{1}の両手剣を{REST}鍛造する
+d1afa0	core	Make {1} vest	{1}のベストを{REST}作る
+d1afa0	core	Forge {1} vest	{1}のベストを{REST}鍛造する
+d1afa0	core	Make {1} vests	{1}のベストを{REST}作る
+d1afa0	core	Forge {1} vests	{1}のベストを{REST}鍛造する
+d1afa0	core	Make {1} vial	{1}の小瓶を{REST}作る
+d1afa0	core	Forge {1} vial	{1}の小瓶を{REST}鍛造する
+d1afa0	core	Make {1} vials	{1}の小瓶を{REST}作る
+d1afa0	core	Forge {1} vials	{1}の小瓶を{REST}鍛造する
+d1afa0	core	Make {1} war hammer	{1}のウォーハンマーを{REST}作る
+d1afa0	core	Forge {1} war hammer	{1}のウォーハンマーを{REST}鍛造する
+d1afa0	core	Make {1} war hammers	{1}のウォーハンマーを{REST}作る
+d1afa0	core	Forge {1} war hammers	{1}のウォーハンマーを{REST}鍛造する
+d1afa0	core	Make {1} waterskins	{1}の水袋を{REST}作る
+d1afa0	core	Forge {1} waterskins	{1}の水袋を{REST}鍛造する
+d1afa0	core	Make {1} wax	{1}の蝋を{REST}作る
+d1afa0	core	Forge {1} wax	{1}の蝋を{REST}鍛造する
+d1afa0	core	Make {1} weapon racks	{1}の武器立てを{REST}作る
+d1afa0	core	Forge {1} weapon racks	{1}の武器立てを{REST}鍛造する
+d1afa0	core	Make {1} web	{1}の糸の巣を{REST}作る
+d1afa0	core	Forge {1} web	{1}の糸の巣を{REST}鍛造する
+d1afa0	core	Make {1} webs	{1}の糸の巣を{REST}作る
+d1afa0	core	Forge {1} webs	{1}の糸の巣を{REST}鍛造する
+d1afa0	core	Make {1} wheelbarrows	{1}の手押し車を{REST}作る
+d1afa0	core	Forge {1} wheelbarrows	{1}の手押し車を{REST}鍛造する
+d1afa0	core	Make {1} whip	{1}の鞭を{REST}作る
+d1afa0	core	Forge {1} whip	{1}の鞭を{REST}鍛造する
+d1afa0	core	Make {1} whips	{1}の鞭を{REST}作る
+d1afa0	core	Forge {1} whips	{1}の鞭を{REST}鍛造する
+d1afa0	core	Make {1} window	{1}の窓を{REST}作る
+d1afa0	core	Forge {1} window	{1}の窓を{REST}鍛造する
+d1afa0	core	Make {1} windows	{1}の窓を{REST}作る
+d1afa0	core	Forge {1} windows	{1}の窓を{REST}鍛造する
+d1afa0	core	Make {1} yarn	{1}の毛糸を{REST}作る
+d1afa0	core	Forge {1} yarn	{1}の毛糸を{REST}鍛造する
 d1afa0	core	Make {1} animal trap	{1}の動物用の罠を{REST}作る
 d1afa0	core	Make {1} armor stand	{1}の鎧立てを{REST}作る
 d1afa0	core	Make {1} ballista arrow head	{1}のバリスタの矢じりを{REST}作る

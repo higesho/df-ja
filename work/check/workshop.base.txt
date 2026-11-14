@@ -36,3 +36,147 @@ rock door	岩の扉
 rock blocks	岩のブロック
 rock mechanisms	岩の仕掛け
 granite altar	花崗岩の祭壇
+Forge copper altar	銅の祭壇を鍛造する
+Make rock anvils	岩の金床を作る
+Forge copper anvils	銅の金床を鍛造する
+Make rock ash	岩の灰を作る
+Forge copper ash	銅の灰を鍛造する
+Make rock backpacks	岩の背嚢を作る
+Forge copper backpacks	銅の背嚢を鍛造する
+Make rock balls	岩の球を作る
+Forge copper balls	銅の球を鍛造する
+Make rock battle axes	岩の戦斧を作る
+Forge copper battle axes	銅の戦斧を鍛造する
+Make rock block	岩のブロックを作る
+Forge copper block	銅のブロックを鍛造する
+Make rock bolt	岩のボルトを作る
+Forge copper bolt	銅のボルトを鍛造する
+Make rock book binding	岩の本の装丁を作る
+Forge copper book binding	銅の本の装丁を鍛造する
+Make rock boulders	岩の丸石を作る
+Forge copper boulders	銅の丸石を鍛造する
+Make rock boxes	岩の箱を作る
+Forge copper boxes	銅の箱を鍛造する
+Make rock bucket	岩のバケツを作る
+Forge copper bucket	銅のバケツを鍛造する
+Forge copper cage	銅の檻を鍛造する
+Make rock carving fork	岩のカービングフォークを作る
+Forge copper carving fork	銅のカービングフォークを鍛造する
+Make rock cast	岩のギプスを作る
+Forge copper cast	銅のギプスを鍛造する
+Make rock chain hood	岩の鎖の頭巾を作る
+Forge copper chain hood	銅の鎖の頭巾を鍛造する
+Make rock chairs	岩の椅子を作る
+Forge copper chairs	銅の椅子を鍛造する
+Make rock chests	岩の宝箱を作る
+Forge copper chests	銅の宝箱を鍛造する
+Make rock codex	岩の写本を作る
+Forge copper codex	銅の写本を鍛造する
+Make rock coins	岩の硬貨を作る
+Forge copper coins	銅の硬貨を鍛造する
+Make rock crossbow	岩のクロスボウを作る
+Forge copper crossbow	銅のクロスボウを鍛造する
+Make rock cup	岩のカップを作る
+Forge copper cup	銅のカップを鍛造する
+Make rock dice	岩のサイコロを作る
+Forge copper dice	銅のサイコロを鍛造する
+Make rock earrings	岩の耳飾りを作る
+Forge copper earrings	銅の耳飾りを鍛造する
+Make rock fat	岩の脂肪を作る
+Forge copper fat	銅の脂肪を鍛造する
+Make rock flask	岩のフラスコを作る
+Forge copper flask	銅のフラスコを鍛造する
+Make rock gauntlets	岩の篭手を作る
+Forge copper gauntlets	銅の篭手を鍛造する
+Make rock gloves	岩の手袋を作る
+Forge copper gloves	銅の手袋を鍛造する
+Make rock great axes	岩の大斧を作る
+Forge copper great axes	銅の大斧を鍛造する
+Forge copper hatch cover	銅のハッチを鍛造する
+Make rock helm	岩の兜を作る
+Forge copper helm	銅の兜を鍛造する
+Make rock high boot	岩のハイブーツを作る
+Forge copper high boot	銅のハイブーツを鍛造する
+Make rock honeycombs	岩の蜂の巣を作る
+Forge copper honeycombs	銅の蜂の巣を鍛造する
+Make rock ladles	岩のお玉を作る
+Forge copper ladles	銅のお玉を鍛造する
+Make rock left chausse	岩の左のショースを作る
+Forge copper left chausse	銅の左のショースを鍛造する
+Make rock left high boot	岩の左のハイブーツを作る
+Forge copper left high boot	銅の左のハイブーツを鍛造する
+Make rock left sandal	岩の左のサンダルを作る
+Forge copper left sandal	銅の左のサンダルを鍛造する
+Make rock leggings	岩のレギンスを作る
+Forge copper leggings	銅のレギンスを鍛造する
+Make rock long sword	岩の長剣を作る
+Forge copper long sword	銅の長剣を鍛造する
+Make rock maces	岩のメイスを作る
+Forge copper maces	銅のメイスを鍛造する
+Make rock mangled skeletons	岩の損壊した骸骨を作る
+Forge copper mangled skeletons	銅の損壊した骸骨を鍛造する
+Make rock meat cleaver	岩の肉切り包丁を作る
+Forge copper meat cleaver	銅の肉切り包丁を鍛造する
+Forge copper millstone	銅のひき臼を鍛造する
+Make rock mitten	岩のミトンを作る
+Forge copper mitten	銅のミトンを鍛造する
+Make rock mug	岩のマグを作る
+Forge copper mug	銅のマグを鍛造する
+Make rock partial skeleton	岩の部分的な骸骨を作る
+Forge copper partial skeleton	銅の部分的な骸骨を鍛造する
+Make rock pestles	岩の乳棒を作る
+Forge copper pestles	銅の乳棒を鍛造する
+Make rock pipe sections	岩のパイプを作る
+Forge copper pipe sections	銅のパイプを鍛造する
+Make rock powder	岩の粉末を作る
+Forge copper powder	銅の粉末を鍛造する
+Make rock quires	岩の帳面を作る
+Forge copper quires	銅の帳面を鍛造する
+Make rock right gauntlet	岩の右の篭手を作る
+Forge copper right gauntlet	銅の右の篭手を鍛造する
+Make rock right low boot	岩の右のローブーツを作る
+Forge copper right low boot	銅の右のローブーツを鍛造する
+Make rock right shoe	岩の右の靴を作る
+Forge copper right shoe	銅の右の靴を鍛造する
+Make rock roast	岩のローストを作る
+Forge copper roast	銅のローストを鍛造する
+Make rock rough gems	岩の原石を作る
+Forge copper rough gems	銅の原石を鍛造する
+Make rock scepters	岩の笏を作る
+Forge copper scepters	銅の笏を鍛造する
+Make rock scroll rollers	岩の巻物の軸を作る
+Forge copper scroll rollers	銅の巻物の軸を鍛造する
+Make rock sheet	岩の紙を作る
+Forge copper sheet	銅の紙を鍛造する
+Make rock shoe	岩の靴を作る
+Forge copper shoe	銅の靴を鍛造する
+Make rock skin	岩の皮を作る
+Forge copper skin	銅の皮を鍛造する
+Make rock slabs	岩の平板を作る
+Forge copper slabs	銅の平板を鍛造する
+Make rock spear	岩の槍を作る
+Forge copper spear	銅の槍を鍛造する
+Make rock spikes	岩のスパイクを作る
+Forge copper spikes	銅のスパイクを鍛造する
+Make rock stepladders	岩の脚立を作る
+Forge copper stepladders	銅の脚立を鍛造する
+Make rock thong	岩の下帯を作る
+Forge copper thong	銅の下帯を鍛造する
+Make rock toga	岩のトーガを作る
+Forge copper toga	銅のトーガを鍛造する
+Make rock toy boat	岩のおもちゃの船を作る
+Forge copper toy boat	銅のおもちゃの船を鍛造する
+Make rock training axe	岩の訓練用斧を作る
+Forge copper training axe	銅の訓練用斧を鍛造する
+Make rock trap component	岩の罠部品を作る
+Forge copper trap component	銅の罠部品を鍛造する
+Make rock tunics	岩のチュニックを作る
+Forge copper tunics	銅のチュニックを鍛造する
+Make rock vests	岩のベストを作る
+Forge copper vests	銅のベストを鍛造する
+Make rock waterskins	岩の水袋を作る
+Forge copper waterskins	銅の水袋を鍛造する
+Make rock wheelbarrow	岩の手押し車を作る
+Forge copper wheelbarrow	銅の手押し車を鍛造する
+Make rock yarn	岩の毛糸を作る
+Forge copper yarn	銅の毛糸を鍛造する

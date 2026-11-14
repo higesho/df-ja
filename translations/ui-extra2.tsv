@@ -350,3 +350,24 @@ perform tasks in any of their	割り当て区域の中でのみ
 active assigned burrows.	作業を行います。
 Small arena	小さな闘技場
 Morale/Fear	士気／恐怖
+
+DESERT REJECTION	砂漠の条件で却下
+DRAINAGE REJECTION	排水性の条件で却下
+FOREST REJECTION	森林の条件で却下
+GLACIER REJECTION	氷河の条件で却下
+GRASSLAND REJECTION	草原の条件で却下
+HIGH ELEVATION REJECTION	高標高の条件で却下
+HILLS REJECTION	丘陵の条件で却下
+LOW ELEVATION REJECTION	低標高の条件で却下
+MEDIUM ELEVATION REJECTION	中標高の条件で却下
+MOUNTAIN REJECTION	山地の条件で却下
+OCEAN REJECTION	海洋の条件で却下
+RAINFALL REJECTION	降水量の条件で却下
+SAVAGERY REJECTION	野性度の条件で却下
+SWAMP REJECTION	湿地の条件で却下
+TUNDRA REJECTION	ツンドラの条件で却下
+VOLCANISM REJECTION	火山活動の条件で却下
+ALLOW THIS REJECTION TYPE and continue reporting others.	この却下理由を許可して、ほかの報告を続ける。
+UNABLE TO PLACE CONTROLLABLE CIVILIZATION	操作できる文明を配置できません
+UNABLE TO PLACE ENOUGH CIVILIZATIONS	文明を十分に配置できません
+NO BINDING	割り当てなし
