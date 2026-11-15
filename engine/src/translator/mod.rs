@@ -5,6 +5,7 @@ use crate::offsets::VERSION;
 
 mod data;
 mod lookup;
+mod flow;
 mod wrapper;
 
 mod default;
@@ -40,10 +41,10 @@ pub struct Translator {
   skipped: std::collections::HashSet<u64>,
   // 「, 」で区切って訳している最中の深さ（区切った部品は行の組み立てに使わない）
   depth: usize,
-  // 呼び出し元ごとの、続けて描かれた未訳の行（ゲームが自分で折り返した文章を組み立て直すため）
-  pending: HashMap<String, Vec<String>>,
-  // 組み立て直した文章の、行ごとの訳（呼び出し元と英語の行のハッシュ → 日本語の行）
-  line_map: HashMap<u64, String>,
+  // 呼び出し元ごとの、行の流れ（ゲームが自分で折り返して1行ずつ描く文章を組み立て直すため）
+  flows: HashMap<String, flow::Flow>,
+  // この描画で行が来た呼び出し元（描画の終わりに行の並びを区切る）
+  live: Vec<String>,
 }
 
 /// 訳に英語の文が残っていないか（小文字の英単語が3文字以上で残っていれば、訳せていない文があるとみなす）
@@ -79,12 +80,6 @@ pub(crate) fn fully_translated(ja: &str) -> bool {
     }
     false
   })
-}
-
-fn line_key(caller: &str, string: &str) -> u64 {
-  let mut hasher = DefaultHasher::new();
-  (caller, string).hash(&mut hasher);
-  hasher.finish()
 }
 
 /// 人名・地名のように、英語のまま残してよい部品か（"Kel Urdimtâmol", "\"The Plane of Destiny\""）
@@ -127,11 +122,23 @@ impl Translator {
       }
     }
 
-    // ゲームが自分で折り返して1行ずつ描く文章は、組み立て直した訳の行を返す
-    if !self.line_map.is_empty() {
+    // ゲームが自分で折り返して1行ずつ描く文章は、組み立て直した訳の行を返す。
+    // 折り返した文章を描くと分かった呼び出し元では、訳がキャッシュ済みの行も含めて、すべての行を順に流れへ入れる
+    // （「, 」で区切った部品と、日本語などを含む行は対象にしない）
+    let mut fed = false;
+    if self.depth == 0 && string.is_ascii() {
       let caller = bt.split('/').next().unwrap_or("");
-      if let Some(ja) = self.line_map.get(&line_key(caller, string)) {
-        return (ja.as_str(), 0);
+      let mut hit = None;
+      if let Some(flow) = self.flows.get_mut(caller).filter(|flow| flow.armed) {
+        fed = true;
+        if !flow.touched {
+          flow.touched = true;
+          self.live.push(caller.to_owned());
+        }
+        hit = flow.feed(caller, string);
+      }
+      if let Some((p, i)) = hit {
+        return (self.flows[caller].ja(p, i), 0);
       }
     }
 
@@ -221,8 +228,15 @@ impl Translator {
 
       // 折り返された行は、一部の語だけ訳せてしまうこともある（"freedom.  All " → "freedom.すべて"）ので、訳せた行も含めてつなぎ直す。
       // ただし日本語などを含む行は対象にしない
-      if self.depth == 0 && string.is_ascii() {
-        self.join_lines(caller, string);
+      if self.depth == 0 && string.is_ascii() && !fed && !caller.is_empty() {
+        let flow = self.flows.entry(caller.to_owned()).or_default();
+        flow.push_new(caller, string);
+        // ここで折り返した文章を描くと分かったら、この描画の終わりから行の並びを区切り始める
+        if flow.armed && !flow.touched {
+          flow.touched = true;
+          self.live.push(caller.to_owned());
+          log::debug!("折り返した文章を描く呼び出し元として、以後すべての行を順に追います @{caller}: {string:?}");
+        }
       }
       if string == &text {
         log::debug!("missing translation for {func}:\n{bt}:\n{string:?}\n");
@@ -240,68 +254,13 @@ impl Translator {
     (text, *horizontal_shift)
   }
 
-  /// ゲームが自分で折り返して1行ずつ描く文章（ゲームの種類の説明など）を組み立て直す。
-  /// 同じ呼び出し元から続けて描かれた未訳の行をつなぎ、辞書にある文章になったら、訳を同じ行数に折り返して
-  /// 行ごとの訳として覚える（次の描画から使われる）
-  fn join_lines(&mut self, caller: &str, string: &str) {
-    if caller.is_empty() {
-      return;
-    }
-    let lines = self.pending.entry(caller.to_owned()).or_default();
-    lines.push(string.to_owned());
-    if lines.len() > 40 {
-      lines.remove(0);
-    }
-    let n = lines.len();
-    // 文の終わりで終わる行が来たら、文テンプレートでも訳してみる（外見・性格の説明など、ゲームが作る文章）
-    // 最後の行が短くても（価値観の段落の最後は "society." の1語だけ）つなぎ直せるように、長さはつないだ文で見る
-    let ends_sentence = string.trim_end().ends_with(['.', '!', '?']);
-    for start in 0..n {
-      let part = &lines[start..];
-      // 1行だけのものは、ふだんの訳の手順ですでに試している
-      if part.len() < 2 {
-        continue;
+  /// 画面の組み立て直しが1回終わった。折り返された文章の行の並びを、ここで区切る
+  /// （次の描画の1行目を、前の描画の最後の行の続きとみなさないため）
+  pub fn end_pass(&mut self) {
+    for caller in std::mem::take(&mut self.live) {
+      if let Some(flow) = self.flows.get_mut(&caller) {
+        flow.end_pass(&caller);
       }
-      // 折り返された行は、最後の行以外が空白で終わる（"You can play a sequence of fortresses and "）。
-      // 空白で終わらない行が途中にあれば、別々に描かれた文（一覧の各行など）なのでつながない
-      // ユニットの画面の性格の説明のように、行末の空白を削って渡す画面もある（"She often feels filled with joy, though she"）。
-      // 行末が文の終わり（. ! ? :）でないか、次の行が小文字で始まれば、折り返しの途中とみなす
-      let wrapped = |a: &str, b: &str| {
-        a.ends_with(' ')
-          || !a.trim_end().ends_with(['.', '!', '?', ':'])
-          || b.trim_start().starts_with(|c: char| c.is_ascii_lowercase())
-      };
-      if part.windows(2).any(|w| !wrapped(&w[0], &w[1])) {
-        continue;
-      }
-      // 行末の空白が削られた行は、空白を補ってつなぐ
-      let mut joined = String::new();
-      for l in part {
-        if !joined.is_empty() && !joined.ends_with(' ') {
-          joined.push(' ');
-        }
-        joined.push_str(l);
-      }
-      let mut found =
-        lookup_term(joined.trim()).or_else(|| lookup_term(&part.iter().map(|l| l.trim()).collect::<Vec<_>>().join(" ")));
-      if found.is_none() && ends_sentence && joined.trim().len() >= 12 && part[0].starts_with(|c: char| c.is_ascii_uppercase())
-      {
-        found = crate::sentence::SENTENCES.translate_text(joined.trim()).filter(|ja| fully_translated(ja));
-      }
-      let Some(ja) = found else { continue };
-      let width = part.iter().map(|l| l.chars().count()).max().unwrap_or(1) as i32;
-      let mut ja_lines = crate::wrap::wrap_japanese(&ja, width + 1);
-      if ja_lines.len() > part.len() {
-        let rest = ja_lines.split_off(part.len() - 1).concat();
-        ja_lines.push(rest);
-      }
-      log::info!("折り返された文章 {} 行を訳で組み立て直しました @{caller}: {:?}", part.len(), part.concat());
-      let part = part.to_vec();
-      for (i, en) in part.iter().enumerate() {
-        self.line_map.insert(line_key(caller, en), ja_lines.get(i).cloned().unwrap_or_default());
-      }
-      self.pending.remove(caller);
-      return;
     }
   }
 

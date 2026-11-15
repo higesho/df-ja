@@ -1,0 +1,62 @@
+He is completely convinced of his own worthlessness.	彼は自分には価値がないと完全に思い込んでいる。
+He is deliberately cruel to those unfortunate enough to be subject to his sadism.	彼は自らのサディズムの対象になってしまった不運な者に、わざと残酷にふるまう。
+He thinks he is fairly important in the grand scheme of things.	彼は大局的に見れば自分はそれなりに重要な存在だと考えている。
+He always acts with mercy and compassion at the forefront of his considerations.	彼は行動するときは常に、慈悲と思いやりを何よりも優先する。
+He has such a developed sense of optimism that he always assumes the best outcome will eventually occur, no matter what.	彼は楽観的な気質が非常に強く、何があっても最後には最良の結果になると常に思い込んでいる。
+He is very curious, sometimes to his detriment.	彼は非常に好奇心が強く、時にはそのために損をする。
+He generally finds himself quite hopeful about the future.	彼は概して将来に対してかなり希望を抱いている。
+He tends to consider what others think of him.	彼は他人が自分をどう思うかを気にしがちだ。
+He is not particularly interested in what others think of him.	彼は他人が自分をどう思うかには、特に関心がない。
+He is incurious and never seeks out knowledge or information to satisfy himself.	彼は好奇心に乏しく、知識や情報を得ようとして探し求めることは決してない。
+He tends to share his own experiences and thoughts with others.	彼は自分の経験や考えを他人と分かち合いがちだ。
+He is generally unhindered by the thoughts of others concerning his actions.	彼は自分の行動について他人がどう考えるかには、たいてい左右されない。
+He is private to the point of paranoia, unwilling to reveal even basic information about himself.	彼は被害妄想と言えるほど秘密主義で、自分の基本的な情報さえ明かそうとしない。
+He is not a private person and freely shares details of his life.	彼は私生活を隠さず、自分の暮らしの細かいことを気軽に話す。
+He shares intimate details of his life without sparing a thought to repercussions or propriety.	彼は周囲への影響や体裁を気にすることなく、自分の私生活の内輪の事情を明かす。
+He is extremely confident of himself in situations requiring his skills.	彼は技能が求められる場面では、自分自身をきわめて信頼している。
+He is generally quite confident of his abilities when undertaking specific ventures.	彼は特定の事業に取り組むとき、たいてい自分の能力にかなり自信を持っている。
+He presupposes success in any venture requiring his skills with what could be called blind overconfidence.	彼は自分の技能を要する事業であれば、いわば盲目的な過信から成功を前提としている。
+He has no confidence at all in his talent and abilities.	彼は自分の才能や能力をまったく信用していない。
+He lacks confidence in his abilities.	彼は自分の能力に自信が持てない。
+He is completely wrapped up in his own appearance, abilities and other personal matters.	彼は自分の容姿や能力、その他の個人的なことにすっかり没頭している。
+He is greatly pleased by his own looks and accomplishments.	彼は自分の容姿や業績を大いに喜ぶ。
+He is not inherently proud of his talents and accomplishments.	彼は自分の才能や業績を生まれつき誇りに思うことはない。
+He takes no pleasure in his talents and appearance.	彼は自分の才能や容姿を喜ばない。
+He could not care less about his appearance, talents or other personal vanities.	彼は自分の容姿や才能、その他の個人的な虚栄心などまったく気にかけない。
+He is pleased by his own appearance and talents.	彼は自分の容姿や才能に満足している。
+He is very ambitious, always looking for a way to better his situation.	彼は非常に野心的で、常に自分の境遇を良くする方法を探している。
+He does not feel the slightest need to reciprocate favors that others do for him, no matter how major the help or how much he needed it.	彼は人が自分にしてくれた好意には、どれほど大きな助けであっても、またどれほど切実に必要としていたとしても、恩返しの必要をまったく感じない。
+He feels a strong need to reciprocate any favor done for him.	彼は自分にしてもらった恩は必ず返さなければと強く感じる。
+He is grateful when others help him out and tries to return favors.	彼は人に助けてもらうと感謝し、恩返しをしようとする。
+He likes to present himself boldly, even if it would offend an average sense of modesty.	彼は世間並みの慎みに反しても、大胆に自分を見せるのを好む。
+He prefers to present himself modestly.	彼は自分を控えめに見せることを好む。
+He always presents himself as extravagantly as possible, displaying a magnificent image to the world.	彼は常に可能な限り派手に自分を見せ、世間に華々しい姿を示す。
+He presents himself modestly and frowns on any flashy accoutrements.	彼は自分を控えめに見せ、派手な飾り物には眉をひそめる。
+He is sloppy with his living space.	彼は住まいの片づけがずさんだ。
+He is assertive to the point of aggression, unwilling to let others get a word in edgewise when he has something to say.	彼は攻撃的なほど自己主張が強く、言いたいことがあると他人に口を挟ませない。
+He only rarely tries to assert himself in conversation.	彼は会話の中で自分を主張しようとすることはめったにない。
+He would never under any circumstances speak up or otherwise put forth his point of view in a discussion.	彼は議論の中で、どんな事情があっても自分の意見を口に出したり示したりすることはない。
+He does everything in his power to avoid excitement and stress.	彼は興奮や強いストレスを避けるためなら、できることは何でもする。
+He is completely closed-minded and never changes his mind after forming an initial idea.	彼は完全に頑迷で、いったん考えを持つとけっして改めない。
+He is intellectually stubborn, rarely changing his mind during a debate regardless of the merits.	彼は知的に頑固で、議論の中身にかかわらず、途中で考えを変えることはまれだ。
+He is inattentive to detail in his own work.	彼は自分の仕事の細部に注意を払わない。
+He is frustratingly sloppy and careless with every task he sets to carry out.	彼は取り組む作業はどれも、いらだたしいほど雑で不注意だ。
+He often finds himself changing his mind to agree with somebody else.	彼は他の誰かに同意するために、自分の考えを変えることがよくある。
+He easily changes his mind and will generally go with the prevailing view on anything.	彼は考えをたやすく変え、何についても大勢の意見に従いがちだ。
+He tends to be a bit stubborn in changing his mind about things.	彼は物事への考えを改めることには、やや頑固なところがある。
+He doesn't cling tightly to ideas and is open to changing his mind.	彼は考えに固執せず、考えを改めることに開かれている。
+He is somewhat uncomfortable around those that appear unusual or live differently from him.	彼は変わった様子だったり自分と違う暮らし方をしていたりする人の周りでは、いくぶん落ち着かない。
+He is very comfortable around others that are different from him.	彼は自分と違う人たちの中でも、とても気楽にしている。
+He forms strong emotional bonds with others, at times to his detriment.	彼は他人と強い情のつながりを築くが、時には自分が損をすることもある。
+He does not go out of his way to help others.	彼は他人を助けるために、わざわざ骨を折ることはしない。
+He feels helping others is an imposition on his time.	彼は他人を助けることは自分の時間を奪う迷惑だと感じる。
+He never acts without prolonged deliberation, even to his own detriment and the harm of those around him.	彼は自分の損や周囲への害になっても、長く熟慮しなければ行動しない。
+He tries to keep his things orderly.	彼は持ち物をきちんと整頓しようとする。
+He tends to make a small mess with his own possessions.	彼は自分の持ち物を少し散らかしがちだ。
+He is obsessed with order and structure in his own life, with everything kept in its proper place.	彼は自分の生活の秩序と構造にとりつかれていて、すべてを定位置に置いておく。
+She is extremely confident of herself in situations requiring her skills.	彼女は技能が求められる場面では、自分自身をきわめて信頼している。
+She never acts without prolonged deliberation, even to her own detriment and the harm of those around her.	彼女は自分の損や周囲への害になっても、長く熟慮しなければ行動しない。
+She often finds herself changing her mind to agree with somebody else.	彼女は他の誰かに同意するために、自分の考えを変えることがよくある。
+It is pleased by its own appearance and talents.	それは自分の容姿や才能に満足している。
+He hates vows, obligations, promises and other binding elements that could restrict his life.	彼は誓い、義務、約束など、自分の生き方を縛りかねない拘束を嫌う。
+He prefers that everyone live as harmoniously as possible, though he is conflicted by this part of himself.	彼は皆ができるだけ調和して暮らすことを望む。もっとも、自分のそうした一面には葛藤している。

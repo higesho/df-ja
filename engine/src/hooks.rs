@@ -528,6 +528,12 @@ fn update_all(renderer: usize) {
     top.render(renderer);
   }
   top.clear();
+  drop(top);
+
+  // 画面が組み立て直された回は、折り返された文章の行の並びをここで区切る
+  if fresh {
+    translator::TRANSLATOR.write().end_pass();
+  }
 }
 
 #[hook]

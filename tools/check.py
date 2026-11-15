@@ -50,13 +50,45 @@ def translated(ja):
 def run(path):
     if not EXE.exists():
         sys.exit(f"{EXE} がありません。engine で cargo build --release --features offline --bin dfint-check")
-    out = subprocess.run([str(EXE)], stdin=path.open("rb"), capture_output=True, cwd=str(GAME))
+    # lines_*.txt は、ゲームが自分で折り返して1行ずつ描く文章（性格の説明など）。
+    # 同じ呼び出し元から続けて来た行をつないで訳すので、行の並びとして渡す（dfint-check lines）
+    args = [str(EXE), "lines"] if is_lines(path) else [str(EXE)]
+    out = subprocess.run(args, stdin=path.open("rb"), capture_output=True, cwd=str(GAME))
     rows = []
     for line in out.stdout.decode("utf-8", "replace").splitlines():
         en, _, ja = line.partition("\t")
         if en:
             rows.append((en, ja))
     return rows
+
+
+def is_lines(path):
+    return path.name.startswith("lines_")
+
+
+def last_pass(rows):
+    """行の並びの検査では、最後の描画（最後の "=====" より後ろ）の段落ごとに訳をつないで数える。
+
+    それより前の描画は、段落を覚える途中の結果。控えとの比較には全部の行を使う。
+    訳は英語より短く、後ろの行が空になるので、行ごとではなく段落（英語が文末で終わるところまで）で見る。
+    """
+    passes = [[]]
+    for row in rows:
+        if row[0] == "=====":
+            passes.append([])
+        else:
+            passes[-1].append(row)
+    last = next((p for p in reversed(passes) if p), [])
+    blocks, en_acc, ja_acc = [], "", ""
+    for en, ja in last:
+        en_acc += en
+        ja_acc += ja
+        if en.rstrip().endswith((".", "!", "?")):
+            blocks.append((en_acc, ja_acc))
+            en_acc, ja_acc = "", ""
+    if en_acc:
+        blocks.append((en_acc, ja_acc))
+    return blocks
 
 
 def main(argv):
@@ -69,8 +101,9 @@ def main(argv):
     total = miss = diff = 0
     for path in files:
         rows = run(path)
-        missing = [(en, ja) for en, ja in rows if not translated(ja)]
-        total += len(rows)
+        counted = last_pass(rows) if is_lines(path) else rows
+        missing = [(en, ja) for en, ja in counted if not translated(ja)]
+        total += len(counted)
         miss += len(missing)
         base = path.with_suffix(".base.txt")
         text = "".join(f"{en}\t{ja}\n" for en, ja in rows)
@@ -83,7 +116,7 @@ def main(argv):
             d = sum(1 for a, b in zip(old, new) if a != b) + abs(len(old) - len(new))
             diff += d
             mark = "前回と同じ" if d == 0 else f"前回と違う行 {d}"
-        print(f"{path.name:24} {len(rows):6} 行 / 未訳 {len(missing):4} / {mark}")
+        print(f"{path.name:24} {len(counted):6} 行 / 未訳 {len(missing):4} / {mark}")
         if miss_only:
             for en, ja in missing:
                 print(f"    {en}")

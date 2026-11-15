@@ -1,0 +1,39 @@
+@64941b
+He can be very single-minded.  He frobnicates the gribble at dawn.  He is |
+quick to anger.  He occasionally overindulges.  He tends to ask others for |
+help with difficult decisions.  |
+=====
+@64941b
+He can be very single-minded.  He frobnicates the gribble at dawn.  He is |
+quick to anger.  He occasionally overindulges.  He tends to ask others for |
+help with difficult decisions.  |
+=====
+@64941b
+He can be very single-minded.  He frobnicates the gribble at dawn.  He is |
+quick to anger.  He occasionally overindulges.  He tends to ask others for |
+help with difficult decisions.  |
+=====
+@list
+Stone Hauling
+Wood Hauling
+Press Enter to continue.
+=====
+@list
+Stone Hauling
+Wood Hauling
+Press Enter to continue.
+=====
+@unit
+She often feels filled with joy, though she
+remains put off by deliberate merrymaking.
+She is quick to anger.
+=====
+@unit
+She often feels filled with joy, though she
+remains put off by deliberate merrymaking.
+She is quick to anger.
+=====
+@unit
+She is quick to anger.
+She often feels filled with joy, though she
+remains put off by deliberate merrymaking.

@@ -1,0 +1,16 @@
+She was irritated when thirsty.	彼女は喉が渇いているとき、いらだちを感じていた。
+He was irritated when thirsty.	彼は喉が渇いているとき、いらだちを感じていた。
+She was annoyed when hungry.	彼女は空腹のとき、苛立ちを感じていた。
+She was grouchy when drowsy.	彼女は眠気を感じているとき、不機嫌を感じていた。
+He was miserable when dehydrated.	彼は脱水状態のとき、惨めを感じていた。
+She was distressed when starving.	彼女は飢えているとき、苦悩を感じていた。
+She was grouchy when utterly sleep-deprived.	彼女はひどく睡眠不足のとき、不機嫌を感じていた。
+She was annoyed when caught in a snow storm.	彼女は吹雪に見舞われたとき、苛立ちを感じていた。
+She was grouchy dwelling upon being thirsty.	彼女は喉が渇いていた、そのことを思い返し、不機嫌を感じていた。
+She was grouchy dwelling upon being hungry.	彼女は空腹だった、そのことを思い返し、不機嫌を感じていた。
+She was grouchy dwelling upon being drowsy.	彼女は眠気を感じていた、そのことを思い返し、不機嫌を感じていた。
+She was grouchy dwelling upon being dehydrated.	彼女は脱水状態だった、そのことを思い返し、不機嫌を感じていた。
+She was grouchy dwelling upon being starving.	彼女は飢えていた、そのことを思い返し、不機嫌を感じていた。
+She was grouchy dwelling upon being caught in the rain.	彼女は雨に降られた、そのことを思い返し、不機嫌を感じていた。
+She was grouchy dwelling upon being utterly sleep-deprived.	彼女はひどく睡眠不足だった、そのことを思い返し、不機嫌を感じていた。
+She feels irritated when thirsty.	彼女は喉が渇いているとき、いらだちを感じている。

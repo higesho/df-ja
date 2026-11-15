@@ -840,6 +840,20 @@ impl Sentences {
     if t.len() > 2 && t.starts_with('"') && t.ends_with('"') && !t[1..t.len() - 1].contains('"') {
       return self.translate_text(&t[1..t.len() - 1]).map(|ja| format!("「{}」", ja.trim()));
     }
+    self.translate_pieces(text, false)
+  }
+
+  /// 文章を文ごとに訳す。訳せない文は英語のまま残し、1文も訳せなければ None。
+  /// translate_text と違って、訳に英語が残る文は訳さなかったものとして扱う（英語と日本語を文の単位でしか混ぜない）。
+  /// ゲームが折り返して1行ずつ描く文章（性格の説明など）で、訳の無い文が1つあっても残りを訳すために使う
+  pub fn translate_sentences(&self, text: &str) -> Option<String> {
+    if self.cores.is_empty() || !text.contains(' ') {
+      return None;
+    }
+    self.translate_pieces(text, true)
+  }
+
+  fn translate_pieces(&self, text: &str, strict: bool) -> Option<String> {
     static TOKEN: OnceLock<Regex> = OnceLock::new();
     static SENT: OnceLock<Regex> = OnceLock::new();
     // 段落・改行などの区切りトークンで分ける。色の変更 [C:..]、リンク [LPAGE:..]、キー表示 [KEY:..] は文の一部として残す
@@ -888,6 +902,7 @@ impl Sentences {
         // テンプレートで訳せない文は、辞書の完全一致も引く（"I'm very fond." など）。
         // 辞書を先にすると、ゲーム内ガイドで文脈つきのテンプレートより UI 用の訳が優先されてしまう
         let found = found.or_else(|| crate::translator::lookup_term(s.trim())).or_else(|| self.translate_fallback(s));
+        let found = found.filter(|ja| !strict || (ja.trim() != s.trim() && crate::translator::fully_translated(ja)));
         match found {
           Some(ja) => {
             out.push_str(&ja);

@@ -59,6 +59,54 @@ pub fn wrap_japanese(text: &str, width: i32) -> Vec<String> {
   lines
 }
 
+/// wrap_japanese と同じだが、英語の語は途中で切らず、語ごと次の行へ送る。
+/// 訳せなかった文を英語のまま混ぜた文章（性格の説明など）を折り返すために使う
+pub fn wrap_mixed(text: &str, width: i32) -> Vec<String> {
+  let limit = ((width.max(2) - 1) as u32) * TILE_PX;
+  let mut lines: Vec<String> = Vec::new();
+  let mut cur = String::new();
+  let mut cur_px = 0;
+  // いまの行の中で英語の語が始まった位置と、そこまでの幅
+  let mut word: Option<(usize, u32)> = None;
+  for ch in text.chars() {
+    let w = encodings::char_width_in_pixels(ch);
+    let in_word = ch.is_ascii_alphanumeric() || ch == '\'' || ch == '-';
+    if !in_word {
+      word = None;
+    } else if word.is_none() {
+      word = Some((cur.len(), cur_px));
+    }
+    if cur_px + w > limit && !cur.is_empty() && !paragraph::is_closing_punct(ch) && !".,!?;:".contains(ch) {
+      match word {
+        // 語の途中（か語の頭）なら、語の頭から次の行へ送る。行頭から続く長い語だけは途中で切る
+        Some((pos, px)) if pos > 0 => {
+          let rest = cur.split_off(pos);
+          lines.push(std::mem::take(&mut cur));
+          cur = rest;
+          cur_px -= px;
+        }
+        _ => {
+          lines.push(std::mem::take(&mut cur));
+          cur_px = 0;
+        }
+      }
+      if in_word {
+        word = Some((0, 0));
+      }
+      // 行頭に来る空白は捨てる
+      if ch == ' ' {
+        continue;
+      }
+    }
+    cur.push(ch);
+    cur_px += w;
+  }
+  if !cur.is_empty() {
+    lines.push(cur);
+  }
+  lines
+}
+
 /// 行ごとに1語になる仮の文字列（width - 1 文字の語を空白でつなぐ。2語は1行に入らない）。
 /// 語は 0xFF（CP437 で空白に見える文字）で埋め、末尾の4文字に通し番号を 0x80〜0xBF で入れる。
 /// ゲームが行を別の string に写してから描いても、中身でどの行か分かるようにするため（会話の選択肢など）

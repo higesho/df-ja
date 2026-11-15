@@ -28,9 +28,30 @@ fn main() {
   // 「文章」（ゲームが単語ごとに折り返して描くテキスト。ヘルプやチュートリアル）は
   // 単語辞書を通らないので、別の経路で引く
   let as_paragraph = func == "paragraph";
+  // 「折り返された行」（ゲームが自分で折り返して1行ずつ描く文章。性格の説明など）は、
+  // 同じ呼び出し元から続けて来た行をつないで訳すので、呼び出し元を付けて順に渡す。
+  // "=====" の行は描画1回の終わり。"@名前" の行は、そこから後ろの行の呼び出し元を変える。
+  // 行末の空白を残したいときは、行の最後に "|" を付ける
+  let as_lines = func == "lines";
+  let mut caller = String::from("^check/");
   for line in input.lines() {
     let line = line.trim_end_matches('\r');
     if line.is_empty() {
+      continue;
+    }
+    if as_lines {
+      if line == "=====" {
+        translator.end_pass();
+        let _ = writeln!(out, "=====");
+        continue;
+      }
+      if let Some(name) = line.strip_prefix('@') {
+        caller = format!("^{name}/");
+        continue;
+      }
+      let line = line.strip_suffix('|').unwrap_or(line);
+      let text = translator.translate("addst", line, &caller).0.to_owned();
+      let _ = writeln!(out, "{line}\t{text}");
       continue;
     }
     let text: String = if as_paragraph {

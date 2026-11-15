@@ -1235,3 +1235,17 @@ manual	core	In {1}, {2} used poor tactics, and the attackers had a strong positi
 manual	core	In {1}, {2} used poor tactics, and the defenders had a positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では防衛側が地の利を得ていた。
 manual	core	In {1}, {2} used poor tactics, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では防衛側がわずかに地の利を得ていた。
 manual	core	In {1}, {2} used poor tactics, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では防衛側が強く地の利を得ていた。
+# 性格の文の抜け（後ろに代名詞が続く形）
+e3eb80	core	never acts without prolonged deliberation, even to {1} own detriment and the harm of those around {2}	自分の損や周囲への害になっても、長く熟慮しなければ行動しない
+e3eb80	suffix	, though {1} is conflicted by this part of {2}	。もっとも、自分のそうした一面には葛藤している
+# 思考のきっかけ: 空腹・渇き・眠気（when / being の後ろに状態の語が続く）
+e44340	core	when drowsy	{REST}眠気を感じているとき
+e44340	core	being drowsy	{REST}眠気を感じていた
+e44340	core	when thirsty	{REST}喉が渇いているとき
+e44340	core	being thirsty	{REST}喉が渇いていた
+e44340	core	when dehydrated	{REST}脱水状態のとき
+e44340	core	being dehydrated	{REST}脱水状態だった
+e44340	core	when hungry	{REST}空腹のとき
+e44340	core	being hungry	{REST}空腹だった
+e44340	core	when starving	{REST}飢えているとき
+e44340	core	being starving	{REST}飢えていた
