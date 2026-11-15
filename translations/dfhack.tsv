@@ -209,3 +209,22 @@ items:	品物:
 Will link next (need to make %d)	次を連結します（あと%d個必要）
 Will link next	次を連結します
 1 trader is ready to trade	交易の準備ができた商人が1人います
+# ユニット画面の機嫌の表示（gui/unit-info-viewer）。値は別の文字列として続けて描かれるので、末尾の空白まで含める
+Mood: 	気分: 
+Long-term mood: 	長期的な気分の傾向: 
+# 上の帯の機嫌の顔を押すと出る市民の一覧（plugins/sort/stressicons.lua）
+Ecstatic	有頂天
+Citizens: Miserable	市民: 惨め
+Citizens: Unhappy	市民: 不幸
+Citizens: Displeased	市民: 不満げな
+Citizens: Content	市民: 満足
+Citizens: Pleased	市民: 喜んだ
+Citizens: Happy	市民: 幸せ
+Citizens: Ecstatic	市民: 有頂天
+No citizens are currently miserable.	いま、機嫌が「惨め」の市民はいません。
+No citizens are currently unhappy.	いま、機嫌が「不幸」の市民はいません。
+No citizens are currently displeased.	いま、機嫌が「不満げな」の市民はいません。
+No citizens are currently content.	いま、機嫌が「満足」の市民はいません。
+No citizens are currently pleased.	いま、機嫌が「喜んだ」の市民はいません。
+No citizens are currently happy.	いま、機嫌が「幸せ」の市民はいません。
+No citizens are currently ecstatic.	いま、機嫌が「有頂天」の市民はいません。

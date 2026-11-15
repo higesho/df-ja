@@ -1,0 +1,8 @@
+Mood: 
+Long-term mood: 
+Ecstatic
+ Citizens: Pleased 
+ Citizens: Ecstatic 
+Citizens: Miserable
+No citizens are currently pleased.
+No citizens are currently displeased.

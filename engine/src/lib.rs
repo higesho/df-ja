@@ -10,6 +10,7 @@ mod hooks;
 mod offsets;
 pub mod paragraph;
 mod screen;
+mod shadow;
 pub mod sentence;
 mod tabs;
 pub mod translator;

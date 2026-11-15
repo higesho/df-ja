@@ -206,6 +206,7 @@ fn addcoloredst(gps: usize, str_address: usize, color_address: usize) {
   let segments = colored_segments(bytes, colors_en, &translated);
   let color = segments.first().map(|s| s.1).unwrap_or(colors_en[0]);
   let start = df::gps::read_coord(gps);
+  crate::shadow::SHADOW.write().record(start.x, start.y, &string);
   let mut x_px: i32 = 0;
   for (seg, c) in &segments {
     // 元の関数と同じく、色のバイト（下位3ビット 前景、次の3ビット 背景、6ビット目 明るさ）を gps に設定する
@@ -319,6 +320,20 @@ fn background_shift_tiles(bt: &str, space: i32, extra: i32) -> i32 {
 const JUSTIFY_CENTER: u8 = 1;
 const JUSTIFY_RIGHT: u8 = 2;
 
+/// 元の文字列を、ゲームが描いたはずの位置で控える（shadow.rs）。
+/// ゲームには空白を渡すので、画面の文字を読む DFHack の部品には、こちらの控えを返す
+fn shadow_record(gps: usize, string: &str, just: u8, space: i32) {
+  let at = df::gps::read_coord(gps);
+  let len = string.chars().count() as i32;
+  // 枠の中に寄せて描く呼び出し（space が文字数より大きいとき）は、寄せた後の位置にする
+  let x = match just {
+    JUSTIFY_CENTER if space > len => at.x + (space - len) / 2,
+    JUSTIFY_RIGHT if space > len => at.x + space - len,
+    _ => at.x,
+  };
+  crate::shadow::SHADOW.write().record(x, at.y, string);
+}
+
 #[hook]
 fn addst(gps: usize, string_address: usize, just: u8, space: i32) {
   screen::mark_fresh();
@@ -330,6 +345,7 @@ fn addst(gps: usize, string_address: usize, just: u8, space: i32) {
   }
   let bt = utils::backtrace();
   let string = encodings::read_raw_string(string_address);
+  shadow_record(gps, &string, just, space);
 
   let (text, tiles) = {
     let mut translator = translator::TRANSLATOR.write();
@@ -370,6 +386,7 @@ fn addst_flag(gps: usize, string_address: usize, just: u8, space: i32, sflag: u3
   }
   let bt = utils::backtrace();
   let string = encodings::read_raw_string(string_address);
+  shadow_record(gps, &string, just, space);
 
   let text = {
     let mut translator = translator::TRANSLATOR.write();
@@ -431,6 +448,7 @@ fn draw_nineslice(texpos: usize, sy: i32, sx: i32, ey: i32, ex: i32, flag: u8) {
   if flag & 1 == 1 {
     let cover = screen::Cover::new(sx, sy, ex, ey);
     screen::SCREEN.write().add_cover(cover);
+    crate::shadow::SHADOW.write().clear_rect(sx, sy, ex, ey);
   }
 }
 
@@ -441,6 +459,7 @@ fn draw_horizontal_nineslice(texpos: usize, sy: i32, sx: i32, ey: i32, ex: i32, 
   if flag & 1 == 1 {
     let cover = screen::Cover::new(sx, sy, ex, ey);
     screen::SCREEN.write().add_cover(cover);
+    crate::shadow::SHADOW.write().clear_rect(sx, sy, ex, ey);
   }
 }
 
@@ -533,6 +552,7 @@ fn update_all(renderer: usize) {
   // 画面が組み立て直された回は、折り返された文章の行の並びをここで区切る
   if fresh {
     translator::TRANSLATOR.write().end_pass();
+    crate::shadow::SHADOW.write().end_pass();
   }
 }
 
