@@ -22,6 +22,34 @@ pub static mut SCREEN: Screen = Screen::new();
 #[static_init::dynamic]
 pub static mut SCREEN_TOP: Screen = Screen::new();
 
+/// 画面に描いた内容を表す数。同じならテクスチャを作り直さなくてよい
+fn mix(hash: &mut u64, value: u64) {
+  *hash = (*hash ^ value).wrapping_mul(0x100000001b3);
+}
+
+/// 描いた範囲（x, y, 幅, 高さ）を広げる
+fn grow(area: &mut Option<(i32, i32, i32, i32)>, x: i32, y: i32, w: i32, h: i32) {
+  if w <= 0 || h <= 0 {
+    return;
+  }
+  *area = Some(match *area {
+    None => (x, y, w, h),
+    Some((ax, ay, aw, ah)) => {
+      let (x0, y0) = (ax.min(x), ay.min(y));
+      let (x1, y1) = ((ax + aw).max(x + w), (ay + ah).max(y + h));
+      (x0, y0, x1 - x0, y1 - y0)
+    }
+  });
+}
+
+fn union(a: Option<(i32, i32, i32, i32)>, b: Option<(i32, i32, i32, i32)>) -> Option<(i32, i32, i32, i32)> {
+  let mut out = a;
+  if let Some((x, y, w, h)) = b {
+    grow(&mut out, x, y, w, h);
+  }
+  out
+}
+
 #[derive(Default)]
 pub struct Screen {
   dimension: df::common::Dimension<i32>,
@@ -29,6 +57,15 @@ pub struct Screen {
   // cache: hash(data) => (surface_ptr, width)
   prev: HashMap<u64, (usize, u32)>,
   next: HashMap<u64, (usize, u32)>,
+  // 画布を載せておくテクスチャ。毎フレーム作り直すと非常に重いので使い回す
+  texture_ptr: usize,
+  texture_renderer: usize,
+  // この回に描いた内容と、テクスチャに載せてある内容
+  frame_hash: u64,
+  uploaded_hash: u64,
+  // この回に描いた範囲と、テクスチャに載せてある範囲（画素）。変わったところだけ送るために使う
+  frame_rect: Option<(i32, i32, i32, i32)>,
+  uploaded_rect: Option<(i32, i32, i32, i32)>,
 }
 
 impl Screen {
@@ -38,11 +75,28 @@ impl Screen {
       canvas_ptr: Default::default(),
       prev: Default::default(),
       next: Default::default(),
+      texture_ptr: Default::default(),
+      texture_renderer: Default::default(),
+      frame_hash: 0,
+      uploaded_hash: u64::MAX,
+      frame_rect: None,
+      uploaded_rect: None,
+    }
+  }
+
+  fn drop_texture(&mut self) {
+    if self.texture_ptr != 0 {
+      unsafe { sdl::SDL_DestroyTexture(self.texture_ptr as *mut sdl::SDL_Texture) };
+      self.texture_ptr = 0;
+      self.texture_renderer = 0;
+      self.uploaded_hash = u64::MAX;
+      self.uploaded_rect = None;
     }
   }
 
   pub fn resize(&mut self, x: i32, y: i32) {
     self.dimension = df::common::Dimension { x, y };
+    self.drop_texture();
 
     if self.canvas_ptr != 0 {
       let canvas = unsafe { Surface::from_ll(self.canvas_ptr as *mut sdl::SDL_Surface) };
@@ -98,6 +152,13 @@ impl Screen {
     };
     self.next.insert(key, (surface_ptr as usize, width));
 
+    // この回に何をどこへ描いたかを足していく。前の回と同じならテクスチャはそのまま使える
+    mix(&mut self.frame_hash, key);
+    mix(&mut self.frame_hash, (x + horizontal_shift) as i64 as u64);
+    mix(&mut self.frame_hash, y as i64 as u64);
+    mix(&mut self.frame_hash, width as u64);
+    grow(&mut self.frame_rect, x + horizontal_shift, y, width as i32, CJK_FONT_SIZE as i32);
+
     // render on canvas
     unsafe {
       let mut srcrect = Rect::new(0, 0, width, CJK_FONT_SIZE);
@@ -122,6 +183,8 @@ impl Screen {
     }
 
     self.prev = mem::take(&mut self.next);
+    self.frame_hash = 0;
+    self.frame_rect = None;
   }
 
   pub fn add_cover(&mut self, cover: Cover) {
@@ -129,6 +192,12 @@ impl Screen {
       coord: df::common::Coord { x, y },
       dimension: df::common::Dimension { x: w, y: h },
     } = cover;
+
+    mix(&mut self.frame_hash, 0x0c0_0000_0000 ^ (x as i64 as u64));
+    mix(&mut self.frame_hash, y as i64 as u64);
+    mix(&mut self.frame_hash, w as u64);
+    mix(&mut self.frame_hash, h as u64);
+    grow(&mut self.frame_rect, x, y, w as i32, h as i32);
 
     let canvas = self.canvas_ptr as *mut sdl::SDL_Surface;
     let cover_rect = Rect::new(x, y, w, h);
@@ -163,10 +232,57 @@ impl Screen {
     unsafe {
       let canvas = self.canvas_ptr as *mut sdl::SDL_Surface;
       let sdl_renderer = df::renderer::read_sdl_renderer(renderer);
-      let texture = sdl::SDL_CreateTextureFromSurface(sdl_renderer, canvas);
-      sdl::SDL_SetTextureScaleMode(texture, sdl::SDL_ScaleMode::SDL_ScaleModeLinear);
+
+      // 描画先が入れ替わったら、そのテクスチャはもう使えない
+      if self.texture_ptr != 0 && self.texture_renderer != sdl_renderer as usize {
+        self.drop_texture();
+      }
+
+      if self.texture_ptr == 0 {
+        let format = (*(*canvas).format).format;
+        let texture = sdl::SDL_CreateTexture(
+          sdl_renderer,
+          format,
+          sdl::SDL_TextureAccess::SDL_TEXTUREACCESS_STATIC as i32,
+          (*canvas).w,
+          (*canvas).h,
+        );
+        if texture.is_null() {
+          return;
+        }
+        // 文字の層は下の絵に重ねるので、透明度を活かす（作り直さない代わりにここで指定する）
+        sdl::SDL_SetTextureBlendMode(texture, sdl::SDL_BlendMode::SDL_BLENDMODE_BLEND);
+        sdl::SDL_SetTextureScaleMode(texture, sdl::SDL_ScaleMode::SDL_ScaleModeLinear);
+        self.texture_ptr = texture as usize;
+        self.texture_renderer = sdl_renderer as usize;
+        self.uploaded_hash = u64::MAX;
+        // 作り立てのテクスチャの中身は決まっていないので、最初の1回は全体を送る
+        self.uploaded_rect = Some((0, 0, (*canvas).w, (*canvas).h));
+      }
+
+      let texture = self.texture_ptr as *mut sdl::SDL_Texture;
+      // 前の回と同じ内容なら載せ直さない。静止している画面ではこれで毎フレームの転送が消える
+      if self.frame_hash != self.uploaded_hash {
+        // 画布は毎回まっさらにしてから描き直すので、前の回と今回に描いた範囲の外は
+        // どちらも透明のまま。その和集合だけ送れば足りる（画面全体を送ると 20MB 以上になる）
+        if let Some((x, y, w, h)) = union(self.frame_rect, self.uploaded_rect) {
+          let (cw, ch) = ((*canvas).w, (*canvas).h);
+          let x0 = x.clamp(0, cw);
+          let y0 = y.clamp(0, ch);
+          let x1 = (x + w).clamp(0, cw);
+          let y1 = (y + h).clamp(0, ch);
+          if x1 > x0 && y1 > y0 {
+            let bpp = (*(*canvas).format).BytesPerPixel as i32;
+            let pitch = (*canvas).pitch;
+            let pixels = ((*canvas).pixels as *const u8).offset((y0 * pitch + x0 * bpp) as isize);
+            let rect = Rect::new(x0, y0, (x1 - x0) as u32, (y1 - y0) as u32);
+            sdl::SDL_UpdateTexture(texture, rect.raw(), pixels as *const std::ffi::c_void, pitch);
+          }
+        }
+        self.uploaded_hash = self.frame_hash;
+        self.uploaded_rect = self.frame_rect;
+      }
       sdl::SDL_RenderCopy(sdl_renderer, texture, srcrect.raw(), dstrect.raw());
-      sdl::SDL_DestroyTexture(texture);
     }
   }
 }
