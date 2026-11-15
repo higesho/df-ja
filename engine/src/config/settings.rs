@@ -21,12 +21,10 @@ impl Default for Settings {
     Self {
       log_level: log::LevelFilter::Debug,
       // 検査用（offline）は、ゲームの記録を上書きしないよう別のファイルに書く
-      log_file: if cfg!(feature = "offline") {
-        "./dfint-data/dfint-check.log".into()
-      } else {
-        "./dfint-data/dfint-log.log".into()
-      },
-      font_file: "./dfint-data/fonts/NotoSansMonoCJKjp-Bold.otf".into(),
+      log_file: crate::utils::data_path(if cfg!(feature = "offline") { "dfint-check.log" } else { "dfint-log.log" })
+        .to_string_lossy()
+        .into_owned(),
+      font_file: crate::utils::data_path("fonts/NotoSansMonoCJKjp-Bold.otf").to_string_lossy().into_owned(),
       use_legacy_dictionary: false,
       no_translate_callers: Default::default(),
       keyword_callers: Default::default(),
@@ -36,12 +34,24 @@ impl Default for Settings {
   }
 }
 
+/// 設定ファイルに書かれたパスを解く。相対パスはゲームフォルダ基準にする
+/// （カレントディレクトリ基準だと、起動のしかたによっては見つからない）
+fn resolve(value: &str) -> String {
+  let path = std::path::Path::new(value);
+  if path.is_absolute() {
+    value.to_owned()
+  } else {
+    crate::utils::base_dir().join(path).to_string_lossy().into_owned()
+  }
+}
+
 impl Settings {
   pub fn load() -> Result<Self> {
     let mut settings = Self::default();
-    simple_logging::log_to_file(&settings.log_file, settings.log_level).unwrap();
+    // 記録が取れなくてもゲームは動かす。ここで落ちると原因も残らずゲームごと巻き込む
+    let _ = simple_logging::log_to_file(&settings.log_file, settings.log_level);
 
-    let mut file = std::fs::File::open("./dfint-data/config.txt")?;
+    let mut file = std::fs::File::open(crate::utils::data_path("config.txt"))?;
     let mut contents: Vec<u8> = Vec::new();
     file.read_to_end(&mut contents)?;
 
@@ -60,10 +70,10 @@ impl Settings {
         },
         "LOG_FILE" => {
           if !cfg!(feature = "offline") {
-            settings.log_file = value;
+            settings.log_file = resolve(&value);
           }
         }
-        "FONT_FILE" => settings.font_file = value,
+        "FONT_FILE" => settings.font_file = resolve(&value),
         "USE_LEGACY_DICTIONARY" => settings.use_legacy_dictionary = value.to_uppercase() == "YES",
         "NO_TRANSLATE_CALLER" => {
           settings.no_translate_callers.insert(value.trim().to_owned());
@@ -71,10 +81,10 @@ impl Settings {
         _ => return Err(anyhow!("無効な設定項目：{key:?}")),
       }
     }
-    simple_logging::log_to_file(&settings.log_file, settings.log_level).unwrap();
+    let _ = simple_logging::log_to_file(&settings.log_file, settings.log_level);
 
     // 訳さない呼び出し元の一覧（MOD のデータとして毎回入れ替わる。1行に1つ、"#" 以降はコメント）
-    if let Ok(list) = std::fs::read_to_string("./dfint-data/no-translate-callers.txt") {
+    if let Ok(list) = std::fs::read_to_string(crate::utils::data_path("no-translate-callers.txt")) {
       for line in list.lines() {
         // "^886f7b keyword" のように "keyword" を付けた呼び出し元は、訳に英語を括弧で添える
         let mut fields = line.split('#').next().unwrap_or("").split_whitespace();

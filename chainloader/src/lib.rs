@@ -18,15 +18,48 @@ use std::{
   ffi::{c_void, CString, OsStr},
   fs,
   io::Write,
-  os::windows::ffi::OsStrExt,
+  os::windows::ffi::{OsStrExt, OsStringExt},
   path::{Path, PathBuf},
   sync::OnceLock,
 };
 
 use winapi::{
   shared::minwindef::HMODULE,
-  um::libloaderapi::{GetProcAddress, LoadLibraryExW, LOAD_WITH_ALTERED_SEARCH_PATH},
+  um::libloaderapi::{
+    GetModuleFileNameW, GetModuleHandleExW, GetProcAddress, LoadLibraryExW, GET_MODULE_HANDLE_EX_FLAG_FROM_ADDRESS,
+    GET_MODULE_HANDLE_EX_FLAG_UNCHANGED_REFCOUNT, LOAD_WITH_ALTERED_SEARCH_PATH,
+  },
 };
+
+/// この DLL が置いてあるフォルダ（= ゲームフォルダ）。
+///
+/// 以前はカレントディレクトリを見ていたが、起動のしかたによってはゲームフォルダとは
+/// 限らない。その場合 `dfhooks_*.dll` が1つも見つからず、日本語化が黙って効かないまま
+/// 英語で立ち上がっていた（記録も書けないので何も残らない）。
+fn base_dir() -> &'static Path {
+  static BASE: OnceLock<PathBuf> = OnceLock::new();
+  BASE.get_or_init(|| {
+    let mut handle = std::ptr::null_mut();
+    let ok = unsafe {
+      GetModuleHandleExW(
+        GET_MODULE_HANDLE_EX_FLAG_FROM_ADDRESS | GET_MODULE_HANDLE_EX_FLAG_UNCHANGED_REFCOUNT,
+        base_dir as *const u16,
+        &mut handle,
+      )
+    };
+    if ok != 0 && !handle.is_null() {
+      let mut buf = [0u16; 32768];
+      let len = unsafe { GetModuleFileNameW(handle, buf.as_mut_ptr(), buf.len() as u32) } as usize;
+      if len > 0 && len < buf.len() {
+        let path = PathBuf::from(std::ffi::OsString::from_wide(&buf[..len]));
+        if let Some(dir) = path.parent() {
+          return dir.to_path_buf();
+        }
+      }
+    }
+    PathBuf::from(".")
+  })
+}
 
 type VoidFn = unsafe extern "C" fn();
 type EventFn = unsafe extern "C" fn(*mut c_void) -> bool;
@@ -58,8 +91,8 @@ fn libs() -> &'static Vec<Lib> {
 
 /// 調べもの用の記録。書けなくても黙って続ける
 fn log(line: &str) {
-  for dir in ["./dfint-data", "."] {
-    let path = Path::new(dir).join("dfhooks-chain.log");
+  for dir in [base_dir().join("dfint-data"), base_dir().to_path_buf()] {
+    let path = dir.join("dfhooks-chain.log");
     if let Ok(mut f) = fs::OpenOptions::new().create(true).append(true).open(&path) {
       let _ = writeln!(f, "{line}");
       return;
@@ -91,7 +124,7 @@ unsafe fn fn_sym<T: Copy>(handle: HMODULE, name: &str) -> Option<T> {
 /// `dfhooks_*.dll` はそのまま、`dfhooks_*.ini` は1行目に書かれたパス
 fn candidates() -> Vec<PathBuf> {
   let mut out: Vec<PathBuf> = Vec::new();
-  let entries = match fs::read_dir(".") {
+  let entries = match fs::read_dir(base_dir()) {
     Ok(entries) => entries,
     Err(err) => {
       log(&format!("フォルダを読めません: {err}"));
@@ -143,7 +176,7 @@ fn candidates() -> Vec<PathBuf> {
 /// なので DFHack が居るときは**自分で読み込まず、DFHack の橋渡し役に丸ごと任せる**。
 /// 向こうは今のフォルダを見て DFHack 本体も `dfhooks_dfint_ja.dll` も読んでくれる。
 fn dfhack_chainloader() -> Option<PathBuf> {
-  let entries = fs::read_dir(".").ok()?;
+  let entries = fs::read_dir(base_dir()).ok()?;
   for entry in entries.flatten() {
     let path = entry.path();
     let stem = path.file_stem()?.to_str()?.to_lowercase();

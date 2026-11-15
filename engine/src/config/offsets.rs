@@ -68,7 +68,7 @@ impl Offsets {
   pub fn load() -> Result<Self> {
     let mut offsets = Self::default();
 
-    let mut file = std::fs::File::open("./dfint-data/offsets.txt")?;
+    let mut file = std::fs::File::open(crate::utils::data_path("offsets.txt"))?;
     let mut contents: Vec<u8> = Vec::new();
     file.read_to_end(&mut contents)?;
 
