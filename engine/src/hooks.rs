@@ -441,6 +441,16 @@ fn draw_horizontal_nineslice(texpos: usize, sy: i32, sx: i32, ey: i32, ex: i32, 
 fn gps_allocate(renderer: usize, x: i32, y: i32, screen_x: u32, screen_y: u32, tile_dim_x: u32, tile_dim_y: u32) {
   // graphicst::resize is inlined in Windows, hook gps_allocate instead
   unsafe { original!(renderer, x, y, screen_x, screen_y, tile_dim_x, tile_dim_y) };
+  // ここが毎フレームのように呼ばれる環境があり、画面のちらつきの元になっていた。
+  // 回数を残しておくと、報告をもらったときに切り分けられる
+  {
+    use std::sync::atomic::{AtomicU64, Ordering::Relaxed};
+    static N: AtomicU64 = AtomicU64::new(0);
+    let n = N.fetch_add(1, Relaxed) + 1;
+    if n <= 5 || n % 100 == 0 {
+      log::debug!("画面の取り直し（gps_allocate）{n}回目: {x}x{y} タイル");
+    }
+  }
   tabs::TABS.write().reset();
   screen::SCREEN.write().resize(x, y);
   screen::SCREEN_TOP.write().resize(x, y);

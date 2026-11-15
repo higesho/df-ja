@@ -66,6 +66,10 @@ pub struct Screen {
   // この回に描いた範囲と、テクスチャに載せてある範囲（画素）。変わったところだけ送るために使う
   frame_rect: Option<(i32, i32, i32, i32)>,
   uploaded_rect: Option<(i32, i32, i32, i32)>,
+  // 画布を消すのは「次に描き始めるとき」まで待つ。
+  // ゲームが文字を描き直さない回があり、その場で消すと文字だけ1フレーム消えてちらつく
+  needs_clear: bool,
+  drew_this_frame: bool,
 }
 
 impl Screen {
@@ -81,6 +85,8 @@ impl Screen {
       uploaded_hash: u64::MAX,
       frame_rect: None,
       uploaded_rect: None,
+      needs_clear: false,
+      drew_this_frame: false,
     }
   }
 
@@ -95,6 +101,13 @@ impl Screen {
   }
 
   pub fn resize(&mut self, x: i32, y: i32) {
+    // ゲームは同じ大きさのまま画面を取り直すことがある。そのたびに画布を作り直すと、
+    // その回だけ中身が空になり、文字だけが丸ごと消えて画面がちらつく。
+    // 大きさが変わっていなければ今の画布をそのまま使う
+    if self.canvas_ptr != 0 && self.dimension.x == x && self.dimension.y == y {
+      return;
+    }
+
     self.dimension = df::common::Dimension { x, y };
     self.drop_texture();
 
@@ -111,6 +124,26 @@ impl Screen {
     .unwrap();
     self.canvas_ptr = canvas.raw() as usize;
     mem::forget(canvas);
+    self.needs_clear = false;
+    self.drew_this_frame = false;
+    self.frame_hash = 0;
+    self.frame_rect = None;
+    self.uploaded_hash = u64::MAX;
+  }
+
+  /// この回で最初に描くときに、前の回の内容を消す
+  fn begin_frame(&mut self) {
+    self.drew_this_frame = true;
+    if !self.needs_clear {
+      return;
+    }
+    self.needs_clear = false;
+    self.frame_hash = 0;
+    self.frame_rect = None;
+    unsafe {
+      let canvas = self.canvas_ptr as *mut sdl::SDL_Surface;
+      sdl::SDL_FillRect(canvas, ptr::null(), 0);
+    }
   }
 
   pub fn add_text(&mut self, text: Text) -> usize {
@@ -129,6 +162,7 @@ impl Screen {
     if !render {
       return 0;
     }
+    self.begin_frame();
 
     // render text or get from cache
     let key = data.key();
@@ -171,10 +205,13 @@ impl Screen {
   }
 
   pub fn clear(&mut self) {
-    unsafe {
-      let canvas = self.canvas_ptr as *mut sdl::SDL_Surface;
-      sdl::SDL_FillRect(canvas, ptr::null(), 0);
+    // この回に何も描かれなかったなら、前の回の内容をそのまま残す。
+    // ゲームは変化していない画面を描き直さないことがあり、消してしまうと文字だけ消える
+    if !self.drew_this_frame {
+      return;
     }
+    self.drew_this_frame = false;
+    self.needs_clear = true;
 
     for (k, (ptr, _)) in self.prev.iter() {
       if !self.next.contains_key(k) {
@@ -183,8 +220,6 @@ impl Screen {
     }
 
     self.prev = mem::take(&mut self.next);
-    self.frame_hash = 0;
-    self.frame_rect = None;
   }
 
   pub fn add_cover(&mut self, cover: Cover) {
@@ -193,6 +228,7 @@ impl Screen {
       dimension: df::common::Dimension { x: w, y: h },
     } = cover;
 
+    self.begin_frame();
     mix(&mut self.frame_hash, 0x0c0_0000_0000 ^ (x as i64 as u64));
     mix(&mut self.frame_hash, y as i64 as u64);
     mix(&mut self.frame_hash, w as u64);
