@@ -113,8 +113,8 @@ You've finally got your equipment together, such as it is.  Now it's time for ac
 ** Starting Adventure **	** 冒険を開始 **
 You: Hello Nomal.	あなた「こんにちは、Nomal」
 The farmer Nomal Koganusen: Hello.  It is good to see you.	農家のNomal Koganusen「こんにちは。会えて嬉しいぞ」
-The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.	宝石細工師のKosoth Isethdeler（農家のKogan Lelumingishへ）「よう。わしの名はKosoth Queststeelだ」
-The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.	農家のKogan Lelumingish（宝石細工師のKosoth Isethdelerへ）「ああ、こんにちは。Kogan Wanebodiceだ」
+The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.	宝石はめ込み師のKosoth Isethdeler（農家のKogan Lelumingishへ）「よう。わしの名はKosoth Queststeelだ」
+The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.	農家のKogan Lelumingish（宝石はめ込み師のKosoth Isethdelerへ）「ああ、こんにちは。Kogan Wanebodiceだ」
 You: Hello Momuz.  This servant of labor greets you.	あなた「こんにちは、Momuz。労働に仕える者が挨拶する」
 The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): Greetings.  My name is Dastot Dyerose.	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「よう。わしの名はDastot Dyeroseだ」
 The farmer Momuz Mengrab: Hello.  It is good to see you.	農家のMomuz Mengrab「こんにちは。会えて嬉しいぞ」
@@ -156,11 +156,11 @@ The mayor Naco Ciraathe is having trouble breathing!	市長のNaco Ciraatheは�
 You bash the mayor Naco Ciraathe in the upper body with your iron mace, bruising the muscle and shattering the left floating ribs through the llama wool tunic!	あなたは鉄のメイスで市長のNaco Ciraatheの上半身を殴りつけた（筋肉に打撲、ラマの羊毛のチュニック越しに左の浮遊肋を粉砕）！
 The mayor Naco Ciraathe: Stop!  This isn't happening!	市長のNaco Ciraathe「やめろ！　こんなこと、あり得ない！」
 You: I've defeated many fearsome opponents!	あなた「多くの恐ろしい敵を倒してきた！」
-The gem setter Kosoth Isethdeler: The Rhythmic Boat rules Painthame.  It's for the best.	宝石細工師のKosoth Isethdeler「PainthameはThe Rhythmic Boatが治めている。それが一番いいんだ」
+The gem setter Kosoth Isethdeler: The Rhythmic Boat rules Painthame.  It's for the best.	宝石はめ込み師のKosoth Isethdeler「PainthameはThe Rhythmic Boatが治めている。それが一番いいんだ」
 You: Do they have a firm grip on these lands?	あなた「彼らはこの土地をしっかり掌握しているのか？」
-The gem setter Kosoth Isethdeler: They do not feel challenged at all.	宝石細工師のKosoth Isethdeler「彼らは全く手応えを感じていない」
+The gem setter Kosoth Isethdeler: They do not feel challenged at all.	宝石はめ込み師のKosoth Isethdeler「彼らは全く手応えを感じていない」
 You: Where are their forces?  Are there patrols or guards?	あなた「奴らの兵力はどこだ？巡回や見張りはいるのか？」
-The gem setter Kosoth Isethdeler: You sound like a troublemaker.	宝石細工師のKosoth Isethdeler「厄介者みたいだな」
+The gem setter Kosoth Isethdeler: You sound like a troublemaker.	宝石はめ込み師のKosoth Isethdeler「厄介者みたいだな」
 The bowyer Imec Gicthosmsana: The Councils of Knowing rules Echobrand.  Engdul Jackjumped is lord.  I don't care one way or another.	弓職人のImec Gicthosmsana「EchobrandはThe Councils of Knowingが治めている。領主はEngdul Jackjumpedだ。どっちでも構わない」
 [C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the wolves get hungry. [B]A new chapter of dwarven history begins here at this place, Mengomet, "Lashedflukes".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。狼が腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここMengomet「Lashedflukes」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]
 [C:7:0:1]A Dwarven Outpost:[C:7:0:0]  You have arrived.  After a journey from the Mountainhomes into the forbidding wilderness beyond, your harsh trek has finally ended.  Your party of seven is to make an outpost for the glory of all of Thumsigun.  [B]There are almost no supplies left, but with stout labor comes sustenance.  Whether by bolt, plow or hook, provide for your dwarves.  You are expecting a supply caravan just before winter entombs you, but it is Spring now.  Enough time to delve secure lodgings, ere the black bears get hungry. [B]A new chapter of dwarven history begins here at this place, Bomreksedur, "Whipemerald".  [C:2:0:1]Strike the earth![C:7:0:0]	[C:7:0:1]ドワーフの前哨地：[C:7:0:0]一行は到着しました。山の故郷からの長い旅路を経て、その先の厳しい荒野に踏み入った過酷な道のりは、ついに終わりました。あなたたち7人の一行は、Thumsigun全体の栄光のために前哨地を築くのだ。[B]物資はほとんど残っていませんが、力強い労働によって糧は得られます。矢でも、鋤でも、釣り針でも、ドワーフたちを養いましょう。冬に閉ざされる直前に補給のキャラバンが到着する予定ですが、今は春です。クロクマが腹を空かせる前に、安全な住まいを掘り進める時間は十分にあります。[B]ここBomreksedur「Whipemerald」で、ドワーフの歴史の新たな章が幕を開けます。[C:2:0:1]大地を穿て！[C:7:0:0]

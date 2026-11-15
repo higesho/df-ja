@@ -30,7 +30,7 @@ The farmer Bëmbul Mengber: There's fighting!  I feel very uneasy.	農家のBëm
 The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): ... and the goblins said, "Are you going to eat that?"	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「…するとゴブリンが『それ、食べないの？』と言ったのさ」
 The farmer Dastot Atírlocun (to the farmer Geshud Zontögum): Greetings.  My name is Dastot Dyerose.	農家のDastot Atírlocun（農家のGeshud Zontögumへ）「よう。わしの名はDastot Dyeroseだ」
 The farmer Geshud Zontögum (to the farmer Dastot Atírlocun): Ah, hello.  I'm Geshud Helmverse.	農家のGeshud Zontögum（農家のDastot Atírlocunへ）「ああ、こんにちは。Geshud Helmverseだ」
-The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.	農家のKogan Lelumingish（宝石細工師のKosoth Isethdelerへ）「ああ、こんにちは。Kogan Wanebodiceだ」
+The farmer Kogan Lelumingish (to the gem setter Kosoth Isethdeler): Ah, hello.  I'm Kogan Wanebodice.	農家のKogan Lelumingish（宝石はめ込み師のKosoth Isethdelerへ）「ああ、こんにちは。Kogan Wanebodiceだ」
 The farmer Kogan Lelumingish: Really?  Alright.	農家のKogan Lelumingish「本当か？わかった」
 The farmer Kogan Lelumingish: Really?  Please come closer.	農家のKogan Lelumingish「本当か？　もっと近くに来てくれ」
 The farmer Kosoth Eralmasos (to the farmer Bëmbul Mengber): Greetings.  My name is Kosoth Vesseltalk.	農家のKosoth Eralmasos（農家のBëmbul Mengberへ）「よう。わしの名はKosoth Vesseltalkだ」
@@ -55,7 +55,7 @@ The fisherdwarf stands up.	漁師は立ち上がった。
 The force bends the left front leg!	衝撃で左前脚が曲がった！
 The force bends the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!	衝撃で右腰が曲がった（筋肉がずたずたに、骨に打撲、筋肉がずたずたに、骨に打撲）！
 The force pulls the left front paw!	衝撃で左前足が引っ張られた！
-The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.	宝石細工師のKosoth Isethdeler（農家のKogan Lelumingishへ）「よう。わしの名はKosoth Queststeelだ」
+The gem setter Kosoth Isethdeler (to the farmer Kogan Lelumingish): Greetings.  My name is Kosoth Queststeel.	宝石はめ込み師のKosoth Isethdeler（農家のKogan Lelumingishへ）「よう。わしの名はKosoth Queststeelだ」
 The herbalist Sigun Borlonerib: There's fighting!  I feel very uneasy.	薬草師のSigun Borlonerib「戦ってるぞ！ひどく落ち着かない」
 The herbalist Sigun Borlonerib: Well, let's see...	薬草師のSigun Borlonerib「さて、どうかな……」
 The hunter Thîkut Samamustuth is having trouble breathing!	狩人のThîkut Samamustuthは息が苦しそうだ！

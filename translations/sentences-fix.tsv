@@ -1126,3 +1126,112 @@ manual	core	You are a {1}.	あなたは{1}だ。
 # 会話の選択肢「〜の〜にしてほしいと頼む」（楽士、酒場の主人、怪物殺し）
 manual	core	Ask to be made a {1} for {2}	{2}の{1}にしてほしいと頼む
 manual	core	Ask to be made a {1}	{1}にしてほしいと頼む
+# 任務報告・伝説モードの出来事の文。書き出し（In {1}, {2}）と別グループになっていて訳せなかった
+manual	core	In {1}, {2} confronted {3}.	{1}年、{2}は{3}に立ち向かった。
+manual	core	In {1}, {2} cornered {3}.	{1}年、{2}は{3}を追い詰めた。
+manual	core	In {1}, {2} surprised {3}.	{1}年、{2}は{3}を奇襲した。
+manual	core	In {1}, {2} ambushed {3}.	{1}年、{2}は{3}を待ち伏せた。
+manual	core	In {1}, {2} tamed the {3}.	{1}年、{2}は{3}を手なずけた。
+manual	core	In {1}, {2} fought with and subdued {3}.	{1}年、{2}は{3}と戦い、制圧した。
+manual	core	In {1}, {2} got into a brawl with {3}.	{1}年、{2}は{3}と殴り合いになった。
+manual	core	In {1}, {2} happened upon {3}.	{1}年、{2}は{3}に偶然出くわした。
+# 戦術の書き出しと地の利の本体をつないだ文（任務報告・伝説モード）。
+# 元は別のグループに分かれていて、つながった1文は訳せなかった
+manual	core	In {1}, the forces shifted, and neither side had a positional advantage in {2}.	{1}年、部隊は動き、そして{2}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, the forces shifted, and the attackers had a positional advantage in {2}.	{1}年、部隊は動き、そして{2}では攻撃側が地の利を得ていた。
+manual	core	In {1}, the forces shifted, and the attackers had a slight positional advantage in {2}.	{1}年、部隊は動き、そして{2}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, the forces shifted, and the attackers had a strong positional advantage in {2}.	{1}年、部隊は動き、そして{2}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, the forces shifted, and the defenders had a positional advantage in {2}.	{1}年、部隊は動き、そして{2}では防衛側が地の利を得ていた。
+manual	core	In {1}, the forces shifted, and the defenders had a slight positional advantage in {2}.	{1}年、部隊は動き、そして{2}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, the forces shifted, and the defenders had a strong positional advantage in {2}.	{1}年、部隊は動き、そして{2}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, the forces were arrayed, and neither side had a positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, the forces were arrayed, and the attackers had a positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}では攻撃側が地の利を得ていた。
+manual	core	In {1}, the forces were arrayed, and the attackers had a slight positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, the forces were arrayed, and the attackers had a strong positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, the forces were arrayed, and the defenders had a positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}では防衛側が地の利を得ていた。
+manual	core	In {1}, the forces were arrayed, and the defenders had a slight positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, the forces were arrayed, and the defenders had a strong positional advantage in {2}.	{1}年、部隊は陣形を組み、そして{2}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} blundered terribly, and neither side had a positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} blundered terribly, and the attackers had a positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} blundered terribly, and the attackers had a slight positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} blundered terribly, and the attackers had a strong positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} blundered terribly, and the defenders had a positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} blundered terribly, and the defenders had a slight positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} blundered terribly, and the defenders had a strong positional advantage in {3}.	{1}年、{2}はひどい失策をし、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} entirely outwitted {3}, and neither side had a positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} entirely outwitted {3}, and the attackers had a positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} entirely outwitted {3}, and the attackers had a slight positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} entirely outwitted {3}, and the attackers had a strong positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} entirely outwitted {3}, and the defenders had a positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} entirely outwitted {3}, and the defenders had a slight positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} entirely outwitted {3}, and the defenders had a strong positional advantage in {4}.	{1}年、{2}は{3}を完全に出し抜き、{4}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} hatched a stunning strategy, and neither side had a positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} hatched a stunning strategy, and the attackers had a positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} hatched a stunning strategy, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} hatched a stunning strategy, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} hatched a stunning strategy, and the defenders had a positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} hatched a stunning strategy, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} hatched a stunning strategy, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は見事な策略を練り、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} made a poor plan, and neither side had a positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} made a poor plan, and the attackers had a positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} made a poor plan, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} made a poor plan, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} made a poor plan, and the defenders had a positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} made a poor plan, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} made a poor plan, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は拙い計画を立て、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} made an outright foolish plan, and neither side had a positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} made an outright foolish plan, and the attackers had a positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} made an outright foolish plan, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} made an outright foolish plan, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} made an outright foolish plan, and the defenders had a positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} made an outright foolish plan, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} made an outright foolish plan, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は全く愚かな計画を立て、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} outmanuevered {3}, and neither side had a positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} outmanuevered {3}, and the attackers had a positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} outmanuevered {3}, and the attackers had a slight positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} outmanuevered {3}, and the attackers had a strong positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} outmanuevered {3}, and the defenders had a positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} outmanuevered {3}, and the defenders had a slight positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} outmanuevered {3}, and the defenders had a strong positional advantage in {4}.	{1}年、{2}は{3}を出し抜き、{4}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and neither side had a positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and the attackers had a positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and the attackers had a slight positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and the attackers had a strong positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and the defenders had a positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and the defenders had a slight positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} outmatched {3} with a cunning plan, and the defenders had a strong positional advantage in {4}.	{1}年、{2}は巧妙な計画で{3}を圧倒し、{4}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} put forth a sound plan, and neither side had a positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} put forth a sound plan, and the attackers had a positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} put forth a sound plan, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} put forth a sound plan, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} put forth a sound plan, and the defenders had a positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} put forth a sound plan, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} put forth a sound plan, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は堅実な計画を立て、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and neither side had a positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and the attackers had a positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and the attackers had a slight positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and the attackers had a strong positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and the defenders had a positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and the defenders had a slight positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} tactical planning was superior to {3}, and the defenders had a strong positional advantage in {4}.	{1}年、{2}の戦術計画は{3}より優れており、{4}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and neither side had a positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and the attackers had a positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and the defenders had a positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} unrolled a brilliant tactical plan, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は見事な戦術計画を広げ、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} used good tactics, and neither side had a positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} used good tactics, and the attackers had a positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} used good tactics, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} used good tactics, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} used good tactics, and the defenders had a positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} used good tactics, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} used good tactics, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は良い戦術を用い、{3}では防衛側が強く地の利を得ていた。
+manual	core	In {1}, {2} used poor tactics, and neither side had a positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}ではどちらの側も地の利を得ていなかった。
+manual	core	In {1}, {2} used poor tactics, and the attackers had a positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では攻撃側が地の利を得ていた。
+manual	core	In {1}, {2} used poor tactics, and the attackers had a slight positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では攻撃側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} used poor tactics, and the attackers had a strong positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では攻撃側が強く地の利を得ていた。
+manual	core	In {1}, {2} used poor tactics, and the defenders had a positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では防衛側が地の利を得ていた。
+manual	core	In {1}, {2} used poor tactics, and the defenders had a slight positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では防衛側がわずかに地の利を得ていた。
+manual	core	In {1}, {2} used poor tactics, and the defenders had a strong positional advantage in {3}.	{1}年、{2}は拙い戦術を用い、{3}では防衛側が強く地の利を得ていた。
