@@ -446,13 +446,34 @@ fn gps_allocate(renderer: usize, x: i32, y: i32, screen_x: u32, screen_y: u32, t
   screen::SCREEN_TOP.write().resize(x, y);
 }
 
+/// 文字の層をこの描画の回でもう描いたか。
+///
+/// 以前は update_tile で「右下のタイル」が描かれたときに便乗して描いていた。
+/// ゲームは変化したタイルしか描き直さないことがあり、右下が描かれない回では
+/// 文字だけが丸ごと消える。環境によっては半分近くの回でそれが起きて画面がちらついた。
+/// いまは update_all の終わり（全タイルを描き終えた後）で必ず描き、
+/// 右下のタイルのほうが先に来たときはそちらで描いて二重描きを避ける。
+static SCREEN_DRAWN: std::sync::atomic::AtomicBool = std::sync::atomic::AtomicBool::new(false);
+
+fn render_screen(renderer: usize) {
+  if SCREEN_DRAWN.swap(true, std::sync::atomic::Ordering::Relaxed) {
+    return;
+  }
+  tabs::TABS.write().flush();
+  screen::SCREEN.write().render(renderer);
+  screen::SCREEN.write().clear();
+}
+
 #[hook]
 fn update_all(renderer: usize) {
+  SCREEN_DRAWN.store(false, std::sync::atomic::Ordering::Relaxed);
   unsafe { original!(renderer) };
   // DFHack はゲームの起動中に読み込まれるので、描画が始まってから割り込みを付ける
   crate::dfhack::try_attach();
   static REWRAPPED: std::sync::Once = std::sync::Once::new();
   REWRAPPED.call_once(|| unsafe { wrap::rewrap_static_tooltips() });
+
+  render_screen(renderer);
 
   if df::gps::top_in_use(*df::globals::GPS) {
     screen::SCREEN_TOP.write().render(renderer);
@@ -465,12 +486,8 @@ fn update_tile(renderer: usize, x: i32, y: i32) {
   unsafe { original!(renderer, x, y) };
   let dim = df::gps::borrow_dim(*df::globals::GPS);
 
-  // hack to render text after the last update_tile in update_all
-  if (x != dim.x - 1 || y != dim.y - 1) {
-    return;
+  // 右下のタイルまで描けたら、そこで文字の層も描く（update_all を通らない描き方への備え）
+  if x == dim.x - 1 && y == dim.y - 1 {
+    render_screen(renderer);
   }
-
-  tabs::TABS.write().flush();
-  screen::SCREEN.write().render(renderer);
-  screen::SCREEN.write().clear();
 }
