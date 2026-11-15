@@ -1,0 +1,163 @@
+Ask to join The Silver Hills
+Ask to become a hearthperson
+Ask for directions to Dolmebsoful
+Ask for the whereabouts of Urist McDwarf
+Ask the listener for the location of the copper short sword
+Ask listener to adopt the cat
+Ask about Urist McDwarf
+Inquire about any troubles
+Request a guide to Dolmebsoful
+Request duty or advice pertaining to service as a hearthperson
+Give report pertaining to service as a hearthperson
+Suggest traveling to Dolmebsoful
+Suggest talking to Urist McDwarf
+Suggest that the listener trade the copper short sword
+Tell listener about the dragon
+Bring up the death of Urist McDwarf
+Bring up the reunion of Urist McDwarf
+Bring up your reunion with Urist McDwarf
+Express astonishment at seeing Urist McDwarf
+Provide directions to Dolmebsoful
+Provide the location of the copper short sword
+Provide the whereabouts of Urist McDwarf
+Spread rumor of your possession of the copper short sword
+Spread rumor of your lack of possession of the copper short sword
+Spread rumor of the abduction of Urist McDwarf
+Spread rumor of the occupation of Dolmebsoful
+Spread rumor of your reunion with Urist McDwarf
+Summarize your views on The Silver Hills
+Summarize your views on the opposition to The Silver Hills
+Summarize the hold of The Silver Hills
+Summarize the local disposition of the forces of The Silver Hills
+Accept invitation to join The Silver Hills
+Accept invitation to become a hearthperson
+Refuse invitation to join The Silver Hills
+Refuse invitation to become a hearthperson
+Refuse request to join The Silver Hills
+Refuse request to become a hearthperson
+Invite listener to join The Silver Hills
+Invite listener to become a hearthperson
+Grant listener work as a mercenary
+Refuse listener work as a mercenary
+Revoke listener's status as a hearthperson
+Kick listener out of The Silver Hills
+Offer listener your position as lord
+Offer peace between The Silver Hills
+Agree to make peace between The Silver Hills
+Refuse to make peace between The Silver Hills
+Cancel tribute from The Silver Hills
+Demand tribute from The Silver Hills
+Demand that the listener drop the copper short sword
+Accept that the listener will not trade the copper short sword
+Claim this site for yourself and The Silver Hills
+Discuss the missing artifact Shadowbane
+Lay quest to retrieve Shadowbane
+Praise for returning Shadowbane
+Describe the refugees created by the attack of The Silver Hills
+Summarize the conflict in which The Silver Hills
+Charge to serve lord
+Give an order based on the hearth
+Search first in Dolmebsoful
+Seek out the dragon
+Recommend the tavern
+Rent room for 1 day
+Extend room rental for 1 day
+Continue conversation with Urist McDwarf
+Go into hiding
+Drive any members of The Silver Hills
+Accept as a hearthperson
+Accept into The Silver Hills
+Ask for water
+Put on a copper helm
+Put in the backpack
+Put or place the copper short sword
+Put the copper short sword
+Wear a copper mail shirt
+Get a copper short sword
+Remove a copper helm
+Throw a copper short sword
+Throw at the goblin
+Throw by the right hand
+Shoot the goblin
+Quickly shoot the goblin
+Quickly throw at the goblin
+Aim carefully and shoot the goblin
+Aim carefully and throw at the goblin
+Climb to the north
+Jump to the north
+Move to the north
+Ride the horse
+Dismount to the north
+Hang from the branch
+Release hold on the branch
+Stop leading the horse
+Topple the goblin
+Bash down the door
+Break in the door
+Name the dog
+Heat the copper short sword
+Fill the waterskin
+Suck the blood
+Wrestle using the right hand
+Take-down by the right hand
+Gain possession of the copper short sword
+Break grip of the right hand
+Release grip of the right hand
+Loosen joint lock of the right arm
+Release joint lock of the right arm
+Loosen choke of the throat
+Release choke of the throat
+Grabbed your right hand
+Grabbed their right hand
+Both holding the copper short sword
+Pinch the nose
+Gouge the eye
+Lock the right arm
+Choke the throat
+Shake the right arm
+Strangle the throat
+You put on a copper helm
+You take off a copper helm
+You drop a copper short sword
+You eat the plump helmet
+You drink the dwarven wine
+You lick the copper short sword
+You empty the waterskin
+You put the copper short sword
+You pack the copper short sword
+You take out the copper short sword
+You strap the shield
+You pull out the copper short sword
+You read the book
+You fill your waterskin
+You heat the copper short sword
+You prepare to shoot the bow
+You cease nocking the arrow
+You begin to throw the copper short sword
+You fail to grab the goblin
+You do not have a free grasp for the copper short sword
+You don't have any ammunition for the bow
+It won't fit in your backpack
+Where do you put the copper short sword
+What will you do with the copper short sword
+You've found a colony of honey bees
+You've located a cave
+You have discovered a cave
+You already know the will of Armok
+You cannot travel through the mountains
+Put on
+Put in
+Throw at
+Throw by
+Adventure: Get Date
+Adventure: Get Weather
+Adventure: Inv. Wear
+Adventure: Inv. Put In
+Ask to be made a performer for The Fellowship of Straws
+Ask to be made a tavern keeper for The Fellowship of Straws
+Ask to be made a monster slayer for The Fellowship of Straws
+Ask to be rescued
+What will you do with 
+Where do you put 
+Really attack 
+Ask to be made a performer

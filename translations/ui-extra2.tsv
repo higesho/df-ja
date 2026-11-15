@@ -562,3 +562,64 @@ If the water isn't frozen, a worker with the fishing labor assigned will begin f
 And remember: [C:2:0:1]Losing is fun!	そして忘れずに: [C:2:0:1]負けるのも楽しみのうち！
 And remember: [C:2:0:1]Losing is fun, and now it's personal!	そして忘れずに: [C:2:0:1]負けるのも楽しみのうち。しかも今度は他人事ではありません！
 Press [KEY:8] to unpause or use the highlighted controls at the top of the screen.	[KEY:8]を押すか、画面上部の強調表示された操作部で一時停止を解除してください。
+# アドベンチャーモードのチュートリアル本文で英語のまま残っていた文
+This can be used to view your injuries, skills and needs.	ここで傷の具合、技能、欲求を見られます。
+Your character generally starts with a variety of local knowledge, including a few places to have an adventure.	キャラクターは初めから、冒険の手がかりになる場所をいくつか含め、土地のさまざまな知識を持っています。
+In particular, this is an easy way to pick things up.	とくに、物を拾うのはこの方法が手軽です。
+People can share troubles they'd like your help with, and you can also trade with shopkeepers or barter with most others.	人々は力を貸してほしい悩みを打ち明けてくれます。店主とは売買ができ、それ以外の相手とも大抵は物々交換ができます。
+Hunting is an important way to get food.	狩りは食べ物を得る大切な手段です。
+The base game has limited crafting.	素のゲームでは物作りはごく限られています。
+If the conflict has not reached a No Quarter state, your opponent should stand down.	戦いが「情け容赦なし」の段階に達していなければ、相手は手を引いてくれるはずです。
+If your weapons are drawn and you aren't a local soldier, people may panic.	武器を抜いたままで、その土地の兵でもなければ、人々は怯えて騒ぎ出すかもしれません。
+Parrying is by weapon skill and only works on other weapons.	受け流しは武器の技能によって決まり、相手の武器に対してのみ働きます。
+Your retired and abandoned fortresses are available to visit, if you can remember where to find them.	引退させた要塞や捨てた要塞は、場所を覚えていれば訪ねられます。
+# 要塞モードのガイドで英語のまま残っていた文
+You may also leave a cleared space your tavern-goers will use as a dance floor.	何もない場所を空けておけば、酒場の客がそこを踊り場として使います。
+In the [C:6:0:1]Temple Info Menu[C:7:0:0] you can see the value of the [C:1:0:1]Temple[C:7:0:0].	[C:6:0:1]神殿の情報[C:7:0:0]では[C:1:0:1]神殿[C:7:0:0]の価値を確かめられます。
+[C:6:0:0]Tables[C:7:0:0] for your [C:5:0:0]Scribes[C:7:0:0] to work on.	[C:5:0:0]写字生[C:7:0:0]が作業するための[C:6:0:0]机[C:7:0:0]。
+Your unfortunate citizens are taken to the [C:1:0:1]Hospital[C:7:0:0] when injured.	不運な住民は、傷を負うと[C:1:0:1]病院[C:7:0:0]へ運ばれます。
+Then from the [C:5:0:1]Squad[C:7:0:0] menu you can assign your first squad, led by the [C:5:0:0]Commander[C:7:0:0].	そのうえで[C:5:0:1]分隊[C:7:0:0]メニューから、[C:5:0:0]指揮官[C:7:0:0]が率いる最初の分隊を編成できます。
+You can make a [C:3:0:1]Station[C:7:0:0] order to have your squad stand in that position.	[C:3:0:1]配置[C:7:0:0]の命令を出せば、分隊をその位置に立たせておけます。
+The inhabitants also like to drink from [C:6:0:1]Goblets[C:7:0:0], [C:6:0:1]Cups[C:7:0:0], or [C:6:0:1]Mugs[C:7:0:0].	住民は[C:6:0:1]ゴブレット[C:7:0:0]、[C:6:0:1]カップ[C:7:0:0]、[C:6:0:1]マグ[C:7:0:0]で飲むのも好みます。
+[C:6:0:1]Barrels[C:7:0:0], and [C:6:0:1]Bags[C:7:0:0].	[C:6:0:1]樽[C:7:0:0]、[C:6:0:1]袋[C:7:0:0]。
+# 保存に失敗したときの知らせ
+Failed to save active game; synchronization would likely result in corruption, so this has not been done.	進行中のゲームの保存に失敗しました。同期が崩れてデータが壊れるおそれがあるため、保存は行っていません。
+Check for problems such as your storage being too full.	保存先の空き容量が足りないなど、原因を確かめてください。
+# 操作メニューの見出しが単体で描かれるとき（差し込みのテンプレートに取り違えられないよう固定）
+Put on	身に着ける
+Put in	入れる
+Throw at	投げる
+Throw by	投げる
+# 操作の割り当て画面の項目名
+Adventure: Get Date	冒険「日付を見る」
+Adventure: Get Temperature	冒険「気温を見る」
+Adventure: Get Weather	冒険「天候を見る」
+Adventure: Inv. Put In	冒険「持ち物をしまう」
+Adventure: Inv. Wear	冒険「持ち物を身に着ける」
+Put on 	身に着ける
+Put in 	入れる
+Throw at 	投げる
+Throw by 	投げる
+Go into hiding	身を隠す
+hiding	潜伏
+hearth	炉辺団
+# 冒険者の生い立ちと一行
+You emerged from the wilds and managed to prove yourself to the locals.	あなたは荒野から現れ、土地の人々に己を認めさせた。
+The party:	一行：
+# 操作の割り当て画面の項目名
+Remove Existing	既存を撤去
+Remove Plans	計画を取り消す
+Remove Zone Rect	ゾーンの範囲を削除
+Remove Pet	ペットを外す
+# 建物の説明で英語のまま残っていた文
+Tables are required for dining.	食事には机が必要です。
+A chair should be placed adjacent to the table.	机の隣には椅子を置きましょう。
+A table object must be made before it can be placed.	机は、設置する前に品物として作っておく必要があります。
+Your most valuable objects can be placed for display in rooms to increase their value and to entertain passing citizens.	最も価値のある品は部屋に飾っておけます。部屋の価値が上がり、通りかかった住民の目を楽しませます。
+A pedestal or display case must be made before it can be placed.	台座や陳列ケースは、設置する前に品物として作っておく必要があります。
+# 品物の名前を別に描く問いかけ。前半だけが届くので、後ろに名前が続く形で訳す
+What will you do with 	どうしますか？ 対象: 
+Where do you put 	どこに置きますか？ 対象: 
+Click a target or move the cursor and press 	対象をクリックするか、カーソルを動かして押してください： 
+Move the cursor to view and press 	カーソルを動かして押すと見られます： 
+You can prepare in advance with 	あらかじめ構えておけます： 

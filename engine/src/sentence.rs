@@ -548,9 +548,15 @@ impl Sentences {
       while j > i + 1 {
         let joined = raw[i..j].join(", ");
         let key = joined.strip_prefix("and ").unwrap_or(&joined);
-        // 末尾の項目は " and 次の句" を含むことがあるので、" and " より前で切った形も試す
+        // 末尾の項目は " and 次の句" を含むことがあるので、" and " より前で切った形も試す。
+        // ただし切る位置は最後の ", " より後ろに限る。手前で切れると、ひとつ前の項目の一部
+        // （"values tranquility and a peaceful day" の "values tranquility"）が辞書にあるだけで
+        // 次の項目まで1つにまとめてしまい、まとめた全体が訳せずに列ごと英語のまま残る
+        let last_comma = key.rfind(", ").map_or(0, |p| p + 1);
         let found = crate::translator::lookup_term(key).is_some()
-          || key.match_indices(" and ").any(|(k, _)| crate::translator::lookup_term(&key[..k]).is_some());
+          || key
+            .match_indices(" and ")
+            .any(|(k, _)| k > last_comma && crate::translator::lookup_term(&key[..k]).is_some());
         if found {
           break;
         }

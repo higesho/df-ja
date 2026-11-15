@@ -1,0 +1,193 @@
+You can click the indicated button or press [KEY:604] to view your character's status.  This can be used to view your injuries, skills and needs.
+You can click the indicated button or press [KEY:605] to view your log.  Your character generally starts with a variety of local knowledge, including a few places to have an adventure.  You can also speak to locals and inquire about their troubles. 
+You can click the indicated button or press [KEY:606] to view and interact with your worn and carried items.  
+You can click the indicated button or press [KEY:607] to interact with nearby objects and environmental features.  In particular, this is an easy way to pick things up. 
+Right click on people to initiate conversations.  You can click the indicated button or press [KEY:608] to continue an active conversation.  People can share troubles they'd like your help with, and you can also trade with shopkeepers or barter with most others.  
+You can click the indicated button or press [KEY:609] to butcher a carcass or to engage in crafting activities.  Hunting is an important way to get food.  The base game has limited crafting. 
+You can click the indicated button or press [KEY:610] to yield in combat.  If the conflict has not reached a No Quarter state, your opponent should stand down.  
+You can click the indicated button or press [KEY:611] to draw or strap your weapon.  If your weapons are drawn and you aren't a local soldier, people may panic. 
+The view is dark underground.  You can recenter on yourself with the [KEY:612] hotkey or by clicking the recenter button.
+You can alternate between standing and a prone position by clicking the indicated button or pressing [KEY:613].
+You can set your gait/speed and other movement options by clicking the indicated button or pressing [KEY:614].  This menu will also show you how stealthfully you are moving.
+The current and optional path to victory is to have your fortress elevated to a barony.
+This is the first step to completing the game.
+You'll be an accomplished player at this point.
+To easily see which ramps go up or down, click the [C:5:0:1]Ramp Vision[C:7:0:0] button by the minimap.
+As your dwarves live and work in your fortress they will generate [C:6:0:1]Refuse[C:7:0:0].
+This includes everything from [C:6:0:1]Bones[C:7:0:0] and other [C:6:0:1]Remains[C:7:0:0] to worn-out [C:6:0:1]Clothing[C:7:0:0].
+You can gather the [C:6:0:1]Refuse[C:7:0:0] in a [C:6:0:0]Refuse Stockpile[C:7:0:0].
+Some [C:6:0:1]Refuse[C:7:0:0] can be put to use, for instance [C:6:0:1]Shells[C:7:0:0] can be turned into [C:6:0:1]Crafts[C:7:0:0].
+Most of it will just generate foul smelling [C:0:0:1]Miasma[C:7:0:0].
+If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create a [C:3:0:0]Dump Zone[C:7:0:0].
+There are many treasures and perils deep underground.
+In order to pursue the wealth of the earth, you must dig deeper!
+The three main methods of defending are dodging, parrying, and blocking.
+Parrying is by weapon skill and only works on other weapons.
+Blocking is done with a shield and works on any attack, including fire and natural attacks.
+You may create multiple characters during character creation.
+These are your party.
+The game ends when the entire party is deceased or retired.
+For simplicity, only the party leader needs to eat and drink, though all party members will sleep aside from whoever is on watch.
+You can also obtain other followers through conversation, such as a guide or a mercenary.
+Some followers leave when their task is completed, while others will stay until they are asked to leave.
+Followers will join according to your heroic reputation, relevant skill, destiny type, and total follower amount.
+Along with combat, conversations are where most of the events in play happen.
+The words of people that are talking to you will be highlighted.
+The [C:3:0:1]Judge of Intent[C:7:0:0] skill can help you keep tabs on the other speaker's mood.
+But this is only the beginning.
+Ultimately, your true goals are up to your imagination.
+Call visitors from all over the world with the greatest tavern, library, or temple the world has ever known.
+Build an elaborate water-powered contraption or domesticate previously untameable wild beasts.
+Settle in unliveable regions tormented by ancient evils and defend your fortress from zombies with your own army of vampires.
+Your exploits will be recorded for Legends mode and by the master engravers in subsequent fortresses in your world.
+Most adventurers have three principle needs: food, water, and sleep.
+Food can be obtained in towns, from the environment, or by butchering corpses with a sharp object.
+You can find water in wells in towns, or in rivers.
+Salt and brackish waters are not safe for drinking.
+Alcohol is also sufficient but may not be as easy to come by as it is in a fortress.
+You can sleep using the sleep option in either local play or travel mode.
+If you have party members or followers, they will take turns keeping watch and reducing the chance of ambush.
+You also have needs according to your personality as seen in character creation and on your character sheet.
+If your needs aren't met, you won't perform quite as well in most situations.
+Combat with any creature will put you in immediate peril.
+The three main methods of attacking are striking, wrestling, and shooting.
+Your retired and abandoned fortresses are available to visit, if you can remember where to find them.
+You don't always need to be slain in combat or starve to death.
+If you are in a friendly community, you can retire there.
+Retired adventurers will continue their travels, and might show up in a future fortress or be hired by a future adventuring party.
+You can also unretire characters directly if they are still alive.
+Before you begin your travels, we'll familiarize you with the basic controls.
+Your view is focused on one elevation at a time.
+To move the camera around, hold the middle mouse button and drag the view.
+To change the camera's elevation, [C:2:0:1]roll the mouse wheel[C:7:0:0].
+When your view is in the air above other tiles, you can usually see them below.
+If you are indoors or in a cavern, your view might be blocked by the ceiling.
+The view is dark underground.
+Trading and bartering happen during conversation.
+Trading occurs in shops and bartering happens in every other context.
+Trading is very similar to trading with a [C:5:0:1]Broker[C:7:0:0] in Fortress mode.
+Then select the items you'd like to trade, and see if you're successful.
+In Adventure mode, currency plays a role.
+Other currencies can be traded as regular items.
+You might receive change in the currency of the realm.
+There are several types of quests or quest-adjacent tasks that can be received during conversation or from a deity.
+If you are a member of a hearth (a hearthperson), you can speak to your leader to receive an order.
+If you speak to a priest at a temple or select the Chosen destiny, you might receive a divine quest.
+For instance, you could rescue a kidnapped child or slay a dragon in order to be recognized as a hero.
+In order to receive recognition for your accomplishments, you must tell the relevant people about them.
+You can also flying to other altitudes by left/right clicking while the camera is adjusted.
+This can be used to view your injuries, skills and needs.
+Your character generally starts with a variety of local knowledge, including a few places to have an adventure.
+You can also speak to locals and inquire about their troubles.
+In particular, this is an easy way to pick things up.
+Right click on people to initiate conversations.
+People can share troubles they'd like your help with, and you can also trade with shopkeepers or barter with most others.
+Conversations, like movement, take place over time.
+If you engage in a conversation, you'll generally wait for a reply before you can act again.
+Hunting is an important way to get food.
+The base game has limited crafting.
+You can strike, wrestle, or shoot to engage in combat.
+You can also throw objects in your inventory.
+If the conflict has not reached a No Quarter state, your opponent should stand down.
+Every creature in adventure mode moves simultaneously.
+Once you initiate movement, play will advance until you can move again.
+The duration of movement depends on gait, injuries, etc.
+The easiest way to move is to left click in the play area.
+Your character will path to the target tile if possible.
+If you right click in the play area, you'll open a context-sensitive menu of actions.
+This lets you select a destination more carefully.
+It's very important to note that only one creature can be standing in a tile at a time.
+If you see brown downward triangles under your character, you will move very slowly and should try to stand if you are able.
+This menu will also show you how stealthfully you are moving.
+Here you can interact with the objects you are carrying.
+Items can be dropped, worn, eaten, thrown, named, etc.
+The icon tooltips describe your options for each item.
+Inventory items are all worn, held, in containers, or otherwise related to specific body parts.
+There is no abstract inventory space.
+If you are carrying too much, you'll see an encumbrance indicator above the inventory button.
+Encumbrance can cause you to move very slowly and should be avoided if possible.
+This is the movement options menu.
+Here you can choose your gait and see your current stealth profile.
+Moving quickly costs energy.
+You'll begin to move slowly or even collapse if you sprint for too long.
+If a gait has two numbers, the first number is the starting speed for the gait, and the second is the maximum speed.
+Continue moving in the same direction to build up speed.
+If you or your mount are moving quickly, your attacks gain velocity.
+This is the hold and climb menu.
+You can climb trees.
+First you must establish a hold with a free grasp.
+Then you can continue to move up into the air, while maintaining a hold on an adjacent tile.
+If you climb atop certain large branches, you can walk on them freely.
+Some surfaces like walls can be also climbed, but these require climbing skill to hold reliably.
+You can jump while climbing, and you can also release your hold.
+In these ways, you might reach areas you can't otherwise reach.
+The hold menu also allows you to lead and mount pets.
+You can claim stray animals as pets here too.
+To name your new pets, use the talk menu.
+You can also demand your opponent yield using a conversation option.
+If your weapons are drawn and you aren't a local soldier, people may panic.
+This is the companion menu.
+Here you'll see a list of party members, companions, and pets, along with their general location if you know it.
+You can assume control of party members.
+Companions who join you later in the journey can't generally be controlled manually.
+You can also set whether a party member will be controlled manually during tactical mode, or whether they'll be controlled by the computer.
+In tactical mode, you can control every party member manually if you wish, allow you to coordinate movements and attack with more precision.
+Tactical mode can be set by a button near the companion mode button on the main menu if you have multiple party members.
+This is your adventurer's log.
+It functions as an encyclopedia of your known world, and also keeps track of important agreements, such as quests.
+In the beginning, you'll probably find it populated with a variety of rumors and knowledge known to everybody from your home.
+This could include some opportunities for adventure.
+This is the inventory menu.
+Any ability you possess that doesn't fit elsewhere will appear here.
+For instance, many creatures can spit or pet animals.
+Others can breathe fire.
+Some abilities, like the flight of winged creatures, can just be used during regular movement without needing this menu.
+If you obtain any magical powers during your adventure, you will find them in this menu.
+This is the attack menu.
+Here you can strike creatures with an item or body part, or you can initiate a dodge or parry movement.
+Attacks target specific body parts and have various modifiers.
+You will select these in the subsequent menus.
+There is a random element to outcomes and some body parts will be easier or harder to hit from moment to moment.
+However, skill is the most important determiner of hits versus misses.
+Once a strike hits, the materials and velocity are used to determine the damage.
+Skill and item quality can help with this, but sometimes it's just not possible to damage a target material with a weaker material.
+For this reason, it's important to obtain better equipment when you can.
+This is the wrestling menu.
+Here you can grab creatures and then execute a variety of wrestling moves.
+You can also initiate defensive actions here.
+Wrestling involves specific attacking body parts and specific target body parts.
+You can grab creatures with your grasps and limbs, and both the target and attacking part determine which wrestling moves are available.
+Relative body size is the most important determiner of wrestling outcomes.
+A character's wrestling skill is also important.
+This is the conversation menu.
+Conversations occur over time, like movements and attacks.
+When speaking to somebody, you'll choose what to say, and then time will pass while you are speaking and waiting for a reply.
+There are many conversation options.
+You can also ask anybody to join you, but many people will be shy of danger.
+This is the performance menu.
+Here you can initiate a poetry recital, tell a story, dance, sing, or play a musical instrument.
+You can also compose poems, songs, and choreography if you know a relevant art form.
+Performance occur over a period of time related to the specific art form or piece.
+You can interrupt the performance as it unfolds, commit to finishing it and wait for its completion, or continue in steps.
+Compositions take more time, and you'll pass through a period of time similar to sleeping, resting, and traveling.
+This is the butchering and crafting menu.
+Butchering requires a sharp-edged weapon or tool, as well as a butcherable carcass.
+Butchering is an excellent source of meat.
+The other products cannot currently be used.
+Crafting in the base game is limited to constructing a stone axe necessary to fell trees.
+You can pick up few rocks and a tree branch to get started.
+This is the abilities menu.
+It's also generally wise to try to sleep in friendly places, but you might need to obtain permission.
+Unless you are very skilled, you should not attempt to wrestle larger creatures, and you should try to avoid being grabbed by them.
+This is the projectile aiming menu.
+You can shoot projectiles with a launcher like a bow or crossbow, and you can throw almost any object that you are carrying in a grasp.
+Be warned that shooting a projectile currently has a long recovery time, so you may be subject to attack after you fire.
+Friendly fire isn't currently possible, so your companions should be safe.
+This is travel mode.
+Here you can travel great distances without having to move in the local mode.
+You still become thirsty, hungry, and drowsy while traveling.
+You are also still subject to attack or ambush, though you can see certain groups on the map and may be able to avoid them.
+You can stop traveling using the stop travel button below or by pressing .
+This is the sleep menu.
+Here you can sleep to overcome drowsiness or wait to pass time.
+If you have multiple party members, your chances of being ambushed will be greatly reduced.

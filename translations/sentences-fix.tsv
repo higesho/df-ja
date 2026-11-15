@@ -939,3 +939,190 @@ manual	core	Your fortress of {1}	あなたの砦 {1}
 manual	core	{1} is fighting!	{1}が戦っている！
 manual	core	Somebody is fighting!	誰かが戦っている！
 manual	core	{1} killed {2}.	{1}が{2}を殺した。
+# アドベンチャーモードの会話の選択肢。相手や場所の名前が後ろに付くため、差し込みの形で引く
+manual	core	Accept as a {1}	{1}として受け入れる
+manual	core	Accept into {1}	{1}へ受け入れる
+manual	core	Accept invitation to become a {1}	{1}になる誘いを受ける
+manual	core	Accept invitation to join {1}	{1}に加わる誘いを受ける
+manual	core	Accept that the listener will not trade {1}	相手が{1}を取引しないことを受け入れる
+manual	core	Agree to make peace between {1}	{1}の間の和平に同意する
+manual	core	Agree to have {1}	同意する：{1}
+manual	core	Ask for {1}	{1}を求める
+manual	core	Ask listener to adopt {1}	相手に{1}を引き取るよう頼む
+manual	core	Ask the listener for the location of {1}	相手に{1}の場所を尋ねる
+manual	core	Ask to become a {1}	{1}にしてほしいと頼む
+manual	core	Ask to join {1}	{1}に加わりたいと申し出る
+manual	core	Bring up the death of {1}	{1}の死について切り出す
+manual	core	Bring up the reunion of {1}	{1}の再会について切り出す
+manual	core	Bring up your reunion with {1}	{1}との再会について切り出す
+manual	core	Cancel tribute from {1}	{1}からの貢納を取りやめる
+manual	core	Charge to serve {1}	{1}に仕えるよう命じる
+manual	core	Claim this site for yourself and {1}	この拠点を自分と{1}のものだと宣言する
+manual	core	Continue conversation with {1}	{1}との会話を続ける
+manual	core	Demand that the listener drop {1}	相手に{1}を置いていくよう要求する
+manual	core	Demand that {1}	要求する：{1}
+manual	core	Demand tribute from {1}	{1}に貢納を要求する
+manual	core	Demand Tribute from {1}	{1}に貢納を要求する
+manual	core	Describe the refugees created by the attack of {1}	{1}の襲撃で生まれた避難民について話す
+manual	core	Discuss the missing artifact {1}	失われた秘宝{1}について話す
+manual	core	Drive any members of {1}	{1}の者を追い払う
+manual	core	Express astonishment at seeing {1}	{1}に出会えた驚きを伝える
+manual	core	Extend room rental for {1}	部屋の借り受けを{1}延ばす
+manual	core	Give an order based on {1}	{1}に基づいて命令を下す
+manual	core	Give report pertaining to service as a {1}	{1}としての務めについて報告する
+manual	core	Give your opinion of {1}	{1}についての考えを述べる
+manual	core	Go into {1}	{1}に入る
+manual	core	Grant listener work as {1}	相手に{1}の仕事を与える
+manual	core	Invite listener to become a {1}	相手を{1}に迎えたいと誘う
+manual	core	Invite listener to join {1}	相手を{1}に誘う
+manual	core	Kick listener out of {1}	相手を{1}から追い出す
+manual	core	Lay quest to retrieve {1}	{1}を取り戻す使命を課す
+manual	core	Offer listener your position as {1}	{1}の地位を相手に譲ると申し出る
+manual	core	Offer peace between {1}	{1}の間の和平を申し出る
+manual	core	Offer to have {1}	申し出る：{1}
+manual	core	Order listener to {1}	相手への命令：{1}
+manual	core	Praise for returning {1}	{1}を取り戻したことを称える
+manual	core	Provide directions to {1}	{1}への道を教える
+manual	core	Provide the location of {1}	{1}の場所を教える
+manual	core	Provide the whereabouts of {1}	{1}の居場所を教える
+manual	core	Recommend {1}	{1}を薦める
+manual	core	Refuse invitation to become a {1}	{1}になる誘いを断る
+manual	core	Refuse invitation to join {1}	{1}に加わる誘いを断る
+manual	core	Refuse listener work as {1}	相手に{1}の仕事を与えない
+manual	core	Refuse request to become a {1}	{1}にしてほしいという願いを断る
+manual	core	Refuse request to join {1}	{1}に加わりたいという願いを断る
+manual	core	Refuse to make peace between {1}	{1}の間の和平を断る
+manual	core	Refuse to have {1}	断る：{1}
+manual	core	Rent room for {1}	部屋を{1}借りる
+manual	core	Request a guide to {1}	{1}への案内を頼む
+manual	core	Request duty or advice pertaining to service as a {1}	{1}としての務めや助言を求める
+manual	core	Revoke listener's status as a {1}	相手の{1}の地位を取り上げる
+manual	core	Search first in {1}	まず{1}を探す
+manual	core	Seek out {1}	{1}を探し出す
+manual	core	Spread rumor of the abduction of {1}	{1}の誘拐の噂を広める
+manual	core	Spread rumor of the occupation of {1}	{1}の占領の噂を広める
+manual	core	Spread rumor of the reunion of {1}	{1}の再会の噂を広める
+manual	core	Spread rumor of your lack of possession of {1}	{1}を持っていないという噂を広める
+manual	core	Spread rumor of your possession of {1}	{1}を持っているという噂を広める
+manual	core	Spread rumor of your reunion with {1}	{1}との再会の噂を広める
+manual	core	Spread rumor of the {1}	{1}の噂を広める
+manual	core	Suggest talking to {1}	{1}に話を聞くよう勧める
+manual	core	Suggest that the listener trade {1}	相手に{1}の取引を持ちかける
+manual	core	Suggest traveling to {1}	{1}へ行くよう勧める
+manual	core	Summarize the conflict in which {1}	{1}の争いについてまとめて話す
+manual	core	Summarize the hold of {1}	{1}の支配についてまとめて話す
+manual	core	Summarize the local disposition of the forces of {1}	この地の{1}の軍勢の配置をまとめて話す
+manual	core	Summarize your views on the opposition to {1}	{1}への反対についての考えをまとめて話す
+manual	core	Summarize your views on {1}	{1}についての考えをまとめて話す
+manual	core	Tell listener about {1}	相手に{1}について話す
+manual	core	Tell the listener that {1}	相手に伝える：{1}
+manual	core	Can you tell me the way to {1}	{1}への道を教えてもらえますか
+manual	core	Can you tell me where I can find {1}	{1}はどこで見つかりますか
+# アドベンチャーモードの操作メニュー（持ち物・周りの物への働きかけ）。品物の名前が後ろに付く
+manual	core	Put or place {1}	{1}を置く・しまう
+manual	core	Put on {1}	{1}を身に着ける
+manual	core	Put in {1}	{1}に入れる
+manual	core	Put {1}	{1}を置く
+manual	core	Wear {1}	{1}を着る
+manual	core	Get {1}	{1}を取る
+manual	core	Aim carefully and shoot {1}	狙いを定めて{1}を撃つ
+manual	core	Aim carefully and throw at {1}	狙いを定めて{1}に投げる
+manual	core	Quickly shoot {1}	素早く{1}を撃つ
+manual	core	Quickly throw at {1}	素早く{1}に投げる
+manual	core	Throw at {1}	{1}に投げる
+manual	core	Throw by {1}	{1}で投げる
+manual	core	Throw {1}	{1}を投げる
+manual	core	Shoot {1}	{1}を撃つ
+manual	core	Climb to {1}	{1}へ登る
+manual	core	Jump to the {1}	{1}へ跳ぶ
+manual	core	Move to {1}	{1}へ移動する
+manual	core	Dismount to {1}	{1}へ降りる
+manual	core	Hang from {1}	{1}にぶら下がる
+manual	core	Release hold on {1}	{1}から手を離す
+manual	core	Stop leading {1}	{1}を連れるのをやめる
+manual	core	Ride {1}	{1}に乗る
+manual	core	Topple {1}	{1}を倒す
+manual	core	Bash down {1}	{1}を打ち破る
+manual	core	Break in {1}	{1}を破って入る
+manual	core	Name the {1}	{1}に名を付ける
+manual	core	Heat {1}	{1}を熱する
+manual	core	Fill {1}	{1}を満たす
+manual	core	Suck {1}	{1}を吸う
+manual	core	Commanded by {1}	{1}の指揮下
+# 組み技のメニュー。部位の名前が後ろに付く
+manual	core	Wrestle using {1}	{1}で組みつく
+manual	core	Take-down by {1}	{1}で引き倒す
+manual	core	Gain possession of {1}	{1}を奪い取る
+manual	core	Break grip of {1}	{1}の掴みを振りほどく
+manual	core	Release grip of {1}	{1}の掴みを離す
+manual	core	Loosen joint lock of {1}	{1}の関節固めを緩める
+manual	core	Release joint lock of {1}	{1}の関節固めを解く
+manual	core	Loosen choke of {1}	{1}の締めを緩める
+manual	core	Release choke of {1}	{1}の締めを解く
+manual	core	Grabbed your {1}	あなたの{1}を掴んでいる
+manual	core	Grabbed their {1}	相手の{1}を掴んでいる
+manual	core	Both holding {1}	双方が{1}を掴んでいる
+manual	core	Sharing {1}	{1}を分け合っている
+manual	core	Pinch {1}	{1}をつまむ
+manual	core	Gouge {1}	{1}をえぐる
+manual	core	Lock {1}	{1}を関節固めする
+manual	core	Choke {1}	{1}を締める
+manual	core	Shake {1}	{1}を揺さぶる
+manual	core	Strangle {1}	{1}を絞める
+# アドベンチャーモードの操作の知らせ
+manual	core	You put on {1}	{1}を身に着けた
+manual	core	You take off {1}	{1}を外した
+manual	core	You drop {1}	{1}を落とした
+manual	core	You eat the {1}	{1}を食べた
+manual	core	You drink the {1}	{1}を飲んだ
+manual	core	You lick the {1}	{1}を舐めた
+manual	core	You empty the {1}	{1}を空にした
+manual	core	You empty {1}	{1}を空にした
+manual	core	You put the {1}	{1}を置いた
+manual	core	You pack the {1}	{1}を詰めた
+manual	core	You take out the {1}	{1}を取り出した
+manual	core	You strap {1}	{1}を背負った
+manual	core	You pull out {1}	{1}を引き抜いた
+manual	core	You read {1}	{1}を読んだ
+manual	core	You fill your {1}	{1}を満たした
+manual	core	You heat the {1}	{1}を熱した
+manual	core	You prepare to shoot {1}	{1}を撃つ構えを取った
+manual	core	You cease nocking {1}	{1}をつがえるのをやめた
+manual	core	You begin to throw {1}	{1}を投げ始めた
+manual	core	You fail to grab the {1}	{1}を掴み損ねた
+manual	core	You do not have a free grasp for {1}	{1}を持つための手が空いていない
+manual	core	You don't have any ammunition for {1}	{1}に使える弾がない
+manual	core	It won't fit in your {1}	{1}には入らない
+manual	core	Where do you put {1}	{1}をどこに置きますか
+manual	core	What will you do with {1}	{1}をどうしますか
+manual	core	Click a target or move the cursor and press {1}	対象をクリックするか、カーソルを動かして{1}を押してください
+manual	core	Move the cursor to view and press {1}	カーソルを動かして{1}を押すと見られます
+manual	core	You can prepare in advance with {1}	{1}であらかじめ構えておけます
+manual	core	You cannot travel through the {1}	{1}を通り抜けては行けません
+manual	core	You must come down from the mountains before you can {1}	{1}には、まず山を下りる必要があります
+manual	core	You must move away from the water before you can {1}	{1}には、まず水から離れる必要があります
+manual	core	You don't feel safe enough to {1}	安心して{1}られる状況ではありません
+manual	core	You feel too watched to {1}	人目がありすぎて{1}られません
+manual	core	You already know the will of {1}	{1}の意思はすでに知っています
+manual	core	You've found a colony of {1}	{1}の群れを見つけました
+manual	core	You've located a {1}	{1}を見つけました
+manual	core	You have discovered a {1}	{1}を発見しました
+manual	core	You will sleep as necessary for {1}	{1}のあいだ、必要に応じて眠ります
+manual	core	You will wait, staying awake for {1}	{1}のあいだ、起きたまま待ちます
+manual	core	Your {1} is empty.	{1}は空だ。
+manual	core	Your {1} is already full.	{1}はもう満杯だ。
+manual	core	Your {1} is hot enough already.	{1}はもう十分に熱い。
+manual	core	Your {1} is already prepared to shoot.	{1}はもう撃つ構えができている。
+manual	core	Remove {1}	{1}を外す
+# 冒険者の生い立ち（キャラクター作成の「背景」）
+manual	core	You are a newly-minted {1} of the great {2} in {3}, a {4}.	あなたは{4}{3}の偉大な{2}に仕える、なりたての{1}だ。
+manual	core	You are a newly-minted {1} of the great {2} in {3}.	あなたは{3}の偉大な{2}に仕える、なりたての{1}だ。
+manual	core	Your wanderings have led you to {1}, a {2}.	放浪の果てに、{2}{1}へたどり着いた。
+manual	core	Your wanderings have led you to {1}.	放浪の果てに{1}へたどり着いた。
+manual	core	You are a {1}, and you have never strayed far from home.	あなたは{1}で、故郷から遠く離れたことがない。
+manual	core	You emerged from the wilds and came to be a {1}.	あなたは荒野から現れ、{1}となった。
+manual	core	Now you are finally a {1}.	今、ついに{1}となった。
+manual	core	You are a {1}.	あなたは{1}だ。
+# 会話の選択肢「〜の〜にしてほしいと頼む」（楽士、酒場の主人、怪物殺し）
+manual	core	Ask to be made a {1} for {2}	{2}の{1}にしてほしいと頼む
+manual	core	Ask to be made a {1}	{1}にしてほしいと頼む

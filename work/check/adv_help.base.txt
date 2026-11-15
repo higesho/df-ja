@@ -1,0 +1,193 @@
+You can click the indicated button or press [KEY:604] to view your character's status.  This can be used to view your injuries, skills and needs.	表示されたボタンを押すか[KEY:604]を押すと、キャラクターの状態を見られます。ここで傷の具合、技能、欲求を見られます。
+You can click the indicated button or press [KEY:605] to view your log.  Your character generally starts with a variety of local knowledge, including a few places to have an adventure.  You can also speak to locals and inquire about their troubles. 	表示されたボタンを押すか[KEY:605]を押すと、記録を見られます。キャラクターは初めから、冒険の手がかりになる場所をいくつか含め、土地のさまざまな知識を持っています。地元の人々に話しかけて、その悩みを尋ねることもできます。
+You can click the indicated button or press [KEY:606] to view and interact with your worn and carried items.  	表示されたボタンを押すか[KEY:606]を押すと、身に着けている物や持ち物を見たり使ったりできます。
+You can click the indicated button or press [KEY:607] to interact with nearby objects and environmental features.  In particular, this is an easy way to pick things up. 	表示されたボタンを押すか[KEY:607]を押すと、近くの物や周りの地形を調べたり使ったりできます。とくに、物を拾うのはこの方法が手軽です。
+Right click on people to initiate conversations.  You can click the indicated button or press [KEY:608] to continue an active conversation.  People can share troubles they'd like your help with, and you can also trade with shopkeepers or barter with most others.  	人を右クリックすると会話を始められます。表示されたボタンを押すか[KEY:608]を押すと、続いている会話を再開できます。人々は力を貸してほしい悩みを打ち明けてくれます。店主とは売買ができ、それ以外の相手とも大抵は物々交換ができます。
+You can click the indicated button or press [KEY:609] to butcher a carcass or to engage in crafting activities.  Hunting is an important way to get food.  The base game has limited crafting. 	表示されたボタンを押すか[KEY:609]を押すと、死骸を解体したり物作りをしたりできます。狩りは食べ物を得る大切な手段です。素のゲームでは物作りはごく限られています。
+You can click the indicated button or press [KEY:610] to yield in combat.  If the conflict has not reached a No Quarter state, your opponent should stand down.  	表示されたボタンを押すか[KEY:610]を押すと、戦闘で降参できます。戦いが「情け容赦なし」の段階に達していなければ、相手は手を引いてくれるはずです。
+You can click the indicated button or press [KEY:611] to draw or strap your weapon.  If your weapons are drawn and you aren't a local soldier, people may panic. 	表示されたボタンを押すか[KEY:611]を押すと、武器を抜いたり収めたりできます。武器を抜いたままで、その土地の兵でもなければ、人々は怯えて騒ぎ出すかもしれません。
+The view is dark underground.  You can recenter on yourself with the [KEY:612] hotkey or by clicking the recenter button.	地下では視界が暗くなります。[KEY:612]キーか、中央に戻すボタンで、視点を自分に戻せます。
+You can alternate between standing and a prone position by clicking the indicated button or pressing [KEY:613].	表示されたボタンを押すか[KEY:613]を押すと、立った姿勢と伏せた姿勢を切り替えられます。
+You can set your gait/speed and other movement options by clicking the indicated button or pressing [KEY:614].  This menu will also show you how stealthfully you are moving.	表示されたボタンを押すか[KEY:614]を押すと、歩き方や速さなどの移動の設定を変えられます。このメニューでは、どれだけ忍んで移動しているかも分かります。
+The current and optional path to victory is to have your fortress elevated to a barony.	現在の、そして任意の勝利への道は、要塞を男爵領に昇格させることです
+This is the first step to completing the game.	これがゲームクリアへの第一歩です。
+You'll be an accomplished player at this point.	この時点で、あなたは熟練のプレイヤーになっているでしょう。
+To easily see which ramps go up or down, click the [C:5:0:1]Ramp Vision[C:7:0:0] button by the minimap.	どのスロープが上り下りに使えるかを簡単に確認するには、ミニマップの横にある[C:5:0:1]スロープ表示[C:7:0:0]ボタンをクリックしてください。
+As your dwarves live and work in your fortress they will generate [C:6:0:1]Refuse[C:7:0:0].	ドワーフが要塞で暮らし働くと、[C:6:0:1]廃棄物[C:7:0:0]が発生します
+This includes everything from [C:6:0:1]Bones[C:7:0:0] and other [C:6:0:1]Remains[C:7:0:0] to worn-out [C:6:0:1]Clothing[C:7:0:0].	これには、[C:6:0:1]骨[C:7:0:0]や他の[C:6:0:1]遺骸[C:7:0:0]から、すり切れた[C:6:0:1]衣類[C:7:0:0]まですべてが含まれます
+You can gather the [C:6:0:1]Refuse[C:7:0:0] in a [C:6:0:0]Refuse Stockpile[C:7:0:0].	[C:6:0:1]廃棄物[C:7:0:0]は[C:6:0:0]廃棄物倉庫[C:7:0:0]に集めることができます
+Some [C:6:0:1]Refuse[C:7:0:0] can be put to use, for instance [C:6:0:1]Shells[C:7:0:0] can be turned into [C:6:0:1]Crafts[C:7:0:0].	一部の[C:6:0:1]廃棄物[C:7:0:0]は活用できます。たとえば、[C:6:0:1]殻[C:7:0:0]は[C:6:0:1]工芸品[C:7:0:0]にすることができます
+Most of it will just generate foul smelling [C:0:0:1]Miasma[C:7:0:0].	その大半は、ただ悪臭を放つ[C:0:0:1]瘴気[C:7:0:0]を発生させるだけです。
+If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create a [C:3:0:0]Dump Zone[C:7:0:0].	[C:6:0:0]廃棄物備蓄庫[C:7:0:0]がいっぱいになってきたら、[C:3:0:0]廃棄ゾーン[C:7:0:0]を作成できます。
+There are many treasures and perils deep underground.	地下深くには多くの宝物と危険があります
+In order to pursue the wealth of the earth, you must dig deeper!	大地の富を追い求めるには、さらに深く掘らなければなりません！
+The three main methods of defending are dodging, parrying, and blocking.	防御の主な三つの方法は、回避、受け流し、防御です。
+Parrying is by weapon skill and only works on other weapons.	受け流しは武器の技能によって決まり、相手の武器に対してのみ働きます。
+Blocking is done with a shield and works on any attack, including fire and natural attacks.	防御は盾で行い、炎や自然の攻撃を含むあらゆる攻撃に有効です
+You may create multiple characters during character creation.	キャラクター作成中に、複数のキャラクターを作成できます
+These are your party.	これらがあなたのパーティーです
+The game ends when the entire party is deceased or retired.	パーティ全員が死亡または引退するとゲームは終了します。
+For simplicity, only the party leader needs to eat and drink, though all party members will sleep aside from whoever is on watch.	簡単にするため、食事と飲水が必要なのはパーティーのリーダーだけですが、見張り番以外のパーティーメンバーは全員眠ります。
+You can also obtain other followers through conversation, such as a guide or a mercenary.	案内人や傭兵など、ほかの追随者を会話を通じて得ることもできます。
+Some followers leave when their task is completed, while others will stay until they are asked to leave.	従者の中には任務が終わると去る者もいれば、去るよう求められるまで残る者もいます。
+Followers will join according to your heroic reputation, relevant skill, destiny type, and total follower amount.	追随者は、あなたの英雄的な評判、関連するスキル、運命の種類、追随者の総数に応じて加わります。
+Along with combat, conversations are where most of the events in play happen.	戦闘とともに、プレイ中の出来事の多くは会話の中で起こります
+The words of people that are talking to you will be highlighted.	あなたに話しかけている人の言葉は強調表示されます。
+The [C:3:0:1]Judge of Intent[C:7:0:0] skill can help you keep tabs on the other speaker's mood.	[C:3:0:1]意図の看破[C:7:0:0]スキルは、相手の話し手の気分を把握するのに役立ちます。
+But this is only the beginning.	しかし、これはまだ始まりにすぎません。
+Ultimately, your true goals are up to your imagination.	最終的に、あなたの真の目標はあなたの想像力次第です。
+Call visitors from all over the world with the greatest tavern, library, or temple the world has ever known.	世界がこれまで知る中で最も素晴らしい酒場、図書館、神殿で、世界中から訪問者を呼び寄せましょう
+Build an elaborate water-powered contraption or domesticate previously untameable wild beasts.	精巧な水力装置を作ったり、これまで手なずけられなかった野獣を飼い慣らしたりしましょう
+Settle in unliveable regions tormented by ancient evils and defend your fortress from zombies with your own army of vampires.	古の邪悪に苦しめられる住めない地域に入植し、自分の吸血鬼の軍勢で、ゾンビから要塞を守りましょう
+Your exploits will be recorded for Legends mode and by the master engravers in subsequent fortresses in your world.	あなたの功績は伝説モードのために記録され、世界の後続の要塞の名匠彫刻師にも記録されます。
+Most adventurers have three principle needs: food, water, and sleep.	多くの冒険者には、食料、水、睡眠という三つの主な欲求があります。
+Food can be obtained in towns, from the environment, or by butchering corpses with a sharp object.	食料は町で入手するか、周囲の環境から、または鋭い道具で死体を解体して得られます。
+You can find water in wells in towns, or in rivers.	水は町の井戸や川で得られます。
+Salt and brackish waters are not safe for drinking.	塩水や汽水は飲用に適しません。
+Alcohol is also sufficient but may not be as easy to come by as it is in a fortress.	酒でも十分ですが、要塞ほど簡単には手に入らないかもしれません。
+You can sleep using the sleep option in either local play or travel mode.	ローカルプレイまたは移動モードのどちらでも、睡眠のオプションを使って眠ることができます。
+If you have party members or followers, they will take turns keeping watch and reducing the chance of ambush.	パーティーメンバーや追随者がいれば、交代で見張りをして待ち伏せの可能性を減らします。
+You also have needs according to your personality as seen in character creation and on your character sheet.	また、キャラクター作成時やキャラクターシートに見られるように、性格に応じた欲求があります。
+If your needs aren't met, you won't perform quite as well in most situations.	要求が満たされないと、ほとんどの状況でうまく振る舞えなくなります
+Combat with any creature will put you in immediate peril.	どの生物との戦闘も、すぐに危険な状況に陥らせます
+The three main methods of attacking are striking, wrestling, and shooting.	攻撃の主な三つの方法は、打撃、組み技、射撃です。
+Your retired and abandoned fortresses are available to visit, if you can remember where to find them.	引退させた要塞や捨てた要塞は、場所を覚えていれば訪ねられます。
+You don't always need to be slain in combat or starve to death.	戦闘で討たれたり飢え死にしたりする必要は必ずしもありません。
+If you are in a friendly community, you can retire there.	友好的な共同体にいるなら、そこで引退することもできます。
+Retired adventurers will continue their travels, and might show up in a future fortress or be hired by a future adventuring party.	引退した冒険者は旅を続け、将来の要塞に現れたり、将来の冒険者の一行に雇われたりすることがあります
+You can also unretire characters directly if they are still alive.	生きているキャラクターは、直接引退から復帰させることもできます
+Before you begin your travels, we'll familiarize you with the basic controls.	旅を始める前に、基本的な操作を説明します。
+Your view is focused on one elevation at a time.	視点は一度に一つの高度に焦点を合わせます。
+To move the camera around, hold the middle mouse button and drag the view.	カメラを動かすには、中ボタンを押したままビューをドラッグしてください。
+To change the camera's elevation, [C:2:0:1]roll the mouse wheel[C:7:0:0].	カメラの高度を変えるには、[C:2:0:1]マウスホイールを回してください[C:7:0:0]。
+When your view is in the air above other tiles, you can usually see them below.	視点が他のタイルの上空にあるとき、通常は下のタイルを見ることができます。
+If you are indoors or in a cavern, your view might be blocked by the ceiling.	屋内や洞窟にいる場合、天井に視界を遮られることがあります。
+The view is dark underground.	地下では視界が暗くなります。
+Trading and bartering happen during conversation.	交易と物々交換は会話の中で行われます。
+Trading occurs in shops and bartering happens in every other context.	交易は店で行われ、物々交換はそれ以外のあらゆる場面で行われます。
+Trading is very similar to trading with a [C:5:0:1]Broker[C:7:0:0] in Fortress mode.	交易は、要塞モードで[C:5:0:1]取引係[C:7:0:0]と行う交易にとてもよく似ています。
+Then select the items you'd like to trade, and see if you're successful.	次に、交易したいアイテムを選び、うまくいくか確かめてください
+In Adventure mode, currency plays a role.	冒険モードでは、通貨が役割を果たします。
+Other currencies can be traded as regular items.	ほかの通貨は、通常のアイテムとして交易できます
+You might receive change in the currency of the realm.	領域の通貨でお釣りを受け取ることがあります
+There are several types of quests or quest-adjacent tasks that can be received during conversation or from a deity.	会話中や神から受けられる、クエストまたはそれに類する任務はいくつかの種類があります。
+If you are a member of a hearth (a hearthperson), you can speak to your leader to receive an order.	炉辺の民（ハースパーソン）の一員であれば、指導者に話しかけて命令を受けられます。
+If you speak to a priest at a temple or select the Chosen destiny, you might receive a divine quest.	神殿で司祭に話しかけるか、「選ばれし運命」を選ぶと、神からのクエストを受けるかもしれません。
+For instance, you could rescue a kidnapped child or slay a dragon in order to be recognized as a hero.	例えば、誘拐された子供を救ったり、ドラゴンを倒したりして、英雄として認められることもできます。
+In order to receive recognition for your accomplishments, you must tell the relevant people about them.	功績を認めてもらうには、関係者にそれを伝えなければなりません。
+You can also flying to other altitudes by left/right clicking while the camera is adjusted.	カメラを調整しているときに左/右クリックすると、他の高度へ飛ぶこともできます。
+This can be used to view your injuries, skills and needs.	ここで傷の具合、技能、欲求を見られます。
+Your character generally starts with a variety of local knowledge, including a few places to have an adventure.	キャラクターは初めから、冒険の手がかりになる場所をいくつか含め、土地のさまざまな知識を持っています。
+You can also speak to locals and inquire about their troubles.	地元の人々に話しかけて、その悩みを尋ねることもできます。
+In particular, this is an easy way to pick things up.	とくに、物を拾うのはこの方法が手軽です。
+Right click on people to initiate conversations.	人を右クリックすると会話を始められます。
+People can share troubles they'd like your help with, and you can also trade with shopkeepers or barter with most others.	人々は力を貸してほしい悩みを打ち明けてくれます。店主とは売買ができ、それ以外の相手とも大抵は物々交換ができます。
+Conversations, like movement, take place over time.	会話は移動と同様に時間をかけて行われます。
+If you engage in a conversation, you'll generally wait for a reply before you can act again.	会話に参加すると、通常は返答を待ってから次の行動ができます。
+Hunting is an important way to get food.	狩りは食べ物を得る大切な手段です。
+The base game has limited crafting.	素のゲームでは物作りはごく限られています。
+You can strike, wrestle, or shoot to engage in combat.	殴る、組み付く、または射撃して戦闘に入れます。
+You can also throw objects in your inventory.	持ち物の品を投げることもできます。
+If the conflict has not reached a No Quarter state, your opponent should stand down.	戦いが「情け容赦なし」の段階に達していなければ、相手は手を引いてくれるはずです。
+Every creature in adventure mode moves simultaneously.	冒険モードではすべての生き物が同時に動きます。
+Once you initiate movement, play will advance until you can move again.	移動を開始すると、再び移動できるようになるまでゲームが進みます。
+The duration of movement depends on gait, injuries, etc.	移動の所要時間は歩容や負傷などによって異なります。
+The easiest way to move is to left click in the play area.	移動する最も簡単な方法は、プレイエリアを左クリックすることです。
+Your character will path to the target tile if possible.	可能であれば、キャラクターは目標のタイルへ進みます。
+If you right click in the play area, you'll open a context-sensitive menu of actions.	プレイエリアを右クリックすると、状況に応じた行動メニューが開きます。
+This lets you select a destination more carefully.	これにより、目的地をより慎重に選べます。
+It's very important to note that only one creature can be standing in a tile at a time.	タイルには一度に一体の生き物しか立てないことに注意してください。
+If you see brown downward triangles under your character, you will move very slowly and should try to stand if you are able.	キャラクターの足元に茶色の下向きの三角が見える場合、動きが非常に遅くなります。可能なら立ち上がるようにしてください。
+This menu will also show you how stealthfully you are moving.	このメニューでは、どれだけ目立たずに動いているかも表示されます。
+Here you can interact with the objects you are carrying.	ここでは携帯している物品を操作できます。
+Items can be dropped, worn, eaten, thrown, named, etc.	物品は落とす、身につける、食べる、投げる、名前を付けるなどができます。
+The icon tooltips describe your options for each item.	アイコンのツールチップで、各物品の選択肢を確認できます。
+Inventory items are all worn, held, in containers, or otherwise related to specific body parts.	持ち物はすべて、身に着けているもの、手に持っているもの、容器に入っているもの、またはそのほか特定の体の部位に関係するものです。
+There is no abstract inventory space.	抽象的な持ち物の空間はありません。
+If you are carrying too much, you'll see an encumbrance indicator above the inventory button.	持ち物が多すぎると、持ち物ボタンの上に荷重表示が出ます。
+Encumbrance can cause you to move very slowly and should be avoided if possible.	荷重は極端に動きを遅くするため、可能な限り避けるべきです。
+This is the movement options menu.	ここは移動オプションのメニューです。
+Here you can choose your gait and see your current stealth profile.	ここでは歩き方を選んだり、現在の隠密性を確認したりできます。
+Moving quickly costs energy.	素早く動くにはエネルギーを消費します。
+You'll begin to move slowly or even collapse if you sprint for too long.	長く全力疾走すると、動きが遅くなり、倒れることさえあります。
+If a gait has two numbers, the first number is the starting speed for the gait, and the second is the maximum speed.	歩容に数字が二つある場合、最初の数字はその歩容の開始速度、二つ目は最高速度です。
+Continue moving in the same direction to build up speed.	同じ方向に動き続けて速度を上げましょう。
+If you or your mount are moving quickly, your attacks gain velocity.	あなた自身または騎獣が速く移動していると、攻撃に勢いが加わります。
+This is the hold and climb menu.	これはしがみつき・登攀のメニューです。
+You can climb trees.	木に登れます。
+First you must establish a hold with a free grasp.	まず空いている手で掴まり、足場を確保しなければなりません。
+Then you can continue to move up into the air, while maintaining a hold on an adjacent tile.	その後、隣接するタイルへの掴まりを保ったまま、空中へ登り続けられます。
+If you climb atop certain large branches, you can walk on them freely.	特定の大きな枝に登ると、自由に歩き回れます。
+Some surfaces like walls can be also climbed, but these require climbing skill to hold reliably.	壁のような一部の表面も登れますが、確実につかまるには登攀技能が必要です。
+You can jump while climbing, and you can also release your hold.	よじ登りながらジャンプしたり、掴んだ手を離したりできます。
+In these ways, you might reach areas you can't otherwise reach.	こうすることで、他では届かない場所に行けるかもしれません。
+The hold menu also allows you to lead and mount pets.	拘束メニューでは、ペットを率いたり騎乗させたりできます。
+You can claim stray animals as pets here too.	ここで迷い動物をペットとして引き取ることもできます。
+To name your new pets, use the talk menu.	新しいペットに名前を付けるには、会話メニューを使ってください。
+You can also demand your opponent yield using a conversation option.	会話の選択肢を使って、相手に降伏を要求することもできます。
+If your weapons are drawn and you aren't a local soldier, people may panic.	武器を抜いたままで、その土地の兵でもなければ、人々は怯えて騒ぎ出すかもしれません。
+This is the companion menu.	これは仲間メニューです。
+Here you'll see a list of party members, companions, and pets, along with their general location if you know it.	ここには、パーティーのメンバー、仲間、ペットの一覧が、わかっていればおおよその位置とともに表示されます。
+You can assume control of party members.	パーティーメンバーを操作できます。
+Companions who join you later in the journey can't generally be controlled manually.	旅の途中で加わった仲間は、通常は手動で操作できません。
+You can also set whether a party member will be controlled manually during tactical mode, or whether they'll be controlled by the computer.	戦術モード中に仲間を手動で操作するか、コンピューターに操作させるかを設定することもできます。
+In tactical mode, you can control every party member manually if you wish, allow you to coordinate movements and attack with more precision.	戦術モードでは、希望すればすべてのパーティメンバーを手動で操作し、より正確に動きや攻撃を連携させることができます
+Tactical mode can be set by a button near the companion mode button on the main menu if you have multiple party members.	パーティーメンバーが複数いる場合、メインメニューの仲間モードボタンの近くにあるボタンで戦術モードを設定できます。
+This is your adventurer's log.	これは冒険者の記録です。
+It functions as an encyclopedia of your known world, and also keeps track of important agreements, such as quests.	既知の世界の百科事典として機能し、クエストなどの重要な取り決めも記録します。
+In the beginning, you'll probably find it populated with a variety of rumors and knowledge known to everybody from your home.	最初は、故郷の誰もが知っているさまざまな噂や知識で満ちていることに気づくでしょう。
+This could include some opportunities for adventure.	冒険の機会も含まれるかもしれません。
+This is the inventory menu.	これは所持品メニューです。
+Any ability you possess that doesn't fit elsewhere will appear here.	ほかの項目に当てはまらない能力は、ここに表示されます。
+For instance, many creatures can spit or pet animals.	たとえば、多くの生物は唾を吐いたり、動物を撫でたりできます。
+Others can breathe fire.	ほかには火を吐けるものもいます。
+Some abilities, like the flight of winged creatures, can just be used during regular movement without needing this menu.	翼を持つ生き物の飛行のような一部の能力は、このメニューを使わなくても通常の移動中に使えます。
+If you obtain any magical powers during your adventure, you will find them in this menu.	冒険中に魔法の力を得た場合、このメニューで確認できます。
+This is the attack menu.	これは攻撃メニューです。
+Here you can strike creatures with an item or body part, or you can initiate a dodge or parry movement.	ここでは物品や体の部位で生き物を攻撃したり、回避や受け流しの動きを開始したりできます。
+Attacks target specific body parts and have various modifiers.	攻撃は特定の身体部位を狙い、さまざまな補正があります。
+You will select these in the subsequent menus.	これらは次のメニューで選択します。
+There is a random element to outcomes and some body parts will be easier or harder to hit from moment to moment.	結果には偶然の要素があり、身体部位によっては、その時々で命中させやすさが変わります
+However, skill is the most important determiner of hits versus misses.	しかし、命中か外れかを最も大きく決めるのは技能です。
+Once a strike hits, the materials and velocity are used to determine the damage.	攻撃が命中すると、素材と速度によってダメージが決まります。
+Skill and item quality can help with this, but sometimes it's just not possible to damage a target material with a weaker material.	技術とアイテムの品質はこれを助けますが、弱い素材では対象の素材にダメージを与えられない場合もあります
+For this reason, it's important to obtain better equipment when you can.	そのため、可能なときにより良い装備を手に入れることが大切です
+This is the wrestling menu.	これは組み打ちメニューです。
+Here you can grab creatures and then execute a variety of wrestling moves.	ここでは生き物を掴み、様々な組み技を実行できます。
+You can also initiate defensive actions here.	防御行動もここから開始できます。
+Wrestling involves specific attacking body parts and specific target body parts.	組み技では、攻撃する特定の身体部位と、狙う特定の身体部位が関わります。
+You can grab creatures with your grasps and limbs, and both the target and attacking part determine which wrestling moves are available.	つかむ動作と手足で生き物を掴めます。標的と攻撃する部位の両方によって、使える組み技が決まります。
+Relative body size is the most important determiner of wrestling outcomes.	組み技の勝敗を最も大きく左右するのは、相対的な体の大きさです。
+A character's wrestling skill is also important.	キャラクターの組み技の技能も重要です。
+This is the conversation menu.	これは会話メニューです。
+Conversations occur over time, like movements and attacks.	会話は、動きや攻撃と同じように時間をかけて行われます。
+When speaking to somebody, you'll choose what to say, and then time will pass while you are speaking and waiting for a reply.	誰かに話しかけるとき、何を言うかを選ぶと、話している間と返事を待つ間に時間が過ぎます。
+There are many conversation options.	会話の選択肢はたくさんあります。
+You can also ask anybody to join you, but many people will be shy of danger.	誰にでも同行を頼めますが、危険を恐れて尻込みする人も多いでしょう。
+This is the performance menu.	ここは演技メニューです。
+Here you can initiate a poetry recital, tell a story, dance, sing, or play a musical instrument.	ここでは詩の朗読を始めたり、物語を語ったり、踊ったり、歌ったり、楽器を演奏したりできます。
+You can also compose poems, songs, and choreography if you know a relevant art form.	関連する芸術形式を知っていれば、詩、歌、振付も作曲できます。
+Performance occur over a period of time related to the specific art form or piece.	演奏は、その芸術形式や作品に応じた期間をかけて行われます。
+You can interrupt the performance as it unfolds, commit to finishing it and wait for its completion, or continue in steps.	進行中に演奏を中断したり、最後まで演奏して完了を待ったり、段階的に続けたりできます。
+Compositions take more time, and you'll pass through a period of time similar to sleeping, resting, and traveling.	作曲にはより多くの時間がかかり、睡眠、休息、移動に似た時間が過ぎます。
+This is the butchering and crafting menu.	これは解体・製作メニューです。
+Butchering requires a sharp-edged weapon or tool, as well as a butcherable carcass.	解体には刃のある武器または道具と、解体可能な死骸が必要です。
+Butchering is an excellent source of meat.	解体は肉を得る優れた手段です。
+The other products cannot currently be used.	その他の産物は現在使えません。
+Crafting in the base game is limited to constructing a stone axe necessary to fell trees.	基本ゲームの製作は、木を切り倒すために必要な石斧を作ることに限られます。
+You can pick up few rocks and a tree branch to get started.	最初は、いくつかの石と木の枝を拾うことができます。
+This is the abilities menu.	これは能力メニューです。
+It's also generally wise to try to sleep in friendly places, but you might need to obtain permission.	また、友好的な場所で眠るようにするのが一般的に賢明ですが、許可を得る必要がある場合もあります
+Unless you are very skilled, you should not attempt to wrestle larger creatures, and you should try to avoid being grabbed by them.	非常に熟練していない限り、大型の生物とレスリングしようとしてはいけません。また、掴まれないように注意してください
+This is the projectile aiming menu.	ここは発射物の照準メニューです。
+You can shoot projectiles with a launcher like a bow or crossbow, and you can throw almost any object that you are carrying in a grasp.	弓やクロスボウのような発射器で発射物を撃つことができ、手に持っているほぼあらゆる物を投げることもできます。
+Be warned that shooting a projectile currently has a long recovery time, so you may be subject to attack after you fire.	注意：現在、発射物を撃つと回復に長い時間がかかるため、射撃後に攻撃を受けるおそれがあります。
+Friendly fire isn't currently possible, so your companions should be safe.	現在、味方への誤射は起こらないので、仲間は安全なはずです。
+This is travel mode.	これは旅行モードです。
+Here you can travel great distances without having to move in the local mode.	ここでは、現地モードで動き回らずに長距離を移動できます。
+You still become thirsty, hungry, and drowsy while traveling.	移動中も喉が渇き、空腹になり、眠くなります。
+You are also still subject to attack or ambush, though you can see certain groups on the map and may be able to avoid them.	また、地図上で特定の集団が見えて避けられることもありますが、依然として襲撃や待ち伏せを受ける可能性があります。
+You can stop traveling using the stop travel button below or by pressing .	下の旅の中止ボタンか、キーを押すと旅を中止できます。
+This is the sleep menu.	これは睡眠メニューです。
+Here you can sleep to overcome drowsiness or wait to pass time.	ここでは眠気を解消するために眠るか、時間が経つのを待つことができます。
+If you have multiple party members, your chances of being ambushed will be greatly reduced.	パーティーに複数のメンバーがいれば、待ち伏せされる可能性は大きく減ります。

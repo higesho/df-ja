@@ -1,0 +1,163 @@
+Ask to join The Silver Hills	The Silver Hillsに加わりたいと申し出る
+Ask to become a hearthperson	炉辺の民にしてほしいと頼む
+Ask for directions to Dolmebsoful	Dolmebsofulへの道を尋ねる
+Ask for the whereabouts of Urist McDwarf	Urist McDwarfの居場所を尋ねる
+Ask the listener for the location of the copper short sword	相手に銅の短剣の場所を尋ねる
+Ask listener to adopt the cat	相手に猫を引き取るよう頼む
+Ask about Urist McDwarf	Urist McDwarfについて尋ねる
+Inquire about any troubles	問題がないか尋ねる
+Request a guide to Dolmebsoful	Dolmebsofulへの案内を頼む
+Request duty or advice pertaining to service as a hearthperson	炉辺の民としての務めや助言を求める
+Give report pertaining to service as a hearthperson	炉辺の民としての務めについて報告する
+Suggest traveling to Dolmebsoful	Dolmebsofulへ行くよう勧める
+Suggest talking to Urist McDwarf	Urist McDwarfに話を聞くよう勧める
+Suggest that the listener trade the copper short sword	相手に銅の短剣の取引を持ちかける
+Tell listener about the dragon	相手にドラゴンについて話す
+Bring up the death of Urist McDwarf	Urist McDwarfの死について切り出す
+Bring up the reunion of Urist McDwarf	Urist McDwarfの再会について切り出す
+Bring up your reunion with Urist McDwarf	Urist McDwarfとの再会について切り出す
+Express astonishment at seeing Urist McDwarf	Urist McDwarfに出会えた驚きを伝える
+Provide directions to Dolmebsoful	Dolmebsofulへの道を教える
+Provide the location of the copper short sword	銅の短剣の場所を教える
+Provide the whereabouts of Urist McDwarf	Urist McDwarfの居場所を教える
+Spread rumor of your possession of the copper short sword	銅の短剣を持っているという噂を広める
+Spread rumor of your lack of possession of the copper short sword	銅の短剣を持っていないという噂を広める
+Spread rumor of the abduction of Urist McDwarf	Urist McDwarfの誘拐の噂を広める
+Spread rumor of the occupation of Dolmebsoful	Dolmebsofulの占領の噂を広める
+Spread rumor of your reunion with Urist McDwarf	Urist McDwarfとの再会の噂を広める
+Summarize your views on The Silver Hills	The Silver Hillsについての考えをまとめて話す
+Summarize your views on the opposition to The Silver Hills	The Silver Hillsへの反対についての考えをまとめて話す
+Summarize the hold of The Silver Hills	The Silver Hillsの支配についてまとめて話す
+Summarize the local disposition of the forces of The Silver Hills	この地のThe Silver Hillsの軍勢の配置をまとめて話す
+Accept invitation to join The Silver Hills	The Silver Hillsに加わる誘いを受ける
+Accept invitation to become a hearthperson	炉辺の民になる誘いを受ける
+Refuse invitation to join The Silver Hills	The Silver Hillsに加わる誘いを断る
+Refuse invitation to become a hearthperson	炉辺の民になる誘いを断る
+Refuse request to join The Silver Hills	The Silver Hillsに加わりたいという願いを断る
+Refuse request to become a hearthperson	炉辺の民にしてほしいという願いを断る
+Invite listener to join The Silver Hills	相手をThe Silver Hillsに誘う
+Invite listener to become a hearthperson	相手を炉辺の民に迎えたいと誘う
+Grant listener work as a mercenary	相手に傭兵の仕事を与える
+Refuse listener work as a mercenary	相手に傭兵の仕事を与えない
+Revoke listener's status as a hearthperson	相手の炉辺の民の地位を取り上げる
+Kick listener out of The Silver Hills	相手をThe Silver Hillsから追い出す
+Offer listener your position as lord	領主の地位を相手に譲ると申し出る
+Offer peace between The Silver Hills	The Silver Hillsの間の和平を申し出る
+Agree to make peace between The Silver Hills	The Silver Hillsの間の和平に同意する
+Refuse to make peace between The Silver Hills	The Silver Hillsの間の和平を断る
+Cancel tribute from The Silver Hills	The Silver Hillsからの貢納を取りやめる
+Demand tribute from The Silver Hills	The Silver Hillsに貢納を要求する
+Demand that the listener drop the copper short sword	相手に銅の短剣を置いていくよう要求する
+Accept that the listener will not trade the copper short sword	相手が銅の短剣を取引しないことを受け入れる
+Claim this site for yourself and The Silver Hills	この拠点を自分とThe Silver Hillsのものだと宣言する
+Discuss the missing artifact Shadowbane	失われた秘宝Shadowbaneについて話す
+Lay quest to retrieve Shadowbane	Shadowbaneを取り戻す使命を課す
+Praise for returning Shadowbane	Shadowbaneを取り戻したことを称える
+Describe the refugees created by the attack of The Silver Hills	The Silver Hillsの襲撃で生まれた避難民について話す
+Summarize the conflict in which The Silver Hills	The Silver Hillsの争いについてまとめて話す
+Charge to serve lord	領主に仕えるよう命じる
+Give an order based on the hearth	炉辺団に基づいて命令を下す
+Search first in Dolmebsoful	まずDolmebsofulを探す
+Seek out the dragon	ドラゴンを探し出す
+Recommend the tavern	酒場を薦める
+Rent room for 1 day	部屋を1日借りる
+Extend room rental for 1 day	部屋の借り受けを1日延ばす
+Continue conversation with Urist McDwarf	Urist McDwarfとの会話を続ける
+Go into hiding	身を隠す
+Drive any members of The Silver Hills	The Silver Hillsの者を追い払う
+Accept as a hearthperson	炉辺の民として受け入れる
+Accept into The Silver Hills	The Silver Hillsへ受け入れる
+Ask for water	水を求める
+Put on a copper helm	銅の兜を身に着ける
+Put in the backpack	背嚢に入れる
+Put or place the copper short sword	銅の短剣を置く・しまう
+Put the copper short sword	銅の短剣を置く
+Wear a copper mail shirt	銅の鎖帷子を着る
+Get a copper short sword	銅の短剣を取る
+Remove a copper helm	銅の兜を外す
+Throw a copper short sword	銅の短剣を投げる
+Throw at the goblin	ゴブリンに投げる
+Throw by the right hand	右手で投げる
+Shoot the goblin	ゴブリンを撃つ
+Quickly shoot the goblin	素早くゴブリンを撃つ
+Quickly throw at the goblin	素早くゴブリンに投げる
+Aim carefully and shoot the goblin	狙いを定めてゴブリンを撃つ
+Aim carefully and throw at the goblin	狙いを定めてゴブリンに投げる
+Climb to the north	北へ登る
+Jump to the north	北へ跳ぶ
+Move to the north	北へ移動する
+Ride the horse	馬に乗る
+Dismount to the north	北へ降りる
+Hang from the branch	枝にぶら下がる
+Release hold on the branch	枝から手を離す
+Stop leading the horse	馬を連れるのをやめる
+Topple the goblin	ゴブリンを倒す
+Bash down the door	扉を打ち破る
+Break in the door	扉を破って入る
+Name the dog	犬に名を付ける
+Heat the copper short sword	銅の短剣を熱する
+Fill the waterskin	水袋を満たす
+Suck the blood	血を吸う
+Wrestle using the right hand	右手で組みつく
+Take-down by the right hand	右手で引き倒す
+Gain possession of the copper short sword	銅の短剣を奪い取る
+Break grip of the right hand	右手の掴みを振りほどく
+Release grip of the right hand	右手の掴みを離す
+Loosen joint lock of the right arm	右腕の関節固めを緩める
+Release joint lock of the right arm	右腕の関節固めを解く
+Loosen choke of the throat	喉の締めを緩める
+Release choke of the throat	喉の締めを解く
+Grabbed your right hand	あなたの右手を掴んでいる
+Grabbed their right hand	相手の右手を掴んでいる
+Both holding the copper short sword	双方が銅の短剣を掴んでいる
+Pinch the nose	鼻をつまむ
+Gouge the eye	目をえぐる
+Lock the right arm	右腕を関節固めする
+Choke the throat	喉を締める
+Shake the right arm	右腕を揺さぶる
+Strangle the throat	喉を絞める
+You put on a copper helm	銅の兜を身に着けた
+You take off a copper helm	銅の兜を外した
+You drop a copper short sword	銅の短剣を落とした
+You eat the plump helmet	プランプヘルメットを食べた
+You drink the dwarven wine	ドワーフのワインを飲んだ
+You lick the copper short sword	銅の短剣を舐めた
+You empty the waterskin	水袋を空にした
+You put the copper short sword	銅の短剣を置いた
+You pack the copper short sword	銅の短剣を詰めた
+You take out the copper short sword	銅の短剣を取り出した
+You strap the shield	盾を背負った
+You pull out the copper short sword	銅の短剣を引き抜いた
+You read the book	本を読んだ
+You fill your waterskin	水袋を満たした
+You heat the copper short sword	銅の短剣を熱した
+You prepare to shoot the bow	弓を撃つ構えを取った
+You cease nocking the arrow	矢をつがえるのをやめた
+You begin to throw the copper short sword	銅の短剣を投げ始めた
+You fail to grab the goblin	ゴブリンを掴み損ねた
+You do not have a free grasp for the copper short sword	銅の短剣を持つための手が空いていない
+You don't have any ammunition for the bow	弓に使える弾がない
+It won't fit in your backpack	背嚢には入らない
+Where do you put the copper short sword	銅の短剣をどこに置きますか
+What will you do with the copper short sword	銅の短剣をどうしますか
+You've found a colony of honey bees	ミツバチの群れを見つけました
+You've located a cave	洞窟を見つけました
+You have discovered a cave	洞窟を発見しました
+You already know the will of Armok	Armokの意思はすでに知っています
+You cannot travel through the mountains	山岳を通り抜けては行けません
+Put on	身に着ける
+Put in	入れる
+Throw at	投げる
+Throw by	投げる
+Adventure: Get Date	冒険「日付を見る」
+Adventure: Get Weather	冒険「天候を見る」
+Adventure: Inv. Wear	冒険「持ち物を身に着ける」
+Adventure: Inv. Put In	冒険「持ち物をしまう」
+Ask to be made a performer for The Fellowship of Straws	The Fellowship of Strawsの演者にしてほしいと頼む
+Ask to be made a tavern keeper for The Fellowship of Straws	The Fellowship of Strawsの酒場の主人にしてほしいと頼む
+Ask to be made a monster slayer for The Fellowship of Straws	The Fellowship of Strawsの怪物殺しにしてほしいと頼む
+Ask to be rescued	救出を頼む
+What will you do with 	どうしますか？ 対象: 
+Where do you put 	どこに置きますか？ 対象: 
+Really attack 	本当に攻撃しますか？ 相手: 
+Ask to be made a performer	演者にしてほしいと頼む
