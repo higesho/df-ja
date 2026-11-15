@@ -22,6 +22,23 @@ pub static mut SCREEN: Screen = Screen::new();
 #[static_init::dynamic]
 pub static mut SCREEN_TOP: Screen = Screen::new();
 
+/// ゲームがこの回に画面を組み立て直したか。
+///
+/// ゲームは「描画フレーム」（G_FPS_CAP）ごとに画面を出すが、画面を組み立て直す
+/// （文字を描く関数を呼ぶ）のは、処理（FPS_CAP）が1回以上進んだ回だけ。
+/// 組み立て直しの無い回は、前の回の内容をそのまま出さないと文字だけが消える。
+/// 逆に、組み立て直したのに何も描かれなかった層は、本当に空になったので消す。
+/// 描画のフックが1つでも呼ばれたら「組み立て直した」とみなす
+static FRESH: std::sync::atomic::AtomicBool = std::sync::atomic::AtomicBool::new(false);
+
+pub fn mark_fresh() {
+  FRESH.store(true, std::sync::atomic::Ordering::Relaxed);
+}
+
+pub fn take_fresh() -> bool {
+  FRESH.swap(false, std::sync::atomic::Ordering::Relaxed)
+}
+
 /// 画面に描いた内容を表す数。同じならテクスチャを作り直さなくてよい
 fn mix(hash: &mut u64, value: u64) {
   *hash = (*hash ^ value).wrapping_mul(0x100000001b3);
@@ -129,6 +146,28 @@ impl Screen {
     self.frame_hash = 0;
     self.frame_rect = None;
     self.uploaded_hash = u64::MAX;
+  }
+
+  /// 描く前の後始末。ゲームが画面を組み立て直した回（fresh）なのに、この層には
+  /// 何も描かれなかったなら、この層は空になった（ツールチップが消えたなど）。
+  /// 前の内容を残すと消えたはずの文字が居残るので、ここで消す
+  pub fn settle(&mut self, fresh: bool) {
+    if !fresh || self.drew_this_frame || self.canvas_ptr == 0 {
+      return;
+    }
+    if !self.needs_clear && self.frame_hash == 0 {
+      return; // もう空
+    }
+    self.needs_clear = false;
+    self.frame_hash = 0;
+    self.frame_rect = None;
+    unsafe {
+      let canvas = self.canvas_ptr as *mut sdl::SDL_Surface;
+      sdl::SDL_FillRect(canvas, ptr::null(), 0);
+    }
+    for (_, (ptr, _)) in self.prev.drain() {
+      unsafe { sdl::SDL_FreeSurface(ptr as *mut sdl::SDL_Surface) };
+    }
   }
 
   /// この回で最初に描くときに、前の回の内容を消す

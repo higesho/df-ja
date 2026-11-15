@@ -180,6 +180,7 @@ fn wrap_lines(out: usize, src: usize, width: i32) {
 /// 訳せたら、先頭の文字の色で訳文を描き、元の関数には同じ幅の空白を渡してカーソルを進める
 #[hook]
 fn addcoloredst(gps: usize, str_address: usize, color_address: usize) {
+  screen::mark_fresh();
   let bytes = unsafe { std::ffi::CStr::from_ptr(str_address as *const std::ffi::c_char) }.to_bytes();
   if bytes.is_empty() || color_address == 0 {
     unsafe { original!(gps, str_address, color_address) };
@@ -320,6 +321,7 @@ const JUSTIFY_RIGHT: u8 = 2;
 
 #[hook]
 fn addst(gps: usize, string_address: usize, just: u8, space: i32) {
+  screen::mark_fresh();
   if let Some(width) = draw_paragraph_word(gps, string_address, false) {
     let dummy_ptr = new_cxxstring_n_chars(width, ' ' as u8);
     unsafe { original!(gps, dummy_ptr, just, space) };
@@ -359,6 +361,7 @@ fn addst(gps: usize, string_address: usize, just: u8, space: i32) {
 
 #[hook]
 fn addst_flag(gps: usize, string_address: usize, just: u8, space: i32, sflag: u32) {
+  screen::mark_fresh();
   if let Some(width) = draw_paragraph_word(gps, string_address, false) {
     let dummy_ptr = new_cxxstring_n_chars(width, ' ' as u8);
     unsafe { original!(gps, dummy_ptr, just, space, sflag) };
@@ -386,6 +389,7 @@ fn addst_flag(gps: usize, string_address: usize, just: u8, space: i32, sflag: u3
 
 #[hook]
 fn top_addst(gps: usize, string_address: usize, just: u8, space: i32) {
+  screen::mark_fresh();
   if let Some(width) = draw_paragraph_word(gps, string_address, true) {
     let dummy_ptr = new_cxxstring_n_chars(width, ' ' as u8);
     unsafe { original!(gps, dummy_ptr, just, space) };
@@ -415,12 +419,14 @@ fn top_addst(gps: usize, string_address: usize, just: u8, space: i32) {
 /// 文字列ではなく1文字ずつこの関数で描かれるので、文字のタイルを空白に差し替えて訳を描く（tabs.rs）
 #[hook]
 fn add_tile(gps: usize, texpos: u32, a3: u32, a4: u32, width: u32, height: u32, color: u8) {
+  screen::mark_fresh();
   let texpos = tabs::TABS.write().on_tile(gps, texpos).unwrap_or(texpos);
   unsafe { original!(gps, texpos, a3, a4, width, height, color) };
 }
 
 #[hook]
 fn draw_nineslice(texpos: usize, sy: i32, sx: i32, ey: i32, ex: i32, flag: u8) {
+  screen::mark_fresh();
   unsafe { original!(texpos, sy, sx, ey, ex, flag) };
   if flag & 1 == 1 {
     let cover = screen::Cover::new(sx, sy, ex, ey);
@@ -430,6 +436,7 @@ fn draw_nineslice(texpos: usize, sy: i32, sx: i32, ey: i32, ex: i32, flag: u8) {
 
 #[hook]
 fn draw_horizontal_nineslice(texpos: usize, sy: i32, sx: i32, ey: i32, ex: i32, flag: u8) {
+  screen::mark_fresh();
   unsafe { original!(texpos, sy, sx, ey, ex, flag) };
   if flag & 1 == 1 {
     let cover = screen::Cover::new(sx, sy, ex, ey);
@@ -465,18 +472,47 @@ fn gps_allocate(renderer: usize, x: i32, y: i32, screen_x: u32, screen_y: u32, t
 /// 右下のタイルのほうが先に来たときはそちらで描いて二重描きを避ける。
 static SCREEN_DRAWN: std::sync::atomic::AtomicBool = std::sync::atomic::AtomicBool::new(false);
 
+/// この回にゲームが画面を組み立て直したか（update_all の入口で確定させる）
+static FRAME_FRESH: std::sync::atomic::AtomicBool = std::sync::atomic::AtomicBool::new(false);
+
+/// 画面の大きさ（タイル数）の置き場所。タイルごとに呼ばれる所で名前から引き直すと遅いので、1回だけ引く
+fn gps_dim() -> &'static df::common::Dimension<i32> {
+  static ADDR: std::sync::OnceLock<usize> = std::sync::OnceLock::new();
+  let addr = *ADDR.get_or_init(|| *df::globals::GPS + offsets::FIELDS.get("gps.dimx").unwrap());
+  df::common::Dimension::borrow(addr)
+}
+
 fn render_screen(renderer: usize) {
   if SCREEN_DRAWN.swap(true, std::sync::atomic::Ordering::Relaxed) {
     return;
   }
+  let fresh = FRAME_FRESH.load(std::sync::atomic::Ordering::Relaxed);
   tabs::TABS.write().flush();
-  screen::SCREEN.write().render(renderer);
-  screen::SCREEN.write().clear();
+  let mut screen = screen::SCREEN.write();
+  screen.settle(fresh);
+  screen.render(renderer);
+  screen.clear();
 }
 
 #[hook]
 fn update_all(renderer: usize) {
   SCREEN_DRAWN.store(false, std::sync::atomic::Ordering::Relaxed);
+  // ゲームは描画フレームごとにここへ来るが、画面を組み立て直すのは処理が進んだ回だけ。
+  // 組み立て直しの無い回がどれだけあるかを残しておく（G_FPS_CAP が FPS_CAP 以上だと頻発する）
+  let fresh = screen::take_fresh();
+  FRAME_FRESH.store(fresh, std::sync::atomic::Ordering::Relaxed);
+  {
+    use std::sync::atomic::{AtomicU64, Ordering::Relaxed};
+    static TOTAL: AtomicU64 = AtomicU64::new(0);
+    static STALE: AtomicU64 = AtomicU64::new(0);
+    if !fresh {
+      STALE.fetch_add(1, Relaxed);
+    }
+    let total = TOTAL.fetch_add(1, Relaxed) + 1;
+    if total % 600 == 0 {
+      log::debug!("描画 {} 回のうち、ゲームが画面を組み立て直さなかった回: {}", total, STALE.load(Relaxed));
+    }
+  }
   unsafe { original!(renderer) };
   // DFHack はゲームの起動中に読み込まれるので、描画が始まってから割り込みを付ける
   crate::dfhack::try_attach();
@@ -485,16 +521,19 @@ fn update_all(renderer: usize) {
 
   render_screen(renderer);
 
+  // 上の層（ツールチップなど）。使われなくなった回は settle が前の内容を消す
+  let mut top = screen::SCREEN_TOP.write();
+  top.settle(fresh);
   if df::gps::top_in_use(*df::globals::GPS) {
-    screen::SCREEN_TOP.write().render(renderer);
-    screen::SCREEN_TOP.write().clear();
+    top.render(renderer);
   }
+  top.clear();
 }
 
 #[hook]
 fn update_tile(renderer: usize, x: i32, y: i32) {
   unsafe { original!(renderer, x, y) };
-  let dim = df::gps::borrow_dim(*df::globals::GPS);
+  let dim = gps_dim();
 
   // 右下のタイルまで描けたら、そこで文字の層も描く（update_all を通らない描き方への備え）
   if x == dim.x - 1 && y == dim.y - 1 {
