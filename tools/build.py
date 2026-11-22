@@ -227,7 +227,7 @@ def write_csv(path, header, rows):
 
 
 def main():
-    sources = ["overrides.tsv", "persona.tsv", "values.tsv", "prefs.tsv", "thought-causes.tsv", "bodyparts.tsv", "gems.tsv", "wiki-terms.tsv", "harvested.tsv", "ui.tsv", "ui-extra.tsv", "ui-extra2.tsv", "dfhack.tsv", "raw-descriptions.tsv", "terms.tsv", "beast-terms.tsv", "build-phrases.tsv"]
+    sources = ["overrides.tsv", "art-forms.tsv", "persona.tsv", "values.tsv", "prefs.tsv", "thought-causes.tsv", "bodyparts.tsv", "gems.tsv", "wiki-terms.tsv", "harvested.tsv", "ui.tsv", "ui-extra.tsv", "ui-extra2.tsv", "dfhack.tsv", "raw-descriptions.tsv", "terms.tsv", "beast-terms.tsv", "build-phrases.tsv"]
     ja = {}
     rank = {}  # 英語ごとの出典の優先度（小さいほど優先）
     rejected = []

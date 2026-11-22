@@ -286,6 +286,25 @@ fn load(path: &std::path::Path) -> Sentences {
 }
 }
 
+/// その世界で作られた名前（楽器の "therleth"、音階の "anam"）だけでできた語句か。
+/// 大文字を含む語・短い語・"the" などのつなぎは名前の一部として見逃し、
+/// 辞書のどこかの見出し語に出てくる小文字の語（"glowing"、"flasks"）が1つでもあれば名前ではない。
+/// 楽器・音階・リズムの名前は世界ごとに作られるので辞書に載せようがなく、
+/// これを英語とみなすと、その名前を含む文が丸ごと訳せなくなる
+fn procgen_name(s: &str) -> bool {
+  let mut found = false;
+  for bare in s.split(|c: char| !c.is_ascii_alphabetic()) {
+    if bare.len() < 3 || bare.chars().any(|c| !c.is_ascii_lowercase()) {
+      continue;
+    }
+    if crate::translator::knows_word(bare) {
+      return false;
+    }
+    found = true;
+  }
+  found
+}
+
 /// [..] のトークンを除いた英字の数
 fn alpha_count(s: &str) -> usize {
   let mut n = 0;
@@ -461,12 +480,17 @@ impl Sentences {
         return ja;
       }
     }
+    // 英語が残る訳しかできなかったときは、後ろの組み立て（compose_words）に望みをつなぐ
+    let mut weak: Option<String> = None;
     if depth < 3 {
-      if let Some(ja) = self.translate_one(t, depth + 1, false) {
+      if let Some((ja, ok)) = self.translate_one_full(t, depth + 1, false) {
         // 語句の訳に、英語に無い文末の記号が付いたら、別の文のテンプレートに当たったとみなして使わない
         let adds_punct = ja.contains(['。', '！', '？']) && !t.contains(['.', '!', '?']);
         if !adds_punct {
-          return ja;
+          if ok {
+            return ja;
+          }
+          weak = Some(ja);
         }
       }
     }
@@ -524,11 +548,25 @@ impl Sentences {
         }
       }
     }
+    // "The therleth"（冠詞 + その世界で作られた名前）は、冠詞を外して名前だけ返す
+    for art in ["The ", "the ", "A ", "a ", "An ", "an "] {
+      if let Some(rest) = t.strip_prefix(art) {
+        if !rest.contains(' ') && procgen_name(rest) {
+          return rest.to_owned();
+        }
+      }
+    }
     // 外見の語句（"very long beard"、"nearly fuse-lobed ears"）は、辞書にある語句を左から長い順につないで組み立てる
     if let Some(ja) = compose_words(t) {
       return ja;
     }
-    t.to_owned()
+    // 冠詞付き（"the graceful quarter turns"）も、冠詞を外して組み立てる
+    for art in ["the ", "a ", "an "] {
+      if let Some(ja) = t.strip_prefix(art).and_then(compose_words) {
+        return ja;
+      }
+    }
+    weak.unwrap_or_else(|| t.to_owned())
   }
 
   /// 列挙を項目ごとに訳して「、」でつなぐ。1つも訳せないとき、名前らしくない項目が訳せないとき、
@@ -695,6 +733,13 @@ impl Sentences {
 
   /// 1つの文を訳す。書き出し・本体・後ろの句を1つの正規表現でまとめて照合する（区切りの取り違えを防ぐ）
   fn translate_one(&self, sentence: &str, depth: usize, punct: bool) -> Option<String> {
+    self.translate_one_full(sentence, depth, punct).map(|(ja, _)| ja)
+  }
+
+  /// 訳と、「英語が残っていないか」。残っていても、その世界で作られた名前（楽器の "therleth"）
+  /// だけなら true。呼び出し側がもう一度 fully_translated で見ると名前を英語とみなしてしまうので、
+  /// ここで出した判定を渡す
+  fn translate_one_full(&self, sentence: &str, depth: usize, punct: bool) -> Option<(String, bool)> {
     let matcher = self.matcher.as_ref()?;
     let (body, end) = if punct { strip_end(sentence) } else { (sentence, "") };
     let mut cands: Vec<usize> = matcher.find_overlapping_iter(body).map(|m| self.keywords[m.pattern().as_usize()]).collect();
@@ -783,7 +828,13 @@ impl Sentences {
           let vals: Vec<&str> = c.iter().skip(1).map(|m| m.map(|m| m.as_str()).unwrap_or("")).collect();
           let n_pre = pre.map(|p| p.kinds.len()).unwrap_or(0);
           let n_core = core.part.kinds.len();
-          let tr = |v: &str| self.value(v, depth);
+          // 差し込みに入れた訳を覚えておく。英語のまま残ったものがあるかを後で見る
+          let left = std::cell::RefCell::new(Vec::<String>::new());
+          let tr = |v: &str| {
+            let ja = self.value(v, depth);
+            left.borrow_mut().push(ja.clone());
+            ja
+          };
           let pre_ja = pre.map(|p| p.render(&vals[0..n_pre], &tr)).unwrap_or_default();
           let suf_ja = suf.map(|s| s.render(&vals[n_pre + n_core..], &tr)).unwrap_or_default();
           let mut main = core.part.render(&vals[n_pre..n_pre + n_core], &tr);
@@ -795,14 +846,28 @@ impl Sentences {
           // 訳が {REST} の前に文末の記号を持つ（"流れは変わったか？{REST}"）と記号が重なるので、付ける前に外す
           let main = if end.is_empty() { main.as_str() } else { strip_end_ja(&main) };
           let out = format!("{pre_ja}{main}{end}");
-          if crate::translator::fully_translated(&out) {
-            return Some(out);
+          // その世界で作られた名前（楽器の "therleth"、音階の "anam"）が英語のまま残るのは、
+          // 訳せたものとして扱う。辞書に載せようがなく、英語とみなすと文ごと訳せなくなるため。
+          // 手直し（manual）のテンプレートだけに許す。自動で作ったテンプレートは差し込みの
+          // 切れ目が英単語の途中に来ることがあり（"Forge three {1} {2}" が "glowing" / "metal flasks"）、
+          // そこで英語を見逃すと誤訳が通ってしまう
+          let rest = match group.trusted {
+            true => left
+              .into_inner()
+              .iter()
+              .filter(|n| procgen_name(n))
+              .flat_map(|n| n.split(|c: char| !c.is_ascii_alphabetic()).map(|w| w.to_owned()).filter(|w| w.len() >= 3).collect::<Vec<_>>())
+              .fold(out.clone(), |s, n| s.replacen(n.as_str(), "", 1)),
+            false => out.clone(),
+          };
+          if crate::translator::fully_translated(&rest) {
+            return Some((out, true));
           }
           partial.get_or_insert(out);
         }
       }
     }
-    partial
+    partial.map(|ja| (ja, false))
   }
 
   /// 文章（複数の文、[B] などのトークンを含んでよい）を訳す。1文でも訳せたら Some
@@ -904,26 +969,26 @@ impl Sentences {
         let s = s_owned.as_str();
         let found = match split_season(s.trim()) {
           Some((plain, year, season)) => self
-            .translate_one(&plain, 0, true)
-            .map(|ja| ja.replacen(&format!("{year}年、"), &format!("{year}年の{season}、"), 1)),
-          None => self.translate_one(s.trim(), 0, true),
+            .translate_one_full(&plain, 0, true)
+            .map(|(ja, ok)| (ja.replacen(&format!("{year}年、"), &format!("{year}年の{season}、"), 1), ok)),
+          None => self.translate_one_full(s.trim(), 0, true),
         };
         // テンプレートの訳に英語が残るとき（"I am {1}." が "I am not feeling sad right now." を
         // 飲み込むような場合）は、辞書の完全一致のほうを使う。
         // 辞書にも無ければ、訳をあきらめて英文のまま残す。中途半端に訳すと語が元の位置から外れ、
         // 色の指定だけが残った読めない行になるため（ヘルプの途中で切れた文で起きていた）
         let found = match found {
-          Some(ja) if !crate::translator::fully_translated(&ja) => {
-            crate::translator::lookup_term(s.trim()).filter(|dict| crate::translator::fully_translated(dict))
-          }
+          Some((_, false)) => crate::translator::lookup_term(s.trim()).filter(|dict| crate::translator::fully_translated(dict)).map(|ja| (ja, true)),
           other => other,
         };
         // テンプレートで訳せない文は、辞書の完全一致も引く（"I'm very fond." など）。
         // 辞書を先にすると、ゲーム内ガイドで文脈つきのテンプレートより UI 用の訳が優先されてしまう
-        let found = found.or_else(|| crate::translator::lookup_term(s.trim())).or_else(|| self.translate_fallback(s));
-        let found = found.filter(|ja| !strict || (ja.trim() != s.trim() && crate::translator::fully_translated(ja)));
+        let found = found
+          .or_else(|| crate::translator::lookup_term(s.trim()).map(|ja| (ja, true)))
+          .or_else(|| self.translate_fallback(s).map(|ja| (ja, true)));
+        let found = found.filter(|(ja, ok)| !strict || (*ok && ja.trim() != s.trim()));
         match found {
-          Some(ja) => {
+          Some((ja, _)) => {
             out.push_str(&ja);
             any = true;
           }

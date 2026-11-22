@@ -1,0 +1,592 @@
+# 芸術の形式（音楽・詩・踊り）の説明文に出てくる語句。
+# 説明文は短い語句をつなげて作られる。文の形は translations/sentences-fix.tsv の
+# 「芸術の形式」の節が受け持ち、ここは差し込まれる語句だけを持つ。
+# 演奏の指示（速さ・強さ・雰囲気・奏法）は、文の中でつなげられるように連用形で書く。
+
+# --- 声・楽器 ---
+voice	声
+voices	声
+singer	歌手
+speaker	語り手
+chanter	詠唱者
+singers	歌手
+speakers	語り手
+chanters	詠唱者
+
+# --- 音域 ---
+low register	低音域
+middle register	中音域
+high register	高音域
+top register	最高音域
+
+# --- 雰囲気（should …）---
+stress the rhythm	リズムを強調して
+be stately	荘厳に
+be bright	明るく
+be lively	生き生きと
+be made with skill	巧みに
+perform with skill	巧みに
+be vigorous	力強く
+be spirited	快活に
+be delicate	繊細に
+bring a sense of motion	躍動感をもって
+be fiery	熱く
+be made with feeling	感情を込めて
+perform with feeling	感情を込めて
+feel agitated	気ぜわしく
+be passionate	情熱的に
+sparkle	きらめくように
+be broad	ゆったりと
+be made sweetly	甘美に
+perform sweetly	甘美に
+be strong	力を込めて
+be energetic	精力的に
+be forceful	強烈に
+feel heroic	英雄的に
+be made expressively	表情豊かに
+perform expressively	表情豊かに
+feel furious	猛るように
+be joyful	喜ばしく
+be grand	壮大に
+be merry	陽気に
+be graceful	優美に
+build as it proceeds	進むにつれて高まるように
+build as the performance proceeds	演奏が進むにつれて高まるように
+evoke tears	涙を誘うように
+be melancholic	もの悲しく
+feel mournful	哀切に
+be made with a light touch	軽やかに
+perform with a light touch	軽やかに
+feel heavy	重々しく
+feel mysterious	神秘的に
+be jumpy	跳ねるように
+feel playful	戯れるように
+feel tender	優しく
+feel calm	穏やかに
+be triumphant	勝ち誇るように
+
+# --- 速さ ---
+is at a free tempo	自由なテンポで
+is very slow	非常に遅く
+is slow	遅く
+is at a walking pace	歩くような速さで
+is moderately paced	中くらいの速さで
+is moderately fast	やや速く
+is fast	速く
+is very fast	非常に速く
+is extremely fast	極めて速く
+accelerates as it proceeds	進むにつれて速さを増して
+slows and broadens	遅く幅広くなって
+is consistently slowing	一貫して遅くなって
+is at a hurried pace	急ぎ足で
+gradually slows as it comes to an end	終わりに向けて徐々に遅くなって
+slows down and dies away as it draws to a close	終わりに近づくにつれ遅くなり消え入るように
+becomes calmer as the end is approached	終わりに近づくにつれ穏やかになって
+becomes frenzied as it proceeds	進むにつれて熱狂的になって
+is twice the tempo of the last passage	前の楽節の倍の速さで
+is half the tempo of the last passage	前の楽節の半分の速さで
+moves more quickly than the last passage	前の楽節より速く
+is slower than the last passage	前の楽節より遅く
+resumes the previous tempo	前のテンポに戻して
+resumes the original tempo	元のテンポに戻して
+
+# --- 強さ ---
+be in whispered undertones	ささやくような小声で
+be very soft	非常に弱く
+be soft	弱く
+be moderately soft	やや弱く
+be moderately loud	やや強く
+be loud	強く
+be very loud	非常に強く
+become louder and louder	しだいに強くなるように
+become softer and softer	しだいに弱くなるように
+fade into silence	静寂へ消え入るように
+start loud then be immediately soft	強く始めてすぐ弱く
+
+# --- 奏法（指示の形。文の中でつなげるため連用形）---
+glide from note to note	音から音へ滑らかに移り
+use grace notes	装飾音を用い
+use mordents	モルデントを用い
+make trills	トリルを奏で
+play rapid runs	速いパッセージを奏で
+locally improvise	部分的に即興し
+spread syllables over many notes	一つの音節を多くの音に広げ
+match notes and syllables	音と音節を一致させ
+syncopate	シンコペーションを用い
+modulate frequently	頻繁に転調し
+alternate tension and repose	緊張と弛緩を交互に置き
+add fills	フィルを加え
+play arpeggios	アルペジオを奏で
+freely adjust the beats	拍を自由に伸び縮みさせ
+play legato	レガートで奏で
+play staccato	スタッカートで奏で
+
+# --- 奏法（三人称の形）---
+glides from note to note	音から音へ滑らかに移り
+uses grace notes	装飾音を用い
+uses mordents	モルデントを用い
+makes trills	トリルを奏で
+plays rapid runs	速いパッセージを奏で
+spreads syllables over many notes	一つの音節を多くの音に広げ
+matches notes and syllables	音と音節を一致させ
+locally improvises	部分的に即興し
+modulates frequently	頻繁に転調し
+adds fills	フィルを加え
+syncopates	シンコペーションを用い
+plays arpeggios	アルペジオを奏で
+plays legato	レガートで奏で
+plays staccato	スタッカートで奏で
+
+# --- 奏法（名詞の形）---
+trills	トリル
+mordents	モルデント
+grace notes	装飾音
+rapid runs	速いパッセージ
+legato	レガート
+staccato	スタッカート
+arpeggios	アルペジオ
+locally improvisation	部分的な即興
+melismatic phrasing	メリスマ的な節回し
+syllabic phrasing	シラビックな節回し
+syncopation	シンコペーション
+frequent modulation	頻繁な転調
+alternation between tension and repose	緊張と弛緩の交替
+free adjustment of the beats	拍の自由な伸縮
+
+# --- 声部の役割 ---
+provides the rhythm	リズムを担い
+does harmony	和声を担い
+does the counterpoint melody	対位旋律を担い
+does the main melody	主旋律を担い
+
+# --- 楽句の長さ ---
+phrases of varied length	さまざまな長さの楽句
+long phrases	長い楽句
+mid-length phrases	中くらいの長さの楽句
+short phrases	短い楽句
+
+# --- 音階・和音 ---
+hexatonic	六音
+pentatonic	五音
+heptatonic	七音
+pentachord	五音和音
+tetrachord	四音和音
+trichord	三音和音
+degrees of the fundamental perfect fourth division	基本となる完全四度の分割の音度
+degrees of the octave scale	オクターブ音階の音度
+degrees of the semitone octave scale	半音オクターブ音階の音度
+degrees of the quartertone octave scale	四分音オクターブ音階の音度
+thought of as two disjoint chords drawn from the fundamental division of the perfect fourth	完全四度の基本分割から取った、離れた二つの和音として捉えられます
+thought of as two disjoint chords spanning two perfect fourths	二つの完全四度にまたがる、離れた二つの和音として捉えられます
+thought of as two disjoint chords spanning a tritone and a perfect fourth	三全音と完全四度にまたがる、離れた二つの和音として捉えられます
+thought of as two disjoint chords spanning a perfect fifth and a major third	完全五度と長三度にまたがる、離れた二つの和音として捉えられます
+thought of as joined chords spanning a perfect fifth and a perfect fourth	完全五度と完全四度にまたがる、つながった和音として捉えられます
+
+# --- 楽節の種類 ---
+simple passage	単純な楽節
+simple passages	単純な楽節
+introduction	導入部
+exposition	提示部
+recapitulation	再現部
+synthesis	統合部
+verse	詩節
+chorus	反復部
+finale	終曲
+coda	終結部
+bridge-passage	橋渡しの楽節
+theme	主題
+series of variations	変奏の連なり
+
+# --- まとまった文 ---
+The form guides musicians during improvised performances.	この形式は、即興の演奏で音楽家を導きます。
+The rules of the form are applied by composers to produce individual pieces of music which can be performed.	この形式の規則を作曲家が用いて、演奏できる個々の曲が作られます。
+The music is broadly layered with chords spanning the range.	音域いっぱいに広がる和音が、幾重にも厚く重ねられます。
+Pitches are densely packed in clusters as music moves from chord to chord.	和音から和音へ移るあいだ、音は密集した塊になります。
+Chords, seldom-used, are sparse -- intervals and single pitches are favored.	和音はめったに使われず、まばらです。音程と単音が好まれます。
+Never more than an interval sounds at once.	一度に鳴るのは、せいぜい二つの音までです。
+Only one pitch is ever played at a time.	一度に鳴る音は、つねに一つだけです。
+The music repeats for as long as necessary.	音楽は必要なだけ繰り返されます。
+This passage is richly layered with full chords making use of the available range.	この楽節では、使える音域を生かした厚い和音が豊かに重ねられます。
+Chords are packed close together in dense clusters in this passage.	この楽節では、和音が密集した塊になります。
+This passage typically has some sparse chords.	この楽節には、まばらな和音がいくらか置かれるのが普通です。
+This passage features only melodic tones and intervals.	この楽節では、旋律の音と音程だけが使われます。
+Only one pitch is ever played at a time in this passage.	この楽節で一度に鳴る音は、つねに一つだけです。
+The music is melody and rhythm without harmony.	この音楽は、和声を持たない旋律とリズムです。
+The musical voices join in melody and counterpoint, harmony and rhythm.	各声部は、旋律と対位法、和声とリズムで重なります。
+The musical voices bring melody, counterpoint and rhythm.	各声部が、旋律と対位法とリズムをもたらします。
+The musical voices cover melody, harmony and rhythm.	各声部が、旋律と和声とリズムを担います。
+The musical voices join in melody, counterpoint and harmony.	各声部は、旋律と対位法と和声で重なります。
+The musical voices bring melody and counterpoint.	各声部が、旋律と対位法をもたらします。
+The musical voices bring melody with harmony.	各声部が、和声を伴う旋律をもたらします。
+The musical voices are joined in melody.	各声部は旋律で重なります。
+The musical voices are purely rhythmic.	各声部は純粋にリズムだけを担います。
+The tonic note is fixed only at the time of performance.	主音が決まるのは、演奏のときだけです。
+The tonic note is a fixed tone passed from teacher to student.	主音は決まった高さで、師から弟子へ受け継がれます。
+After a scale is constructed, the root note of chords are named.	音階を組み立てたあと、和音の根音に名前が付けられます。
+After a scale is constructed, notes are named according to degree.	音階を組み立てたあと、音度にしたがって音に名前が付けられます。
+A single note in the fundamental scale is named.	基本音階の中の一つの音に名前が付けられます。
+Preferred notes in the fundamental scale are named.	基本音階の中で好まれる音に名前が付けられます。
+Every note is named.	すべての音に名前が付けられます。
+As stated above, they are to be played in polyrhythm.	前に述べたとおり、これらはポリリズムで演奏されます。
+As stated above, they are to be played in polymeter.	前に述べたとおり、これらはポリメーターで演奏されます。
+The patterns are to be played in the same beat, allowing one to repeat before the other is concluded.	各パターンは同じ拍で演奏され、片方が終わらないうちにもう片方が繰り返されます。
+The patterns are to be played over the same period of time, concluding together regardless of beat number.	各パターンは同じ長さの時間で演奏され、拍の数にかかわらず同時に終わります。
+The beat is stressed as follows:	拍の強さは次のとおりです：
+# --- 構成の項目（組み合わせ）---
+additional passage	さらにもう一つの楽節
+additional passages	さらにもう一つの楽節
+additional unrelated passage	さらにもう一つの関連のない楽節
+additional unrelated passages	さらにもう一つの関連のない楽節
+additional brief passage	さらにもう一つの短い楽節
+additional brief passages	さらにもう一つの短い楽節
+additional brief unrelated passage	さらにもう一つの関連のない短い楽節
+additional brief unrelated passages	さらにもう一つの関連のない短い楽節
+additional lengthy passage	さらにもう一つの長い楽節
+additional lengthy passages	さらにもう一つの長い楽節
+additional lengthy unrelated passage	さらにもう一つの関連のない長い楽節
+additional lengthy unrelated passages	さらにもう一つの関連のない長い楽節
+another passage	別の楽節
+another passages	別の楽節
+another unrelated passage	別の関連のない楽節
+another unrelated passages	別の関連のない楽節
+another brief passage	別の短い楽節
+another brief passages	別の短い楽節
+another brief unrelated passage	別の関連のない短い楽節
+another brief unrelated passages	別の関連のない短い楽節
+another lengthy passage	別の長い楽節
+another lengthy passages	別の長い楽節
+another lengthy unrelated passage	別の関連のない長い楽節
+another lengthy unrelated passages	別の関連のない長い楽節
+passage	楽節
+passages	楽節
+unrelated passage	関連のない楽節
+unrelated passages	関連のない楽節
+brief passage	短い楽節
+brief passages	短い楽節
+brief unrelated passage	関連のない短い楽節
+brief unrelated passages	関連のない短い楽節
+lengthy passage	長い楽節
+lengthy passages	長い楽節
+lengthy unrelated passage	関連のない長い楽節
+lengthy unrelated passages	関連のない長い楽節
+verses	詩節
+exposition of the theme	主題の提示部
+recapitulation of the theme	主題の再現部
+series of variations on the theme	主題による変奏の連なり
+first theme	第一主題
+exposition of the first theme	第一主題の提示部
+recapitulation of the first theme	第一主題の再現部
+series of variations on the first theme	第一主題による変奏の連なり
+second theme	第二主題
+exposition of the second theme	第二主題の提示部
+recapitulation of the second theme	第二主題の再現部
+series of variations on the second theme	第二主題による変奏の連なり
+recapitulation of the previous passage	前の楽節の再現部
+synthesis of the two themes	二つの主題の統合部
+synthesis of previous passages	前の楽節群の統合部
+brief introduction	短い導入部
+brief verse	短い詩節
+brief verses	短い詩節
+brief chorus	短い反復部
+brief finale	短い終曲
+brief coda	短い終結部
+brief bridge-passage	短い橋渡しの楽節
+brief theme	短い主題
+brief exposition of the theme	主題の短い提示部
+brief recapitulation of the theme	主題の短い再現部
+brief series of variations on the theme	主題による短い変奏の連なり
+brief first theme	短い第一主題
+brief exposition of the first theme	第一主題の短い提示部
+brief recapitulation of the first theme	第一主題の短い再現部
+brief series of variations on the first theme	第一主題による短い変奏の連なり
+brief second theme	短い第二主題
+brief exposition of the second theme	第二主題の短い提示部
+brief recapitulation of the second theme	第二主題の短い再現部
+brief series of variations on the second theme	第二主題による短い変奏の連なり
+brief recapitulation of the previous passage	前の楽節の短い再現部
+brief synthesis of the two themes	二つの主題の短い統合部
+brief synthesis of previous passages	前の楽節群の短い統合部
+lengthy introduction	長い導入部
+lengthy verse	長い詩節
+lengthy verses	長い詩節
+lengthy chorus	長い反復部
+lengthy finale	長い終曲
+lengthy coda	長い終結部
+lengthy bridge-passage	長い橋渡しの楽節
+lengthy theme	長い主題
+lengthy exposition of the theme	主題の長い提示部
+lengthy recapitulation of the theme	主題の長い再現部
+lengthy series of variations on the theme	主題による長い変奏の連なり
+lengthy first theme	長い第一主題
+lengthy exposition of the first theme	第一主題の長い提示部
+lengthy recapitulation of the first theme	第一主題の長い再現部
+lengthy series of variations on the first theme	第一主題による長い変奏の連なり
+lengthy second theme	長い第二主題
+lengthy exposition of the second theme	第二主題の長い提示部
+lengthy recapitulation of the second theme	第二主題の長い再現部
+lengthy series of variations on the second theme	第二主題による長い変奏の連なり
+lengthy recapitulation of the previous passage	前の楽節の長い再現部
+lengthy synthesis of the two themes	二つの主題の長い統合部
+lengthy synthesis of previous passages	前の楽節群の長い統合部
+# --- 詩の形式の語句 ---
+octet	八行連
+septet	七行連
+sexain	六行連
+quintain	五行連
+quatrain	四行連
+tercet	三行連
+couplet	二行連
+octets	八行連
+septets	七行連
+sexains	六行連
+quintains	五行連
+quatrains	四行連
+tercets	三行連
+couplets	二行連
+stanza	連
+stanzas	連
+line	行
+lines	行
+verse paragraph	詩節
+verse paragraphs	詩節
+brief verse paragraph	短い詩節
+brief verse paragraphs	短い詩節
+long verse paragraph	長い詩節
+long verse paragraphs	長い詩節
+lengthy verse paragraph	長い詩節
+lengthy verse paragraphs	長い詩節
+full verse paragraph	完全な詩節
+full verse paragraphs	完全な詩節
+part	部
+parts	部
+section	節
+sections	節
+refrain	折り返し
+parallelism	対句法
+a chosen subject	ある定まった主題
+the subject of the poem	詩の主題
+third	3番目
+sixth	6番目
+seventh	7番目
+eighth	8番目
+ninth	9番目
+tenth	10番目
+last	最後
+final	最終
+foot	音歩
+feet	音歩
+iambic	弱強格
+trochaic	強弱格
+spondaic	長長格
+dactylic	長短短格
+amphibrachic	短長短格
+anapaestic	短短長格
+cretic	長短長格
+pyrrhic	短短格
+tribrachic	短短短格
+bacchic	短長長格
+antibacchic	長長短格
+molossic	長長長格
+monometer	一歩格
+dimeter	二歩格
+trimeter	三歩格
+tetrameter	四歩格
+pentameter	五歩格
+hexameter	六歩格
+heptameter	七歩格
+octameter	八歩格
+a terminal caesura	行末の切れ目
+a medial caesura	行中の切れ目
+an initial caesura	行頭の切れ目
+consonance	子音韻
+symbolism	象徴
+is dramatic	劇的です
+is reflective	内省的です
+is ribald	猥雑です
+is light	軽妙です
+is solemn	荘重です
+is a riddle	なぞなぞです
+is a narrative	物語です
+to make a counter-assertion	反論しようとする
+to synthesize previous ideas	それまでの着想をまとめようとする
+to develop the previous idea	前の着想を発展させようとする
+to invert the previous assertion	前の主張を反転させようとする
+to undercut the previous assertion	前の主張を切り崩そうとする
+to move away from previous ideas	それまでの着想から離れようとする
+to reflect on previous ideas	それまでの着想を省みようとする
+to offer a different perspective	異なる見方を示そうとする
+often share an underlying meaning	しばしば根底の意味を共有し
+often contrast underlying meaning	しばしば根底の意味を対比させ
+are required to maintain phrasing	言い回しを保つことを求められ
+have similar grammatical structures	似た文法構造を持ち
+use the same placement of allusions	同じ位置に引喩を置き
+sometimes have reversed word orders	ときに語順が逆になり
+reverse grammatical structures	文法構造を逆転させ
+present different views of the same subject	同じ主題について異なる見方を示し
+lines which emerge when reading along certain prescribed paths	決まった経路に沿って読むと現れる行
+lines which emerge when reading along certain prescribed paths across the body of the poem	詩全体の決まった経路に沿って読むと現れる行
+lines which can be read orthogonally across the standard lines	通常の行を横切って直角に読める行
+lines which can be read backwards as well as forwards	前からも後ろからも読める行
+lines with different readings depending on word breaks	語の区切りで読みが変わる行
+The form guides poets during improvised performances.	この形式は、即興の詩作で詩人を導きます。
+The rules of the form are applied by poets to produce individual poems which can be recited.	この形式の規則を詩人が用いて、朗誦できる個々の詩が作られます。
+As a rule throughout the poem, the end rhymes don't generally match perfectly.	詩全体の決まりとして、行末の韻は必ずしも完全には一致しません。
+In this part of the poem, the end rhymes don't need to match perfectly.	詩のこの部分では、行末の韻は完全に一致しなくてもかまいません。
+even-even	平平
+even-even-even	平平平
+even-even-uneven	平平仄
+even-uneven	平仄
+even-uneven-even	平仄平
+even-uneven-uneven	平仄仄
+uneven-even	仄平
+uneven-even-even	仄平平
+uneven-even-uneven	仄平仄
+uneven-uneven	仄仄
+uneven-uneven-even	仄仄平
+uneven-uneven-uneven	仄仄仄
+short-short	短短
+short-short-short	短短短
+short-short-long	短短長
+short-long	短長
+short-long-short	短長短
+short-long-long	短長長
+long-short	長短
+long-short-short	長短短
+long-short-long	長短長
+long-long	長長
+long-long-short	長長短
+long-long-long	長長長
+unstressed-unstressed	弱弱
+unstressed-unstressed-unstressed	弱弱弱
+unstressed-unstressed-stressed	弱弱強
+unstressed-stressed	弱強
+unstressed-stressed-unstressed	弱強弱
+unstressed-stressed-stressed	弱強強
+stressed-unstressed	強弱
+stressed-unstressed-unstressed	強弱弱
+stressed-unstressed-stressed	強弱強
+stressed-stressed	強強
+stressed-stressed-unstressed	強強弱
+stressed-stressed-stressed	強強強
+# --- 踊りの形式の語句 ---
+fluid	流れるような
+turns	回転
+runs	駆け足
+leaps	跳躍
+kicks	蹴り
+spins	旋回
+moves	動き
+shadowed	影のようになぞった
+performed in succession	順に演じられる
+performed in retrograde	逆の順で演じられる
+mirrored	鏡写しの
+eighth	8分の1
+quarter	4分の1
+half	2分の1
+serene	安らかな
+calm	穏やかな
+passionate	情熱的な
+aggressive	攻撃的な
+sluggish	鈍重な
+joyous	喜びに満ちた
+quickly	素早く
+facial expressions	表情
+hand gestures	手の仕草
+straight walks	直線の歩み
+curved walks	曲線の歩み
+left kicks	左の蹴り
+right kicks	右の蹴り
+leg lifts	脚上げ
+left leg lifts	左脚上げ
+right leg lifts	右脚上げ
+body level	体の高さ
+body level changes	体の高さの変化
+arm carriage	腕の運び
+raised left arms	左腕上げ
+raised right arms	右腕上げ
+raised arms	腕上げ
+independent body movement	体の独立した動き
+sway	揺れ
+forward bends	前屈
+backward bends	後屈
+leftward bends	左への傾き
+rightward bends	右への傾き
+footwork	足さばき
+movement along the line of dance	踊りの列に沿った移動
+special position	特別な姿勢
+special positions	特別な姿勢
+specific move	決まった動き
+specific moves	決まった動き
+repeated	繰り返しの
+large	大きな
+counterclockwise	反時計回りの
+clockwise	時計回りの
+aborted	途中でやめる
+partially realized	途中までしか行わない
+by group members	集団の仲間による
+of the lead	先導者の
+of the follower	追従者の
+along an intricate path	複雑な道筋をたどりながら
+along an improvised path	即興の道筋をたどりながら
+along a counterclockwise circle	反時計回りの円を描きながら
+along a clockwise circle	時計回りの円を描きながら
+turning counterclockwise	反時計回りに回りながら
+turning clockwise	時計回りに回りながら
+rarely make contact	めったに触れ合いません
+maintain open contact	離れたまま向き合い続けます
+dance closely	身を寄せて踊ります
+The form guides dancers during improvised performances.	この形式は、即興の演舞で踊り手を導きます。
+The rules of the form are applied by choreographers to produce individual dances which can be performed.	この形式の規則を振付師が用いて、演じられる個々の舞踊が作られます。
+sacred group celebration	神聖な集団の祝祭
+sacred group participation	神聖な集団の参加型
+sacred group performance	神聖な集団の演舞
+sacred group partner	神聖な集団のペア
+sacred group war	神聖な集団の戦いの
+sacred group	神聖な集団の
+sacred solo celebration	神聖な独りの祝祭
+sacred solo participation	神聖な独りの参加型
+sacred solo performance	神聖な独りの演舞
+sacred solo partner	神聖な独りのペア
+sacred solo war	神聖な独りの戦いの
+sacred solo	神聖な独りの
+sacred celebration	神聖な祝祭
+sacred participation	神聖な参加型
+sacred performance	神聖な演舞
+sacred partner	神聖なペア
+sacred war	神聖な戦いの
+sacred	神聖な
+social group celebration	社交的な集団の祝祭
+social group participation	社交的な集団の参加型
+social group performance	社交的な集団の演舞
+social group partner	社交的な集団のペア
+social group war	社交的な集団の戦いの
+social group	社交的な集団の
+social solo celebration	社交的な独りの祝祭
+social solo participation	社交的な独りの参加型
+social solo performance	社交的な独りの演舞
+social solo partner	社交的な独りのペア
+social solo war	社交的な独りの戦いの
+social solo	社交的な独りの
+social celebration	社交的な祝祭
+social participation	社交的な参加型
+social performance	社交的な演舞
+social partner	社交的なペア
+social war	社交的な戦いの
+social	社交的な
+group celebration	集団の祝祭
+group participation	集団の参加型
+group performance	集団の演舞
+group partner	集団のペア
+group war	集団の戦いの
+group	集団の
+solo celebration	独りの祝祭
+solo participation	独りの参加型
+solo performance	独りの演舞
+solo partner	独りのペア
+solo war	独りの戦いの
+solo	独りの
+celebration	祝祭
+participation	参加型
+performance	演舞
+partner	ペア
+war	戦いの

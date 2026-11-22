@@ -550,7 +550,7 @@ a castle wall	城壁
 A catapult fires a boulder in a fixed direction.  The operator can adjust the aim freely within a cone.	カタパルトは固定方向に岩塊を放ちます。操作者は円錐状の範囲内で照準を自由に調整できます。
 a ceremony	儀式
 a child	子ども
-a chorus	合唱団
+a chorus	反復部
 a cloth shop	布屋
 a clothing imports store	衣料輸入品店
 A command issued was not supported by this object.  Possibly a plugin without certain callbacks specified.	発行されたコマンドはこのオブジェクトではサポートされていません。特定のコールバックが指定されていないプラグインの可能性があります。

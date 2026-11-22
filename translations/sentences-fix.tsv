@@ -1317,3 +1317,1059 @@ manual	core	Make {1} neck bowl	{1}の棹の椀を作る
 manual	core	Forge {1} neck bowl	{1}の棹の椀を鍛造する
 manual	core	Make {1} neck bowls	{1}の棹の椀を作る
 manual	core	Forge {1} neck bowls	{1}の棹の椀を鍛造する
+# === 芸術の形式（音楽）===
+# tools/sentences/… ではなく scratchpad/gen_music.py で作った。語句は translations/art-forms.tsv
+manual	core	{1} is a form of music used during marches and military engagements.	{1}は行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2}.	{1}は、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements originating in {2}.	{1}は、{2}で生まれ、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} originating in {3}.	{1}は、{3}で生まれ、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements originally devised by {2}.	{1}は、もともと{2}が考案した、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a form of music used during marches and military engagements directed toward the worship of {2} originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}への信仰に向けた行進や軍事行動の最中に用いられる音楽の形式です。
+manual	core	{1} is a devotional form of music.	{1}は信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2}.	{1}は、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music originating in {2}.	{1}は、{2}で生まれ、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} originating in {3}.	{1}は、{3}で生まれ、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music originally devised by {2}.	{1}は、もともと{2}が考案した、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、信仰のための音楽の形式です。
+manual	core	{1} is a devotional form of music directed toward the worship of {2} originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}への信仰に向けた信仰のための音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events.	{1}は重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2}.	{1}は、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events originating in {2}.	{1}は、{2}で生まれ、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} originating in {3}.	{1}は、{3}で生まれ、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events originally devised by {2}.	{1}は、もともと{2}が考案した、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used to commemorate important events directed toward the worship of {2} originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}への信仰に向けた重要な出来事を記念するために用いられる音楽の形式です。
+manual	core	{1} is a form of music used for entertainment.	{1}は娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2}.	{1}は、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment originating in {2}.	{1}は、{2}で生まれ、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} originating in {3}.	{1}は、{3}で生まれ、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment originally devised by {2}.	{1}は、もともと{2}が考案した、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、娯楽のための音楽の形式です。
+manual	core	{1} is a form of music used for entertainment directed toward the worship of {2} originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}への信仰に向けた娯楽のための音楽の形式です。
+manual	core	A {1} recites the words of {2} while the music is played on a {3}.	{1}が{2}の言葉を唱え、その間、音楽は{3}で演奏されます。
+manual	core	A {1} recites the words of {2} while the music is played on {3}.	{1}が{2}の言葉を唱え、その間、音楽は{3}で演奏されます。
+manual	core	A {1} recites the words of {2}.	{1}が{2}の言葉を唱えます。
+manual	core	A {1} recites a composition of {2} while the music is played on a {3}.	{1}が{2}からなる作品を唱え、その間、音楽は{3}で演奏されます。
+manual	core	A {1} recites a composition of {2} while the music is played on {3}.	{1}が{2}からなる作品を唱え、その間、音楽は{3}で演奏されます。
+manual	core	A {1} recites a composition of {2}.	{1}が{2}からなる作品を唱えます。
+manual	core	A {1} recites nonsensical words and sounds while the music is played on a {2}.	{1}が意味を成さない言葉と音を唱え、その間、音楽は{2}で演奏されます。
+manual	core	A {1} recites nonsensical words and sounds while the music is played on {2}.	{1}が意味を成さない言葉と音を唱え、その間、音楽は{2}で演奏されます。
+manual	core	A {1} recites nonsensical words and sounds.	{1}が意味を成さない言葉と音を唱えます。
+manual	core	The music is played on a {1}.	音楽は{1}で演奏されます。
+manual	core	The music is played on {1}.	音楽は{1}で演奏されます。
+manual	core	The entire performance should {1} and {2}, and it is to {3}.	演奏全体は{1}、{2}、そして{3}演奏されるべきです。
+manual	core	The entire performance should {1} and {2}.	演奏全体は{1}、{2}演奏されるべきです。
+manual	core	The entire performance should {1}, and it is to {2}.	演奏全体は{1}、そして{2}演奏されるべきです。
+manual	core	The entire performance should {1}.	演奏全体は{1}演奏されるべきです。
+manual	core	The entire performance is to {1}.	演奏全体は{1}演奏されるべきです。
+manual	core	The entire performance {1}, and it is to {2}.	演奏全体は{1}、そして{2}演奏されるべきです。
+manual	core	The entire performance {1}.	演奏全体は{1}演奏されます。
+manual	core	The {1} should {2} and {3}, and it is to {4}.	{1}は{2}、{3}、そして{4}演奏されるべきです。
+manual	core	The {1} should {2} and {3}.	{1}は{2}、{3}演奏されるべきです。
+manual	core	The {1} should {2}, and it is to {3}.	{1}は{2}、そして{3}演奏されるべきです。
+manual	core	The {1} should {2}.	{1}は{2}演奏されるべきです。
+manual	core	The {1} is to {2}.	{1}は{2}演奏されるべきです。
+manual	core	Each {1} should {2} and {3}, and it is to {4}.	どの{1}も{2}、{3}、そして{4}演奏されるべきです。
+manual	core	Each {1} should {2} and {3}.	どの{1}も{2}、{3}演奏されるべきです。
+manual	core	Each {1} should {2}, and it is to {3}.	どの{1}も{2}、そして{3}演奏されるべきです。
+manual	core	Each {1} should {2}.	どの{1}も{2}演奏されるべきです。
+manual	core	Each {1} is to {2}.	どの{1}も{2}演奏されるべきです。
+manual	core	The melody and counterpoint both have {1} throughout the form.	旋律と対位旋律はどちらも、形式を通じて{1}を用います。
+manual	core	The melody has {1}, while the counterpoint has {2} throughout the form.	旋律は{1}を、対位旋律は{2}を、形式を通じて用います。
+manual	core	The melody has {1} throughout the form.	旋律は形式を通じて{1}を用います。
+manual	core	The counterpoint melody has {1} throughout the form.	対位旋律は形式を通じて{1}を用います。
+manual	core	Each passage has {1} in the melody and counterpoint.	どの楽節も旋律と対位旋律に{1}を用います。
+manual	core	Each passage has {1} in the melody, while the counterpoint has {2}.	どの楽節も旋律に{1}を、対位旋律に{2}を用います。
+manual	core	Each passage has {1} in the melody.	どの楽節も旋律に{1}を用います。
+manual	core	Each passage has {1} in the counterpoint melody.	どの楽節も対位旋律に{1}を用います。
+manual	core	The passage has {1} in the melody and counterpoint.	この楽節は旋律と対位旋律に{1}を用います。
+manual	core	The passage has {1} in the melody, while the counterpoint has {2}.	この楽節は旋律に{1}を、対位旋律に{2}を用います。
+manual	core	The passage has {1} in the melody.	この楽節は旋律に{1}を用います。
+manual	core	The passage has {1} in the counterpoint melody.	この楽節は対位旋律に{1}を用います。
+manual	core	It is performed without preference for a scale in free rhythm.	特定の音階にはよらず、自由なリズムで演奏されます。
+manual	core	It is performed without preference for a scale in the {1} rhythm.	特定の音階にはよらず、{1}のリズムで演奏されます。
+manual	core	It is performed without preference for a scale.	特定の音階にはよらず演奏されます。
+manual	core	It is performed using the {1} scale in free rhythm.	{1}音階を用いて、自由なリズムで演奏されます。
+manual	core	It is performed using the {1} scale in the {2} rhythm.	{1}音階を用いて、{2}のリズムで演奏されます。
+manual	core	It is performed using the {1} scale.	{1}音階を用いて演奏されます。
+manual	core	It is performed in free rhythm.	自由なリズムで演奏されます。
+manual	core	It is performed in the {1} rhythm.	{1}のリズムで演奏されます。
+manual	core	Each passage is performed without preference for a scale in free rhythm.	どの楽節も特定の音階にはよらず、自由なリズムで演奏されます。
+manual	core	Each passage is performed without preference for a scale in the {1} rhythm.	どの楽節も特定の音階にはよらず、{1}のリズムで演奏されます。
+manual	core	Each passage is performed without preference for a scale.	どの楽節も特定の音階にはよらず演奏されます。
+manual	core	Each passage is performed using the {1} scale in free rhythm.	どの楽節も{1}音階を用いて、自由なリズムで演奏されます。
+manual	core	Each passage is performed using the {1} scale in the {2} rhythm.	どの楽節も{1}音階を用いて、{2}のリズムで演奏されます。
+manual	core	Each passage is performed using the {1} scale.	どの楽節も{1}音階を用いて演奏されます。
+manual	core	Each passage is performed in free rhythm.	どの楽節も自由なリズムで演奏されます。
+manual	core	Each passage is performed in the {1} rhythm.	どの楽節も{1}のリズムで演奏されます。
+manual	core	The passage is performed without preference for a scale in free rhythm.	この楽節は特定の音階にはよらず、自由なリズムで演奏されます。
+manual	core	The passage is performed without preference for a scale in the {1} rhythm.	この楽節は特定の音階にはよらず、{1}のリズムで演奏されます。
+manual	core	The passage is performed without preference for a scale.	この楽節は特定の音階にはよらず演奏されます。
+manual	core	The passage is performed using the {1} scale in free rhythm.	この楽節は{1}音階を用いて、自由なリズムで演奏されます。
+manual	core	The passage is performed using the {1} scale in the {2} rhythm.	この楽節は{1}音階を用いて、{2}のリズムで演奏されます。
+manual	core	The passage is performed using the {1} scale.	この楽節は{1}音階を用いて演奏されます。
+manual	core	The passage is performed in free rhythm.	この楽節は自由なリズムで演奏されます。
+manual	core	The passage is performed in the {1} rhythm.	この楽節は{1}のリズムで演奏されます。
+manual	core	Throughout, when possible, performers are to {1}.	できるかぎり、演奏者は終始{1}ます。
+manual	core	Throughout, when possible, composers and performers are to {1}.	できるかぎり、作曲者と演奏者は終始{1}ます。
+manual	core	Each passage should be composed and performed using {1}.	どの楽節も{1}を用いて作られ、演奏されるべきです。
+manual	core	Each passage should be performed using {1}.	どの楽節も{1}を用いて演奏されるべきです。
+manual	core	The passage should be composed and performed using {1}.	この楽節は{1}を用いて作られ、演奏されるべきです。
+manual	core	The passage should be performed using {1}.	この楽節は{1}を用いて演奏されるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a falling-rising melody pattern.	初めから終わりまで、即興のとき、芸術家は{1}下降して上昇する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a falling-rising melody pattern with {2}.	初めから終わりまで、即興のとき、芸術家は{1}下降して上昇する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a rising-falling melody pattern.	初めから終わりまで、即興のとき、芸術家は{1}上昇して下降する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a rising-falling melody pattern with {2}.	初めから終わりまで、即興のとき、芸術家は{1}上昇して下降する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a falling melody pattern.	初めから終わりまで、即興のとき、芸術家は{1}下降する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a falling melody pattern with {2}.	初めから終わりまで、即興のとき、芸術家は{1}下降する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a rising melody pattern.	初めから終わりまで、即興のとき、芸術家は{1}上昇する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising, artists should {1} include a rising melody pattern with {2}.	初めから終わりまで、即興のとき、芸術家は{1}上昇する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a falling-rising melody pattern.	初めから終わりまで、即興や作曲のとき、芸術家は{1}下降して上昇する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a falling-rising melody pattern with {2}.	初めから終わりまで、即興や作曲のとき、芸術家は{1}下降して上昇する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a rising-falling melody pattern.	初めから終わりまで、即興や作曲のとき、芸術家は{1}上昇して下降する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a rising-falling melody pattern with {2}.	初めから終わりまで、即興や作曲のとき、芸術家は{1}上昇して下降する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a falling melody pattern.	初めから終わりまで、即興や作曲のとき、芸術家は{1}下降する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a falling melody pattern with {2}.	初めから終わりまで、即興や作曲のとき、芸術家は{1}下降する旋律型を{2}とともに含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a rising melody pattern.	初めから終わりまで、即興や作曲のとき、芸術家は{1}上昇する旋律型を含めるべきです。
+manual	core	From beginning to end, when improvising or composing, artists should {1} include a rising melody pattern with {2}.	初めから終わりまで、即興や作曲のとき、芸術家は{1}上昇する旋律型を{2}とともに含めるべきです。
+manual	core	Each passage should {1} include a falling-rising melody pattern.	どの楽節も{1}下降して上昇する旋律型を含めるべきです。
+manual	core	The passage should {1} include a falling-rising melody pattern.	この楽節は{1}下降して上昇する旋律型を含めるべきです。
+manual	core	Each passage should {1} include a rising-falling melody pattern.	どの楽節も{1}上昇して下降する旋律型を含めるべきです。
+manual	core	The passage should {1} include a rising-falling melody pattern.	この楽節は{1}上昇して下降する旋律型を含めるべきです。
+manual	core	Each passage should {1} include a falling melody pattern.	どの楽節も{1}下降する旋律型を含めるべきです。
+manual	core	The passage should {1} include a falling melody pattern.	この楽節は{1}下降する旋律型を含めるべきです。
+manual	core	Each passage should {1} include a rising melody pattern.	どの楽節も{1}上昇する旋律型を含めるべきです。
+manual	core	The passage should {1} include a rising melody pattern.	この楽節は{1}上昇する旋律型を含めるべきです。
+manual	core	The rhythm system is fundamentally polyrhythmic.	リズムの仕組みは、根本からポリリズムです。
+manual	core	The rhythm system is fundamentally polymetric.	リズムの仕組みは、根本からポリメーターです。
+manual	core	There are always multiple rhythm lines, and each of their bars is played over the same period of time, regardless of the number of beats.	リズムの線はつねに複数あり、拍の数にかかわらず、どの線の小節も同じ長さの時間で演奏されます。
+manual	core	There are always multiple rhythm lines, and the beats are always played together, even if one rhythm line completes (and then repeats) before the other is finished.	リズムの線はつねに複数あり、一方の線が先に終わって繰り返しに入っても、拍はつねにそろえて演奏されます。
+manual	core	The rhythm lines are thought of as one, without a primary-subordinate relationship, though individual lines can be named.	リズムの線は主従のない一つのものとして捉えられますが、線ごとに名前を付けることもできます。
+manual	core	The {1} always {2}.	{1}は常に{2}ます。
+manual	core	Each {1} always {2}.	どの{1}も常に{2}ます。
+manual	core	The {1} is voiced by {2}.	{1}は{2}が奏でます。
+manual	core	Each of the {1} is voiced by {2}.	どの{1}も{2}が奏でます。
+manual	core	{1} has a simple structure: {2}.	{1}の構成は単純です。{2}。
+manual	core	{1} has the following structure: {2}.	{1}の構成は次のとおりです。{2}。
+manual	core	{1} has a well-defined multi-passage structure: {2}.	{1}は、はっきりした複数楽節の構成を持ちます。{2}。
+manual	core	{1} covers its entire range from the {2} to the {3}.	{1}は{2}から{3}までの全音域を使います。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} covers its entire range from the {5} to the {6}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}から{6}までの全音域を使います。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} uses its entire range from the {5} to the {6}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}から{6}までの全音域を使います。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} ranges from the {5} to the {6}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}から{6}までを使います。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} covers its entire range.	{1}は{2}から{3}までの全音域を使い、{4}は全音域を使います。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} uses its entire range.	{1}は{2}から{3}までの全音域を使い、{4}は全音域を使います。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} stays in the {5}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}にとどまります。
+manual	core	{1} covers its entire range from the {2} to the {3} and {4} is confined to the {5}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}に限られます。
+manual	core	{1} uses its entire range from the {2} to the {3}.	{1}は{2}から{3}までの全音域を使います。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} covers its entire range from the {5} to the {6}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}から{6}までの全音域を使います。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} uses its entire range from the {5} to the {6}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}から{6}までの全音域を使います。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} ranges from the {5} to the {6}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}から{6}までを使います。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} covers its entire range.	{1}は{2}から{3}までの全音域を使い、{4}は全音域を使います。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} uses its entire range.	{1}は{2}から{3}までの全音域を使い、{4}は全音域を使います。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} stays in the {5}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}にとどまります。
+manual	core	{1} uses its entire range from the {2} to the {3} and {4} is confined to the {5}.	{1}は{2}から{3}までの全音域を使い、{4}は{5}に限られます。
+manual	core	{1} ranges from the {2} to the {3}.	{1}は{2}から{3}までを使います。
+manual	core	{1} ranges from the {2} to the {3} and {4} covers its entire range from the {5} to the {6}.	{1}は{2}から{3}までを使い、{4}は{5}から{6}までの全音域を使います。
+manual	core	{1} ranges from the {2} to the {3} and {4} uses its entire range from the {5} to the {6}.	{1}は{2}から{3}までを使い、{4}は{5}から{6}までの全音域を使います。
+manual	core	{1} ranges from the {2} to the {3} and {4} ranges from the {5} to the {6}.	{1}は{2}から{3}までを使い、{4}は{5}から{6}までを使います。
+manual	core	{1} ranges from the {2} to the {3} and {4} covers its entire range.	{1}は{2}から{3}までを使い、{4}は全音域を使います。
+manual	core	{1} ranges from the {2} to the {3} and {4} uses its entire range.	{1}は{2}から{3}までを使い、{4}は全音域を使います。
+manual	core	{1} ranges from the {2} to the {3} and {4} stays in the {5}.	{1}は{2}から{3}までを使い、{4}は{5}にとどまります。
+manual	core	{1} ranges from the {2} to the {3} and {4} is confined to the {5}.	{1}は{2}から{3}までを使い、{4}は{5}に限られます。
+manual	core	{1} covers its entire range.	{1}は全音域を使います。
+manual	core	{1} covers its entire range and {2} covers its entire range from the {3} to the {4}.	{1}は全音域を使い、{2}は{3}から{4}までの全音域を使います。
+manual	core	{1} covers its entire range and {2} uses its entire range from the {3} to the {4}.	{1}は全音域を使い、{2}は{3}から{4}までの全音域を使います。
+manual	core	{1} covers its entire range and {2} ranges from the {3} to the {4}.	{1}は全音域を使い、{2}は{3}から{4}までを使います。
+manual	core	{1} covers its entire range and {2} covers its entire range.	{1}は全音域を使い、{2}は全音域を使います。
+manual	core	{1} covers its entire range and {2} uses its entire range.	{1}は全音域を使い、{2}は全音域を使います。
+manual	core	{1} covers its entire range and {2} stays in the {3}.	{1}は全音域を使い、{2}は{3}にとどまります。
+manual	core	{1} covers its entire range and {2} is confined to the {3}.	{1}は全音域を使い、{2}は{3}に限られます。
+manual	core	{1} uses its entire range.	{1}は全音域を使います。
+manual	core	{1} uses its entire range and {2} covers its entire range from the {3} to the {4}.	{1}は全音域を使い、{2}は{3}から{4}までの全音域を使います。
+manual	core	{1} uses its entire range and {2} uses its entire range from the {3} to the {4}.	{1}は全音域を使い、{2}は{3}から{4}までの全音域を使います。
+manual	core	{1} uses its entire range and {2} ranges from the {3} to the {4}.	{1}は全音域を使い、{2}は{3}から{4}までを使います。
+manual	core	{1} uses its entire range and {2} covers its entire range.	{1}は全音域を使い、{2}は全音域を使います。
+manual	core	{1} uses its entire range and {2} uses its entire range.	{1}は全音域を使い、{2}は全音域を使います。
+manual	core	{1} uses its entire range and {2} stays in the {3}.	{1}は全音域を使い、{2}は{3}にとどまります。
+manual	core	{1} uses its entire range and {2} is confined to the {3}.	{1}は全音域を使い、{2}は{3}に限られます。
+manual	core	{1} stays in the {2}.	{1}は{2}にとどまります。
+manual	core	{1} stays in the {2} and {3} covers its entire range from the {4} to the {5}.	{1}は{2}にとどまり、{3}は{4}から{5}までの全音域を使います。
+manual	core	{1} stays in the {2} and {3} uses its entire range from the {4} to the {5}.	{1}は{2}にとどまり、{3}は{4}から{5}までの全音域を使います。
+manual	core	{1} stays in the {2} and {3} ranges from the {4} to the {5}.	{1}は{2}にとどまり、{3}は{4}から{5}までを使います。
+manual	core	{1} stays in the {2} and {3} covers its entire range.	{1}は{2}にとどまり、{3}は全音域を使います。
+manual	core	{1} stays in the {2} and {3} uses its entire range.	{1}は{2}にとどまり、{3}は全音域を使います。
+manual	core	{1} stays in the {2} and {3} stays in the {4}.	{1}は{2}にとどまり、{3}は{4}にとどまります。
+manual	core	{1} stays in the {2} and {3} is confined to the {4}.	{1}は{2}にとどまり、{3}は{4}に限られます。
+manual	core	{1} is confined to the {2}.	{1}は{2}に限られます。
+manual	core	{1} is confined to the {2} and {3} covers its entire range from the {4} to the {5}.	{1}は{2}に限られ、{3}は{4}から{5}までの全音域を使います。
+manual	core	{1} is confined to the {2} and {3} uses its entire range from the {4} to the {5}.	{1}は{2}に限られ、{3}は{4}から{5}までの全音域を使います。
+manual	core	{1} is confined to the {2} and {3} ranges from the {4} to the {5}.	{1}は{2}に限られ、{3}は{4}から{5}までを使います。
+manual	core	{1} is confined to the {2} and {3} covers its entire range.	{1}は{2}に限られ、{3}は全音域を使います。
+manual	core	{1} is confined to the {2} and {3} uses its entire range.	{1}は{2}に限られ、{3}は全音域を使います。
+manual	core	{1} is confined to the {2} and {3} stays in the {4}.	{1}は{2}に限られ、{3}は{4}にとどまります。
+manual	core	{1} is confined to the {2} and {3} is confined to the {4}.	{1}は{2}に限られ、{3}は{4}に限られます。
+manual	core	Scales are conceived of as two chords built using a division of the perfect fourth interval into {1} notes.	音階は、完全四度を{1}個の音に分けて組み立てた、二つの和音として捉えられます。
+manual	core	Scales are constructed from {1} notes dividing the octave.	音階は、オクターブを分ける{1}個の音から組み立てられます。
+manual	core	Scales are constructed from {1} notes spaced evenly throughout the octave.	音階は、オクターブに等間隔で並ぶ{1}個の音から組み立てられます。
+manual	core	In quartertones, their spacing is roughly {1}, where 1 is the tonic, O marks the octave and x marks other notes.	四分音で表すと、その並びはおよそ {1} です（1 が主音、O がオクターブ、x がそのほかの音）。
+manual	core	It is called {1}.	これは{1}と呼ばれます。
+manual	core	The names are {1}.	名前は{1}です。
+manual	core	As always, the {1} scale is {2}.	いつもどおり、{1}音階は{2}。
+manual	core	The {1} scale is {2}.	{1}音階は{2}。
+manual	core	These chords are named {1} and {2}.	これらの和音は{1}と{2}と呼ばれます。
+manual	core	The {1} pentachord is the {2} {3}.	{1}五音和音は、{3}のうち{2}です。
+manual	core	The {1} pentachord is the {2}.	{1}五音和音は{2}です。
+manual	core	The {1} tetrachord is the {2} {3}.	{1}四音和音は、{3}のうち{2}です。
+manual	core	The {1} tetrachord is the {2}.	{1}四音和音は{2}です。
+manual	core	The {1} trichord is the {2} {3}.	{1}三音和音は、{3}のうち{2}です。
+manual	core	The {1} trichord is the {2}.	{1}三音和音は{2}です。
+manual	core	The {1} rhythm is made from {2} patterns: {3}.	{1}のリズムは{2}個のパターンから成ります。{3}。
+manual	core	The {1} rhythm is a single line with {2} beats.	{1}のリズムは、{2}拍からなる一本の線です。
+manual	core	The {1} rhythm is a single line with {2} beats divided into {3} bars in a {4} pattern.	{1}のリズムは、{2}拍を{3}小節に{4}の形で分けた、一本の線です。
+manual	core	The beats are named {1}.	拍の名前は{1}です。
+# === 芸術の形式（詩）===
+# scratchpad/gen_poem.py で作った。語句は translations/art-forms.tsv
+manual	core	{1} is a poetic form.	{1}は詩の形式です。
+manual	core	{1} is a poetic form originally devised by {2}.	{1}は、もともと{2}が考案した、詩の形式です。
+manual	core	{1} is a poetic form which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、詩の形式です。
+manual	core	{1} is a poetic form which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、詩の形式です。
+manual	core	{1} is a poetic form, originating in {2}.	{1}は、{2}で生まれ、詩の形式です。
+manual	core	{1} is a poetic form, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、詩の形式です。
+manual	core	{1} is a poetic form, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、詩の形式です。
+manual	core	{1} is a poetic form, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、詩の形式です。
+manual	core	{1} is a poetic form intended {2}.	{1}は、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}詩の形式です。
+manual	core	{1} is a poetic form intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}詩の形式です。
+manual	core	{1} is a poetic riddle.	{1}はなぞなぞ詩です。
+manual	core	{1} is a poetic riddle originally devised by {2}.	{1}は、もともと{2}が考案した、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle, originating in {2}.	{1}は、{2}で生まれ、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2}.	{1}は、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic riddle intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}なぞなぞ詩です。
+manual	core	{1} is a poetic narrative.	{1}は物語詩です。
+manual	core	{1} is a poetic narrative originally devised by {2}.	{1}は、もともと{2}が考案した、物語詩です。
+manual	core	{1} is a poetic narrative which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、物語詩です。
+manual	core	{1} is a poetic narrative which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、物語詩です。
+manual	core	{1} is a poetic narrative, originating in {2}.	{1}は、{2}で生まれ、物語詩です。
+manual	core	{1} is a poetic narrative, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、物語詩です。
+manual	core	{1} is a poetic narrative, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、物語詩です。
+manual	core	{1} is a poetic narrative, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、物語詩です。
+manual	core	{1} is a poetic narrative intended {2}.	{1}は、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}物語詩です。
+manual	core	{1} is a poetic narrative intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}物語詩です。
+manual	core	{1} is a solemn poetic form.	{1}は荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form originally devised by {2}.	{1}は、もともと{2}が考案した、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form, originating in {2}.	{1}は、{2}で生まれ、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2}.	{1}は、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic form intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}荘重な詩の形式です。
+manual	core	{1} is a solemn poetic riddle.	{1}は荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle originally devised by {2}.	{1}は、もともと{2}が考案した、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle, originating in {2}.	{1}は、{2}で生まれ、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2}.	{1}は、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic riddle intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}荘重ななぞなぞ詩です。
+manual	core	{1} is a solemn poetic narrative.	{1}は荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative originally devised by {2}.	{1}は、もともと{2}が考案した、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative, originating in {2}.	{1}は、{2}で生まれ、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2}.	{1}は、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}荘重な物語詩です。
+manual	core	{1} is a solemn poetic narrative intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}荘重な物語詩です。
+manual	core	{1} is a light poetic form.	{1}は軽妙な詩の形式です。
+manual	core	{1} is a light poetic form originally devised by {2}.	{1}は、もともと{2}が考案した、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form, originating in {2}.	{1}は、{2}で生まれ、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2}.	{1}は、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic form intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}軽妙な詩の形式です。
+manual	core	{1} is a light poetic riddle.	{1}は軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle originally devised by {2}.	{1}は、もともと{2}が考案した、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle, originating in {2}.	{1}は、{2}で生まれ、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2}.	{1}は、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic riddle intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}軽妙ななぞなぞ詩です。
+manual	core	{1} is a light poetic narrative.	{1}は軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative originally devised by {2}.	{1}は、もともと{2}が考案した、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative, originating in {2}.	{1}は、{2}で生まれ、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2}.	{1}は、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}軽妙な物語詩です。
+manual	core	{1} is a light poetic narrative intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}軽妙な物語詩です。
+manual	core	{1} is a ribald poetic form.	{1}は猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form originally devised by {2}.	{1}は、もともと{2}が考案した、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form, originating in {2}.	{1}は、{2}で生まれ、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2}.	{1}は、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic form intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}猥雑な詩の形式です。
+manual	core	{1} is a ribald poetic riddle.	{1}は猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle originally devised by {2}.	{1}は、もともと{2}が考案した、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle, originating in {2}.	{1}は、{2}で生まれ、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2}.	{1}は、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic riddle intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}猥雑ななぞなぞ詩です。
+manual	core	{1} is a ribald poetic narrative.	{1}は猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative originally devised by {2}.	{1}は、もともと{2}が考案した、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative, originating in {2}.	{1}は、{2}で生まれ、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2}.	{1}は、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}猥雑な物語詩です。
+manual	core	{1} is a ribald poetic narrative intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}猥雑な物語詩です。
+manual	core	{1} is a reflective poetic form.	{1}は内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form originally devised by {2}.	{1}は、もともと{2}が考案した、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form, originating in {2}.	{1}は、{2}で生まれ、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2}.	{1}は、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic form intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}内省的な詩の形式です。
+manual	core	{1} is a reflective poetic riddle.	{1}は内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle originally devised by {2}.	{1}は、もともと{2}が考案した、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle, originating in {2}.	{1}は、{2}で生まれ、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2}.	{1}は、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic riddle intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}内省的ななぞなぞ詩です。
+manual	core	{1} is a reflective poetic narrative.	{1}は内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative originally devised by {2}.	{1}は、もともと{2}が考案した、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative, originating in {2}.	{1}は、{2}で生まれ、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2}.	{1}は、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}内省的な物語詩です。
+manual	core	{1} is a reflective poetic narrative intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}内省的な物語詩です。
+manual	core	{1} is a dramatic poetic form.	{1}は劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form originally devised by {2}.	{1}は、もともと{2}が考案した、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form, originating in {2}.	{1}は、{2}で生まれ、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2}.	{1}は、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic form intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}劇的な詩の形式です。
+manual	core	{1} is a dramatic poetic riddle.	{1}は劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle originally devised by {2}.	{1}は、もともと{2}が考案した、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle, originating in {2}.	{1}は、{2}で生まれ、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2}.	{1}は、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic riddle intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}劇的ななぞなぞ詩です。
+manual	core	{1} is a dramatic poetic narrative.	{1}は劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative originally devised by {2}.	{1}は、もともと{2}が考案した、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative which grew out of the performances of {2}.	{1}は、{2}の演奏から育ち、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative which grew out of the performances of {2} originally devised by {3}.	{1}は、{2}の演奏から育ち、もともと{3}が考案した、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative, originating in {2}.	{1}は、{2}で生まれ、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative, originating in {2} originally devised by {3}.	{1}は、{2}で生まれ、もともと{3}が考案した、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative, originating in {2} which grew out of the performances of {3}.	{1}は、{2}で生まれ、{3}の演奏から育ち、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative, originating in {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{2}で生まれ、{3}の演奏から育ち、もともと{4}が考案した、劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2}.	{1}は、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2} originally devised by {3}.	{1}は、もともと{3}が考案した、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2} which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2} which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2}, originating in {3}.	{1}は、{3}で生まれ、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2}, originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2}, originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}劇的な物語詩です。
+manual	core	{1} is a dramatic poetic narrative intended {2}, originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}劇的な物語詩です。
+manual	core	to describe concerning {1}	{1}について描写しようとする
+manual	core	to describe {1}	{1}について描写しようとする
+manual	core	to satirize concerning {1}	{1}について風刺しようとする
+manual	core	to satirize {1}	{1}について風刺しようとする
+manual	core	to amuse the audience concerning {1}	{1}について聴衆を楽しませようとする
+manual	core	to amuse the audience {1}	{1}について聴衆を楽しませようとする
+manual	core	to complain about concerning {1}	{1}について不満を述べようとする
+manual	core	to complain about {1}	{1}について不満を述べようとする
+manual	core	to renounce concerning {1}	{1}について放棄しようとする
+manual	core	to renounce {1}	{1}について放棄しようとする
+manual	core	to make an apology concerning {1}	{1}について謝罪しようとする
+manual	core	to make an apology {1}	{1}について謝罪しようとする
+manual	core	to express pleasure with concerning {1}	{1}について喜びを表そうとする
+manual	core	to express pleasure with {1}	{1}について喜びを表そうとする
+manual	core	to express grief over concerning {1}	{1}について嘆きを表そうとする
+manual	core	to express grief over {1}	{1}について嘆きを表そうとする
+manual	core	to praise concerning {1}	{1}について称賛しようとする
+manual	core	to praise {1}	{1}について称賛しようとする
+manual	core	to beseech concerning {1}	{1}について懇願しようとする
+manual	core	to beseech {1}	{1}について懇願しようとする
+manual	core	to teach a moral lesson concerning {1}	{1}について道徳的な教訓を伝えようとする
+manual	core	to teach a moral lesson {1}	{1}について道徳的な教訓を伝えようとする
+manual	core	to make an assertion concerning {1}	{1}について主張しようとする
+manual	core	to make an assertion {1}	{1}について主張しようとする
+manual	core	to make a concession concerning {1}	{1}について譲歩しようとする
+manual	core	to make a concession {1}	{1}について譲歩しようとする
+manual	core	to console the audience concerning {1}	{1}について聴衆を慰めようとする
+manual	core	to console the audience {1}	{1}について聴衆を慰めようとする
+manual	core	to refuse consolation concerning {1}	{1}について慰めを拒もうとする
+manual	core	to refuse consolation {1}	{1}について慰めを拒もうとする
+manual	core	to make a counter-assertion concerning {1}	{1}について反論しようとする
+manual	core	to make a counter-assertion {1}	{1}について反論しようとする
+manual	core	to synthesize previous ideas concerning {1}	{1}についてそれまでの着想をまとめようとする
+manual	core	to synthesize previous ideas {1}	{1}についてそれまでの着想をまとめようとする
+manual	core	to develop the previous idea concerning {1}	{1}について前の着想を発展させようとする
+manual	core	to develop the previous idea {1}	{1}について前の着想を発展させようとする
+manual	core	to invert the previous assertion concerning {1}	{1}について前の主張を反転させようとする
+manual	core	to invert the previous assertion {1}	{1}について前の主張を反転させようとする
+manual	core	to undercut the previous assertion concerning {1}	{1}について前の主張を切り崩そうとする
+manual	core	to undercut the previous assertion {1}	{1}について前の主張を切り崩そうとする
+manual	core	to move away from previous ideas concerning {1}	{1}についてそれまでの着想から離れようとする
+manual	core	to move away from previous ideas {1}	{1}についてそれまでの着想から離れようとする
+manual	core	to reflect on previous ideas concerning {1}	{1}についてそれまでの着想を省みようとする
+manual	core	to reflect on previous ideas {1}	{1}についてそれまでの着想を省みようとする
+manual	core	to offer a different perspective concerning {1}	{1}について異なる見方を示そうとする
+manual	core	to offer a different perspective {1}	{1}について異なる見方を示そうとする
+manual	core	The poem is divided into {1} distinct parts: {2}.	詩は{1}つの異なる部に分かれます。{2}。
+manual	core	The poem is divided into two distinct {1}.	詩は、異なる二つの{1}に分かれます。
+manual	core	The poem is divided into {1}.	詩は{1}に分かれます。
+manual	core	The poem is a single {1}.	詩は一つの{1}から成ります。
+manual	core	The poem is a series of {1}.	詩は一連の{1}から成ります。
+manual	core	The poem is an extremely long series of {1}.	詩は非常に長く続く{1}から成ります。
+manual	core	The poem is numerous series of {1}.	詩はいくつもの一連の{1}から成ります。
+manual	core	{1} is always written from the perspective of {2}.	{1}はつねに{2}の視点から書かれます。
+manual	core	Use of {1} is characteristic of the form.	{1}を用いるのが、この形式の特徴です。
+manual	core	Forms of parallelism are common throughout the poem, in that certain lines {1}.	対句法が詩の全体に見られ、特定の行が{1}ます。
+manual	core	Forms of parallelism are common throughout the poem, in that they {1}.	対句法が詩の全体に見られ、行どうしが{1}ます。
+manual	core	A form of parallelism is common throughout the poem, in that certain lines {1}.	一つの対句法が詩の全体に見られ、特定の行が{1}ます。
+manual	core	A form of parallelism is common throughout the poem, in that they {1}.	一つの対句法が詩の全体に見られ、行どうしが{1}ます。
+manual	core	Linguistic skill is required in the visual presentation as well, as {1} must feature {2}.	見た目の上でも言葉の技量が求められ、{1}は{2}を備えなければなりません。
+manual	core	The poem has {1} foot with a tone pattern of {2}.	詩の各行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	The poem has {1} foot with a syllable weight pattern of {2} (quantitative {3} {4}).	詩の各行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	The poem has {1} foot with an accent pattern of {2} (qualitative {3} {4}).	詩の各行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	The poem has {1} feet with a tone pattern of {2}.	詩の各行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	The poem has {1} feet with a syllable weight pattern of {2} (quantitative {3} {4}).	詩の各行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	The poem has {1} feet with an accent pattern of {2} (qualitative {3} {4}).	詩の各行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	The poem has lines with {1} foot with a tone pattern of {2}.	詩の各行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	The poem has lines with {1} foot with a syllable weight pattern of {2} (quantitative {3} {4}).	詩の各行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	The poem has lines with {1} foot with an accent pattern of {2} (qualitative {3} {4}).	詩の各行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	The poem has lines with {1} feet with a tone pattern of {2}.	詩の各行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	The poem has lines with {1} feet with a syllable weight pattern of {2} (quantitative {3} {4}).	詩の各行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	The poem has lines with {1} feet with an accent pattern of {2} (qualitative {3} {4}).	詩の各行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	Each line has {1} foot with a tone pattern of {2}.	各行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	Each line has {1} foot with a syllable weight pattern of {2} (quantitative {3} {4}).	各行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	Each line has {1} foot with an accent pattern of {2} (qualitative {3} {4}).	各行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	Each line has {1} feet with a tone pattern of {2}.	各行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	Each line has {1} feet with a syllable weight pattern of {2} (quantitative {3} {4}).	各行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	Each line has {1} feet with an accent pattern of {2} (qualitative {3} {4}).	各行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	It has {1} foot with a tone pattern of {2}.	この行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	It has {1} foot with a syllable weight pattern of {2} (quantitative {3} {4}).	この行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	It has {1} foot with an accent pattern of {2} (qualitative {3} {4}).	この行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	It has {1} feet with a tone pattern of {2}.	この行は{1}音歩で、{2}の声調型を持ちます。
+manual	core	It has {1} feet with a syllable weight pattern of {2} (quantitative {3} {4}).	この行は{1}音歩で、{2}の音節量型（量的な{3}{4}）を持ちます。
+manual	core	It has {1} feet with an accent pattern of {2} (qualitative {3} {4}).	この行は{1}音歩で、{2}の強勢型（質的な{3}{4}）を持ちます。
+manual	core	The {1} part has {2} foot with a tone pattern of {3}.	{1}の部の各行は{2}音歩で、{3}の声調型を持ちます。
+manual	core	The {1} part has {2} foot with a syllable weight pattern of {3} (quantitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の音節量型（量的な{4}{5}）を持ちます。
+manual	core	The {1} part has {2} foot with an accent pattern of {3} (qualitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の強勢型（質的な{4}{5}）を持ちます。
+manual	core	The {1} part has {2} feet with a tone pattern of {3}.	{1}の部の各行は{2}音歩で、{3}の声調型を持ちます。
+manual	core	The {1} part has {2} feet with a syllable weight pattern of {3} (quantitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の音節量型（量的な{4}{5}）を持ちます。
+manual	core	The {1} part has {2} feet with an accent pattern of {3} (qualitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の強勢型（質的な{4}{5}）を持ちます。
+manual	core	The {1} part has lines with {2} foot with a tone pattern of {3}.	{1}の部の各行は{2}音歩で、{3}の声調型を持ちます。
+manual	core	The {1} part has lines with {2} foot with a syllable weight pattern of {3} (quantitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の音節量型（量的な{4}{5}）を持ちます。
+manual	core	The {1} part has lines with {2} foot with an accent pattern of {3} (qualitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の強勢型（質的な{4}{5}）を持ちます。
+manual	core	The {1} part has lines with {2} feet with a tone pattern of {3}.	{1}の部の各行は{2}音歩で、{3}の声調型を持ちます。
+manual	core	The {1} part has lines with {2} feet with a syllable weight pattern of {3} (quantitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の音節量型（量的な{4}{5}）を持ちます。
+manual	core	The {1} part has lines with {2} feet with an accent pattern of {3} (qualitative {4} {5}).	{1}の部の各行は{2}音歩で、{3}の強勢型（質的な{4}{5}）を持ちます。
+manual	core	The {1} line has {2} foot with a tone pattern of {3}.	{1}の行は{2}音歩で、{3}の声調型を持ちます。
+manual	core	The {1} line has {2} foot with a syllable weight pattern of {3} (quantitative {4} {5}).	{1}の行は{2}音歩で、{3}の音節量型（量的な{4}{5}）を持ちます。
+manual	core	The {1} line has {2} foot with an accent pattern of {3} (qualitative {4} {5}).	{1}の行は{2}音歩で、{3}の強勢型（質的な{4}{5}）を持ちます。
+manual	core	The {1} line has {2} feet with a tone pattern of {3}.	{1}の行は{2}音歩で、{3}の声調型を持ちます。
+manual	core	The {1} line has {2} feet with a syllable weight pattern of {3} (quantitative {4} {5}).	{1}の行は{2}音歩で、{3}の音節量型（量的な{4}{5}）を持ちます。
+manual	core	The {1} line has {2} feet with an accent pattern of {3} (qualitative {4} {5}).	{1}の行は{2}音歩で、{3}の強勢型（質的な{4}{5}）を持ちます。
+manual	core	The poem has {1} syllables.	詩は{1}音節です。
+manual	core	Each line has {1} syllables.	各行は{1}音節です。
+manual	core	It has {1} syllables.	この行は{1}音節です。
+manual	core	The {1} part has {2} syllables.	{1}の部の各行は{2}音節です。
+manual	core	The {1} part has lines with {2} syllables.	{1}の部の各行は{2}音節です。
+manual	core	The {1} line has {2} syllables.	{1}の行は{2}音節です。
+manual	core	The poem has a terminal caesura.	詩には行末の切れ目があります。
+manual	core	The poem has a terminal caesura in each line.	詩はどの行にも行末の切れ目があります。
+manual	core	Every line of the poem has a terminal caesura.	詩のどの行にも行末の切れ目があります。
+manual	core	It has a terminal caesura.	これには行末の切れ目があります。
+manual	core	It has a terminal caesura in each line.	どの行にも行末の切れ目があります。
+manual	core	The {1} part has a terminal caesura.	{1}の部には行末の切れ目があります。
+manual	core	The {1} part has a terminal caesura in each line.	{1}の部はどの行にも行末の切れ目があります。
+manual	core	The {1} line has a terminal caesura.	{1}の行には行末の切れ目があります。
+manual	core	The poem has a medial caesura.	詩には行中の切れ目があります。
+manual	core	The poem has a medial caesura in each line.	詩はどの行にも行中の切れ目があります。
+manual	core	Every line of the poem has a medial caesura.	詩のどの行にも行中の切れ目があります。
+manual	core	It has a medial caesura.	これには行中の切れ目があります。
+manual	core	It has a medial caesura in each line.	どの行にも行中の切れ目があります。
+manual	core	The {1} part has a medial caesura.	{1}の部には行中の切れ目があります。
+manual	core	The {1} part has a medial caesura in each line.	{1}の部はどの行にも行中の切れ目があります。
+manual	core	The {1} line has a medial caesura.	{1}の行には行中の切れ目があります。
+manual	core	The poem has an initial caesura.	詩には行頭の切れ目があります。
+manual	core	The poem has an initial caesura in each line.	詩はどの行にも行頭の切れ目があります。
+manual	core	Every line of the poem has an initial caesura.	詩のどの行にも行頭の切れ目があります。
+manual	core	It has an initial caesura.	これには行頭の切れ目があります。
+manual	core	It has an initial caesura in each line.	どの行にも行頭の切れ目があります。
+manual	core	The {1} part has an initial caesura.	{1}の部には行頭の切れ目があります。
+manual	core	The {1} part has an initial caesura in each line.	{1}の部はどの行にも行頭の切れ目があります。
+manual	core	The {1} line has an initial caesura.	{1}の行には行頭の切れ目があります。
+manual	core	The ending of each line of the poem shares the same rhyme.	詩のどの行も、行末が同じ韻を踏みます。
+manual	core	The ending of each line of the poem shares the same rhyme, though the rhyming doesn't have to be perfect.	詩のどの行も、行末が同じ韻を踏みます。ただし韻は完全でなくてもかまいません。
+manual	core	The ending of each line of the poem shares the same rhyme, though rhymes at the end of lines in the {1} section don't need to match perfectly.	詩のどの行も、行末が同じ韻を踏みます。ただし{1}節の行末の韻は、完全に一致しなくてもかまいません。
+manual	core	The ending of each line of this part shares the same rhyme.	この部のどの行も、行末が同じ韻を踏みます。
+manual	core	The ending of each line of this part shares the same rhyme, though the rhyming doesn't have to be perfect.	この部のどの行も、行末が同じ韻を踏みます。ただし韻は完全でなくてもかまいません。
+manual	core	The ending of each line of this part shares the same rhyme, though rhymes at the end of lines in the {1} section don't need to match perfectly.	この部のどの行も、行末が同じ韻を踏みます。ただし{1}節の行末の韻は、完全に一致しなくてもかまいません。
+manual	core	The ending of each line of the {1} part shares the same rhyme.	{1}の部のどの行も、行末が同じ韻を踏みます。
+manual	core	The ending of each line of the {1} part shares the same rhyme, though the rhyming doesn't have to be perfect.	{1}の部のどの行も、行末が同じ韻を踏みます。ただし韻は完全でなくてもかまいません。
+manual	core	The ending of each line of the {1} part shares the same rhyme, though rhymes at the end of lines in the {2} section don't need to match perfectly.	{1}の部のどの行も、行末が同じ韻を踏みます。ただし{2}節の行末の韻は、完全に一致しなくてもかまいません。
+manual	core	The rhyme scheme of the poem is {1}.	詩の押韻構成は{1}です。
+manual	core	The rhyme scheme of the poem is {1}, where numbers indicate a refrain.	詩の押韻構成は{1}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme repeating in each stanza is {1}.	どの連でも繰り返される押韻構成は{1}です。
+manual	core	The rhyme scheme repeating in each stanza is {1}, where numbers indicate a refrain.	どの連でも繰り返される押韻構成は{1}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme within each stanza is {1}.	各連の中での押韻構成は{1}です。
+manual	core	The rhyme scheme within each stanza is {1}, where numbers indicate a refrain.	各連の中での押韻構成は{1}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme within this stanza is {1}.	この連の中での押韻構成は{1}です。
+manual	core	The rhyme scheme within this stanza is {1}, where numbers indicate a refrain.	この連の中での押韻構成は{1}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme respecting the full poem is {1}.	詩全体にわたる押韻構成は{1}です。
+manual	core	The rhyme scheme respecting the full poem is {1}, where numbers indicate a refrain.	詩全体にわたる押韻構成は{1}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme repeating in each stanza of the {1} part is {2}.	{1}の部のどの連でも繰り返される押韻構成は{2}です。
+manual	core	The rhyme scheme repeating in each stanza of the {1} part is {2}, where numbers indicate a refrain.	{1}の部のどの連でも繰り返される押韻構成は{2}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme within each stanza of the {1} part is {2}.	{1}の部の各連の中での押韻構成は{2}です。
+manual	core	The rhyme scheme within each stanza of the {1} part is {2}, where numbers indicate a refrain.	{1}の部の各連の中での押韻構成は{2}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme within the {1} part is {2}.	{1}の部の中での押韻構成は{2}です。
+manual	core	The rhyme scheme within the {1} part is {2}, where numbers indicate a refrain.	{1}の部の中での押韻構成は{2}です（数字は折り返しを表します）。
+manual	core	The rhyme scheme of the {1} part is {2}.	{1}の部の押韻構成は{2}です。
+manual	core	The rhyme scheme of the {1} part is {2}, where numbers indicate a refrain.	{1}の部の押韻構成は{2}です（数字は折り返しを表します）。
+manual	core	The rhyme at the end of the {1} line doesn't need to match perfectly.	{1}の行の行末の韻は、完全に一致しなくてもかまいません。
+manual	core	The rhymes at the end of the {1} lines don't need to match perfectly.	{1}の行の行末の韻は、完全に一致しなくてもかまいません。
+manual	core	The refrain occurs as lines {1}.	折り返しは{1}行目に現れます。
+manual	core	The refrain occurs as lines {1} and {2}.	折り返しは{1}行目と{2}行目に現れます。
+manual	core	The {1} refrain occurs as lines {2} and {3}.	{1}の折り返しは{2}行目と{3}行目に現れます。
+manual	core	The refrain occurs as line {1}.	折り返しは{1}行目に現れます。
+manual	core	The {1} refrain occurs as lines {2}.	{1}の折り返しは{2}行目に現れます。
+manual	core	The {1} refrain occurs as line {2}.	{1}の折り返しは{2}行目に現れます。
+manual	core	The {1} refrain occurs as line {2} and the {3} refrain occurs as line {4}.	{1}の折り返しは{2}行目に、{3}の折り返しは{4}行目に現れます。
+manual	core	The {1} refrain occurs as lines {2} of the {3} part.	{1}の折り返しは、{3}の部の{2}行目に現れます。
+manual	core	The {1} refrain occurs as line {2} of the {3} part.	{1}の折り返しは、{3}の部の{2}行目に現れます。
+manual	core	The {1} part is dramatic and is intended {2} concerning {3}.	{1}の部は劇的です。また、{3}について{2}ものです。
+manual	core	The {1} part is dramatic and is intended {2}.	{1}の部は劇的です。また、{2}ものです。
+manual	core	The {1} part is dramatic.	{1}の部は劇的です。
+manual	core	The {1} part is reflective and is intended {2} concerning {3}.	{1}の部は内省的です。また、{3}について{2}ものです。
+manual	core	The {1} part is reflective and is intended {2}.	{1}の部は内省的です。また、{2}ものです。
+manual	core	The {1} part is reflective.	{1}の部は内省的です。
+manual	core	The {1} part is ribald and is intended {2} concerning {3}.	{1}の部は猥雑です。また、{3}について{2}ものです。
+manual	core	The {1} part is ribald and is intended {2}.	{1}の部は猥雑です。また、{2}ものです。
+manual	core	The {1} part is ribald.	{1}の部は猥雑です。
+manual	core	The {1} part is light and is intended {2} concerning {3}.	{1}の部は軽妙です。また、{3}について{2}ものです。
+manual	core	The {1} part is light and is intended {2}.	{1}の部は軽妙です。また、{2}ものです。
+manual	core	The {1} part is light.	{1}の部は軽妙です。
+manual	core	The {1} part is solemn and is intended {2} concerning {3}.	{1}の部は荘重です。また、{3}について{2}ものです。
+manual	core	The {1} part is solemn and is intended {2}.	{1}の部は荘重です。また、{2}ものです。
+manual	core	The {1} part is solemn.	{1}の部は荘重です。
+manual	core	The {1} part is a riddle and is intended {2} concerning {3}.	{1}の部はなぞなぞです。また、{3}について{2}ものです。
+manual	core	The {1} part is a riddle and is intended {2}.	{1}の部はなぞなぞです。また、{2}ものです。
+manual	core	The {1} part is a riddle.	{1}の部はなぞなぞです。
+manual	core	The {1} part is a narrative and is intended {2} concerning {3}.	{1}の部は物語です。また、{3}について{2}ものです。
+manual	core	The {1} part is a narrative and is intended {2}.	{1}の部は物語です。また、{2}ものです。
+manual	core	The {1} part is a narrative.	{1}の部は物語です。
+manual	core	The {1} part can be read backwards as well as forwards.	{1}の部は前からも後ろからも読めます。
+manual	core	The {1} part has different readings depending on word breaks.	{1}の部は語の区切りによって読みが変わります。
+manual	core	The {1} part can be read backwards as well as forwards and has different readings depending on word breaks.	{1}の部は前からも後ろからも読め、語の区切りによって読みが変わります。
+manual	core	The {1} part is intended {2} concerning {3}.	{1}の部は{3}について{2}ものです。
+manual	core	The {1} part is intended {2}.	{1}の部は{2}ものです。
+manual	core	The {1} part is written from the perspective of {2}.	{1}の部は{2}の視点から書かれます。
+manual	core	The {1} part must make use of {2}.	{1}の部は{2}を用いなければなりません。
+manual	core	The {1} part includes {2}.	{1}の部は{2}を含みます。
+manual	core	The {1} part concerns {2}.	{1}の部は{2}を扱います。
+manual	core	The {1} line is dramatic and is intended {2} concerning {3}.	{1}の行は劇的です。また、{3}について{2}ものです。
+manual	core	The {1} line is dramatic and is intended {2}.	{1}の行は劇的です。また、{2}ものです。
+manual	core	The {1} line is dramatic.	{1}の行は劇的です。
+manual	core	The {1} line is reflective and is intended {2} concerning {3}.	{1}の行は内省的です。また、{3}について{2}ものです。
+manual	core	The {1} line is reflective and is intended {2}.	{1}の行は内省的です。また、{2}ものです。
+manual	core	The {1} line is reflective.	{1}の行は内省的です。
+manual	core	The {1} line is ribald and is intended {2} concerning {3}.	{1}の行は猥雑です。また、{3}について{2}ものです。
+manual	core	The {1} line is ribald and is intended {2}.	{1}の行は猥雑です。また、{2}ものです。
+manual	core	The {1} line is ribald.	{1}の行は猥雑です。
+manual	core	The {1} line is light and is intended {2} concerning {3}.	{1}の行は軽妙です。また、{3}について{2}ものです。
+manual	core	The {1} line is light and is intended {2}.	{1}の行は軽妙です。また、{2}ものです。
+manual	core	The {1} line is light.	{1}の行は軽妙です。
+manual	core	The {1} line is solemn and is intended {2} concerning {3}.	{1}の行は荘重です。また、{3}について{2}ものです。
+manual	core	The {1} line is solemn and is intended {2}.	{1}の行は荘重です。また、{2}ものです。
+manual	core	The {1} line is solemn.	{1}の行は荘重です。
+manual	core	The {1} line is a riddle and is intended {2} concerning {3}.	{1}の行はなぞなぞです。また、{3}について{2}ものです。
+manual	core	The {1} line is a riddle and is intended {2}.	{1}の行はなぞなぞです。また、{2}ものです。
+manual	core	The {1} line is a riddle.	{1}の行はなぞなぞです。
+manual	core	The {1} line is a narrative and is intended {2} concerning {3}.	{1}の行は物語です。また、{3}について{2}ものです。
+manual	core	The {1} line is a narrative and is intended {2}.	{1}の行は物語です。また、{2}ものです。
+manual	core	The {1} line is a narrative.	{1}の行は物語です。
+manual	core	The {1} line can be read backwards as well as forwards.	{1}の行は前からも後ろからも読めます。
+manual	core	The {1} line has different readings depending on word breaks.	{1}の行は語の区切りによって読みが変わります。
+manual	core	The {1} line can be read backwards as well as forwards and has different readings depending on word breaks.	{1}の行は前からも後ろからも読め、語の区切りによって読みが変わります。
+manual	core	The {1} line is intended {2} concerning {3}.	{1}の行は{3}について{2}ものです。
+manual	core	The {1} line is intended {2}.	{1}の行は{2}ものです。
+manual	core	The {1} line is written from the perspective of {2}.	{1}の行は{2}の視点から書かれます。
+manual	core	The {1} line must make use of {2}.	{1}の行は{2}を用いなければなりません。
+manual	core	The {1} line includes {2}.	{1}の行は{2}を含みます。
+manual	core	The {1} line concerns {2}.	{1}の行は{2}を扱います。
+manual	core	It is dramatic and is intended {1} concerning {2}.	これは劇的です。また、{2}について{1}ものです。
+manual	core	It is dramatic and is intended {1}.	これは劇的です。また、{1}ものです。
+manual	core	It is dramatic.	これは劇的です。
+manual	core	It is reflective and is intended {1} concerning {2}.	これは内省的です。また、{2}について{1}ものです。
+manual	core	It is reflective and is intended {1}.	これは内省的です。また、{1}ものです。
+manual	core	It is reflective.	これは内省的です。
+manual	core	It is ribald and is intended {1} concerning {2}.	これは猥雑です。また、{2}について{1}ものです。
+manual	core	It is ribald and is intended {1}.	これは猥雑です。また、{1}ものです。
+manual	core	It is ribald.	これは猥雑です。
+manual	core	It is light and is intended {1} concerning {2}.	これは軽妙です。また、{2}について{1}ものです。
+manual	core	It is light and is intended {1}.	これは軽妙です。また、{1}ものです。
+manual	core	It is light.	これは軽妙です。
+manual	core	It is solemn and is intended {1} concerning {2}.	これは荘重です。また、{2}について{1}ものです。
+manual	core	It is solemn and is intended {1}.	これは荘重です。また、{1}ものです。
+manual	core	It is solemn.	これは荘重です。
+manual	core	It is a riddle and is intended {1} concerning {2}.	これはなぞなぞです。また、{2}について{1}ものです。
+manual	core	It is a riddle and is intended {1}.	これはなぞなぞです。また、{1}ものです。
+manual	core	It is a riddle.	これはなぞなぞです。
+manual	core	It is a narrative and is intended {1} concerning {2}.	これは物語です。また、{2}について{1}ものです。
+manual	core	It is a narrative and is intended {1}.	これは物語です。また、{1}ものです。
+manual	core	It is a narrative.	これは物語です。
+manual	core	It can be read backwards as well as forwards.	これは前からも後ろからも読めます。
+manual	core	It has different readings depending on word breaks.	これは語の区切りによって読みが変わります。
+manual	core	It can be read backwards as well as forwards and has different readings depending on word breaks.	これは前からも後ろからも読め、語の区切りによって読みが変わります。
+manual	core	It is intended {1} concerning {2}.	これは{2}について{1}ものです。
+manual	core	It is intended {1}.	これは{1}ものです。
+manual	core	It is written from the perspective of {1}.	これは{1}の視点から書かれます。
+manual	core	It must make use of {1}.	これは{1}を用いなければなりません。
+manual	core	It includes {1}.	これは{1}を含みます。
+manual	core	It concerns {1}.	これは{1}を扱います。
+manual	core	Certain lines of the {1} part {2}.	{1}の部の特定の行は{2}ます。
+manual	core	Certain lines {1}.	特定の行は{1}ます。
+manual	core	In the {1} part, the {2} line of each {3} shares the underlying meaning of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行と根底の意味を共有します。
+manual	core	In the {1} part, the {2} line of the {3} shares the underlying meaning of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行と根底の意味を共有します。
+manual	core	The {1} line of each {2} shares the underlying meaning of the {3} line.	どの{2}でも、{1}の行が{3}の行と根底の意味を共有します。
+manual	core	The {1} line of the {2} shares the underlying meaning of the {3} line.	{2}の{1}の行が、{3}の行と根底の意味を共有します。
+manual	core	In the {1} part, the {2} line of each {3} contrasts the underlying meaning of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行と根底の意味を対比させます。
+manual	core	In the {1} part, the {2} line of the {3} contrasts the underlying meaning of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行と根底の意味を対比させます。
+manual	core	The {1} line of each {2} contrasts the underlying meaning of the {3} line.	どの{2}でも、{1}の行が{3}の行と根底の意味を対比させます。
+manual	core	The {1} line of the {2} contrasts the underlying meaning of the {3} line.	{2}の{1}の行が、{3}の行と根底の意味を対比させます。
+manual	core	In the {1} part, the {2} line of each {3} is required to maintain the phrasing of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行の言い回しを保たなければなりません。
+manual	core	In the {1} part, the {2} line of the {3} is required to maintain the phrasing of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行の言い回しを保たなければなりません。
+manual	core	The {1} line of each {2} is required to maintain the phrasing of the {3} line.	どの{2}でも、{1}の行が{3}の行の言い回しを保たなければなりません。
+manual	core	The {1} line of the {2} is required to maintain the phrasing of the {3} line.	{2}の{1}の行が、{3}の行の言い回しを保たなければなりません。
+manual	core	In the {1} part, the {2} line of each {3} has the same grammatical structure as the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行と同じ文法構造を持ちます。
+manual	core	In the {1} part, the {2} line of the {3} has the same grammatical structure as the {4} line.	{1}の部では、{3}の{2}の行が{4}の行と同じ文法構造を持ちます。
+manual	core	The {1} line of each {2} has the same grammatical structure as the {3} line.	どの{2}でも、{1}の行が{3}の行と同じ文法構造を持ちます。
+manual	core	The {1} line of the {2} has the same grammatical structure as the {3} line.	{2}の{1}の行が、{3}の行と同じ文法構造を持ちます。
+manual	core	In the {1} part, the {2} line of each {3} uses the same placement of allusions as the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行と同じ位置に引喩を置きます。
+manual	core	In the {1} part, the {2} line of the {3} uses the same placement of allusions as the {4} line.	{1}の部では、{3}の{2}の行が{4}の行と同じ位置に引喩を置きます。
+manual	core	The {1} line of each {2} uses the same placement of allusions as the {3} line.	どの{2}でも、{1}の行が{3}の行と同じ位置に引喩を置きます。
+manual	core	The {1} line of the {2} uses the same placement of allusions as the {3} line.	{2}の{1}の行が、{3}の行と同じ位置に引喩を置きます。
+manual	core	In the {1} part, the {2} line of each {3} reverses the word order of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行の語順を逆にします。
+manual	core	In the {1} part, the {2} line of the {3} reverses the word order of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行の語順を逆にします。
+manual	core	The {1} line of each {2} reverses the word order of the {3} line.	どの{2}でも、{1}の行が{3}の行の語順を逆にします。
+manual	core	The {1} line of the {2} reverses the word order of the {3} line.	{2}の{1}の行が、{3}の行の語順を逆にします。
+manual	core	In the {1} part, the {2} line of each {3} reverses the grammatical structure of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行の文法構造を逆にします。
+manual	core	In the {1} part, the {2} line of the {3} reverses the grammatical structure of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行の文法構造を逆にします。
+manual	core	The {1} line of each {2} reverses the grammatical structure of the {3} line.	どの{2}でも、{1}の行が{3}の行の文法構造を逆にします。
+manual	core	The {1} line of the {2} reverses the grammatical structure of the {3} line.	{2}の{1}の行が、{3}の行の文法構造を逆にします。
+manual	core	In the {1} part, the {2} line of each {3} presents a different view of the subject of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行の主題について異なる見方を示します。
+manual	core	In the {1} part, the {2} line of the {3} presents a different view of the subject of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行の主題について異なる見方を示します。
+manual	core	The {1} line of each {2} presents a different view of the subject of the {3} line.	どの{2}でも、{1}の行が{3}の行の主題について異なる見方を示します。
+manual	core	The {1} line of the {2} presents a different view of the subject of the {3} line.	{2}の{1}の行が、{3}の行の主題について異なる見方を示します。
+manual	core	In the {1} part, the {2} line of each {3} must expand the idea of the {4} line.	{1}の部では、どの{3}でも{2}の行が{4}の行の着想を広げなければなりません。
+manual	core	In the {1} part, the {2} line of the {3} must expand the idea of the {4} line.	{1}の部では、{3}の{2}の行が{4}の行の着想を広げなければなりません。
+manual	core	The {1} line of each {2} must expand the idea of the {3} line.	どの{2}でも、{1}の行が{3}の行の着想を広げなければなりません。
+manual	core	The {1} line of the {2} must expand the idea of the {3} line.	{2}の{1}の行が、{3}の行の着想を広げなければなりません。
+# === 芸術の形式（踊り）===
+# scratchpad/gen_dance.py で作った。語句は translations/art-forms.tsv
+manual	core	{1} is a {2} dance.	{1}は{2}舞踊です。
+manual	core	{1} is a {2} dance originally devised by {3}.	{1}は、もともと{3}が考案した、{2}舞踊です。
+manual	core	{1} is a {2} dance which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、{2}舞踊です。
+manual	core	{1} is a {2} dance which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、{2}舞踊です。
+manual	core	{1} is a {2} dance originating in {3}.	{1}は、{3}で生まれ、{2}舞踊です。
+manual	core	{1} is a {2} dance originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、{2}舞踊です。
+manual	core	{1} is a {2} dance originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、{2}舞踊です。
+manual	core	{1} is a {2} dance originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair.	{1}は一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair originally devised by {3}.	{1}は、もともと{3}が考案した、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair which grew out of the performances of {3}.	{1}は、{3}の演奏から育ち、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair which grew out of the performances of {3} originally devised by {4}.	{1}は、{3}の演奏から育ち、もともと{4}が考案した、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair originating in {3}.	{1}は、{3}で生まれ、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair originating in {3} originally devised by {4}.	{1}は、{3}で生まれ、もともと{4}が考案した、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair originating in {3} which grew out of the performances of {4}.	{1}は、{3}で生まれ、{4}の演奏から育ち、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for a single pair originating in {3} which grew out of the performances of {4} originally devised by {5}.	{1}は、{3}で生まれ、{4}の演奏から育ち、もともと{5}が考案した、一組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers.	{1}は{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers originally devised by {4}.	{1}は、もともと{4}が考案した、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers which grew out of the performances of {4}.	{1}は、{4}の演奏から育ち、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers which grew out of the performances of {4} originally devised by {5}.	{1}は、{4}の演奏から育ち、もともと{5}が考案した、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers originating in {4}.	{1}は、{4}で生まれ、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers originating in {4} originally devised by {5}.	{1}は、{4}で生まれ、もともと{5}が考案した、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers originating in {4} which grew out of the performances of {5}.	{1}は、{4}で生まれ、{5}の演奏から育ち、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} dancers originating in {4} which grew out of the performances of {5} originally devised by {6}.	{1}は、{4}で生まれ、{5}の演奏から育ち、もともと{6}が考案した、{3}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers.	{1}は{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers originally devised by {5}.	{1}は、もともと{5}が考案した、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers which grew out of the performances of {5}.	{1}は、{5}の演奏から育ち、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers which grew out of the performances of {5} originally devised by {6}.	{1}は、{5}の演奏から育ち、もともと{6}が考案した、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers originating in {5}.	{1}は、{5}で生まれ、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers originating in {5} originally devised by {6}.	{1}は、{5}で生まれ、もともと{6}が考案した、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers originating in {5} which grew out of the performances of {6}.	{1}は、{5}で生まれ、{6}の演奏から育ち、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} dancers originating in {5} which grew out of the performances of {6} originally devised by {7}.	{1}は、{5}で生まれ、{6}の演奏から育ち、もともと{7}が考案した、{3}〜{4}人の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs.	{1}は{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs originally devised by {4}.	{1}は、もともと{4}が考案した、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs which grew out of the performances of {4}.	{1}は、{4}の演奏から育ち、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs which grew out of the performances of {4} originally devised by {5}.	{1}は、{4}の演奏から育ち、もともと{5}が考案した、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs originating in {4}.	{1}は、{4}で生まれ、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs originating in {4} originally devised by {5}.	{1}は、{4}で生まれ、もともと{5}が考案した、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs originating in {4} which grew out of the performances of {5}.	{1}は、{4}で生まれ、{5}の演奏から育ち、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} pairs originating in {4} which grew out of the performances of {5} originally devised by {6}.	{1}は、{4}で生まれ、{5}の演奏から育ち、もともと{6}が考案した、{3}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs.	{1}は{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs originally devised by {5}.	{1}は、もともと{5}が考案した、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs which grew out of the performances of {5}.	{1}は、{5}の演奏から育ち、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs which grew out of the performances of {5} originally devised by {6}.	{1}は、{5}の演奏から育ち、もともと{6}が考案した、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs originating in {5}.	{1}は、{5}で生まれ、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs originating in {5} originally devised by {6}.	{1}は、{5}で生まれ、もともと{6}が考案した、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs originating in {5} which grew out of the performances of {6}.	{1}は、{5}で生まれ、{6}の演奏から育ち、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	{1} is a {2} dance for {3} to {4} pairs originating in {5} which grew out of the performances of {6} originally devised by {7}.	{1}は、{5}で生まれ、{6}の演奏から育ち、もともと{7}が考案した、{3}〜{4}組の踊り手による{2}舞踊です。
+manual	core	the story of {1}	{1}の物語
+manual	core	a composition of {1}	{1}による作品
+manual	core	The dance is accompanied by {1}.	この舞踊には{1}が伴います。
+manual	core	The dance is accompanied by {1} as the dancers act out {2}.	この舞踊には{1}が伴い、踊り手たちが{2}を演じます。
+manual	core	The dance is accompanied by {1} as the dancer acts out {2}.	この舞踊には{1}が伴い、踊り手が{2}を演じます。
+manual	core	The dance is accompanied by a composition of {1}.	この舞踊には{1}による曲が伴います。
+manual	core	The dance is accompanied by a composition of {1} as the dancers act out {2}.	この舞踊には{1}による曲が伴い、踊り手たちが{2}を演じます。
+manual	core	The dance is accompanied by a composition of {1} as the dancer acts out {2}.	この舞踊には{1}による曲が伴い、踊り手が{2}を演じます。
+manual	core	The dancers perform loosely mingled.	踊り手たちはゆるく入り混じって踊ります。
+manual	core	The dancers perform loosely mingled, moving {1} with the music.	踊り手たちはゆるく入り混じって、{1}音楽に合わせて踊ります。
+manual	core	The dancers perform loosely mingled, moving {1} to the music's {2} rhythm.	踊り手たちはゆるく入り混じって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform loosely mingled, moving {1} to the music's rhythm.	踊り手たちはゆるく入り混じって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform loosely mingled, moving {1} to the {2} rhythm.	踊り手たちはゆるく入り混じって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform loosely mingled {1}.	踊り手たちはゆるく入り混じって{1}踊ります。
+manual	core	The dancers perform loosely mingled {1}, moving {2} with the music.	踊り手たちはゆるく入り混じって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancers perform loosely mingled {1}, moving {2} to the music's {3} rhythm.	踊り手たちはゆるく入り混じって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform loosely mingled {1}, moving {2} to the music's rhythm.	踊り手たちはゆるく入り混じって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform loosely mingled {1}, moving {2} to the {3} rhythm.	踊り手たちはゆるく入り混じって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a double circle.	踊り手たちは二重の円になって踊ります。
+manual	core	The dancers perform in a double circle, moving {1} with the music.	踊り手たちは二重の円になって、{1}音楽に合わせて踊ります。
+manual	core	The dancers perform in a double circle, moving {1} to the music's {2} rhythm.	踊り手たちは二重の円になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a double circle, moving {1} to the music's rhythm.	踊り手たちは二重の円になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a double circle, moving {1} to the {2} rhythm.	踊り手たちは二重の円になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a double circle {1}.	踊り手たちは二重の円になって{1}踊ります。
+manual	core	The dancers perform in a double circle {1}, moving {2} with the music.	踊り手たちは二重の円になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancers perform in a double circle {1}, moving {2} to the music's {3} rhythm.	踊り手たちは二重の円になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a double circle {1}, moving {2} to the music's rhythm.	踊り手たちは二重の円になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a double circle {1}, moving {2} to the {3} rhythm.	踊り手たちは二重の円になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a circle.	踊り手たちは円になって踊ります。
+manual	core	The dancers perform in a circle, moving {1} with the music.	踊り手たちは円になって、{1}音楽に合わせて踊ります。
+manual	core	The dancers perform in a circle, moving {1} to the music's {2} rhythm.	踊り手たちは円になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a circle, moving {1} to the music's rhythm.	踊り手たちは円になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a circle, moving {1} to the {2} rhythm.	踊り手たちは円になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a circle {1}.	踊り手たちは円になって{1}踊ります。
+manual	core	The dancers perform in a circle {1}, moving {2} with the music.	踊り手たちは円になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancers perform in a circle {1}, moving {2} to the music's {3} rhythm.	踊り手たちは円になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a circle {1}, moving {2} to the music's rhythm.	踊り手たちは円になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a circle {1}, moving {2} to the {3} rhythm.	踊り手たちは円になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in several lines.	踊り手たちは数列になって踊ります。
+manual	core	The dancers perform in several lines, moving {1} with the music.	踊り手たちは数列になって、{1}音楽に合わせて踊ります。
+manual	core	The dancers perform in several lines, moving {1} to the music's {2} rhythm.	踊り手たちは数列になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in several lines, moving {1} to the music's rhythm.	踊り手たちは数列になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in several lines, moving {1} to the {2} rhythm.	踊り手たちは数列になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in several lines {1}.	踊り手たちは数列になって{1}踊ります。
+manual	core	The dancers perform in several lines {1}, moving {2} with the music.	踊り手たちは数列になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancers perform in several lines {1}, moving {2} to the music's {3} rhythm.	踊り手たちは数列になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in several lines {1}, moving {2} to the music's rhythm.	踊り手たちは数列になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in several lines {1}, moving {2} to the {3} rhythm.	踊り手たちは数列になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a single line.	踊り手たちは一列になって踊ります。
+manual	core	The dancers perform in a single line, moving {1} with the music.	踊り手たちは一列になって、{1}音楽に合わせて踊ります。
+manual	core	The dancers perform in a single line, moving {1} to the music's {2} rhythm.	踊り手たちは一列になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a single line, moving {1} to the music's rhythm.	踊り手たちは一列になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a single line, moving {1} to the {2} rhythm.	踊り手たちは一列になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancers perform in a single line {1}.	踊り手たちは一列になって{1}踊ります。
+manual	core	The dancers perform in a single line {1}, moving {2} with the music.	踊り手たちは一列になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancers perform in a single line {1}, moving {2} to the music's {3} rhythm.	踊り手たちは一列になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a single line {1}, moving {2} to the music's rhythm.	踊り手たちは一列になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancers perform in a single line {1}, moving {2} to the {3} rhythm.	踊り手たちは一列になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs loosely mingled.	踊り手はゆるく入り混じって踊ります。
+manual	core	The dancer performs loosely mingled, moving {1} with the music.	踊り手はゆるく入り混じって、{1}音楽に合わせて踊ります。
+manual	core	The dancer performs loosely mingled, moving {1} to the music's {2} rhythm.	踊り手はゆるく入り混じって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs loosely mingled, moving {1} to the music's rhythm.	踊り手はゆるく入り混じって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs loosely mingled, moving {1} to the {2} rhythm.	踊り手はゆるく入り混じって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs loosely mingled {1}.	踊り手はゆるく入り混じって{1}踊ります。
+manual	core	The dancer performs loosely mingled {1}, moving {2} with the music.	踊り手はゆるく入り混じって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancer performs loosely mingled {1}, moving {2} to the music's {3} rhythm.	踊り手はゆるく入り混じって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs loosely mingled {1}, moving {2} to the music's rhythm.	踊り手はゆるく入り混じって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs loosely mingled {1}, moving {2} to the {3} rhythm.	踊り手はゆるく入り混じって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a double circle.	踊り手は二重の円になって踊ります。
+manual	core	The dancer performs in a double circle, moving {1} with the music.	踊り手は二重の円になって、{1}音楽に合わせて踊ります。
+manual	core	The dancer performs in a double circle, moving {1} to the music's {2} rhythm.	踊り手は二重の円になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a double circle, moving {1} to the music's rhythm.	踊り手は二重の円になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a double circle, moving {1} to the {2} rhythm.	踊り手は二重の円になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a double circle {1}.	踊り手は二重の円になって{1}踊ります。
+manual	core	The dancer performs in a double circle {1}, moving {2} with the music.	踊り手は二重の円になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancer performs in a double circle {1}, moving {2} to the music's {3} rhythm.	踊り手は二重の円になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a double circle {1}, moving {2} to the music's rhythm.	踊り手は二重の円になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a double circle {1}, moving {2} to the {3} rhythm.	踊り手は二重の円になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a circle.	踊り手は円になって踊ります。
+manual	core	The dancer performs in a circle, moving {1} with the music.	踊り手は円になって、{1}音楽に合わせて踊ります。
+manual	core	The dancer performs in a circle, moving {1} to the music's {2} rhythm.	踊り手は円になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a circle, moving {1} to the music's rhythm.	踊り手は円になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a circle, moving {1} to the {2} rhythm.	踊り手は円になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a circle {1}.	踊り手は円になって{1}踊ります。
+manual	core	The dancer performs in a circle {1}, moving {2} with the music.	踊り手は円になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancer performs in a circle {1}, moving {2} to the music's {3} rhythm.	踊り手は円になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a circle {1}, moving {2} to the music's rhythm.	踊り手は円になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a circle {1}, moving {2} to the {3} rhythm.	踊り手は円になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in several lines.	踊り手は数列になって踊ります。
+manual	core	The dancer performs in several lines, moving {1} with the music.	踊り手は数列になって、{1}音楽に合わせて踊ります。
+manual	core	The dancer performs in several lines, moving {1} to the music's {2} rhythm.	踊り手は数列になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in several lines, moving {1} to the music's rhythm.	踊り手は数列になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in several lines, moving {1} to the {2} rhythm.	踊り手は数列になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in several lines {1}.	踊り手は数列になって{1}踊ります。
+manual	core	The dancer performs in several lines {1}, moving {2} with the music.	踊り手は数列になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancer performs in several lines {1}, moving {2} to the music's {3} rhythm.	踊り手は数列になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in several lines {1}, moving {2} to the music's rhythm.	踊り手は数列になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in several lines {1}, moving {2} to the {3} rhythm.	踊り手は数列になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a single line.	踊り手は一列になって踊ります。
+manual	core	The dancer performs in a single line, moving {1} with the music.	踊り手は一列になって、{1}音楽に合わせて踊ります。
+manual	core	The dancer performs in a single line, moving {1} to the music's {2} rhythm.	踊り手は一列になって、音楽の{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a single line, moving {1} to the music's rhythm.	踊り手は一列になって、音楽のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a single line, moving {1} to the {2} rhythm.	踊り手は一列になって、{2}のリズムに合わせて{1}踊ります。
+manual	core	The dancer performs in a single line {1}.	踊り手は一列になって{1}踊ります。
+manual	core	The dancer performs in a single line {1}, moving {2} with the music.	踊り手は一列になって{1}、{2}音楽に合わせて踊ります。
+manual	core	The dancer performs in a single line {1}, moving {2} to the music's {3} rhythm.	踊り手は一列になって{1}、音楽の{3}のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a single line {1}, moving {2} to the music's rhythm.	踊り手は一列になって{1}、音楽のリズムに合わせて{2}踊ります。
+manual	core	The dancer performs in a single line {1}, moving {2} to the {3} rhythm.	踊り手は一列になって{1}、{3}のリズムに合わせて{2}踊ります。
+manual	core	The partners {1}.	相手どうしは{1}。
+manual	core	The partners {1}, communicating intent {2}.	相手どうしは{2}意図を伝え合いながら、{1}。
+manual	core	There are partner changes throughout the dance {1}.	舞踊の間じゅう、{1}相手が入れ替わります。
+manual	core	There are partner changes throughout the dance.	舞踊の間じゅう、相手が入れ替わります。
+manual	core	There are partner changes {1}.	{1}相手が入れ替わります。
+manual	core	The dancers imitate the movement of the {1}.	踊り手たちは{1}の動きをまねます。
+manual	core	This dance is a refined artform, with {1} special position and {2} specific move to be mastered.	この舞踊は洗練された芸術で、{1}つの特別な姿勢と{2}通りの決まった動きを身につける必要があります。
+manual	core	This dance is a refined artform, with {1} special position and {2} specific moves to be mastered.	この舞踊は洗練された芸術で、{1}つの特別な姿勢と{2}通りの決まった動きを身につける必要があります。
+manual	core	This dance is a refined artform, with {1} special positions and {2} specific move to be mastered.	この舞踊は洗練された芸術で、{1}つの特別な姿勢と{2}通りの決まった動きを身につける必要があります。
+manual	core	This dance is a refined artform, with {1} special positions and {2} specific moves to be mastered.	この舞踊は洗練された芸術で、{1}つの特別な姿勢と{2}通りの決まった動きを身につける必要があります。
+manual	core	The entire dance has a basic movement {1}.	舞踊全体の基本の動きは{1}です。
+manual	core	There is a basic movement {1}.	基本の動きは{1}です。
+manual	core	The dance is {1}.	この舞踊は{1}ものです。
+manual	core	This section is {1}.	この節は{1}ものです。
+manual	core	The {1} section is {2}.	{1}の節は{2}ものです。
+manual	core	The dance is punctuated by {1}.	この舞踊には{1}が随所に現れます。
+manual	core	This section is punctuated by {1}.	この節には{1}が随所に現れます。
+manual	core	The {1} section is punctuated by {2}.	{1}の節には{2}が随所に現れます。
+manual	core	The dance begins with the {1} of the music.	舞踊は音楽の{1}から始まります。
+manual	core	The dance enters a new section with the {1} of the music.	舞踊は音楽の{1}で新しい節に入ります。
+manual	core	The {1} section is distinct.	{1}の節は、それだけで独立しています。
+# === 芸術の形式（まとまった文）===
+# scratchpad/gen_art_sentences.py で作った（art-forms.tsv の文をそのまま写す）
+manual	core	The form guides musicians during improvised performances.	この形式は、即興の演奏で音楽家を導きます。
+manual	core	The rules of the form are applied by composers to produce individual pieces of music which can be performed.	この形式の規則を作曲家が用いて、演奏できる個々の曲が作られます。
+manual	core	The music is broadly layered with chords spanning the range.	音域いっぱいに広がる和音が、幾重にも厚く重ねられます。
+manual	core	Pitches are densely packed in clusters as music moves from chord to chord.	和音から和音へ移るあいだ、音は密集した塊になります。
+manual	core	Chords, seldom-used, are sparse -- intervals and single pitches are favored.	和音はめったに使われず、まばらです。音程と単音が好まれます。
+manual	core	Never more than an interval sounds at once.	一度に鳴るのは、せいぜい二つの音までです。
+manual	core	Only one pitch is ever played at a time.	一度に鳴る音は、つねに一つだけです。
+manual	core	The music repeats for as long as necessary.	音楽は必要なだけ繰り返されます。
+manual	core	This passage is richly layered with full chords making use of the available range.	この楽節では、使える音域を生かした厚い和音が豊かに重ねられます。
+manual	core	Chords are packed close together in dense clusters in this passage.	この楽節では、和音が密集した塊になります。
+manual	core	This passage typically has some sparse chords.	この楽節には、まばらな和音がいくらか置かれるのが普通です。
+manual	core	This passage features only melodic tones and intervals.	この楽節では、旋律の音と音程だけが使われます。
+manual	core	Only one pitch is ever played at a time in this passage.	この楽節で一度に鳴る音は、つねに一つだけです。
+manual	core	The music is melody and rhythm without harmony.	この音楽は、和声を持たない旋律とリズムです。
+manual	core	The musical voices join in melody and counterpoint, harmony and rhythm.	各声部は、旋律と対位法、和声とリズムで重なります。
+manual	core	The musical voices bring melody, counterpoint and rhythm.	各声部が、旋律と対位法とリズムをもたらします。
+manual	core	The musical voices cover melody, harmony and rhythm.	各声部が、旋律と和声とリズムを担います。
+manual	core	The musical voices join in melody, counterpoint and harmony.	各声部は、旋律と対位法と和声で重なります。
+manual	core	The musical voices bring melody and counterpoint.	各声部が、旋律と対位法をもたらします。
+manual	core	The musical voices bring melody with harmony.	各声部が、和声を伴う旋律をもたらします。
+manual	core	The musical voices are joined in melody.	各声部は旋律で重なります。
+manual	core	The musical voices are purely rhythmic.	各声部は純粋にリズムだけを担います。
+manual	core	The tonic note is fixed only at the time of performance.	主音が決まるのは、演奏のときだけです。
+manual	core	The tonic note is a fixed tone passed from teacher to student.	主音は決まった高さで、師から弟子へ受け継がれます。
+manual	core	After a scale is constructed, the root note of chords are named.	音階を組み立てたあと、和音の根音に名前が付けられます。
+manual	core	After a scale is constructed, notes are named according to degree.	音階を組み立てたあと、音度にしたがって音に名前が付けられます。
+manual	core	A single note in the fundamental scale is named.	基本音階の中の一つの音に名前が付けられます。
+manual	core	Preferred notes in the fundamental scale are named.	基本音階の中で好まれる音に名前が付けられます。
+manual	core	Every note is named.	すべての音に名前が付けられます。
+manual	core	As stated above, they are to be played in polyrhythm.	前に述べたとおり、これらはポリリズムで演奏されます。
+manual	core	As stated above, they are to be played in polymeter.	前に述べたとおり、これらはポリメーターで演奏されます。
+manual	core	The patterns are to be played in the same beat, allowing one to repeat before the other is concluded.	各パターンは同じ拍で演奏され、片方が終わらないうちにもう片方が繰り返されます。
+manual	core	The patterns are to be played over the same period of time, concluding together regardless of beat number.	各パターンは同じ長さの時間で演奏され、拍の数にかかわらず同時に終わります。
+manual	core	The beat is stressed as follows:	拍の強さは次のとおりです：
+manual	core	The form guides poets during improvised performances.	この形式は、即興の詩作で詩人を導きます。
+manual	core	The rules of the form are applied by poets to produce individual poems which can be recited.	この形式の規則を詩人が用いて、朗誦できる個々の詩が作られます。
+manual	core	As a rule throughout the poem, the end rhymes don't generally match perfectly.	詩全体の決まりとして、行末の韻は必ずしも完全には一致しません。
+manual	core	In this part of the poem, the end rhymes don't need to match perfectly.	詩のこの部分では、行末の韻は完全に一致しなくてもかまいません。
+manual	core	The form guides dancers during improvised performances.	この形式は、即興の演舞で踊り手を導きます。
+manual	core	The rules of the form are applied by choreographers to produce individual dances which can be performed.	この形式の規則を振付師が用いて、演じられる個々の舞踊が作られます。

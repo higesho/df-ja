@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::collections::{HashMap, HashSet};
 
 use crate::utils;
 
@@ -11,11 +11,19 @@ struct Entry {
 #[derive(Debug, Default)]
 pub struct User {
   dict: HashMap<String, String>,
+  /// 見出し語に出てくる英単語（小文字）。その世界で作られた名前かどうかの判定に使う
+  words: HashSet<String>,
 }
 
 impl User {
   pub fn get(&self, key: &String) -> Option<&String> {
     self.dict.get(key)
+  }
+
+  /// その語が辞書のどこかの見出し語に出てくるか。
+  /// 出てこない小文字の語は、その世界で作られた名前（楽器の "therleth"、音階の "anam"）とみなせる
+  pub fn knows_word(&self, word: &str) -> bool {
+    self.words.contains(&word.to_lowercase())
   }
 
   /// 途中で切られた英語（"civilizations and o"）で始まる見出し語が、訳の違うものを含めて1種類だけなら、その訳を返す。
@@ -74,6 +82,13 @@ pub static USER: User = {
       }
     });
     log::info!("MOD の訳を読み込みました: {} 件 {:?}", added, file);
+  }
+  for key in ret.dict.keys() {
+    for word in key.split(|c: char| !c.is_ascii_alphabetic()) {
+      if word.len() >= 3 {
+        ret.words.insert(word.to_owned());
+      }
+    }
   }
   ret
 };

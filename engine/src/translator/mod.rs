@@ -573,6 +573,11 @@ pub fn lookup_plain(text: &str) -> Option<String> {
   lookup_term(trimmed).or_else(|| data::USER.get(&format!("{} ", trimmed.to_lowercase())).cloned())
 }
 
+/// その語が辞書のどこかの見出し語に出てくるか（文テンプレートの名前判定に使う）
+pub fn knows_word(word: &str) -> bool {
+  data::USER.knows_word(word)
+}
+
 pub fn lookup_term(string: &str) -> Option<String> {
   let lower = string.to_lowercase();
   if let Some(translated) = data::USER.get(&lower) {

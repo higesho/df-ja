@@ -52,7 +52,12 @@ def run(path):
         sys.exit(f"{EXE} がありません。engine で cargo build --release --features offline --bin dfint-check")
     # lines_*.txt は、ゲームが自分で折り返して1行ずつ描く文章（性格の説明など）。
     # 同じ呼び出し元から続けて来た行をつないで訳すので、行の並びとして渡す（dfint-check lines）
-    args = [str(EXE), "lines"] if is_lines(path) else [str(EXE)]
+    if is_lines(path):
+        args = [str(EXE), "lines"]
+    elif is_paragraph(path):
+        args = [str(EXE), "paragraph"]
+    else:
+        args = [str(EXE)]
     out = subprocess.run(args, stdin=path.open("rb"), capture_output=True, cwd=str(GAME))
     rows = []
     for line in out.stdout.decode("utf-8", "replace").splitlines():
@@ -64,6 +69,13 @@ def run(path):
 
 def is_lines(path):
     return path.name.startswith("lines_")
+
+
+def is_paragraph(path):
+    """para_*.txt は、ゲームが単語ごとに折り返して描く文章（芸術の形式の説明など）。
+
+    1行を1つの文章として markup_process_string の経路で訳す"""
+    return path.name.startswith("para_")
 
 
 def last_pass(rows):
