@@ -75,6 +75,18 @@ foreach ($sub in 'lookups', 'dictionaries', 'fonts') {
 }
 Copy-Item -Recurse -Force (Join-Path $here 'data\lookups') (Join-Path $dataDir 'lookups')
 Copy-Item -Recurse -Force (Join-Path $here 'data\dictionaries') (Join-Path $dataDir 'dictionaries')
+# MOD 用の翻訳パック（dfint-ja が同梱するもの）。
+# 利用者が自分で置いたパックを消さないよう、同梱分と同じ名前のフォルダだけ入れ替える
+$modsSrc = Join-Path $here 'data\mods'
+if (Test-Path $modsSrc) {
+  $modsDst = Join-Path $dataDir 'mods'
+  New-Item -ItemType Directory -Force $modsDst | Out-Null
+  foreach ($pack in Get-ChildItem -Directory $modsSrc) {
+    $dst = Join-Path $modsDst $pack.Name
+    if (Test-Path $dst) { Remove-Item -Recurse -Force $dst }
+    Copy-Item -Recurse -Force $pack.FullName $dst
+  }
+}
 New-Item -ItemType Directory -Force (Join-Path $dataDir 'fonts') | Out-Null
 Copy-Item -Force (Join-Path $here 'fonts\NotoSansMonoCJKjp-Bold.otf') (Join-Path $dataDir 'fonts')
 foreach ($f in 'offsets.txt', 'simple-dictionary.csv', 'legacy-dictionary.csv', 'no-translate-callers.txt', 'context-dictionary.csv', 'paragraph-dictionary.csv', 'sentence-templates.csv') {

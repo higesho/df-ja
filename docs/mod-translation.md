@@ -11,6 +11,7 @@ dfint-ja は、MOD に同梱された日本語訳を自動で読み込みます�
   graphics/ ...
   dfint-ja/
     dictionary.csv     名前・ラベルの訳（必須）
+    lookup.csv         組み立て用の表（任意。生き物・材質を足すときは入れてください）
     paragraphs.csv     MOD が出す長い文章の訳（任意）
 ```
 
@@ -22,6 +23,8 @@ dfint-ja は次の場所を探します。
 | `mods/<MOD>/dfint-ja/` | 手で入れた MOD |
 | Steam ワークショップ（`steamapps/workshop/content/975370/<ID>/dfint-ja/`） | 購読した MOD |
 | `dfint-data/mods/<パック名>/` | MOD 作者以外が作った翻訳パック（下記） |
+
+同じ語が複数の場所にあるときは、先に見つかったものが使われます。dfint-ja 本体の訳がある語は、どの場所の訳よりも本体が優先されます（MOD 独自の語を足すための仕組みです）。
 
 ## dictionary.csv
 
@@ -38,7 +41,7 @@ Toad Breeder's Pen,ヒキガエル飼育場
 - `text` は画面に出る英語そのまま（大文字小文字は区別しません）。
 - 単数形と複数形は別の行に書きます（日本語は同じでかまいません）。
 - dfint-ja 本体に訳がある語（"iron" など一般的な語）は、本体の訳が優先されます。MOD 独自の語だけを書けば十分です。
-- `X leather`（X の革）、`X bone`（X の骨）のような「素材名＋部位」や「素材名＋品物名」は、dfint-ja が生き物名・品物名の訳から自動で組み立てます。基本の名前だけ訳せば、多くの組み合わせは日本語になります。
+- `X leather`（X の革）、`X bone`（X の骨）のような「素材名＋部位」や「素材名＋品物名」は、dfint-ja が自動で組み立てます。ただし組み立てに使うのは下記の `lookup.csv` の表です。MOD が生き物や材質を足すときは、そちらにも書いてください。
 - `translation` が空の行は読み飛ばします。
 
 ### 雛形を自動で作る
@@ -49,7 +52,32 @@ dfint-ja のフォルダで（Python 3.10 以上）:
 python tools/mod_template.py "<あなたの MOD のフォルダ>"
 ```
 
+MOD のフォルダに書き込みたくないとき（翻訳パックを作るとき）は、出力先を指定します。
+
+```
+python tools/mod_template.py "<MOD のフォルダ>" "<出力先の dictionary.csv>"
+```
+
 MOD の raw から名前をすべて取り出して `dfint-ja/dictionary.csv` を作ります。dfint-ja 本体に訳がある語は訳が入った状態になり、残りは空欄です。空欄を埋めてください。もう一度実行すると、書いた訳は残したまま、増えた語だけ足します。
+
+## lookup.csv（任意）
+
+MOD が**生き物や材質を足す**ときは、これも入れてください。dictionary.csv だけでは `duergar leather`（デュエルガーの革）のような組み合わせが英語のまま残ります。
+
+```csv
+table,text,translation
+CREATURE,duergar,デュエルガー
+CREATURE,warg,ワーグ
+CREATURE,warg pup,ワーグの子
+MATERIAL,grown wood,育てた木材
+MATERIAL,grown wooden,育てた木製
+PLANT,grown feather tree,育てたフェザーツリー
+```
+
+- `table` には `CREATURE`（生き物）、`PLANT`（植物）、`MATERIAL`（材質）、`ITEM:NOUN`（品物）、`MONSTER`（世界生成の怪物）などを書きます。
+- ここに生き物を入れておくと、`X leather`（X の革）、`X bone`（X の骨）、`X corpse`（X の死体）、`X leather glove`（X の革の手袋）のような組み合わせが自動で日本語になります。単数形と複数形は別の行に書きます。
+- 材質は、名前（`grown wood`）と形容詞形（`grown wooden`）の両方を入れてください。品物の名前は形容詞形で作られます。
+- dictionary.csv にも同じ語を書いておくと、名前そのものが単独で出る場面も日本語になります。
 
 ## paragraphs.csv（任意）
 
@@ -68,6 +96,14 @@ text,translation
 ## 翻訳パック（MOD 作者以外が訳す場合）
 
 MOD 本体を変えずに訳を配りたいときは、`dfint-data/mods/<パック名>/dictionary.csv`（と paragraphs.csv）として配布してください。利用者はゲームフォルダの `dfint-data/mods/` に置くだけで使えます。
+
+### dfint-ja が同梱しているパック
+
+| パック名 | 対象の MOD |
+|---|---|
+| `playable-races-revisioned` | [Playable Races Revisioned](https://steamcommunity.com/sharedfiles/filedetails/?id=3665499038)（デュエルガー・オーク・ウッドエルフ・ハイエルフ・コボルドなどでのプレイを可能にする MOD） |
+
+同梱パックは dfint-ja を更新すると入れ替わります。訳を自分で変えたいときは、別の名前のフォルダにコピーしてから直してください（名前が違うフォルダは更新で消えません）。
 
 ## 用語をそろえる
 

@@ -59,6 +59,8 @@ NAME_TAGS = {
     "BP": [2, 3], "MALE_NAME": None, "FEMALE_NAME": None, "SPOUSE": None,
     "NAME_MALE": None, "NAME_FEMALE": None,
     "PLURAL_NAME": None, "ADJECTIVE": None,
+    # 職業名（[PROFESSION_NAME:AXEMAN:axedwarf:axedwarves]）。単複だけ取る
+    "PROFESSION_NAME": [1, 2], "CASTE_PROFESSION_NAME": [1, 2],
     "PREFSTRING": None,
     "IS_GEM": [0, 1],  # 宝石の名前と複数形（STP は SKIP_VALUE で除く）
 }

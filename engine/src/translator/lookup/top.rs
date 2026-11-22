@@ -41,6 +41,12 @@ pub static TOP: super::LookupTree = {
     ret.load_lookup_csv(lookups_path(file));
   }
   ret.load_lookup_csv(data_path("user-lookup.csv"));
+  // MOD に同梱された組み立て用の表（lookup.csv）。MOD が足す生き物・材質を
+  // 「〜の革」「〜の死体」のような組み立てに乗せるためのもの
+  for file in crate::utils::mod_translation_files("lookup.csv") {
+    log::info!("MOD の組み立て表を読み込みます: {:?}", file);
+    ret.load_lookup_csv(file);
+  }
 
   let dictionaries_directory = data_path(DICTIONARIES_DIR);
   let mut dictionary_csv_files = std::fs::read_dir(dictionaries_directory)

@@ -1306,3 +1306,19 @@ Gem Setter	宝石はめ込み師
 # issue #4: 在庫置き場の分類。飲み物であって「水を飲む」作業ではない
 Drink (animal)	酒（動物）
 Drink (plant)	酒（植物）
+# バニラの職業名（複数形・精鋭）。本体辞書に単数形しか無かったもの
+Elite Bowdwarf	精鋭弓使い
+Elite Bowdwarves	精鋭弓使い
+Elite Marksdwarf	精鋭射手
+Elite Marksdwarves	精鋭射手
+axedwarves	斧使い
+bowdwarf	弓使い
+bowdwarves	弓使い
+craftsdwarves	工芸家
+hammerdwarves	ハンマー使い
+macedwarves	メイス使い
+marksdwarves	射手
+pikedwarf	パイク使い
+pikedwarves	パイク使い
+speardwarves	槍使い
+swordsdwarves	剣士

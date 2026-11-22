@@ -1,0 +1,24 @@
+table,text,translation
+CREATURE,duergar,デュエルガー
+CREATURE,duergar baby,デュエルガーの赤子
+CREATURE,duergar babies,デュエルガーの赤子
+CREATURE,duergar child,デュエルガーの子供
+CREATURE,duergar children,デュエルガーの子供
+CREATURE,orc,オーク
+CREATURE,orcs,オーク
+CREATURE,wood elf,ウッドエルフ
+CREATURE,wood elves,ウッドエルフ
+CREATURE,high elf,ハイエルフ
+CREATURE,high elves,ハイエルフ
+CREATURE,warg,ワーグ
+CREATURE,wargs,ワーグ
+CREATURE,warg pup,ワーグの子
+CREATURE,warg pups,ワーグの子
+PLANT,grown wood,育てた木材
+PLANT,grown logs,育てた丸太
+PLANT,grown feather tree,育てたフェザーツリー
+MATERIAL,grown wood,育てた木材
+MATERIAL,grown logs,育てた丸太
+MATERIAL,grown wooden,育てた木製
+MATERIAL,grown feather tree,育てたフェザーツリー
+MATERIAL,grown feather wood,育てたフェザーツリー材

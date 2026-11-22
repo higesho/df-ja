@@ -53,6 +53,7 @@ $data = Join-Path $stage 'dfint-data'
 New-Item -ItemType Directory -Force $data | Out-Null
 Copy-Item -Recurse -Force (Join-Path $root 'data\lookups')      (Join-Path $data 'lookups')
 Copy-Item -Recurse -Force (Join-Path $root 'data\dictionaries') (Join-Path $data 'dictionaries')
+Copy-Item -Recurse -Force (Join-Path $root 'data\mods')         (Join-Path $data 'mods')
 New-Item -ItemType Directory -Force (Join-Path $data 'fonts') | Out-Null
 Copy-Item -Force (Join-Path $root 'fonts\NotoSansMonoCJKjp-Bold.otf') (Join-Path $data 'fonts')
 foreach ($f in 'config.txt', 'offsets.txt', 'simple-dictionary.csv', 'legacy-dictionary.csv',
