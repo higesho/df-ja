@@ -91,9 +91,19 @@
   }
   .note strong { color: var(--accent); }
 
+  .hint { color: var(--muted); font-size: .88rem; }
+
   table { width: 100%; border-collapse: collapse; margin-bottom: 1.2em; font-size: .95rem; }
   th, td { text-align: left; padding: .55em .7em; border-bottom: 1px solid var(--line); vertical-align: top; }
   th { color: var(--accent); font-weight: 700; white-space: nowrap; }
+
+  /* 対応MODの表。狭い画面では縦に積む */
+  @media (max-width: 560px) {
+    .modtable thead { display: none; }
+    .modtable tr { display: block; padding: .7em 0; border-bottom: 1px solid var(--line); }
+    .modtable td { display: block; border: 0; padding: .15em 0; }
+    .modtable td[data-label]::before { content: attr(data-label) "： "; color: var(--accent); }
+  }
 
   footer {
     border-top: 1px solid var(--line); padding: 28px 0 48px;
@@ -187,16 +197,46 @@
     <p>置いた3つを消すだけです（DFHack を使っている場合は <code>dfhooks.dll</code> を残してください）。</p>
   </section>
 
-  <section>
+  <section id="mods">
     <h2>ほかのMODと一緒に使えます</h2>
     <p>
       生き物や品物を追加するMOD、タイルセット、グラフィックMODとは、そのまま併用できます。
       ゲームのデータを書き換えないので、MODを入れた世界に後から入れたり、外したりもできます。
     </p>
+
+    <h3>訳を同梱しているMOD</h3>
+    <p>
+      次のMODは、追加される名前も日本語で表示されます。MODを入れるだけで、ほかに何もする必要はありません。
+      MODのフォルダには何も書き込みません。
+    </p>
+    <table class="modtable">
+      <thead>
+        <tr><th>MOD</th><th>日本語になるもの</th><th>対応</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3665499038">Playable Races Revisioned</a><br>
+            <span class="hint">デュエルガー・オーク・ウッドエルフなどで要塞を運営できるようにするMOD</span>
+          </td>
+          <td>
+            生き物の名前、職業名、6つの文明の役職名、工房の作業名、素材名（約120件）<br>
+            <span class="hint">「デュエルガーの革」「ワーグの骨」のような組み合わせも日本語になります。</span>
+          </td>
+          <td data-label="対応">v0.1.19</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="hint">
+      訳語を変えたいときは <code>dfint-data\mods\</code> の下に別の名前のフォルダを作って置いてください。更新で消えません。
+    </p>
+
+    <h3>一覧に無いMODの場合</h3>
     <ul>
       <li>MODが独自に足した名前は、英語のまま表示されます。表示が崩れたり、半分だけ日本語になったりはしません。</li>
       <li>バニラの言葉を組み合わせた名前なら、そのまま日本語になることもあります。</li>
-      <li>MODの名前も日本語にしたい場合は <a href="https://github.com/higesho/df-ja/issues">Issues</a> で教えてください。</li>
+      <li>遊んでいるMODの名前も日本語にしたい場合は <a href="https://github.com/higesho/df-ja/issues">Issues</a> で教えてください。</li>
+      <li>MODを作っている方は、MODの側に訳を同梱することもできます（<a href="https://github.com/higesho/df-ja/blob/main/docs/mod-translation.md">書きかた</a>）。</li>
     </ul>
     <div class="note">
       <strong>DFHack のように <code>dfhooks.dll</code> を持つMOD</strong>は、同じファイルを取り合うため一緒に使えません。

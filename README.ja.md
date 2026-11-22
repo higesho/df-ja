@@ -51,11 +51,26 @@ Dwarf Fortress\
 この日本語化は動作中にゲームのデータを読まず、画面に描かれる文字だけを見ているためです。
 MOD を入れた世界に後から入れたり、外したりもできます。
 
+### 訳を同梱している MOD
+
+次の MOD は、追加される名前も日本語で表示されます。MOD を入れるだけで、ほかに何もする必要はありません
+（MOD のフォルダには書き込みません）。
+
+| MOD | 日本語になるもの | 対応 |
+|---|---|---|
+| [Playable Races Revisioned](https://steamcommunity.com/sharedfiles/filedetails/?id=3665499038) | 生き物、職業名、6つの文明の役職名、工房の作業名、素材名（約120件） | v0.1.19 |
+
+訳語を変えたいときは `dfint-data\mods\` の下に別の名前のフォルダを作って置いてください（更新で消えません）。
+MOD 側に訳を同梱する書きかたは [docs/mod-translation.md](docs/mod-translation.md) にあります。
+
+### 一覧に無い MOD の場合
+
 - MOD が独自に足した名前は辞書に無いので、英語のまま表示されます。半分だけ日本語になることはありません
   （最後まで引けなかった名前はそのまま英語で描きます）。
 - バニラの言葉を組み合わせた名前（`cave dragon` など）は、名前を部品から組み立てて訳しているため、
   何もしなくても日本語になることがあります。
-- MOD の名前も日本語にしたい場合は、ログを取って `translations/` に足し、`python tools/build.py` を
+- 遊んでいる MOD の名前も日本語にしてほしい場合は、[Issues](https://github.com/higesho/df-ja/issues) で
+  教えてください。自分で足す場合は、ログを取って `translations/` に足し、`python tools/build.py` を
   回すだけです。エンジン（DLL）には手を入れる必要はありません。
 
 例外は、`dfhooks.dll` を自前で持つ MOD です。このファイルは1つしか置けないため併用できません。

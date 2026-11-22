@@ -50,6 +50,21 @@ Raw mods (creatures, items, materials), tilesets and graphics mods work alongsid
 Nothing in the game's data is read at run time — the engine only looks at the text being drawn —
 so a modded world can have this added or removed freely.
 
+### Mods with translations included
+
+The mods below have their added names translated too — installing the mod is all that is needed,
+and nothing is written into the mod's own folder.
+
+| Mod | What is translated | Since |
+|---|---|---|
+| [Playable Races Revisioned](https://steamcommunity.com/sharedfiles/filedetails/?id=3665499038) | Creatures, profession names, positions of all six entities, reactions, materials (~120 terms) | v0.1.19 |
+
+To change a translation, copy the pack to a differently named folder under `dfint-data\mods\`
+(folders with other names survive updates). See [docs/mod-translation.md](docs/mod-translation.md)
+for shipping translations with a mod of your own.
+
+### Any other mod
+
 - Names a mod adds are not in the dictionary, so they stay in English. Nothing is left
   half-translated: a name that cannot be looked up in full is drawn as it is.
 - A name built out of vanilla words (`cave dragon`) may come out translated anyway, since names

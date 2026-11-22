@@ -99,9 +99,11 @@ MOD 本体を変えずに訳を配りたいときは、`dfint-data/mods/<パッ�
 
 ### dfint-ja が同梱しているパック
 
-| パック名 | 対象の MOD |
-|---|---|
-| `playable-races-revisioned` | [Playable Races Revisioned](https://steamcommunity.com/sharedfiles/filedetails/?id=3665499038)（デュエルガー・オーク・ウッドエルフ・ハイエルフ・コボルドなどでのプレイを可能にする MOD） |
+| パック名 | 対象の MOD | 入った版 |
+|---|---|---|
+| `playable-races-revisioned` | [Playable Races Revisioned](https://steamcommunity.com/sharedfiles/filedetails/?id=3665499038)（デュエルガー・オーク・ウッドエルフ・ハイエルフ・コボルドなどでのプレイを可能にする MOD） | v0.1.19 |
+
+利用者向けの案内は[紹介ページ](https://higesho.github.io/df-ja/#mods)にもあります。
 
 同梱パックは dfint-ja を更新すると入れ替わります。訳を自分で変えたいときは、別の名前のフォルダにコピーしてから直してください（名前が違うフォルダは更新で消えません）。
 
