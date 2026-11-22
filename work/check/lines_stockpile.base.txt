@@ -1,0 +1,21 @@
+Gems	宝石
+Leather	革
+Corpses	死体
+Refuse	拒否
+=====	
+Gems	宝石
+Leather	革
+Corpses	死体
+Refuse	拒否
+=====	
+Box	箱
+Bucket	バケツ
+Cage	檻
+=====	
+Box	箱
+Bucket	バケツ
+Cage	檻
+=====	
+Box	箱
+=====	
+Box	箱

@@ -1,0 +1,54 @@
+Make wooden crafts	木製の工芸品を作る
+Make glowing metal crafts	光る金属の工芸品を作る
+Make rock crafts	岩の工芸品を作る
+Make raw clear glass	透明ガラス原材料を作る
+Make raw crystal glass	クリスタルガラス原材料を作る
+Make raw green glass	緑ガラス原材料を作る
+Make pair of leather low boots	革のローブーツを一対作る
+Make pair of leather high boots	革のハイブーツを一対作る
+Forge pair of adamantine low boots	アダマンタインのローブーツを一対鍛造する
+Forge pair of glowing metal gauntlets	光る金属の篭手を一対鍛造する
+Forge pair of glowing metal high boots	光る金属のハイブーツを一対鍛造する
+Forge pair of steel low boots	鋼のローブーツを一対鍛造する
+Forge three fine pewter flasks	上質ピューターのフラスコを3つ鍛造する
+Forge three glowing metal flasks	光る金属のフラスコを3つ鍛造する
+Forge three lay pewter flasks	並ピューターのフラスコを3つ鍛造する
+Forge three trifle pewter flasks	トライフルピューターのフラスコを3つ鍛造する
+Forge three twinkling metal flasks	瞬く金属のフラスコを3つ鍛造する
+Forge three fine pewter goblets	上質ピューターのゴブレットを3つ鍛造する
+Make three rock mugs	岩のマグを3つ作る
+Forge large, serrated glowing metal disc	大型の鋸状の光る金属の円盤を鍛造する
+Forge large, serrated twinkling metal disc	大型の鋸状の瞬く金属の円盤を鍛造する
+Assemble ballista arrow	バリスタの矢を組み立てる
+Milk animal	動物の乳を搾る
+Shear animal	動物の毛を刈る
+Decorate with ivory/tooth	象牙／歯で装飾する
+Decorate with bone	骨で装飾する
+Make instrument (opens menu)	楽器を作る（メニュー）
+Engrave memorial slab (opens menu)	追悼の平板を彫る（メニュー）
+Make bistök bellows	bistökのふいごを作る
+Make bistök strings	bistökの弦を作る
+Make bistök wind chest	bistökの風箱を作る
+Make rock chests	岩の宝箱を作る
+Forge copper chests	銅の宝箱を鍛造する
+Make rock armor stand	岩の鎧立てを作る
+Make rock mug	岩のマグを作る
+Make four rock blocks	岩のブロックを4つ作る
+Drink (animal)	酒（動物）
+Drink (plant)	酒（植物）
+Box/Bag	箱/袋
+Gems/Leather	宝石/革
+Furniture/Siege ammo	家具/攻城弾薬
+This is a stack of 7 well-prepared wild boar tripe biscuits.  The ingredients are minced cave fish and minced wild boar tripe.	上手に調理された猪の胃袋のビスケットが7個重なっている。材料は刻んだ洞窟魚、細切れの猪の胃袋。
+[Requires Unrotten paper-making plant]	［腐っていない製紙用の植物が必要］
+Branches	枝
+Catapult parts	カタパルトの部品
+Leaves and fruit	葉と果実
+Limb/body casts	手足・体のギプス
+Musical instruments	楽器
+Raw fish	未処理の魚
+Siege ammo	攻城弾薬
+Small live animals	小型の生きた動物
+Small rock	小石
+Small tame animals	小型の飼い慣らされた動物
+Tanned hides	なめし革

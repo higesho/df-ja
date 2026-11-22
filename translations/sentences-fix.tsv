@@ -1249,3 +1249,71 @@ e44340	core	when hungry	{REST}空腹のとき
 e44340	core	being hungry	{REST}空腹だった
 e44340	core	when starving	{REST}飢えているとき
 e44340	core	being starving	{REST}飢えていた
+# issue #4: 工房の作業名。「3つ作る」の差し込みの順が逆だったものを直す
+d1afa0	core	Make three {1} {2}	{1}の{2}を3つ{REST}作る
+d1afa0	core	Forge three {1} {2}	{1}の{2}を3つ{REST}鍛造する
+# issue #4: 作業名のテンプレートの抜け
+manual	core	Make pair of {1}	{1}を一対作る
+manual	core	Forge pair of {1}	{1}を一対鍛造する
+manual	core	Make three {1}	{1}を3つ作る
+manual	core	Forge three {1}	{1}を3つ鍛造する
+manual	core	Make {1} crafts	{1}の工芸品を作る
+manual	core	Assemble {1}	{1}を組み立てる
+# 上のどれにも当たらない「作る・鍛造する」。固定部分が短いので最後に試される
+manual	core	Make {1}	{1}を作る
+manual	core	Forge {1}	{1}を鍛造する
+# issue #4: 料理の説明文（調理済みの食事を調べたときの文）
+manual	core	This is a stack of {1} {2}.	{2}が{1}個重なっている。
+manual	core	This is a stack of {1} bundles of {2}.	{2}の束が{1}束ある。
+manual	core	This is a bundle of {1}.	{1}の束だ。
+manual	core	The ingredients are {1}.	材料は{1}。
+# issue #4: 作業の必要条件
+manual	core	[Requires {1}]	［{1}が必要］
+manual	core	Unrotten {1}	腐っていない{1}
+# issue #4: 楽器の部品を作る作業（{1} はゲームが作る楽器の名前）
+manual	core	Make {1} keyboard	{1}の鍵盤を作る
+manual	core	Forge {1} keyboard	{1}の鍵盤を鍛造する
+manual	core	Make {1} keyboards	{1}の鍵盤を作る
+manual	core	Forge {1} keyboards	{1}の鍵盤を鍛造する
+manual	core	Make {1} strings	{1}の弦を作る
+manual	core	Forge {1} strings	{1}の弦を鍛造する
+manual	core	Make {1} bells	{1}の鈴を作る
+manual	core	Forge {1} bells	{1}の鈴を鍛造する
+manual	core	Make {1} console	{1}の操作部を作る
+manual	core	Forge {1} console	{1}の操作部を鍛造する
+manual	core	Make {1} consoles	{1}の操作部を作る
+manual	core	Forge {1} consoles	{1}の操作部を鍛造する
+manual	core	Make {1} bellows	{1}のふいごを作る
+manual	core	Forge {1} bellows	{1}のふいごを鍛造する
+manual	core	Make {1} pump	{1}のポンプを作る
+manual	core	Forge {1} pump	{1}のポンプを鍛造する
+manual	core	Make {1} pumps	{1}のポンプを作る
+manual	core	Forge {1} pumps	{1}のポンプを鍛造する
+manual	core	Make {1} pipe	{1}の管を作る
+manual	core	Forge {1} pipe	{1}の管を鍛造する
+manual	core	Make {1} pipes	{1}の管を作る
+manual	core	Forge {1} pipes	{1}の管を鍛造する
+manual	core	Make {1} blowpipe	{1}の吹管を作る
+manual	core	Forge {1} blowpipe	{1}の吹管を鍛造する
+manual	core	Make {1} blowpipes	{1}の吹管を作る
+manual	core	Forge {1} blowpipes	{1}の吹管を鍛造する
+manual	core	Make {1} wind chest	{1}の風箱を作る
+manual	core	Forge {1} wind chest	{1}の風箱を鍛造する
+manual	core	Make {1} wind chests	{1}の風箱を作る
+manual	core	Forge {1} wind chests	{1}の風箱を鍛造する
+manual	core	Make {1} melody pipe	{1}の旋律管を作る
+manual	core	Forge {1} melody pipe	{1}の旋律管を鍛造する
+manual	core	Make {1} melody pipes	{1}の旋律管を作る
+manual	core	Forge {1} melody pipes	{1}の旋律管を鍛造する
+manual	core	Make {1} sound-chest	{1}の共鳴箱を作る
+manual	core	Forge {1} sound-chest	{1}の共鳴箱を鍛造する
+manual	core	Make {1} sound-chests	{1}の共鳴箱を作る
+manual	core	Forge {1} sound-chests	{1}の共鳴箱を鍛造する
+manual	core	Make {1} yoke	{1}の横木を作る
+manual	core	Forge {1} yoke	{1}の横木を鍛造する
+manual	core	Make {1} yokes	{1}の横木を作る
+manual	core	Forge {1} yokes	{1}の横木を鍛造する
+manual	core	Make {1} neck bowl	{1}の棹の椀を作る
+manual	core	Forge {1} neck bowl	{1}の棹の椀を鍛造する
+manual	core	Make {1} neck bowls	{1}の棹の椀を作る
+manual	core	Forge {1} neck bowls	{1}の棹の椀を鍛造する

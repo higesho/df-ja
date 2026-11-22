@@ -63,13 +63,16 @@ fn mix(state: u64, h: u64) -> u64 {
 }
 
 /// a の次に b が来たとき、折り返しの途中か。
+///
 /// 折り返された行は、最後の行以外が空白で終わる（"You can play a sequence of fortresses and "）。
-/// ユニットの画面の性格の説明のように、行末の空白を削って渡す画面もある（"She often feels filled with joy, though she"）。
-/// 行末が文の終わり（. ! ? :）でないか、次の行が小文字で始まれば、折り返しの途中とみなす
+/// ユニットの画面の性格の説明のように、行末の空白を削って渡す画面もある
+/// （"She often feels filled with joy, though she" / "remains put off by …"）。
+/// その場合は、文の途中で切れた続きなので次の行が小文字で始まる。
+///
+/// 「行末が文の終わりでなければ続き」とまでしてしまうと、一覧の行が2つ続いただけのもの
+/// （"Box" の次に "Bucket"）まで1つの文章とみなして、つないで訳してしまう。
 fn wrapped(a: &str, b: &str) -> bool {
-  a.ends_with(' ')
-    || !a.trim_end().ends_with(['.', '!', '?', ':'])
-    || b.trim_start().starts_with(|c: char| c.is_ascii_lowercase())
+  a.ends_with(' ') || b.trim_start().starts_with(|c: char| c.is_ascii_lowercase())
 }
 
 fn ends_sentence(s: &str) -> bool {

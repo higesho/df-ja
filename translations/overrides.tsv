@@ -1303,3 +1303,6 @@ SAVAGERY REJECTION	獰猛さの条件で却下
 # （スキル名は 宝石カット／宝石はめ込み、文テンプレートは 宝石研磨師／宝石はめ込み師）
 Gem Cutter	宝石研磨師
 Gem Setter	宝石はめ込み師
+# issue #4: 在庫置き場の分類。飲み物であって「水を飲む」作業ではない
+Drink (animal)	酒（動物）
+Drink (plant)	酒（植物）

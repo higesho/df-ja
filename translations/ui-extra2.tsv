@@ -623,3 +623,63 @@ Where do you put 	どこに置きますか？ 対象:
 Click a target or move the cursor and press 	対象をクリックするか、カーソルを動かして押してください： 
 Move the cursor to view and press 	カーソルを動かして押すと見られます： 
 You can prepare in advance with 	あらかじめ構えておけます： 
+# issue #4: 工房の作業名
+Milk animal	動物の乳を搾る
+Shear animal	動物の毛を刈る
+Make instrument (opens menu)	楽器を作る（メニュー）
+Decorate with ivory/tooth	象牙／歯で装飾する
+# 楽器の部品（ゲームが作る楽器の名前に続く）
+bellows	ふいご
+blowpipe	吹管
+wind chest	風箱
+melody pipe	旋律管
+sound-chest	共鳴箱
+neck bowl	ネックボウル
+yoke	横木
+# issue #4: 料理の出来と、材料の下ごしらえ
+well-prepared	上手に調理された
+finely-prepared	見事に調理された
+superiorly prepared	極上に調理された
+exceptional prepared	特別に調理された
+masterfully prepared	名人の技で調理された
+minced	刻んだ
+well-minced	丁寧に刻んだ
+finely minced	細かく刻んだ
+superiorly minced	極上に刻んだ
+exceptionally minced	見事に刻んだ
+masterfully minced	名人の技で刻んだ
+cooked	火を通した
+well-cooked	丁寧に火を通した
+finely cooked	手際よく火を通した
+superiorly cooked	極上に火を通した
+exceptionally cooked	見事に火を通した
+masterfully cooked	名人の技で火を通した
+paper-making plant	製紙用の植物
+keyboard	鍵盤
+keyboards	鍵盤
+strings	弦
+bells	鈴
+console	操作部
+consoles	操作部
+pump	ポンプ
+pumps	ポンプ
+pipe	管
+pipes	管
+blowpipes	吹管
+wind chests	風箱
+melody pipes	旋律管
+sound-chests	共鳴箱
+yokes	横木
+neck bowls	棹の椀
+# 在庫画面の分類名（実機で未訳だったもの）
+Branches	枝
+Catapult parts	カタパルトの部品
+Leaves and fruit	葉と果実
+Limb/body casts	手足・体のギプス
+Musical instruments	楽器
+Raw fish	未処理の魚
+Siege ammo	攻城弾薬
+Small live animals	小型の生きた動物
+Small rock	小石
+Small tame animals	小型の飼い慣らされた動物
+Tanned hides	なめし革

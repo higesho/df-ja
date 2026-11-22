@@ -416,6 +416,16 @@ impl Sentences {
     if t.is_empty() {
       return v.to_owned();
     }
+    // 数詞で始まる値は、個数が差し込みに飲み込まれている。
+    // 工房の作業名 "Forge three fine pewter flasks" が "Forge {1} flasks" に当たると
+    // {1} が "three fine pewter" になり、「三の上質ピューター」と数を物の形容のように訳してしまう。
+    // ここで訳さずに返すと、個数を文の側で扱うテンプレート（"Forge three {1}"）が選ばれる
+    if let Some((head, rest)) = t.split_once(' ') {
+      const COUNTS: &[&str] = &["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"];
+      if !rest.trim().is_empty() && COUNTS.contains(&head.to_ascii_lowercase().as_str()) {
+        return v.to_owned();
+      }
+    }
     // リンク [LPAGE:..]語句[/LPAGE] は中身だけ訳して包み直す
     if let Some(rest) = t.strip_prefix("[LPAGE:") {
       if let (Some(close), true) = (rest.find(']'), t.ends_with("[/LPAGE]")) {
@@ -702,6 +712,11 @@ impl Sentences {
     });
     // グループごとに、この文に合いうる書き出し・後ろの句の番号（0 = 無し）
     let mut fits: HashMap<usize, (Vec<usize>, Vec<usize>)> = HashMap::new();
+    // 英語が残る訳しかできなかった候補（最初のものだけ覚えておき、ほかに当たらなければ使う）。
+    // 固定部分の長いテンプレートが先に当たっても、差し込みが訳せないことがある
+    // （"Make pair of ballista arrow" が "Make {1} ballista arrow" に当たり、{1} が "pair of" になる）。
+    // そこで止めずに、次の候補（"Make pair of {1}"）まで試す
+    let mut partial: Option<String> = None;
     for ci in cands {
       let core = &self.cores[ci];
       if has_adjacent_slots(&core.part.src) || !core.part.segs_in_order(body, 0, 0, body.len()) {
@@ -779,11 +794,15 @@ impl Sentences {
           }
           // 訳が {REST} の前に文末の記号を持つ（"流れは変わったか？{REST}"）と記号が重なるので、付ける前に外す
           let main = if end.is_empty() { main.as_str() } else { strip_end_ja(&main) };
-          return Some(format!("{pre_ja}{main}{end}"));
+          let out = format!("{pre_ja}{main}{end}");
+          if crate::translator::fully_translated(&out) {
+            return Some(out);
+          }
+          partial.get_or_insert(out);
         }
       }
     }
-    None
+    partial
   }
 
   /// 文章（複数の文、[B] などのトークンを含んでよい）を訳す。1文でも訳せたら Some
