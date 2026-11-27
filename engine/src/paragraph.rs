@@ -129,9 +129,13 @@ fn word_at(box_: usize, i: usize) -> usize {
   read(begin + i * 8)
 }
 
+/// ゲームに渡した文字列から作られるはずの単語。None は「中身は分からないが1語になる」
+/// （[KEY:29] のようなキー名の指定。ゲームが w や a などの実際のキー名に置き換える）
+pub type ExpectedWord = Option<String>;
+
 /// ゲームに渡した単語の並びが、箱の何番目から始まるかを後ろから突き合わせて求める。
 /// 全部そろえば Some(位置)、合わなければ None
-fn locate(box_: usize, words: &[String], len: usize) -> Option<usize> {
+fn locate(box_: usize, words: &[ExpectedWord], len: usize) -> Option<usize> {
   let mut i = len;
   let mut t = words.len();
   while i > 0 && t > 0 {
@@ -142,8 +146,9 @@ fn locate(box_: usize, words: &[String], len: usize) -> Option<usize> {
       i -= 1;
       continue;
     }
-    if bytes != words[t - 1].as_bytes() {
-      return None;
+    match &words[t - 1] {
+      Some(text) if bytes != text.as_bytes() => return None,
+      _ => {}
     }
     i -= 1;
     t -= 1;
@@ -205,15 +210,23 @@ fn split_for_game(text: &str) -> Vec<String> {
 impl Paragraphs {
   /// markup_process_string の前に呼ぶ。訳があれば、ゲームに渡す文字列（UTF-8）と、
   /// そこから作られるはずの単語の一覧を返す
-  pub fn prepare(&mut self, box_: usize, src: &[u8]) -> Option<(Vec<u8>, Vec<String>)> {
+  pub fn prepare(&mut self, box_: usize, src: &[u8]) -> Option<(Vec<u8>, Vec<ExpectedWord>)> {
     let english = normalize(&encodings::bytes_to_string(src));
     log::debug!("paragraph piece box={box_:x}: {english:?}");
     let found = self.translate_only(&english);
     match found {
       Some(translation) => {
         let pieces = split_for_game(&translation);
-        // [C:..] のような指定はゲームが読み取るだけで単語にはならない
-        let words: Vec<String> = pieces.iter().filter(|p| !p.starts_with('[')).cloned().collect();
+        let words: Vec<ExpectedWord> = pieces
+          .iter()
+          .filter_map(|p| match p.as_str() {
+            // [KEY:29] はゲームが実際のキー名（w など）に置き換えて1語にする
+            p if p.starts_with("[KEY:") => Some(None),
+            // [C:..] や [B] のような指定は、読み取られるだけで中身のある単語にはならない
+            p if p.starts_with('[') => None,
+            _ => Some(Some(p.to_owned())),
+          })
+          .collect();
         Some((pieces.join(" ").into_bytes(), words))
       }
       None => {
@@ -256,7 +269,7 @@ impl Paragraphs {
 
   /// markup_process_string の後に呼ぶ。今回追加された単語を記録する。
   /// 渡した単語の一覧を実際の中身と後ろから突き合わせ、どこからが今回ぶんかを決める
-  pub fn record(&mut self, box_: usize, words: &[String]) {
+  pub fn record(&mut self, box_: usize, words: &[ExpectedWord]) {
     let len = word_count(box_);
     let (start, only_ja) = match locate(box_, words, len) {
       Some(start) => (start, false),
