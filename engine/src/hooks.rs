@@ -64,7 +64,12 @@ pub unsafe fn disable_all() -> Result<()> {
 fn draw_paragraph_word(gps: usize, string_address: usize, top: bool) -> Option<usize> {
   let text = match paragraph::PARAGRAPHS.read().display(string_address) {
     Some(text) => text,
-    None => wrap::WRAPPED.read().display(string_address)?,
+    None => match wrap::WRAPPED.read().display(string_address) {
+      Some(text) => text,
+      // 記録から外れた文章の単語。素のバイトのまま元の関数に渡すと文字化けするので、
+      // 中身が UTF-8 の日本語ならそのまま描く
+      None => paragraph::utf8_text(string_address)?,
+    },
   };
   if text.is_empty() {
     return Some(0);
@@ -79,14 +84,13 @@ fn draw_paragraph_word(gps: usize, string_address: usize, top: bool) -> Option<u
 
 #[hook]
 fn markup_process_string(box_: usize, src: usize) {
-  let old_len = paragraph::word_count(box_);
-  let replaced = paragraph::PARAGRAPHS.write().prepare(box_, old_len, raw::cxxstring_as_bytes(src));
+  let replaced = paragraph::PARAGRAPHS.write().prepare(box_, raw::cxxstring_as_bytes(src));
   match replaced {
-    Some(bytes) => {
+    Some((bytes, words)) => {
       let new_src = raw::new_cxxstring_from_bytes(&bytes);
       unsafe { original!(box_, new_src) };
       delete_cxxstring(new_src);
-      paragraph::PARAGRAPHS.write().record(box_, old_len);
+      paragraph::PARAGRAPHS.write().record(box_, &words);
     }
     None => unsafe { original!(box_, src) },
   }

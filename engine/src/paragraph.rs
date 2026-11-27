@@ -4,7 +4,8 @@
 //! 幅に合わせて各単語の位置を決め（markup_format）、単語ごとに addst / top_addst で描く。
 //!
 //! 1. markup_process_string: 元の英文に訳があれば、訳文を「1文字 = 1単語」に区切った文字列を渡す。
-//!    作られた単語オブジェクトを記録する。
+//!    作られた単語オブジェクトを記録する。どこから新しい単語かは、渡した文字列と実際の中身を
+//!    後ろから突き合わせて決める（ゲームが先に古い単語を捨てることがあり、呼ぶ前の個数は当てにならない）。
 //! 2. markup_format: 元の処理の後、記録した文章を画素幅で並べ直す。同じ行に続く日本語の単語は
 //!    行の先頭の単語にまとめ、残りは何も描かない。
 //! 3. addst / top_addst: 渡された文字列が記録した単語なら、決めた表示文字列を描く。
@@ -33,6 +34,9 @@ struct Word {
   bytes: Vec<u8>,
   own: String,
   display: Option<String>,
+  /// 記録したときの通し番号。解放された単語の番地が別の単語に使い回されても、
+  /// 古い記録を消すときに今の単語を巻き添えにしないための目印
+  gen: u64,
 }
 
 /// 可変部分（{1} {2} ...）を含む文章の訳
@@ -47,7 +51,8 @@ pub struct Paragraphs {
   dict: HashMap<String, String>,
   templates: Vec<Template>,
   words: HashMap<usize, Word>,
-  boxes: HashMap<usize, Vec<usize>>,
+  boxes: HashMap<usize, Vec<(usize, u64)>>,
+  gen: u64,
   reported: HashSet<String>,
 }
 
@@ -124,12 +129,47 @@ fn word_at(box_: usize, i: usize) -> usize {
   read(begin + i * 8)
 }
 
+/// ゲームに渡した単語の並びが、箱の何番目から始まるかを後ろから突き合わせて求める。
+/// 全部そろえば Some(位置)、合わなければ None
+fn locate(box_: usize, words: &[String], len: usize) -> Option<usize> {
+  let mut i = len;
+  let mut t = words.len();
+  while i > 0 && t > 0 {
+    let word = word_at(box_, i - 1);
+    let bytes = raw::cxxstring_as_bytes(word);
+    // 改行や段落の区切りだけの単語は中身が空
+    if bytes.is_empty() {
+      i -= 1;
+      continue;
+    }
+    if bytes != words[t - 1].as_bytes() {
+      return None;
+    }
+    i -= 1;
+    t -= 1;
+  }
+  if t == 0 {
+    Some(i)
+  } else {
+    None
+  }
+}
+
 pub fn is_closing_punct(ch: char) -> bool {
   "、。，．・：；？！」』）】〕〉》ー…‥ゃゅょっャュョッぁぃぅぇぉァィゥェォ".contains(ch)
 }
 
+/// 単語の中身が UTF-8 の日本語（こちらが入れた訳）なら、その文字列を返す
+pub fn utf8_text(word: usize) -> Option<String> {
+  let bytes = raw::cxxstring_as_bytes(word);
+  if bytes.is_ascii() {
+    return None;
+  }
+  std::str::from_utf8(bytes).ok().map(|s| s.to_owned())
+}
+
 /// 訳文をゲームに渡す形にする: [..] のトークンと英数字の並びはそのまま、日本語は1文字ずつ空白で区切る
-fn split_for_game(text: &str) -> String {
+fn split_for_game(text: &str) -> Vec<String> {
   let mut out: Vec<String> = Vec::new();
   let mut ascii = String::new();
   let mut chars = text.chars().peekable();
@@ -159,20 +199,23 @@ fn split_for_game(text: &str) -> String {
     }
   }
   flush(&mut ascii, &mut out);
-  out.join(" ")
+  out
 }
 
 impl Paragraphs {
-  /// markup_process_string の前に呼ぶ。訳があれば、ゲームに渡す文字列（UTF-8）を返す
-  pub fn prepare(&mut self, box_: usize, old_len: usize, src: &[u8]) -> Option<Vec<u8>> {
-    if old_len == 0 {
-      self.forget(box_);
-    }
+  /// markup_process_string の前に呼ぶ。訳があれば、ゲームに渡す文字列（UTF-8）と、
+  /// そこから作られるはずの単語の一覧を返す
+  pub fn prepare(&mut self, box_: usize, src: &[u8]) -> Option<(Vec<u8>, Vec<String>)> {
     let english = normalize(&encodings::bytes_to_string(src));
-    log::debug!("paragraph piece box={box_:x} old_len={old_len}: {english:?}");
+    log::debug!("paragraph piece box={box_:x}: {english:?}");
     let found = self.translate_only(&english);
     match found {
-      Some(translation) => Some(split_for_game(&translation).into_bytes()),
+      Some(translation) => {
+        let pieces = split_for_game(&translation);
+        // [C:..] のような指定はゲームが読み取るだけで単語にはならない
+        let words: Vec<String> = pieces.iter().filter(|p| !p.starts_with('[')).cloned().collect();
+        Some((pieces.join(" ").into_bytes(), words))
+      }
       None => {
         if english.len() >= 40 && english.contains(' ') && self.reported.insert(english.clone()) {
           log::debug!("missing paragraph translation:\n{english:?}\n");
@@ -211,26 +254,44 @@ impl Paragraphs {
     None
   }
 
-  /// markup_process_string の後に呼ぶ。今回追加された単語を記録する
-  pub fn record(&mut self, box_: usize, old_len: usize) {
+  /// markup_process_string の後に呼ぶ。今回追加された単語を記録する。
+  /// 渡した単語の一覧を実際の中身と後ろから突き合わせ、どこからが今回ぶんかを決める
+  pub fn record(&mut self, box_: usize, words: &[String]) {
     let len = word_count(box_);
+    let (start, only_ja) = match locate(box_, words, len) {
+      Some(start) => (start, false),
+      None => {
+        // 突き合わせられないときは全体を見て、こちらが入れた日本語だけ拾う
+        log::debug!("文章の単語の位置が合いません box={box_:x} len={len} 渡した数={}", words.len());
+        (0, true)
+      }
+    };
+    // 先頭から入れ直すなら、前の中身の記録は捨てる
+    if start == 0 {
+      self.forget(box_);
+    }
+    self.gen += 1;
+    let gen = self.gen;
     let list = self.boxes.entry(box_).or_default();
-    for i in old_len..len {
+    for i in start..len {
       let word = word_at(box_, i);
       let bytes = raw::cxxstring_as_bytes(word).to_vec();
-      if bytes.is_empty() {
+      if bytes.is_empty() || (only_ja && bytes.is_ascii()) {
         continue;
       }
       let own = String::from_utf8_lossy(&bytes).into_owned();
-      self.words.insert(word, Word { bytes, own, display: None });
-      list.push(word);
+      self.words.insert(word, Word { bytes, own, display: None, gen });
+      list.push((word, gen));
     }
   }
 
   fn forget(&mut self, box_: usize) {
     if let Some(list) = self.boxes.remove(&box_) {
-      for word in list {
-        self.words.remove(&word);
+      for (word, gen) in list {
+        // 番地が使い回されて今は別の単語になっているものは消さない
+        if self.words.get(&word).map(|w| w.gen == gen).unwrap_or(false) {
+          self.words.remove(&word);
+        }
       }
     }
   }
@@ -244,6 +305,21 @@ impl Paragraphs {
     let width: i32 = read(box_ + BOX_WIDTH);
     if width <= 0 {
       return;
+    }
+    // 記録から外れた日本語の単語があれば拾い直す（外れたままだと素のバイトで描かれて文字化けする）
+    self.gen += 1;
+    let gen = self.gen;
+    for i in 0..len {
+      let word = word_at(box_, i);
+      let known = self.words.get(&word).map(|w| w.bytes == raw::cxxstring_as_bytes(word)).unwrap_or(false);
+      if known {
+        continue;
+      }
+      if let Some(own) = utf8_text(word) {
+        let bytes = raw::cxxstring_as_bytes(word).to_vec();
+        self.words.insert(word, Word { bytes, own, display: None, gen });
+        self.boxes.entry(box_).or_default().push((word, gen));
+      }
     }
     let width_px = width as u32 * TILE_PX;
 
