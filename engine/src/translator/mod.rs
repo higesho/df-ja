@@ -37,6 +37,8 @@ pub struct Translator {
   cache: HashMap<u64, TranslatedText>,
   // 文章を単語ごとに描いていると判定した呼び出し元
   paragraph_callers: std::collections::HashSet<String>,
+  // 呼び出し元ごとに、文章の中でしか現れない語を何種類描いたか
+  paragraph_hits: HashMap<String, std::collections::HashSet<&'static str>>,
   // 訳さない呼び出し元で描かれた単語（ログに1回だけ出すため）
   skipped: std::collections::HashSet<u64>,
   // 「, 」で区切って訳している最中の深さ（区切った部品は行の組み立てに使わない）
@@ -115,9 +117,15 @@ impl Translator {
         }
         return (string, 0);
       }
-      if PARAGRAPH_WORDS.contains(&string) {
-        log::info!("文章を単語ごとに描く呼び出し元を検出（以後は訳さない）: {func} {caller}");
-        self.paragraph_callers.insert(caller.to_owned());
+      if let Some(word) = PARAGRAPH_WORDS.iter().find(|w| **w == string) {
+        // 1語だけで決めつけない。説明文中のキー名（"a" など）が紛れ込むため、
+        // 同じ呼び出し元が3種類以上描いてから「文章を単語ごとに描いている」とみなす
+        let hits = self.paragraph_hits.entry(caller.to_owned()).or_default();
+        hits.insert(word);
+        if hits.len() >= 3 {
+          log::info!("文章を単語ごとに描く呼び出し元を検出（以後は訳さない）: {func} {caller}");
+          self.paragraph_callers.insert(caller.to_owned());
+        }
         return (string, 0);
       }
     }

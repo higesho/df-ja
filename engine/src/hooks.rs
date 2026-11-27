@@ -60,6 +60,11 @@ pub unsafe fn disable_all() -> Result<()> {
   Ok(())
 }
 
+/// 訳が無い文章の単語か。こういう語は1語だけ訳すと英語と日本語が混ざるので、英文のまま描く
+fn is_english_paragraph_word(string_address: usize) -> bool {
+  paragraph::PARAGRAPHS.read().is_english_word(string_address)
+}
+
 /// 文章の単語なら、決めておいた表示文字列を描いて幅を返す
 fn draw_paragraph_word(gps: usize, string_address: usize, top: bool) -> Option<usize> {
   let text = match paragraph::PARAGRAPHS.read().display(string_address) {
@@ -84,15 +89,18 @@ fn draw_paragraph_word(gps: usize, string_address: usize, top: bool) -> Option<u
 
 #[hook]
 fn markup_process_string(box_: usize, src: usize) {
-  let replaced = paragraph::PARAGRAPHS.write().prepare(box_, raw::cxxstring_as_bytes(src));
-  match replaced {
-    Some((bytes, words)) => {
+  let prepared = paragraph::PARAGRAPHS.write().prepare(box_, raw::cxxstring_as_bytes(src));
+  match prepared.replacement {
+    Some(bytes) => {
       let new_src = raw::new_cxxstring_from_bytes(&bytes);
       unsafe { original!(box_, new_src) };
       delete_cxxstring(new_src);
-      paragraph::PARAGRAPHS.write().record(box_, &words);
+      paragraph::PARAGRAPHS.write().record(box_, &prepared.words);
     }
-    None => unsafe { original!(box_, src) },
+    None => {
+      unsafe { original!(box_, src) };
+      paragraph::PARAGRAPHS.write().record_english(box_, &prepared.words);
+    }
   }
 }
 
@@ -349,11 +357,12 @@ fn addst(gps: usize, string_address: usize, just: u8, space: i32) {
   }
   let bt = utils::backtrace();
   let string = encodings::read_raw_string(string_address);
+  let plain = is_english_paragraph_word(string_address);
   shadow_record(gps, &string, just, space);
 
   let (text, tiles) = {
     let mut translator = translator::TRANSLATOR.write();
-    let (content, shift) = translator.translate("addst", &string, &bt);
+    let (content, shift) = if plain { (string.as_str(), 0) } else { translator.translate("addst", &string, &bt) };
     let caller = bt.split('/').next().unwrap_or("");
     let clamped = clamp_to_english(caller, &string, content);
     let content: &str = clamped.as_deref().unwrap_or(content);
@@ -390,11 +399,12 @@ fn addst_flag(gps: usize, string_address: usize, just: u8, space: i32, sflag: u3
   }
   let bt = utils::backtrace();
   let string = encodings::read_raw_string(string_address);
+  let plain = is_english_paragraph_word(string_address);
   shadow_record(gps, &string, just, space);
 
   let text = {
     let mut translator = translator::TRANSLATOR.write();
-    let (content, shift) = translator.translate("addst_flag", &string, &bt);
+    let (content, shift) = if plain { (string.as_str(), 0) } else { translator.translate("addst_flag", &string, &bt) };
     let caller = bt.split('/').next().unwrap_or("");
     let clamped = clamp_to_english(caller, &string, content);
     let content: &str = clamped.as_deref().unwrap_or(content);
@@ -419,10 +429,11 @@ fn top_addst(gps: usize, string_address: usize, just: u8, space: i32) {
   }
   let bt = utils::backtrace();
   let string = encodings::read_raw_string(string_address);
+  let plain = is_english_paragraph_word(string_address);
 
   let text = {
     let mut translator = translator::TRANSLATOR.write();
-    let (content, shift) = translator.translate("top_addst", &string, &bt);
+    let (content, shift) = if plain { (string.as_str(), 0) } else { translator.translate("top_addst", &string, &bt) };
     let caller = bt.split('/').next().unwrap_or("");
     let clamped = clamp_to_english(caller, &string, content);
     let content: &str = clamped.as_deref().unwrap_or(content);

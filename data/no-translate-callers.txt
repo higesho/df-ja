@@ -19,6 +19,7 @@
 ^263b1f center  # タイトル「既存の世界で新しいゲームを始める」
 ^263b9f center  # タイトル「新しい世界を創造」
 ^263c26 center  # タイトル「物体テスト用アリーナ」
+^263ca2 center  # タイトル「MOD」
 ^263da2 center  # タイトル「DFについて」
 ^263e1f center  # タイトル「終了」
 ^2602df center  # タイトルの副題（"Histories of …"）

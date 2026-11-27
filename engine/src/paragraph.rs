@@ -53,6 +53,9 @@ pub struct Paragraphs {
   words: HashMap<usize, Word>,
   boxes: HashMap<usize, Vec<(usize, u64)>>,
   gen: u64,
+  // 訳が無くて英文のまま描く文章の単語（番地 → 中身）。1語だけ訳さないための目印
+  english: HashMap<usize, Vec<u8>>,
+  english_boxes: HashMap<usize, Vec<usize>>,
   reported: HashSet<String>,
 }
 
@@ -133,6 +136,48 @@ fn word_at(box_: usize, i: usize) -> usize {
 /// （[KEY:29] のようなキー名の指定。ゲームが w や a などの実際のキー名に置き換える）
 pub type ExpectedWord = Option<String>;
 
+/// 文字列から「ゲームが単語にするもの」の並びを作る。
+/// [C:..] や [B] は読み取られるだけで中身のある単語にはならない。
+/// [KEY:29] はゲームが実際のキー名（w など）に置き換えるので、中身は分からないが1語になる
+fn expected_words(text: &str) -> Vec<ExpectedWord> {
+  let mut out: Vec<ExpectedWord> = Vec::new();
+  let mut cur = String::new();
+  let mut chars = text.chars().peekable();
+  while let Some(ch) = chars.next() {
+    if ch == '[' {
+      if !cur.is_empty() {
+        out.push(Some(std::mem::take(&mut cur)));
+      }
+      let mut token = String::from("[");
+      for c in chars.by_ref() {
+        token.push(c);
+        if c == ']' {
+          break;
+        }
+      }
+      if token.starts_with("[KEY:") {
+        out.push(None);
+      }
+    } else if ch.is_whitespace() {
+      if !cur.is_empty() {
+        out.push(Some(std::mem::take(&mut cur)));
+      }
+    } else {
+      cur.push(ch);
+    }
+  }
+  if !cur.is_empty() {
+    out.push(Some(cur));
+  }
+  out
+}
+
+/// markup_process_string に渡すもの。replacement が None なら英文のまま
+pub struct Prepared {
+  pub replacement: Option<Vec<u8>>,
+  pub words: Vec<ExpectedWord>,
+}
+
 /// ゲームに渡した単語の並びが、箱の何番目から始まるかを後ろから突き合わせて求める。
 /// 全部そろえば Some(位置)、合わなければ None
 fn locate(box_: usize, words: &[ExpectedWord], len: usize) -> Option<usize> {
@@ -210,30 +255,21 @@ fn split_for_game(text: &str) -> Vec<String> {
 impl Paragraphs {
   /// markup_process_string の前に呼ぶ。訳があれば、ゲームに渡す文字列（UTF-8）と、
   /// そこから作られるはずの単語の一覧を返す
-  pub fn prepare(&mut self, box_: usize, src: &[u8]) -> Option<(Vec<u8>, Vec<ExpectedWord>)> {
+  pub fn prepare(&mut self, box_: usize, src: &[u8]) -> Prepared {
     let english = normalize(&encodings::bytes_to_string(src));
     log::debug!("paragraph piece box={box_:x}: {english:?}");
-    let found = self.translate_only(&english);
-    match found {
+    match self.translate_only(&english) {
       Some(translation) => {
-        let pieces = split_for_game(&translation);
-        let words: Vec<ExpectedWord> = pieces
-          .iter()
-          .filter_map(|p| match p.as_str() {
-            // [KEY:29] はゲームが実際のキー名（w など）に置き換えて1語にする
-            p if p.starts_with("[KEY:") => Some(None),
-            // [C:..] や [B] のような指定は、読み取られるだけで中身のある単語にはならない
-            p if p.starts_with('[') => None,
-            _ => Some(Some(p.to_owned())),
-          })
-          .collect();
-        Some((pieces.join(" ").into_bytes(), words))
+        let text = split_for_game(&translation).join(" ");
+        let words = expected_words(&text);
+        Prepared { replacement: Some(text.into_bytes()), words }
       }
       None => {
         if english.len() >= 40 && english.contains(' ') && self.reported.insert(english.clone()) {
           log::debug!("missing paragraph translation:\n{english:?}\n");
         }
-        None
+        // 訳が無くても、どれが文章の単語かは分かる。1語だけ訳して英語と日本語が混ざらないよう、目印として覚える
+        Prepared { replacement: None, words: expected_words(&english) }
       }
     }
   }
@@ -296,6 +332,37 @@ impl Paragraphs {
       self.words.insert(word, Word { bytes, own, display: None, gen });
       list.push((word, gen));
     }
+  }
+
+  /// markup_process_string の後に呼ぶ（訳が無かったとき）。英文のままの単語を目印として覚える
+  pub fn record_english(&mut self, box_: usize, words: &[ExpectedWord]) {
+    let len = word_count(box_);
+    let start = match locate(box_, words, len) {
+      Some(start) => start,
+      None => return,
+    };
+    if start == 0 {
+      if let Some(list) = self.english_boxes.remove(&box_) {
+        for word in list {
+          self.english.remove(&word);
+        }
+      }
+    }
+    let list = self.english_boxes.entry(box_).or_default();
+    for i in start..len {
+      let word = word_at(box_, i);
+      let bytes = raw::cxxstring_as_bytes(word).to_vec();
+      if bytes.is_empty() {
+        continue;
+      }
+      self.english.insert(word, bytes);
+      list.push(word);
+    }
+  }
+
+  /// 英文のままの文章の単語か。番地が使い回されている場合に備えて中身も見る
+  pub fn is_english_word(&self, word: usize) -> bool {
+    self.english.get(&word).map(|bytes| bytes.as_slice() == raw::cxxstring_as_bytes(word)).unwrap_or(false)
   }
 
   fn forget(&mut self, box_: usize) {
